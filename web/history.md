@@ -1,0 +1,1 @@
+https://neustadt.fr/essays/against-a-user-hostile-web/
