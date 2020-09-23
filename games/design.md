@@ -9,3 +9,6 @@ flappy birds
 [Thief vs. AAA Gaming](https://www.youtube.com/watch?v=jPqwDGXxLhU&feature=emb_logo) Warning - motion sickness
 
 [Game Design Curriculum](https://www.riotgames.com/en/urf-academy/curriculum-guide) Riot Games
+
+
+[X-Com: Enemy Unknown](https://www.filfre.net/2020/09/x-com/) The story
