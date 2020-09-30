@@ -44,3 +44,6 @@ Ethics
 (link to computingAcrossCurriculum)
 https://macwright.org/2020/06/21/ethics-in-geo.html
 
+
+
+[Social Cooling](https://www.socialcooling.com/)

@@ -43,3 +43,7 @@ Probably some good stuff in here
 Top Ranked Hackernews Articles
 https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis
 
+
+
+* [I was wrong. CRDTs are the future](https://josephg.com/blog/crdts-are-the-future/) 
+    * CRDTS Conflict-free replicated data type - to replace - OT Operational Transforms

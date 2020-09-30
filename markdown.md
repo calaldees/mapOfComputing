@@ -60,11 +60,16 @@ Below are some examples of possible tech
 * [DeckDown](http://deckdown.org/)
 * [RMarkdown](https://rmarkdown.rstudio.com/) - [Introduction Video](https://player.vimeo.com/video/178485416) 1min
 
+* [MarP: Markdown Presentation Ecosystem](https://marp.app/)
+    * [vscode marp](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
+
 * [stackedit.io](https://stackedit.io/) - Online editor to sync with GoogleDrive and GitHub
 
 * [qownnotes](https://www.qownnotes.org/) Plain-text file markdown note taking with Nextcloud integration
 * [ChartSS.css](https://rbitr.github.io/ChartS.css/) - accessible html/css charts with markdown support
 
+https://markdown-it.github.io/ renderer with plugins (used by vscode)
+https://commonmark.org/ (defined standard)
 
 ### Zettelkasten & Knowledge bases
 
@@ -78,14 +83,15 @@ Below are some examples of possible tech
 Diagrams from plain text notation
 ---------------------------------
 
+* [Mermaid](https://mermaid-js.github.io/mermaid/) - Generation of diagrams and flowcharts from text in a similar manner as markdown.
+    * [mermaid-live-editor](https://mermaid-js.github.io/mermaid-live-editor/)
+    * [vscode markdown support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
 * [extension integrates Draw.io into VS Code](https://github.com/hediet/vscode-drawio)
 * [Diagram as Code](https://diagrams.mingrammer.com/) Diagrams lets you draw the cloud system architecture in Python code.
 * [WebGraphViz](http://www.webgraphviz.com/)
     * [create diagrams with code using graphviz](https://ncona.com/2020/06/create-diagrams-with-code-using-graphviz/)
-* [Mermaid](https://mermaid-js.github.io/mermaid/) - Generation of diagrams and flowcharts from text in a similar manner as markdown.
-    * [mermaid-live-editor](https://mermaid-js.github.io/mermaid-live-editor/)
 * [Create beautiful diagrams just by typing mathematical notation in plain text](https://github.com/penrose/penrose)
-
+* [](https://rtsys.informatik.uni-kiel.de/elklive/)
 
 Unsorted
 --------
