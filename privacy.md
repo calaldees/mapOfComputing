@@ -25,11 +25,22 @@ https://www.seattletimes.com/business/technology/special-sunglasses-license-plat
 
 [Headphones are collecting too much personal data](https://www.soundguys.com/headphones-are-collecting-too-much-personal-data-21524/) - Headphones collect menstruation data?!
 
-Encyription?
+Facial Recognition
+------------------
+
+* [How Normal am I?](https://www.hownormalami.eu/) Local facial recognition algorithm and commentary video
+    * Lie about ago
+    * Facial fingerprint - find social media profiles with your face
+    * Assess emotion at interview
+
+
+Encryption
+----------
 https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html
 
 
--- cencorship
+Censorship
+----------
 https://www.bbc.co.uk/news/world-asia-china-51732042
 
 
@@ -47,3 +58,9 @@ https://macwright.org/2020/06/21/ethics-in-geo.html
 
 
 [Social Cooling](https://www.socialcooling.com/)
+
+
+Ownership of digital
+--------------------
+
+[You don't own your Kindle books, Amazon reminds customer](https://www.nbcnews.com/technolog/you-dont-own-your-kindle-books-amazon-reminds-customer-1C6626211)
