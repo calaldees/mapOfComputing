@@ -4,4 +4,6 @@
 
 [MarIO](https://www.youtube.com/watch?v=qv6UVOQ0F44) - AI plays Super Mario World
 
+[Open Source Tools & Data for Music Source Separation](https://source-separation.github.io/tutorial/landing.html)
+
 AI is made by men (??!?)

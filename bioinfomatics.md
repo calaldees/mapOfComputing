@@ -14,4 +14,9 @@ see [history](./historyOfComputing.md#)
 https://mpeg-g.org/
 
 
-http://igv.org/
+[Integrative Genomics Viewer](http://igv.org/) - IGV in a webbrowser
+
+
+* [Am I still lactose tolerant? - Lactose Gene Therapy Update](https://youtu.be/aoczYXJeMY4)
+    * [Code on GitHub](https://youtu.be/aoczYXJeMY4?t=584)
+        * [thethoughtemporium/Whose-gene-is-it-anyway](https://github.com/thethoughtemporium/Whose-gene-is-it-anyway)

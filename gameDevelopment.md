@@ -1,1 +1,0 @@
-https://www.polygon.com/2020/1/13/21064100/vvvvvv-source-code-game-development-terry-cavanagh-release

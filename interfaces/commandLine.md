@@ -46,7 +46,9 @@ Startup Environment
 tab completion
 
 bash
-https://explainshell.com/
+----
+* [explainshell](https://explainshell.com/)
+* [set -euo pipefail](https://wizardzines.com/comics/bash-errors/)
 
 pipe write
 cat

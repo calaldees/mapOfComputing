@@ -47,3 +47,17 @@ https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis
 
 * [I was wrong. CRDTs are the future](https://josephg.com/blog/crdts-are-the-future/) 
     * CRDTS Conflict-free replicated data type - to replace - OT Operational Transforms
+
+
+* [Complete BBC Micro Games Archive](http://bbcmicro.co.uk//about.php)
+* [DOS Games Archive](https://www.dosgamesarchive.com/)
+
+
+* [List of Software Post-Mortums](https://github.com/danluu/post-mortems) - Outages from big cloud providers
+
+
+* [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
+    * [flicker](https://www.flickr.com/photos/95869671@N08/36231833334/)
+
+* [Brilliant](https://brilliant.org/)
+    * [Computer Science Essentials](https://brilliant.org/courses/computer-science-essentials/)
