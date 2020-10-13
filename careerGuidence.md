@@ -30,3 +30,7 @@ Do not work more than 40 hours a week
 
 Most people are terrible at giving interviews
 
+* Side projects are important in landing your early jobs
+* [Advice to my young self: to succeed in your career, forget side projects and focus on your job](https://manuel.darcemont.fr/posts/focus-on-jour-job/)
+    * You spend 7 hours a work day using the tech - only a few hours on home tech
+    * To many side projects are off-putting to employers

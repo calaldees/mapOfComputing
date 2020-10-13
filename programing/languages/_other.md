@@ -1,8 +1,11 @@
+Other Languages
+===============
 
-Live coding in browser (smalltalk?)
+
+smalltalk
+---------
+Live coding in browser (?)
 https://caffeine.js.org/
-
-[Cheatsheets](https://devhints.io/)
 
 
 Formal Specification
@@ -18,4 +21,3 @@ Formal Specification
 [Beginners Guide to Abstraction](https://jesseduffield.com/beginners-guide-to-abstraction/)
 
 
-[Logo Turtle exercises on the web](https://shelly.dev/)

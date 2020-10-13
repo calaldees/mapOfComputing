@@ -1,10 +1,6 @@
 Algorithms
 ==========
 
-
-Algorithms
-==========
-
 bubble sort
 quick sort
 dean to binary
@@ -26,3 +22,4 @@ dean to hex
 
 
 
+[14,000x Speedup a.k.a. Computer Science For the Win](http://james.hiebert.name/blog/work/2015/09/14/CS-FTW.html)
