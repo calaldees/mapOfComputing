@@ -65,6 +65,13 @@ Below are some examples of possible tech
 
 * [stackedit.io](https://stackedit.io/) - Online editor to sync with GoogleDrive and GitHub
 
+* [typora](https://typora.io/) A truly minimal markdown editor
+    * [Draw Diagrams With Markdown](https://support.typora.io/Draw-Diagrams-With-Markdown/)
+* vscode/atom [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/)
+    * Mermaid + other charts
+    * TOC
+    * Presentations
+
 * [qownnotes](https://www.qownnotes.org/) Plain-text file markdown note taking with Nextcloud integration
 * [ChartSS.css](https://rbitr.github.io/ChartS.css/) - accessible html/css charts with markdown support
 
@@ -86,12 +93,20 @@ Diagrams from plain text notation
 * [Mermaid](https://mermaid-js.github.io/mermaid/) - Generation of diagrams and flowcharts from text in a similar manner as markdown.
     * [mermaid-live-editor](https://mermaid-js.github.io/mermaid-live-editor/)
     * [vscode markdown support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
+    * [GitHub Mermaid Support ticket](https://github.community/t/feature-request-support-mermaid-markdown-graph-diagrams-in-md-files/1922/42) 5 years old?
+        * GitLab supports this natively
+        * [GitHub Chrome Extension](https://github.com/BackMarket/github-mermaid-extension)
+    
+* [flowchart.js](http://flowchart.js.org/)
 * [extension integrates Draw.io into VS Code](https://github.com/hediet/vscode-drawio)
 * [Diagram as Code](https://diagrams.mingrammer.com/) Diagrams lets you draw the cloud system architecture in Python code.
 * [WebGraphViz](http://www.webgraphviz.com/)
     * [create diagrams with code using graphviz](https://ncona.com/2020/06/create-diagrams-with-code-using-graphviz/)
 * [Create beautiful diagrams just by typing mathematical notation in plain text](https://github.com/penrose/penrose)
-* [](https://rtsys.informatik.uni-kiel.de/elklive/)
+* [elk](https://rtsys.informatik.uni-kiel.de/elklive/)
+
+* Typora Editor (see above) [Draw Diagrams With Markdown](https://support.typora.io/Draw-Diagrams-With-Markdown/) - Mermaid and FlowchartJS
+
 
 Unsorted
 --------

@@ -8,17 +8,13 @@ https://frenxi.com/http-headers-you-dont-expect/
 
 Charles Proxy
 
+[The Long Road to HTTP/3 - Short history of HTTP protocol](https://scorpil.com/post/the-long-road-to-http3/)
+
+
+
 SOAP
 ----
 Defined protocol beforehand
-
-
-C Struct
---------
-
-
-ProtoBuf
---------
 
 
 (forgot the name of the tech) client generated orm
