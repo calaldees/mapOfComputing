@@ -6,6 +6,8 @@ RLE
 Huffman
 
 
+[MONOSPACE](http://www.p01.org/MONOSPACE/): Flip dots with feelings, a JavaScript demo in 1021 bytes, winner of the 1024 bytes demo competition at Assembly 2020
+has heatmap of png compression
 
 
 [vectorly](https://vectorly.io/) Vector video on the web (startup beta) - this is a HARD problem - I don't know how far they will get

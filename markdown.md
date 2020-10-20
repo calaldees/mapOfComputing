@@ -102,3 +102,6 @@ https://www.getoutline.com/
 [Ask HN: What do you use to keep track of bookmarks/notes/snippets?](https://news.ycombinator.com/item?id=22778123)
 
 [histre](https://histre.com/) Notes on web history
+
+[This page is a truly naked, brutalist html quine](https://secretgeek.github.io/html_wysiwyg/html.html)
+[markdown-css](https://mrcoles.com/demo/markdown-css/) - make HTML look like plain text markdown source

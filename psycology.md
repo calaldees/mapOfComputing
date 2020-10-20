@@ -32,3 +32,8 @@ Tech Use
             * > Health and well-being cannot be reduced to the single variable of screen time. 
 * [New tech 'addictions' are mostly just old moral panic](https://www.engadget.com/2018-02-09-new-tech-addictions-are-mostly-just-old-moral-panic.html)
 
+
+
+Behaviour imitated observed by children
+* [Bobo Doll Experiment](https://www.simplypsychology.org/bobo-doll.html)
+    * [The Brain: A Secret History - Emotions; Bandura Bobo Doll Experiment](https://www.youtube.com/watch?v=zerCK0lRjp8) - Watching others influences our behaviour
