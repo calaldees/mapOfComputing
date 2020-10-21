@@ -67,6 +67,9 @@ Below are some examples of possible tech
 
 * [typora](https://typora.io/) A truly minimal markdown editor
     * [Draw Diagrams With Markdown](https://support.typora.io/Draw-Diagrams-With-Markdown/)
+* [HackMD](https://hackmd.io/)
+    * [vscode extension](https://marketplace.visualstudio.com/items?itemName=HackMD.vscode-hackmd)
+    * online, github integration, slides, abc, mermaid
 * vscode/atom [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/)
     * Mermaid + other charts
     * TOC

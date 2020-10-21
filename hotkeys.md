@@ -1,5 +1,12 @@
 Hotkeys
 
+https://stackoverflow.com/a/58307271/3356840
+ALT + 0 0 9 == TAB (in windows)
+```bash
+# copy the char between the brackets
+echo -e [\\t]
+```
+
 undo
     ctrl + z
     ctrl + shift + z
