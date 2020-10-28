@@ -37,3 +37,9 @@ Tech Use
 Behaviour imitated observed by children
 * [Bobo Doll Experiment](https://www.simplypsychology.org/bobo-doll.html)
     * [The Brain: A Secret History - Emotions; Bandura Bobo Doll Experiment](https://www.youtube.com/watch?v=zerCK0lRjp8) - Watching others influences our behaviour
+
+
+* [Use “pseudo-sets” to control how many actions people take](https://ariyh.substack.com/p/influence-how-many-actions-people)
+    * If you make a set of 3 people will aim for commpleteness
+    
+

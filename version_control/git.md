@@ -29,3 +29,4 @@ Monorepo
 Microservice Monolyth
 
 * [Speeding up a Git monorepo at Dropbox with <200 lines of code](https://dropbox.tech/application/speeding-up-a-git-monorepo-at-dropbox-with--200-lines-of-code)
+* [How a one line change decreased our build times by 99%](https://medium.com/pinterest-engineering/how-a-one-line-change-decreased-our-build-times-by-99-b98453265370) - monorepo refspec config

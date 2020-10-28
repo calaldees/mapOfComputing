@@ -62,6 +62,9 @@ what is the difference between list & tuple -> mutability
 ```
     #aa=[1,2,3];bb=aa;aa=[4,5,6];print(aa,bb)
 
+    t = 10 + 1, 20 + 2 ; assert t == 11, 22
+    # https://twitter.com/raymondh/status/1318242020461367296
+
 [see interviewquetions.md]
 https://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/
 https://www.youtube.com/watch?v=QPZ0pIK_wsc
