@@ -20,3 +20,6 @@ https://mpeg-g.org/
 * [Am I still lactose tolerant? - Lactose Gene Therapy Update](https://youtu.be/aoczYXJeMY4)
     * [Code on GitHub](https://youtu.be/aoczYXJeMY4?t=584)
         * [thethoughtemporium/Whose-gene-is-it-anyway](https://github.com/thethoughtemporium/Whose-gene-is-it-anyway)
+
+
+* [Algorithm discovers how six simple molecules could evolve into life’s building blocks](https://www.chemistryworld.com/news/algorithm-discovers-how-six-simple-molecules-could-evolve-into-lifes-building-blocks/4012505.article)

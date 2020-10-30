@@ -4,6 +4,11 @@ Character Encoding
 ascii
 -----
 
+[StawWars ASCII](https://asciinema.org/a/8)
+https://github.com/bejd/clad-ascii
+http://www.asciimation.co.nz/
+
+
 unicode
 -------
 
