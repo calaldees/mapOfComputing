@@ -64,3 +64,12 @@ Ownership of digital
 --------------------
 
 [You don't own your Kindle books, Amazon reminds customer](https://www.nbcnews.com/technolog/you-dont-own-your-kindle-books-amazon-reminds-customer-1C6626211)
+
+
+Unsorted
+========
+
+
+* [A Real-Time Website Privacy Inspector](https://themarkup.org/blacklight/) - Get report of trackers/cookies on any website
+* [No More Google](https://nomoregoogle.com/) Privacy-friendly alternatives to Google that don't track you
+* [You might not need to store plaintext email addresses](https://blog.klungo.no/2020/11/01/you-might-not-need-to-store-plaintext-emails/) - when you run a webservice, do you NEED to store the email address?

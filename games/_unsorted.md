@@ -12,3 +12,7 @@ https://classicreload.com/dos-scorched-planet.html
 [Elite BBC Micro - Code breakdown/documentation](https://www.bbcelite.com/)
 
 https://www.polygon.com/2020/1/13/21064100/vvvvvv-source-code-game-development-terry-cavanagh-release
+
+[archive.org MSDOS Games](https://archive.org/details/softwarelibrary_msdos_games?tab=collection)
+
+[PyGame 2.0](https://github.com/pygame/pygame/releases/tag/2.0.0) Thank god ... finally ... 

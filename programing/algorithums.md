@@ -23,3 +23,6 @@ dean to hex
 
 
 [14,000x Speedup a.k.a. Computer Science For the Win](http://james.hiebert.name/blog/work/2015/09/14/CS-FTW.html)
+
+
+[Background Blur Features in Google Meet, Powered by Web ML](https://ai.googleblog.com/2020/10/background-features-in-google-meet.html)

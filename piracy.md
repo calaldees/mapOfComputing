@@ -1,3 +1,6 @@
+Piracy
+======
+
 Copyright law
 
 Differnt rights holders in differnt countries
@@ -19,5 +22,3 @@ unskippable dvd menus
 
 CD anti copy software - legit users peanlised - Trackmania Sunrise
 
-
-[A Real-Time Website Privacy Inspector](https://themarkup.org/blacklight/) - Get report of trackers/cookies on any website
