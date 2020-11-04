@@ -85,3 +85,6 @@ external hd
     * Optional
         * [USB Audio](https://www.amazon.co.uk/NOWBOTUCH-External-Converter-Microphone-Headphone/dp/B0894WJRW9/) £9
         * [Ethernet + 3port hub](https://www.amazon.co.uk/Nllano-USB-A3-0-Ethernet-Adapter-Aluminum/dp/B073PVB9MM/) £13 (usb3? would that work?)
+
+
+* [eBay removing listed for Raspberry Pi](https://twitter.com/lbhq/status/1323482627681198080) because they COULD be used as a computer

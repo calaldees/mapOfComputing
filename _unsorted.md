@@ -68,4 +68,4 @@ https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis
 [SculptGL](https://stephaneginier.com/sculptgl/) web browser simple clay thing
 
 
-[eBay removing listed for Raspberry Pi](https://twitter.com/lbhq/status/1323482627681198080) because they COULD be used as a computer
+

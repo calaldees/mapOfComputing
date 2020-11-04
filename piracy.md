@@ -22,3 +22,5 @@ unskippable dvd menus
 
 CD anti copy software - legit users peanlised - Trackmania Sunrise
 
+* [eBay removing listed for Raspberry Pi](https://twitter.com/lbhq/status/1323482627681198080) because they COULD be used as a computer
+    * Slippery sloap - Turing complete machine
