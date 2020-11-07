@@ -49,6 +49,8 @@ sudo pip3 -v install docker-compose
 
 # vscode
 . <( wget -O - https://code.headmelted.com/installers/apt.sh )
+# vscode alternative manual install
+# https://pimylifeup.com/raspberry-pi-visual-studio-code/
 
 # screen tearing fix - https://www.youtube.com/watch?v=6xiRUyOF7fM
 sudo mv /etc/xdg/autostart/xcompmgr.desktop /etc/xdg/autostart/xcompmgr.desktop.backup

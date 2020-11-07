@@ -10,6 +10,7 @@ GPL3
 
 Open Hardware
 
+[Copyright vs. Copyleft](https://www.gnu.org/gwm/libredocxml/x53.html)
 
 * [Pine64.org](https://www.pine64.org/) Open arm hardware (phone, tablet)
 

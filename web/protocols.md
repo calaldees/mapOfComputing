@@ -34,6 +34,9 @@ http://editor.swagger.io/
 
 GraphQL
 -------
+
+[Why not use GraphQL?](https://wundergraph.com/blog/why_not_use_graphql) - "I think GraphQL will change the world"
+
 https://github.com/thoughtbot/guides/tree/master/graphql
 https://medium.com/codingthesmartway-com-blog/rest-vs-graphql-418eac2e3083
 https://book.graphqlschemadesign.com/
