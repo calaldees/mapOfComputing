@@ -123,3 +123,8 @@ Advanced Modules
 
 
 * [brython](https://brython.info/) - Python3 in the browser instead of javascript
+
+Reference Implementation
+------------------------
+
+* [Python behind the scenes #4: how Python bytecode is executed](https://tenthousandmeters.com/blog/python-behind-the-scenes-4-how-python-bytecode-is-executed/)

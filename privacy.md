@@ -39,6 +39,10 @@ Encryption
 https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html
 
 
+* [Security through encryption and security despite encryption](https://www.statewatch.org/media/1434/eu-council-draft-declaration-against-encryption-12143-20.pdf)
+    * The EU want encryption (for their own industry, commerce, population) .. but at the same time don't want encryption because they want to fight crime and things they think are against their interests.
+    * They want their cake and eat it?
+
 Censorship
 ----------
 https://www.bbc.co.uk/news/world-asia-china-51732042
@@ -58,6 +62,15 @@ https://macwright.org/2020/06/21/ethics-in-geo.html
 
 
 [Social Cooling](https://www.socialcooling.com/)
+
+
+Telemetry
+---------
+
+Software collects metrics by default.
+some software is so poorly tested they they will not start without dns. (I had a container (I inspected docker-compose source) that would not init. Wish I could remember the case study in more detail)
+
+[Disable all Telemetry and Data Collection in Mozilla Firefox Quantum](https://chefkochblog.wordpress.com/2018/01/08/disable-all-telemetry-and-data-collection-in-mozilla-firefox-quantum/)
 
 
 Ownership of digital

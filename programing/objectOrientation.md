@@ -1,3 +1,9 @@
+Object Orientation
+==================
+
+Mermaid ER diagrams?
+
+
     * RTS - Create an OO structure for ...
         * C&C
             * [C&C in browser](https://www.adityaravishankar.com/projects/games/command-and-conquer/)
@@ -34,3 +40,6 @@
         * Turret
             * ? (This is why interfaces are king)
 
+
+* [Why `extends` is evil](https://www.javaworld.com/article/2073649/core-java/why-extends-is-evil.html)
+    * [javlib/Utils/Types/Integer](https://github.com/calaldees/javalib/tree/master/lib/Utils/Utils/Types/Integer)

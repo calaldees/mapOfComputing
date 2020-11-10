@@ -14,3 +14,9 @@ https://int10h.org/oldschool-pc-fonts/fontlist/
 [Helvetica: feature-length documentary](https://www.hustwit.com/helvetica)
 
 [Time to upgrade your monitor](https://tonsky.me/blog/monitors/) - Font Rasterisation on modern OS's
+
+[font based on my handwriting](https://sachachua.com/blog/2020/06/pythonfontforgeorg-i-made-a-font-based-on-my-handwriting/)
+
+* [Lexend](https://www.lexend.com/)
+    * [github](https://github.com/ThomasJockin/lexend)
+    * See [[Accesssibility]]

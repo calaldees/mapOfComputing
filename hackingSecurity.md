@@ -20,3 +20,5 @@ Audio SSH RSA key reteaval
 Global Radio Login Gigya - 'Hacked by' alert
 
 [How To Become A Hacker](https://zalberico.com/essay/2020/04/19/how-to-become-a-hacker.html)
+
+* [Dashboard: Zero-Days in Desktop Web Browsers](https://www.radsix.com/dashboard1/)
