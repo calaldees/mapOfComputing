@@ -110,23 +110,33 @@ Editors
         * [Diagram examples](https://hackmd.io/MathJax-and-UML?both)
         * MathJax
         * Mermaid
-        * PlantUML
         * Flowchart.js
         * ABC
         * Graphviz
+        * Missing
+            * PlantUML support?
     * [stackedit.io](https://stackedit.io/) - Online editor to sync with GoogleDrive and GitHub
         * Mermaid
         * ABC
-* IDE Plugins
-    * [vscode](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)/atom [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/)
-        * Mermaid
-        * PlantUML
-        * flowchart.js
-        * Presentation Writer
-        * Pandoc (output pdf, word)
-        * Code Chunk - render code output into documents
+* IDE Plugin/Extension
     * vscode
         * [HackMD Extension](https://marketplace.visualstudio.com/items?itemName=HackMD.vscode-hackmd)
+            * replaces the builtin preview
+            * (See HackMD browser above for list of supported extras)
+        * [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/)
+            * [extension](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+                * added new preview mode
+                * sometimes unstable on large documents?
+            * Mermaid
+            * flowchart.js
+            * Missing
+                * GraphViz
+                * abc
+            * PlantUML
+            * Presentation Writer
+            * Pandoc (output pdf, word)
+            * Code Chunk - render code output into documents
+        
 
 
 Diagram Extensions Examples

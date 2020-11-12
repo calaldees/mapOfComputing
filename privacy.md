@@ -70,7 +70,8 @@ Telemetry
 Software collects metrics by default.
 some software is so poorly tested they they will not start without dns. (I had a container (I inspected docker-compose source) that would not init. Wish I could remember the case study in more detail)
 
-[Disable all Telemetry and Data Collection in Mozilla Firefox Quantum](https://chefkochblog.wordpress.com/2018/01/08/disable-all-telemetry-and-data-collection-in-mozilla-firefox-quantum/)
+* [Disable all Telemetry and Data Collection in Mozilla Firefox Quantum](https://chefkochblog.wordpress.com/2018/01/08/disable-all-telemetry-and-data-collection-in-mozilla-firefox-quantum/)
+* [Intent to Remove: HTTP/2 and gQUIC server push](https://groups.google.com/a/chromium.org/g/blink-dev/c/K3rYLvmQUBY/m/vOWBKZGoAQAJ?pli=1) - A case study of why/how telemetry is useful and important.
 
 
 Ownership of digital
