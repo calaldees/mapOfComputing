@@ -3,6 +3,7 @@ Data Visualisation
 
 * [Data Visualisation](https://en.wikipedia.org/wiki/Data_visualization)
     * [Information Is Beautiful](https://informationisbeautiful.net/)
+        * [TED-Ed: The beauty of data visualization - David McCandless](https://www.youtube.com/watch?v=5Zg-C8AAIGg)
     * [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
     * [xkcd Visualisations](http://www.vislives.com/2011/10/xkcd-visualizations.html)
     * [visualcapitalist.com](https://www.visualcapitalist.com/)

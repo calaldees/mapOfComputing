@@ -18,7 +18,14 @@ https://threadreaderapp.com/thread/927593460642615296.html
 > You don't even realize why the process is frustrating because it's just The Way It Is.
 > Mice are great for unstructured data - wikipedia - twitter,google dopbox are linear
 
-[The Decline of Usability](https://datagubbe.se/decusab/)
+* [The Decline of Usability](https://datagubbe.se/decusab/)
+* [The Humane Interface](https://en.wikipedia.org/wiki/The_Humane_Interface) - 2000 Jef Raskin
+    * The book puts forward a large number of interface design suggestions, from fairly trivial ones to radical ones. The overriding theme is that current computer interfaces are often poor and set up users to fail, as a result of poor planning (or lack of planning) by programmers and a lack of understanding of how people actually use software. 
+        * Modelessness - dispose of the caps-lock key - (sustained physical action)
+        * Every action should be undoable, even after a document or application has been closed and reopened.
+        * warning screen ... are unhelpful because users tend to ignore them out of habit,
+        * graphic icons in software without any accompanying text are often cryptic to users
+        * there should be only one way to accomplish a certain atomic task 
 
 Bluring the lines
 Ad's and content indistinguishable?

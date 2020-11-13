@@ -1,6 +1,11 @@
 Privacy
 =======
 
+* [Your Computer Isn't Yours](https://sneak.berlin/20201112/your-computer-isnt-yours/)
+    * osx Big Su 2020 - Every app load MUST contact apple. This is unencrypted and apple can refuse to launch your app.
+
+Windows 10 "Welcome to your new machine" .. No, it's mine .. I get to welcome you to it .. I dislike the wording.
+
 [location-tracking-cell-phone](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html)
 https://www.nbcnews.com/news/us-news/google-tracked-his-bike-ride-past-burglarized-home-made-him-n1151761
 
