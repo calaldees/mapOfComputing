@@ -24,3 +24,7 @@ CD anti copy software - legit users peanlised - Trackmania Sunrise
 
 * [eBay removing listed for Raspberry Pi](https://twitter.com/lbhq/status/1323482627681198080) because they COULD be used as a computer
     * Slippery sloap - Turing complete machine
+
+* [RoboCop 3 - Dongle Anti-Piracy that Failed | MVG](https://www.youtube.com/watch?v=W1cryx7TzqM)
+    * Amiga dongle piracy experiment - cracked in 5 hours
+    * explanation of obfuscation/encryption
