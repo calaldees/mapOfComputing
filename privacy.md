@@ -2,7 +2,9 @@ Privacy
 =======
 
 * [Your Computer Isn't Yours](https://sneak.berlin/20201112/your-computer-isnt-yours/)
-    * osx Big Su 2020 - Every app load MUST contact apple. This is unencrypted and apple can refuse to launch your app.
+    * osx Big Su 2020 - Every app load MUST contact apple. This is unencrypted and apple can refuse to launch your app
+    * [Does Apple really log every app you run? A technical look](https://blog.jacopo.io/en/post/apple-ocsp/) - it just sends developer certificate
+    * _Developer certificate_ isn't quite as bad as _app hash_, but it still makes apple gatekeeper and can hold other companies to ransom
 
 Windows 10 "Welcome to your new machine" .. No, it's mine .. I get to welcome you to it .. I dislike the wording.
 

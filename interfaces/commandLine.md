@@ -67,5 +67,6 @@ wildcards
 [Editly](https://github.com/mifi/editly) Slick, declarative command line video editing
 [Satellite imagery from command line](https://github.com/plant99/felicette)
 
+[Create Vintage Videos Using FFmpeg in 4 Simple Steps](https://ottverse.com/create-vintage-videos-using-ffmpeg/)
 
 https://github.com/openautocomplete/openautocomplete
