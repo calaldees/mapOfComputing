@@ -7,5 +7,7 @@
 Managing projects
 https://www.openproject.org/
 
+* [How (and when) to acquire SaaS users](https://www.themvpsprint.com/p/how-and-when-to-acquire-saas-users) - Building a growth funnel for fun and profit
+    * Case study of getting users before building the product
 
 [StartPlaying](https://startplaying.games/) - Amazing business idea - connect profetional GM's with players for a price - take a slice

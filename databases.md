@@ -31,7 +31,7 @@ PostgreSQL
 
 * [PostgreSQL beginner guide](https://knowledgepill.it/posts/postgresql-basics-guide/) - connecting, remote access, psql CLI and troubleshooting connection
 * [Why you (probably) don't need PostGIS](https://blog.rebased.pl/2020/04/07/why-you-probably-dont-need-postgis)
-
+* [psql command line tutorial and cheat sheet](https://tomcam.github.io/postgres/)
 
 
 

@@ -18,3 +18,6 @@ Open Hardware
 
 
 [Etcd, or, why modern software makes me sad](https://www.roguelazer.com/2020/07/etcd-or-why-modern-software-makes-me-sad/) - Google ruin everything they touch
+
+* [Standing up for developers: youtube-dl is back](https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/)
+    * YouTube Downloader was removed from GitHub because of a DMCA takedown that it circumvented technical measures to infringe copyright. The software has many legitimate uses. The repo was restored

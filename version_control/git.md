@@ -27,6 +27,8 @@ https://conventionalcomments.org/
 
 [gitland](https://github.com/programical/gitland) A multiplayer game controlled using GitHub.
 
+[Git is simply too hard](https://changelog.com/posts/git-is-simply-too-hard) - whatever comes next should be closer to how humans think
+
 ---
 
 Monorepo

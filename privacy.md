@@ -71,6 +71,11 @@ https://macwright.org/2020/06/21/ethics-in-geo.html
 [Social Cooling](https://www.socialcooling.com/)
 
 
+* [‘You Have Zero Privacy’ Says an Internal Royal Canadian Mountain Police (RCMP) Presentation. Inside the Force’s Web Spying Program](https://thetyee.ca/News/2020/11/16/You-Have-Zero-Privacy-RCMP-Web-Spying/) - ‘Project Wide Awake’ files obtained by The Tyee show efforts to secretly buy and use powerful surveillance tools while downplaying capabilities.
+    * > It’s one thing to understand that an individual will see your passing communication, and quite another thing to assume that everything you’ve ever written will be subjected to an analysis by the state.
+    * > It changes the relationship between the citizen to the state, and their expectations of privacy in their communications,
+
+
 Telemetry
 ---------
 
