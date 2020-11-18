@@ -1,8 +1,17 @@
 VM
 --
 
-HyperV - Windows 10 Pro
+* HyperV - Windows 10 Pro
+    * connect to local service
+    * disable secure boot
+    * 'default switch' network
+    * generation2 (variable memory managment, variable disk size?)
+
 VirtualBox
+Download Ubuntu Desktop iso
+VirtualBox enable vt-x and nested pageing (may not be available if another virtulisation system is running)
+2 way clipboard
+
 
 Raspberry pi
 -------------

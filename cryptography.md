@@ -18,3 +18,5 @@ rest of this site is all about understanding crypto
     * A cryptographic master tool called indistinguishability obfuscation has for years seemed too good to be true. Three researchers have figured out that it can work
 
 fully homomorphic encryption, in which a cloud computer can compute on encrypted data without learning anything about it
+
+[The Math of Password Hashing Algorithms and Entropy](https://fusionauth.io/learn/expert-advice/security/math-of-password-hashing-algorithms-entropy/)
