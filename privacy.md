@@ -59,7 +59,10 @@ https://www.the-tls.co.uk/articles/the-opt-out-illusion/
 
 https://citizenlab.ca/2020/05/we-chat-they-watch/
 
-
+* [Blocked.org.uk](https://www.blocked.org.uk/) - Find out which providers block your site
+    * [ORG’s Blocked project finds almost 1 in 5 sites are blocked by filters](https://www.openrightsgroup.org/press-releases/orgs-blocked-project-finds-almost-1-in-5-sites-are-blocked-by-filters/)
+    * Local singing teacher blocked because of - drug references - WTF?! So I alerted her with blocked.org.uk
+* [‘Extremely aggressive’ internet censorship spreads in the world’s democracies](https://news.umich.edu/extremely-aggressive-internet-censorship-spreads-in-the-worlds-democracies/)
 
 Ethics
 ------

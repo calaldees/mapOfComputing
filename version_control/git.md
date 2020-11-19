@@ -29,6 +29,20 @@ https://conventionalcomments.org/
 
 [Git is simply too hard](https://changelog.com/posts/git-is-simply-too-hard) - whatever comes next should be closer to how humans think
 
+* [GitHub](https://github.com/)
+    * Good
+    * Bad
+* [GitLab](https://gitlab.com/)
+    * Good
+    * Bad
+* [SourceHut](https://sourcehut.org/)
+    * Good
+        * Git and Mercurial hosting, mailing lists, bug tracking, continuous integration, wiki
+        * Super lightweight, no js, advertising, tracking
+    * $2 a month https://sourcehut.org/pricing/
+
+
+
 ---
 
 Monorepo
