@@ -1,6 +1,8 @@
 Typography
 ==========
 
+Fonts
+
 https://readonlymemory.vg/shop/book/arcade-game-typography/
 
 https://int10h.org/blog/2016/03/olympiad-ibm-prototype-fonts-unearthed/
@@ -14,6 +16,7 @@ https://int10h.org/oldschool-pc-fonts/fontlist/
 [Helvetica: feature-length documentary](https://www.hustwit.com/helvetica)
 
 [Time to upgrade your monitor](https://tonsky.me/blog/monitors/) - Font Rasterisation on modern OS's
+[Dev Fonts](https://devfonts.gafi.dev/) - free monospace font comparison
 
 [font based on my handwriting](https://sachachua.com/blog/2020/06/pythonfontforgeorg-i-made-a-font-based-on-my-handwriting/)
 
