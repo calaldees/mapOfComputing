@@ -17,3 +17,12 @@ Data Visualisation
 
 
 * [PictoTrade](https://github.com/prototo/StreetsOfDFID/tree/0105a8cde94bd4560b24e178d602675221c732fe)
+
+
+### Observable
+
+browser/js live data manipulation and visualization
+
+* [observablehq](https://observablehq.com/)
+    * [The Joy of Coding: Observable](https://www.software-artist.com/joy-of-coding-observable/)
+    * [Observabe examples](https://observablehq.com/collection/@observablehq/instagram-shares)

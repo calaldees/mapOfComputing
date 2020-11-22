@@ -12,3 +12,7 @@ https://sar3.ch/en/blog/kinder-programmieren-erfahrungen
 
 
 https://learnxinyminutes.com/
+
+* Many Links on these
+    * [coding-interview-university](https://github.com/jwasham/coding-interview-university)
+    * [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)

@@ -33,6 +33,7 @@ PostgreSQL
 * [Why you (probably) don't need PostGIS](https://blog.rebased.pl/2020/04/07/why-you-probably-dont-need-postgis)
 * [psql command line tutorial and cheat sheet](https://tomcam.github.io/postgres/)
 
+* [postgREST](https://github.com/PostgREST/postgrest)
 
 
 [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
