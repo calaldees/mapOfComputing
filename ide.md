@@ -1,6 +1,15 @@
 Integrated Development Environment (IDE)
 ========================================
 
+* Visual Studio Code
+* Atom
+* IntelliJ
+* Eclipse
+* Visual Studio 2019
+* Notpad++
+* emacs
+* vim
+
 
 vscode
 https://code.visualstudio.com/docs/getstarted/tips-and-tricks
@@ -47,3 +56,9 @@ Unicode
 
 
 [The best parts of Visual Studio Code are proprietary](https://underjord.io/the-best-parts-of-visual-studio-code-are-proprietary.html) - LiveShare
+
+Browser Based
+-------------
+
+* [gitpod.io](https://gitpod.io)
+    * Browser editor linked to github/gitlab
