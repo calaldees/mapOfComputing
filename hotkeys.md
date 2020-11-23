@@ -29,6 +29,7 @@ tabs
 
 browser
     ctrl + t - new tab
+    ctrl + shift + t - re-open recently closed tab - https://til.hashrocket.com/posts/ybrwv1povf-reopen-closed-browser-tab-cross-browser
     ctrl + l - select urlbar
     ctrl + k - search
 

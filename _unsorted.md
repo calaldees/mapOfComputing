@@ -69,3 +69,8 @@ https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis
 
 
 
+Programming Tips
+* [Today I Learned](https://til.hashrocket.com/)
+    * Tiny snippets of interesting developer tips
+
+

@@ -11,3 +11,5 @@ https://www.openproject.org/
     * Case study of getting users before building the product
 
 [StartPlaying](https://startplaying.games/) - Amazing business idea - connect profetional GM's with players for a price - take a slice
+
+* [How to Value a Tech Company: How Much is YouTube Worth Today?](https://mannhowie.com/youtube-valuation) 2020

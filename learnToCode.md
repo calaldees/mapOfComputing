@@ -11,7 +11,10 @@ My approach
 https://sar3.ch/en/blog/kinder-programmieren-erfahrungen
 
 
-https://learnxinyminutes.com/
+* [Learn X in Y minutes](https://learnxinyminutes.com/)
+    * Languages
+    * Tools
+
 
 * Many Links on these
     * [coding-interview-university](https://github.com/jwasham/coding-interview-university)
