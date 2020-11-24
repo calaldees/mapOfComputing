@@ -1,0 +1,2 @@
+* [Visual sound analysis of a modem connecting](https://twitter.com/BrianRoemmele/status/1330376384871501824)
+    * > Consider the sound and analysis of a 33.6kbit/s dial-up modem over traditional telephone lines.
