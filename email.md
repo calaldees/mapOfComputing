@@ -8,6 +8,8 @@ smpt
 pop3
 imap
 
+* [Sub addressing or Plus addressing](https://en.wikipedia.org/wiki/Email_address#Subaddressing)
+    * `myemail+tag@server.com`
 
 encryption
 

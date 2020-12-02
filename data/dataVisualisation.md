@@ -23,6 +23,8 @@ Data Visualisation
 
 browser/js live data manipulation and visualization
 
+_Observable_ library [[Demoscene]]
+
 * [observablehq](https://observablehq.com/)
     * [The Joy of Coding: Observable](https://www.software-artist.com/joy-of-coding-observable/)
     * [Observabe examples](https://observablehq.com/collection/@observablehq/instagram-shares)

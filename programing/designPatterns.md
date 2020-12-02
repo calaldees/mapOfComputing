@@ -8,6 +8,9 @@ https://en.wikipedia.org/wiki/Software_design_pattern
     * Beautifully short illustrative article
     * Summary of 'Clean Code' and 'thin imperative shell around a functional core'
 
+* [John Carmack on Inlined Code](http://number-none.com/blow/john_carmack_on_inlined_code.html)
+    * Don't always need a function
+    * Consider functional where possible - minimise state modification
 
 Anti Patterns
 -------------

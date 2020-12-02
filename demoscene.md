@@ -1,5 +1,7 @@
 Copied from computingAcrossCurriculum.md
 
+Creativity Visulisation
+
 * [Demoscene](https://en.wikipedia.org/wiki/Demoscene)
     * [Breakthrough of Digital Culture: Finland accepts the Demoscene on its national UNESCO list of intangible cultural heritage of humanity](http://demoscene-the-art-of-coding.net/2020/04/15/breakthrough-finland-accepts-demoscene-on-their-national-list-of-intangible-cultural-heritage-of-humanity/)
     * [Demo or Die! You're a teen hacker, you want to impress, you demo code](https://www.wired.com/1995/07/democoders/) - description of the demoscene
@@ -10,10 +12,13 @@ Copied from computingAcrossCurriculum.md
     * ["Memories" - 256 byte MSDOS intro](https://youtu.be/Imquk_3oFf4)
         * Smaller then a single tweet (each character/letter is a byte)
         * [code + explanation](http://www.sizecoding.org/wiki/Memories)
-    
+    * [Javascript Magic Tunnel](https://js1k.com/2019-x/demo/4293)
 
 
 https://www.flipcode.com/archives/articles.shtml
 
 Other computer art
 https://random-roads--edwardcunningh2.repl.co/
+
+* [observablehq.com](https://observablehq.com/)
+    * [_Observable_ & creative coding](https://observablehq.com/@makio135/creative-coding)

@@ -23,3 +23,5 @@ https://mpeg-g.org/
 
 
 * [Algorithm discovers how six simple molecules could evolve into life’s building blocks](https://www.chemistryworld.com/news/algorithm-discovers-how-six-simple-molecules-could-evolve-into-lifes-building-blocks/4012505.article)
+
+* [What is the “protein folding problem”? A brief explanation](https://rootsofprogress.org/alphafold-protein-folding-explainer)

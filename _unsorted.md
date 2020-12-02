@@ -74,3 +74,11 @@ Programming Tips
     * Tiny snippets of interesting developer tips
 
 
+
+* [Infinate Badguy](https://billie.withyoutube.com/) - A pop song that has been covered thoughsands of times with covers on youtube. Using AI to match the clips/song and timing, you can switch the song (in time) to other covers
+
+* [The Code It Yourself Manifesto](https://pestilenz.org/~ckeen/blog/posts/ciy-manifesto.html)
+    * We implement it according to our own goals
+    * We make mistakes and learn from them
+    * We learn how our tools we depend on need to work
+    * We gain a deep understanding of our problem domain
