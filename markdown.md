@@ -102,7 +102,7 @@ Editors
         * Basic (no diagram plugins)
         * [GitHub Mermaid Support ticket](https://github.community/t/feature-request-support-mermaid-markdown-graph-diagrams-in-md-files/1922/42) 5 years old?
         * [GitHub Chrome Extension for Markdown](https://github.com/BackMarket/github-mermaid-extension)
-    * [GitLab Markdown Support](https://docs.gitlab.com/ee/user/markdown.html)
+    * [GitLab Markdown Support](https://docs.gitlab.com/ee/user/markdown.html#diagrams-and-flowcharts)
         * Mermaid
         * PlantUML
         * Maths
