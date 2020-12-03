@@ -13,3 +13,6 @@ https://www.openproject.org/
 [StartPlaying](https://startplaying.games/) - Amazing business idea - connect profetional GM's with players for a price - take a slice
 
 * [How to Value a Tech Company: How Much is YouTube Worth Today?](https://mannhowie.com/youtube-valuation) 2020
+
+* [An ex-Googler's guide to dev tools](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools/) Nov 2020
+    * Code Search, issue tracking, code review, deployment, monitoring
