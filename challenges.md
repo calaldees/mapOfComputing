@@ -1,24 +1,33 @@
 Code Challenges
 ===============
 
+Online
+------
+
 * [Hack The Box](https://www.hackthebox.eu/)
     * Hack The Box is an online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with thousands of people in the security field. Click below to hack our invite challenge, then get started on one of our many live machines or challenges.
 * [Project Euler](https://projecteuler.net/) - for raw computer science
+* [rosalind](http://rosalind.info/) - for bioinformatics
 * [leetcode](https://leetcode.com/)
     * Many languages in browser
     * [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
         * ```[1,2,3,4] -> [1,3,6,10]```
 * [HackerRank](https://www.hackerrank.com/)
     * [Add two integers](https://www.hackerrank.com/challenges/solve-me-first/problem)
-* [rosalind](http://rosalind.info/) - for bioinformatics
-* [Advent of Code](https://adventofcode.com/)
-    * Many code puzzles
-* [British Informatics Olympiad](https://www.olympiad.org.uk/)
-
 * [GeekForGeeks](https://www.geeksforgeeks.org/)
     * Tutorials
         * [Bubble Sort](https://www.geeksforgeeks.org/bubble-sort/)
     * Paid for courses
+* [The Odin Project](https://www.theodinproject.com/)
+    * Your Career in Web Development Starts Here
+    * Our full stack curriculum is free and supported by a passionate open source community
+    * This is the website we wish we had when we were learning on our own
+    * We scour the internet looking for only the best resources to supplement your learning and present them in a logical order
+* [codewars.com](https://www.codewars.com/)
+    * Achieve mastery through challenge
+    * Improve your skills by training with others on real code challenges
+* [Advent of Code](https://adventofcode.com/)
+    * Many code puzzles
 
 
 * [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
@@ -36,3 +45,8 @@ Code Challenges
         * Online Judges - 16
         * System Design - 8
         * Object Oriented Design - 8
+
+Competitions
+------------
+
+* [British Informatics Olympiad](https://www.olympiad.org.uk/)
