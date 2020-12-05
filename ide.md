@@ -16,6 +16,9 @@ https://code.visualstudio.com/docs/getstarted/tips-and-tricks
 
 ### hotkeys
 
+tab
+shift + tab
+
 ctrl + click (goto)  (TODO: key?)
 history
 crtl + -

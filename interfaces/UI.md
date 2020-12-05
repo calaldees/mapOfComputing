@@ -72,7 +72,8 @@ CLI
 ---
 common paradimes
 flags, positional params, named params, pipes?
-
+[Command Line Interface Guidelines](https://clig.dev/)
+[commandLine.md](./commandLine.md)
 
 investigate!
 https://github.com/ivanreese/visual-programming-codex

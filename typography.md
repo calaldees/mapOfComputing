@@ -3,7 +3,9 @@ Typography
 
 Fonts
 
-https://readonlymemory.vg/shop/book/arcade-game-typography/
+* [Arcade Game Typography](https://readonlymemory.vg/shop/book/arcade-game-typography/)
+* [NFG's Arcade Font Engine](https://nfggames.com/games/fontmaker/lister.php)
+* [opengameart.org pixel font pack](https://opengameart.org/content/bitmap-font-pack)
 
 https://int10h.org/blog/2016/03/olympiad-ibm-prototype-fonts-unearthed/
 
