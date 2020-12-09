@@ -1,3 +1,14 @@
+Data Structures
+===============
+
+Linked List
+-----------
+
+
+HashMap
+-------
+
+
 Hash Tables / Dictionaries / Associative array
 
 [Python Hash Tables: Understanding Dictionaries](http://thepythoncorner.com/dev/hash-tables-understanding-dictionaries/)
@@ -8,3 +19,10 @@ simple to compute
 one-way
 colision space
 immutable types only
+
+Queue
+-----
+
+Stack
+-----
+

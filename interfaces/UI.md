@@ -1,6 +1,8 @@
 UI - User Interfaces
 ====================
 
+* tweet [Blackboard is aweful, here is why](https://twitter.com/dreen_gb/status/1335898204936806400) Greg Balaga @dreen_gb
+
 [Windows 95](https://twitter.com/tuomassalo/status/978717292023500805)
 Discoverability
     * See 98.css [css](./css.md)

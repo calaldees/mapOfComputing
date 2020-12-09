@@ -42,6 +42,10 @@ The process of taking chunks from data from one memory location and copying it t
 
 * [MicroMages NES Game - 8x8 Sprite explanation](https://youtu.be/ZWQ0591PAxM?t=162)
 * [computer-vision-basics-in-microsoft-excel](https://github.com/amzn/computer-vision-basics-in-microsoft-excel)
+* [Designing 2D graphics in the Japanese industry](https://vgdensetsu.tumblr.com/post/179656817318/designing-2d-graphics-in-japan-from-the-late-70s)
+    * western world used core tools - japan used home grown tech
+    * historical look at tools and artwork
+
 
 Part 2 - 3D Graphics as pixels
 ------------------------------

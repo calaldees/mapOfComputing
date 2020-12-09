@@ -13,7 +13,10 @@ www.csszengarden.com
 * [tailwindcss](https://tailwindcss.com/) - Rapidly build modern websites without ever leaving your HTML
     * "Best practices" don’t actually work
     * [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
-https://codingthesmartway.com/tailwind-css-for-absolute-beginners/
+    * https://codingthesmartway.com/tailwind-css-for-absolute-beginners/
+    * [Why I Love Tailwind](https://mxstbr.com/thoughts/tailwind/)
+        * Discussion of good/bad points in implementation
+
 
 MonsterBoy title project?
 

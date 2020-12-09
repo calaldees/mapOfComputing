@@ -298,3 +298,4 @@ https://www.getoutline.com/
 
 [This page is a truly naked, brutalist html quine](https://secretgeek.github.io/html_wysiwyg/html.html)
 [markdown-css](https://mrcoles.com/demo/markdown-css/) - make HTML look like plain text markdown source
+[GitHub css in markdown](https://github.com/sindresorhus/css-in-readme-like-wat)

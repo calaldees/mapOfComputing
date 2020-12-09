@@ -7,6 +7,9 @@ dean to binary
 dean to hex
 
 
+* [Linked lists, pointer tricks and good taste](https://github.com/mkirchner/linked-list-good-taste)
+    * In a 2016 TED interview (14:10) Linus Torvalds speaks about what he considers good taste in coding
+
 [AQA A’Level Hand tracing algorithms](https://www.youtube.com/watch?v=CwLnL--66tY) Video - Craig and Dave
 
 
@@ -26,3 +29,15 @@ dean to hex
 
 
 [Background Blur Features in Google Meet, Powered by Web ML](https://ai.googleblog.com/2020/10/background-features-in-google-meet.html)
+
+Sorting
+-------
+
+Sort dances (youtube unplugged activities)
+
+QuickSort
+MergeSort
+RadixSort
+InsertionSort
+
+

@@ -16,3 +16,7 @@
 
 
 [MockMechanics](https://mockmechanics.com/) - Programming with physical objects in 3D sandbox - Java
+
+
+* [Why Programming is Hard to Fundamentally Improve](https://aidancunniffe.com/why-programming-is-hard-to-fundamentally-improve-4101612d4ad9)
+    * Discussion about why we keep using similar tools and not 'super innovating' all the time. A rational perspective. Programmers are not lazy, they are being realistic.

@@ -1,6 +1,7 @@
 javascript
 ==========
 
+* [The Modern JavaScript Tutorial](https://javascript.info/)
 
 http://vanilla-js.com/
 

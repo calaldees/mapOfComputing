@@ -1,6 +1,8 @@
 Data Visualisation
 ==================
 
+
+
 * [Data Visualisation](https://en.wikipedia.org/wiki/Data_visualization)
     * [Information Is Beautiful](https://informationisbeautiful.net/)
         * [TED-Ed: The beauty of data visualization - David McCandless](https://www.youtube.com/watch?v=5Zg-C8AAIGg)
@@ -18,6 +20,8 @@ Data Visualisation
 
 * [PictoTrade](https://github.com/prototo/StreetsOfDFID/tree/0105a8cde94bd4560b24e178d602675221c732fe)
 
+Tools
+-----
 
 ### Observable
 
@@ -28,3 +32,6 @@ _Observable_ library [[Demoscene]]
 * [observablehq](https://observablehq.com/)
     * [The Joy of Coding: Observable](https://www.software-artist.com/joy-of-coding-observable/)
     * [Observabe examples](https://observablehq.com/collection/@observablehq/instagram-shares)
+
+### other (dektop)
+https://github.com/facontidavide/PlotJuggler
