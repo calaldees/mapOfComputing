@@ -10,7 +10,7 @@ Frontend Tests
 
 Selenium
     * https://github.com/mherrmann/helium
-Cypress
+[Cypress](https://www.cypress.io/)
 https://github.com/syscolabs/kasaya
 
 

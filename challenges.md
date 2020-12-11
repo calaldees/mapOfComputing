@@ -50,3 +50,29 @@ Competitions
 ------------
 
 * [British Informatics Olympiad](https://www.olympiad.org.uk/)
+
+
+Other
+-----
+
+### Tower of hanoi
+
+* [move-three-disks-in-towers-of-hanoi](https://www.khanacademy.org/computing/computer-science/algorithms/towers-of-hanoi/e/move-three-disks-in-towers-of-hanoi) hands on
+* [challenge-solve-hanoi-recursively](https://www.khanacademy.org/computing/computer-science/algorithms/towers-of-hanoi/pc/challenge-solve-hanoi-recursively)
+
+```javascript
+var solveHanoi = function(numDisks, fromPeg, toPeg) {
+    // base case:  no disks to move
+    if (numDisks === 0) {
+        return;
+    }
+    // recursive case:
+    var sparePeg = hanoi.getSparePeg(fromPeg, toPeg);
+    solveHanoi(numDisks - 1, fromPeg, sparePeg);
+    hanoi.moveDisk(fromPeg, toPeg);
+    solveHanoi(numDisks - 1, sparePeg, toPeg);
+};
+
+solveHanoi(5, "A", "B");
+Program.assertEqual(hanoi.isSolved("B"),true);
+```

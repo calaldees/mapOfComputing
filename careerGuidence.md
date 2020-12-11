@@ -1,7 +1,8 @@
 Career Guidance
 ===============
 
-[Do I Need to Go to University?](http://colah.github.io/posts/2020-05-University/)
+* [No CS Degree](https://www.nocsdegree.com/) Inspiring interviews with successful self-taught and bootcamp developers 
+* [Do I Need to Go to University?](http://colah.github.io/posts/2020-05-University/)
 
 * Video: [Why Do So Many Programmers Lose Hope?](https://www.youtube.com/watch?v=NdA6aQR-s4U) 20:26 Jayme Edwards - #programming #career #mentalhealth
     * We are pressured to produce low quality work

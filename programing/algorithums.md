@@ -1,6 +1,24 @@
 Algorithms
 ==========
 
+* [Wikipedia: List of algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
+    * Hundreds of important computer science algorithms
+    * Of note
+        * Nagles
+        * Clock syncronisation
+        * Fouier transform
+        * Huffman
+        * Partiy (reconstruction) Hammering?
+        * Liaxical anysis
+        * Hash
+        * geomatric
+            * Line clipping
+            * contour lines
+        * doomsday algorithum Day of the week - conway
+        * Dijstra shortest path
+        * Levenstine distance
+        * substring search
+
 bubble sort
 quick sort
 dean to binary
