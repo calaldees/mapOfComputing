@@ -1,6 +1,8 @@
 Creativity
 ==========
 
+[Modeling Creativity](https://www.clips.uantwerpen.be/sites/default/files/modeling-creativity.pdf) pdf eBook TOM DE SMEDT - case studies in python
+
 Creative Code
 
 * meetup.com
@@ -9,3 +11,22 @@ Creative Code
 
 * [My Procedurally Generated Music is Awful](https://devlog.groovelet.com/p/procedurally-generated-music-is-awful)
     * 
+
+
+
+* [Human Clock](https://humanclock.com/)
+
+* [Problematic.tv](https://problematic.tv/) - video taking soundbytes from radio show
+    * Similar to AI voice recodnition hack at Global
+    * AMAZING creative visuals
+
+[Made It For Fun](https://madeitfor.fun/) A stupid website for animating images on top of videos
+
+
+Hacking/Making/Building Culture
+-------------------------------
+
+BarCamp
+
+[A floppy-disk Walkman – using a Raspberry Pi](https://shkspr.mobi/blog/2020/09/a-floppy-disk-mp3-player-using-a-raspberry-pi/) Satire
+

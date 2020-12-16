@@ -72,7 +72,8 @@ Specs
 Implementations
 ---------------
 
-[markdown-it](https://markdown-it.github.io/) renderer with plugins (used by vscode)
+[markdown-it](https://markdown-it.github.io/) - javascript renderer with plugins (used by vscode)
+
 
 ### Upcomming?
 * [ChartSS.css](https://rbitr.github.io/ChartS.css/) - accessible html/css charts with markdown support

@@ -3,6 +3,13 @@ Career Guidance
 
 * [No CS Degree](https://www.nocsdegree.com/) Inspiring interviews with successful self-taught and bootcamp developers 
 * [Do I Need to Go to University?](http://colah.github.io/posts/2020-05-University/)
+* [Lambda School](https://lambdaschool.com/)
+    * Pay for tuition when you earn more than 50k
+    * [Redit LambdaSchool](https://www.reddit.com/r/LambdaSchool/)
+        * [Lambda School is the biggest mistake I made this year ](https://www.reddit.com/r/LambdaSchool/comments/kb87od/lambda_school_is_the_biggest_mistake_i_made_this/)
+
+
+
 
 * Video: [Why Do So Many Programmers Lose Hope?](https://www.youtube.com/watch?v=NdA6aQR-s4U) 20:26 Jayme Edwards - #programming #career #mentalhealth
     * We are pressured to produce low quality work
@@ -30,6 +37,11 @@ Sustainable
 Do not work more than 40 hours a week
 
 Most people are terrible at giving interviews
+
+Personal Projects
+-----------------
+
+(Build stuff!)[https://why.degree/motivation/] - Personal Project
 
 * Side projects are important in landing your early jobs
 * [Advice to my young self: to succeed in your career, forget side projects and focus on your job](https://manuel.darcemont.fr/posts/focus-on-jour-job/)

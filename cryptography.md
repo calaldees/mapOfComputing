@@ -1,9 +1,13 @@
 Cryptography
 ============
 
+* [Cracking Codes with Python](https://inventwithpython.com/cracking/)
+    * Beginners journey into cryptography with python
+
 https://a16z.com/2019/11/08/crypto-glossary/
 rest of this site is all about understanding crypto
 
+[Encryption Lava Lamps](https://www.atlasobscura.com/places/encryption-lava-lamps) - The randomness of this wall of lava lamps helps encrypt up to 10 percent of the internet
 
 [(Very) Basic Intro To Elliptic Curve Cryptography](https://qvault.io/2019/12/31/very-basic-intro-to-elliptic-curve-cryptography/)
 

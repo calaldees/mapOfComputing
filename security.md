@@ -23,3 +23,5 @@ U2F
 Authenticator app OTP
 
 
+* [Keytap2 - acoustic keyboard eavesdropping based on language n-gram frequencies](https://github.com/ggerganov/kbd-audio/discussions/31)
+    * Audio recording of someone using a computer keyboard in an attempt to decipher from audio alone what keys have been pressed

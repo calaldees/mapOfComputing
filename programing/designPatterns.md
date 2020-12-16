@@ -12,7 +12,10 @@ https://en.wikipedia.org/wiki/Software_design_pattern
     * Don't always need a function
     * Consider functional where possible - minimise state modification
 
+* [Software Techniques for Lemmings](https://www.codeproject.com/Articles/5258540/Software-Techniques-for-Lemmings)
+    * summarizes commonly used software techniques that can be harmful, particularly when implementing a server or other large application.
+
 Anti Patterns
 -------------
 
-https://docs.quantifiedcode.com/python-anti-patterns/
+[The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)

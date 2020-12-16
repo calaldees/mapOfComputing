@@ -16,7 +16,8 @@ Data Visualisation
     * [Unusual maps](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002yI)
         * Not directly Computing; but huge variety of interesting visualisations
     * [Vega-Lite](https://vega.github.io/vega-lite/) - Vega-Lite – A Grammar of Interactive Graphics
-
+* Physical Visualisation
+    * [Example of how many earths can fit in the sun](https://www.reddit.com/r/pics/comments/9g5fio/example_of_how_many_earths_can_fit_in_the_sun/?st=JM4IZ1M6&sh=56c0264e)
 
 * [PictoTrade](https://github.com/prototo/StreetsOfDFID/tree/0105a8cde94bd4560b24e178d602675221c732fe)
 

@@ -1,6 +1,14 @@
 Privacy
 =======
 
+> Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.
+<sub>Edward Snowden</sub>
+
+* Do you want your money to be secure when you bank online. Of course you do. So you want encryption!
+
+* [Privacy matters even if “you have nothing to hide”](https://write.privacytools.io/freddy/why-privacy-matters-even-if-you-have-nothing-to-hide)
+    * > We all care about our privacy, though we might not know it. It is why we lock the door when we go to the toilet; or why we close the curtains to stop people looking into our homes.
+
 * [Your Computer Isn't Yours](https://sneak.berlin/20201112/your-computer-isnt-yours/)
     * osx Big Su 2020 - Every app load MUST contact apple. This is unencrypted and apple can refuse to launch your app
     * [Does Apple really log every app you run? A technical look](https://blog.jacopo.io/en/post/apple-ocsp/) - it just sends developer certificate

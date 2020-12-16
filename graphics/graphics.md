@@ -94,6 +94,7 @@ Mobile chipsets - 200 Million triangles per second - source [imagination graphic
 Further Reading
 ---------------
 
+* [A Brief History of Graphics](https://www.youtube.com/watch?v=QyjyWUrHsFc) 45min documentary - Ahoy
 * [fabiensanglard.neta](fabiensanglard.neta) - Game code teardowns
     * [Another World](http://fabiensanglard.net/another_world_polygons/index.html)
 * [VoxelSpace](https://github.com/s-macke/VoxelSpace)
