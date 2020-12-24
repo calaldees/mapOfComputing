@@ -16,3 +16,6 @@ IEEE
 * [Here be dragons: advances in problems you didn’t even know you had](http://www.serpentine.com/blog/2011/06/29/here-be-dragons-advances-in-problems-you-didnt-even-know-you-had/)
     * converting floats to strings is slow, hard and innaccurate. There has been recent progress
     
+* [Half-Precision Floating-Point, Visualized](https://observablehq.com/@rreusser/half-precision-floating-point-visualized)
+
+[[Test every float on a processor to IEEE standard?]] - find the link

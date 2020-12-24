@@ -53,7 +53,7 @@ https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis
 * [DOS Games Archive](https://www.dosgamesarchive.com/)
 
 
-* [List of Software Post-Mortums](https://github.com/danluu/post-mortems) - Outages from big cloud providers
+* [List of Software Post-Mortems](https://github.com/danluu/post-mortems) - Outages from big cloud providers
 
 
 * [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)

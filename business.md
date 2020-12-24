@@ -16,3 +16,6 @@ https://www.openproject.org/
 
 * [An ex-Googler's guide to dev tools](https://about.sourcegraph.com/blog/ex-googler-guide-dev-tools/) Nov 2020
     * Code Search, issue tracking, code review, deployment, monitoring
+
+* [Why can’t you buy a good webcam?](https://vsevolod.net/good-webcams/) dec 2020 Vsevolod Solovyov
+    * Though experiment into making high quality webcams, the production and the market

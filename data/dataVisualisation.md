@@ -24,6 +24,7 @@ Data Visualisation
 Tools
 -----
 
+
 ### Observable
 
 browser/js live data manipulation and visualization
@@ -33,6 +34,7 @@ _Observable_ library [[Demoscene]]
 * [observablehq](https://observablehq.com/)
     * [The Joy of Coding: Observable](https://www.software-artist.com/joy-of-coding-observable/)
     * [Observabe examples](https://observablehq.com/collection/@observablehq/instagram-shares)
+* [D3.js - DataDrivenDocuments](https://d3js.org/) - a JavaScript library for manipulating documents based on data.
 
 ### other (dektop)
 https://github.com/facontidavide/PlotJuggler

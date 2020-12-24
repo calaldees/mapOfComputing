@@ -4,6 +4,8 @@ CSS
 [Old CSS, new CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/)
 [3D Book Image CSS Generator](https://3d-book-css.netlify.app/)
 
+[Centering in CSS](https://web.dev/centering-in-css/)
+
 Variables in CSS (see book for example)
 
 HTML1 - Web1.0

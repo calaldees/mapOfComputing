@@ -20,6 +20,8 @@ UnitTests
 
 ### DocTests
 
+* [my doctest example with error](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/doctest_example.py)
+* [Solving Algorithmic Problems in Python with Pytest](https://adamj.eu/tech/2019/04/21/solving-algorithmic-problems-in-python-with-pytest/)
 
 TDD
 (expanding string calculator requirements example)

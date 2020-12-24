@@ -112,6 +112,9 @@ from collections import defaultdict, namedtuple, ChainMap, deque
     * pyenv
     * poetry
     * click
+* [__strict__=True](https://instagram-engineering.com/python-at-scale-strict-modules-c0bb9245c834)
+    * Experimental flag to prevent mutable state at import time
+    * Prevent loads of startup code time
 
 [Overview of python dependency management tools](https://modelpredict.com/python-dependency-management-tools)
 
@@ -132,3 +135,6 @@ Reference Implementation
 ------------------------
 
 * [Python behind the scenes #4: how Python bytecode is executed](https://tenthousandmeters.com/blog/python-behind-the-scenes-4-how-python-bytecode-is-executed/)
+
+
+Performance logging - google chrome devtools viewer format? - automatically attach/analyse program
