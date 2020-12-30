@@ -29,3 +29,6 @@ https://medium.com/sciforce/strategies-of-docker-images-optimization-2ca9cc5719b
 Sharing build cache
 https://medium.com/titansoft-engineering/docker-build-cache-sharing-on-multi-hosts-with-buildkit-and-buildx-eb8f7005918e
 https://github.com/moby/buildkit
+
+* [SubUser](https://subuser.org/)
+    * Using docker containers to run applications with only dir level access

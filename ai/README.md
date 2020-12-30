@@ -11,3 +11,7 @@ Artificial Intelligence
         * What about training the algorithm with lines - and then trying to regognise a filled circle. Could this be a powerful lesson in the data we tain algorithms with? (like the issues big tech companys had with recognising black faces with login systems)
 
 * [What I Wish Someone Had Told Me About Tensor Computation Libraries](https://eigenfoo.xyz/tensor-computation-libraries/)
+
+* [Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
+    * Explore the concepts and methods used in modern reinforcement learning research.
+    * 10 part course

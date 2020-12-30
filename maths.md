@@ -1,3 +1,6 @@
+Maths
+=====
+
 
 * [linear-algebra](https://betterexplained.com/articles/linear-algebra-guide/)
 
@@ -9,3 +12,5 @@
     * [Think DSP](http://greenteapress.com/thinkdsp/thinkdsp.pdf)
     * [Think Complexity](http://greenteapress.com/complexity2/html/index.html)
         * An introduction to complexity science, which includes small world graphs, scale-free networks, cellular automata, fractals and pink noise, self-organized criticality, and agent-based models.
+
+* [How much math you need for programming ](https://lispmachine.wordpress.com/2014/12/05/how-much-math-you-need-for-programming/)

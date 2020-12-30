@@ -27,8 +27,5 @@ https://www.polygon.com/2020/1/13/21064100/vvvvvv-source-code-game-development-t
 * [How to create a 2D game with Python and the Arcade library](https://opensource.com/article/18/4/easy-2d-game-creation-python-and-arcade) - Learn how to get started with _Arcade_, an easy-to-use Python library for creating 2D video games.
     * No PyGame - Interesting rational
 
+* [Ten-Year Long Study Confirms No Link Between Playing Violent Video Games as Early as Ten Years Old and Aggressive Behavior Later in Life](https://gamesage.net/blogs/news/ten-year-long-study-confirms-no-link-between-playing-violent-video-games-as-early-as-ten-years-old-and-aggressive-behavior-later-in-life)
 
-
-* Science seeks the basic laws of nature
-* Mathematics searches for new theorems to build upon the old
-* Engineering builds systems to solve human needs.

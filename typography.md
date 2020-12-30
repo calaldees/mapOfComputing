@@ -1,27 +1,28 @@
 Typography
 ==========
 
+* [Time to upgrade your monitor](https://tonsky.me/blog/monitors/) - Font Rasterisation on modern OS's
+
 Fonts
+-----
 
-* [Arcade Game Typography](https://readonlymemory.vg/shop/book/arcade-game-typography/)
-* [NFG's Arcade Font Engine](https://nfggames.com/games/fontmaker/lister.php)
-* [opengameart.org pixel font pack](https://opengameart.org/content/bitmap-font-pack)
+* Raster Fonts
+    * [Arcade Game Typography](https://readonlymemory.vg/shop/book/arcade-game-typography/)
+    * [NFG's Arcade Font Engine](https://nfggames.com/games/fontmaker/lister.php)
+    * [opengameart.org pixel font pack](https://opengameart.org/content/bitmap-font-pack)
+* TrueType
+    * [Lexend](https://www.lexend.com/)
+        * [github](https://github.com/ThomasJockin/lexend)
+        * See [[Accesssibility]]
+    * [evangelion](https://fontsinuse.com/uses/28760/neon-genesis-evangelion)
+    * [Helvetica: feature-length documentary](https://www.hustwit.com/helvetica)
+* Monospace
+    * [Dev Fonts](https://devfonts.gafi.dev/) - free monospace font comparison
+    * [comic-mono](https://dtinth.github.io/comic-mono-font/)
+    * [oldschool-pc-fonts](https://int10h.org/oldschool-pc-fonts/readme/)
+        * [fontlist](https://int10h.org/oldschool-pc-fonts/fontlist/)
+        * [romfont](https://github.com/spacerace/romfont)
+        * [ibm-prototype](https://int10h.org/blog/2016/03/olympiad-ibm-prototype-fonts-unearthed/)
+* Custom
+    * [font based on my handwriting](https://sachachua.com/blog/2020/06/pythonfontforgeorg-i-made-a-font-based-on-my-handwriting/)
 
-https://int10h.org/blog/2016/03/olympiad-ibm-prototype-fonts-unearthed/
-
-https://fontsinuse.com/uses/28760/neon-genesis-evangelion
-
-https://github.com/spacerace/romfont
-https://int10h.org/oldschool-pc-fonts/readme/
-https://int10h.org/oldschool-pc-fonts/fontlist/
-
-[Helvetica: feature-length documentary](https://www.hustwit.com/helvetica)
-
-[Time to upgrade your monitor](https://tonsky.me/blog/monitors/) - Font Rasterisation on modern OS's
-[Dev Fonts](https://devfonts.gafi.dev/) - free monospace font comparison
-
-[font based on my handwriting](https://sachachua.com/blog/2020/06/pythonfontforgeorg-i-made-a-font-based-on-my-handwriting/)
-
-* [Lexend](https://www.lexend.com/)
-    * [github](https://github.com/ThomasJockin/lexend)
-    * See [[Accesssibility]]
