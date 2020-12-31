@@ -6,4 +6,6 @@
 
 [Open Source Tools & Data for Music Source Separation](https://source-separation.github.io/tutorial/landing.html)
 
+[The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+
 AI is made by men (??!?)
