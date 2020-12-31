@@ -15,6 +15,19 @@ https://en.wikipedia.org/wiki/Software_design_pattern
 * [Software Techniques for Lemmings](https://www.codeproject.com/Articles/5258540/Software-Techniques-for-Lemmings)
     * summarizes commonly used software techniques that can be harmful, particularly when implementing a server or other large application.
 
+### Message Queues
+
+* [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues/)
+    * Guarantees?
+        * At most once
+        * At least once
+        * Exactly once
+    * Ordering vs Parallelism
+        * Distributed lock?
+        * Rate limit?
+    * Fan Out / In
+
+
 Anti Patterns
 -------------
 
