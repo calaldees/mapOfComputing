@@ -29,3 +29,5 @@ https://www.polygon.com/2020/1/13/21064100/vvvvvv-source-code-game-development-t
 
 * [Ten-Year Long Study Confirms No Link Between Playing Violent Video Games as Early as Ten Years Old and Aggressive Behavior Later in Life](https://gamesage.net/blogs/news/ten-year-long-study-confirms-no-link-between-playing-violent-video-games-as-early-as-ten-years-old-and-aggressive-behavior-later-in-life)
 
+
+* [Castlevania III Password Algorithm ](https://meatfighter.com/castlevania3-password/)

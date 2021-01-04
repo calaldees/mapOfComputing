@@ -15,3 +15,8 @@ Parity
     * Block level snapshot restore
     * Raid-Z, Raid-Z2
     * Adaptive Replacement Cache
+
+
+didnt know where else to put this ...
+* [tabfs](https://omar.website/tabfs/)
+    * browser tabs (bi directional) as a filesystem mount

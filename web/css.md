@@ -31,3 +31,6 @@ Async CSS and Font Swap - [The Fastest Google Fonts](https://csswizardry.com/202
 
 
 [Things I Wish I’d Known About CSS](https://cssfordesigners.com/articles/things-i-wish-id-known-about-css) - Explores fundamentals of CSS
+
+* [Pure Digital CSS, Swiss made, clock. No JavaScript, no HTML(*)](https://www.quaxio.com/pure_css_digital_clock.html)
+    * utter abomination - but very clever

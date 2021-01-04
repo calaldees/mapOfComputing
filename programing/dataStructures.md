@@ -33,3 +33,11 @@ Queue
 Stack
 -----
 
+* [Binary Heap](https://en.wikipedia.org/wiki/Binary_heap#Heap_implementation)
+    * a tree represented as a flat array
+
+Sparse Matrix
+-------------
+
+* [Sparse Matrices](https://matteding.github.io/2019/04/25/sparse-matrices/)
+    * nice animated examples of data structures
