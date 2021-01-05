@@ -1,12 +1,14 @@
 MarkDown
 ========
 
+
 What is MarkDown
 ----------------
 
 * [markdownguide.org](https://www.markdownguide.org/)
 * [Markdown CheatSheet](https://devhints.io/markdown)
 * [Basic Github Syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+
 
 Why use MarkDown
 ----------------
@@ -54,13 +56,15 @@ There are plugins for Markdown to render
 Technologies
 ------------
 
-Below are some examples of possible tech
-
-* [MarP: Markdown Presentation Ecosystem](https://marp.app/)
-    * [vscode marp](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
-* [DeckDown](http://deckdown.org/)
-* [johnloy/markdown-for-slide-decks.md](https://gist.github.com/johnloy/27dd124ad40e210e91c70dd1c24ac8c8)
-
+* Presentations
+    * [MarP: Markdown Presentation Ecosystem](https://marp.app/)
+        * [vscode marp](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
+    * [DeckDown](http://deckdown.org/)
+    * [johnloy/markdown-for-slide-decks.md](https://gist.github.com/johnloy/27dd124ad40e210e91c70dd1c24ac8c8)
+* Books
+    * [bookdown.org](https://bookdown.org/)
+        * [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
+        * [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
 
 
 

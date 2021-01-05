@@ -31,6 +31,8 @@ Tech Use
             * > “attention extraction economy” is why individuals are unhappy, and why societies are failing.
             * > Health and well-being cannot be reduced to the single variable of screen time. 
 * [New tech 'addictions' are mostly just old moral panic](https://www.engadget.com/2018-02-09-new-tech-addictions-are-mostly-just-old-moral-panic.html)
+* [How to overcome Phone Addiction [Solutions + Research] ](https://cognitiontoday.com/phone-addiction-coping-solutions-research-statistics/)
+    * Phone addiction is one of the biggest non-drug addiction in human history
 
 
 

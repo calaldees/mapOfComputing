@@ -16,3 +16,8 @@ Unsinged
 
 * [Struct](https://docs.python.org/3/library/struct.html)
 
+
+Ternary
+-------
+
+[Tunguska](http://tunguska.sourceforge.net/about.html) - a ternary computer emulator

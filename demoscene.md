@@ -15,6 +15,9 @@ Creativity Visulisation
     * [Javascript Magic Tunnel](https://js1k.com/2019-x/demo/4293)
 
 
+* [Demo Reel & Tiny JavaScript – Mathieu Henri / Front-Trends 2016](http://www.p01.org/FrontTrends_2016/)
+    * Love code a demo effect + audio in js
+
 https://www.flipcode.com/archives/articles.shtml
 
 Other computer art

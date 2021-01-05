@@ -42,6 +42,10 @@ https://www.seattletimes.com/business/technology/special-sunglasses-license-plat
 
 [Headphones are collecting too much personal data](https://www.soundguys.com/headphones-are-collecting-too-much-personal-data-21524/) - Headphones collect menstruation data?!
 
+* [Look Up Unknown Phone Numbers using Facebook Reset Password or WhatsApp](https://bytexd.com/look-up-unknown-phone-numbers/)
+    * reverse image search profile picture
+
+
 Facial Recognition
 ------------------
 
@@ -62,6 +66,26 @@ https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html
 
 Censorship
 ----------
+
+* [Edward Snowden on the Dangers of Silicon Valley Censorship - System Update with Glenn Greenwald](https://www.youtube.com/watch?v=5qEuKCS-czU) youtube video nov 2020 31min
+    * Marketing/Advertising, what's the difference between that and public manipulation?
+    * In the old days
+        * people choose their name/identity
+        * people were there by choice - nobody needed to be on the internet to get a job
+    * Increasingly Competitive and commercial space as governments and companies moved in. A space less for the individual
+    * Decentralised ot centralised
+    * Even if you setup your own email server - when you send an email - google has a copy of it because the recipients have gmail accounts
+    * No process - if your gmail account goes - your stranded - you are not a google customer
+    * there is already a law for if you incite volence that you go to court - more power?
+    * the emotionaly charged game - if you don't give us these powers you agree with pedophila or terrorisum
+    * how many pedophiles and terrorists are there?
+    * preasure can be applied to companies. Compaines can go beyond what the law affords and take action against these minority groups. Compaines are advertising platoforms and have to bow to pressure.
+    * If you don't trust the govenment to make these descisions, then why would you trust companies? Companies can change without elections are and largely out of your control
+    * influence == power
+* [TED: How we take back the internet | Edward Snowden](https://www.youtube.com/watch?v=yVwAodrjZMY) 2014
+    * 
+
+
 https://www.bbc.co.uk/news/world-asia-china-51732042
 
 
@@ -99,6 +123,15 @@ some software is so poorly tested they they will not start without dns. (I had a
 * [Intent to Remove: HTTP/2 and gQUIC server push](https://groups.google.com/a/chromium.org/g/blink-dev/c/K3rYLvmQUBY/m/vOWBKZGoAQAJ?pli=1) - A case study of why/how telemetry is useful and important.
 
 
+Cookies
+-------
+
+EU has law of concent
+
+* [URL shorteners set ad tracking cookies](https://ylukem.com/blog/url-shorteners-set-ad-tracking-cookies)
+    * tinyurl -> ad tracking company (set cookies) -> zoom
+
+
 Ownership of digital
 --------------------
 
@@ -112,3 +145,4 @@ Unsorted
 * [A Real-Time Website Privacy Inspector](https://themarkup.org/blacklight/) - Get report of trackers/cookies on any website
 * [No More Google](https://nomoregoogle.com/) Privacy-friendly alternatives to Google that don't track you
 * [You might not need to store plaintext email addresses](https://blog.klungo.no/2020/11/01/you-might-not-need-to-store-plaintext-emails/) - when you run a webservice, do you NEED to store the email address?
+* [Microsoft files patent to create chatbots from your dead loved ones](https://www.inputmag.com/culture/microsoft-files-patent-to-create-chatbots-from-your-dead-loved-ones)

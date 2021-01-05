@@ -10,6 +10,10 @@ https://varsome.com/variant/hg19/chr13-32937506-G-C
 
 see [history](./historyOfComputing.md#)
 
+* [30 Years Since the Human Genome Project Began, What’s Next?](https://www.wired.com/story/30-years-since-the-human-genome-project-began-whats-next/)
+    * Eric Green, head of the nation’s top genomics research institute, looks back on how far the field has come and shares his bold vision for the future.
+    * Human Genome project 1990 to 2000 - 10 years to sequence the first human genome
+        * racks of crt screens - computers only had a few megabytes of RAM not even gigabytes
 
 https://mpeg-g.org/
 

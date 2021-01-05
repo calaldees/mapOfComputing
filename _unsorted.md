@@ -96,3 +96,10 @@ Programming Tips
 * [Collaborative Thinking](https://blog.jzhao.xyz/posts/collaborative-thinking/)
     * > Recently, I’ve started to realize that CS not a single discipline, but rather it’s a tool that can help solve uniquely human problems, and these human problems are inherently multidisciplinary.
     * > I’ve started to read and learn more about the world around me outside of my little bubble of CS-related topics and it’s been eye-opening to see issues I read about in my philosophy class come up in a linguistics lecture which in turn comes up in a book I’m reading. I’ve found that the best way for me to cement my learning and understanding is through discussion with people, rather than just sitting and ruminating on my own – a very different pace than the typical code-Stackoverflow-copy-repeat self-learning cycle that most programmers (including myself) are familiar with.
+
+
+* [3D-parallax](https://github.com/VincentLefevre/3D-parallax)
+    * Head tracking from a standard webcam to render psudo 3d-esq images on a 2d screen
+
+* [Fair-Code Automation with n8n.io](https://tech.davidfield.co.uk/opensourced-ifttt-with-n8n-io/)
+    * codeless automation - graphical linking of datasources (postgres, rss, excel?)
