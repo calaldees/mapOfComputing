@@ -38,6 +38,8 @@ Authenticator app OTP
     * [Spectre](https://en.wikipedia.org/wiki/Spectre_(security_vulnerability))
 
 
+* [Technology, as seen on TV](https://fasterthanli.me/series/tech-as-seen-on-tv)
+    * TV depictions of technology, and reviewing how realistic they are
 
 
 Unauthenticaed SMTP

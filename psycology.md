@@ -1,3 +1,6 @@
+Psychology
+==========
+
 Stockholm Toll talk
 https://www.ted.com/talks/jonas_eliasson_how_to_solve_traffic_jams/transcript?language=en
 
@@ -45,3 +48,5 @@ Behaviour imitated observed by children
     * If you make a set of 3 people will aim for commpleteness
     
 
+* [New Defaults](https://stratechery.com/2021/new-defaults/)
+    * Essay about vaccines, software company ethos, public opinion and public choice
