@@ -16,6 +16,7 @@ Parity
     * Raid-Z, Raid-Z2
     * Adaptive Replacement Cache
 
+* [Reed-Solomon error recovery in RAID-6](https://anadoxin.org/blog/error-recovery-in-raid6.html/)
 
 didnt know where else to put this ...
 * [tabfs](https://omar.website/tabfs/)

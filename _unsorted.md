@@ -103,3 +103,6 @@ Programming Tips
 
 * [Fair-Code Automation with n8n.io](https://tech.davidfield.co.uk/opensourced-ifttt-with-n8n-io/)
     * codeless automation - graphical linking of datasources (postgres, rss, excel?)
+
+* [2-Acre Vertical Farm Run By AI And Robots Out-Produces 720-Acre Flat Farm](https://www.intelligentliving.co/vertical-farm-out-produces-flat-farm/)
+    * [The future of farms is vertical: 400X more yield, 95% less water, 99% less space](https://www.youtube.com/watch?v=0uXdnjXIGjI&feature=emb_logo) Nov 2020 30min interview
