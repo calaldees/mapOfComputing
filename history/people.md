@@ -11,3 +11,8 @@ People
         * Invented information theory
         * It's most efferent to encode into binary and then send
         * What is the maximum throughput given _noise_
+
+* [Dave Plummer](https://www.theregister.com/2021/01/06/plummer_interview/)
+    * DOS 6.2 legend + [WindowsNT Task Manager](https://www.theregister.com/2020/05/26/task_manager_confession/)
+    * [Daves Garage](https://www.youtube.com/channel/UCNzszbnvQeFzObW0ghk0Ckw)
+    * Wrote the XP product activation code
