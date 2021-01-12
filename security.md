@@ -66,3 +66,4 @@ Global Radio Login Gigya - 'Hacked by' alert
 
 * [System Bus Radio](https://github.com/fulldecent/system-bus-radio) - transmit radio from air-gapped computers with no radio hardware
 
+* [Stealing Your Private YouTube Videos, One Frame at a Time](https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/)

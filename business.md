@@ -19,3 +19,7 @@ https://www.openproject.org/
 
 * [Why can’t you buy a good webcam?](https://vsevolod.net/good-webcams/) dec 2020 Vsevolod Solovyov
     * Though experiment into making high quality webcams, the production and the market
+
+* [No Meetings, No Deadlines, No Full-Time Employees](https://sahillavingia.com/work)
+    * [gumroad](https://gumroad.com) - get paid for content
+    * [teachable](https://teachable.com/) - get paid for teaching content (expertise)

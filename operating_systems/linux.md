@@ -1,5 +1,11 @@
-VM
---
+Linux
+=====
+
+* [Common pronunciations of Linux directories, commands, etc](https://www.linux.org/threads/common-pronunciations-of-linux-directories-commands-etc.4445/)
+
+
+Virtual Machines
+----------------
 
 * HyperV - Windows 10 Pro
     * connect to local service

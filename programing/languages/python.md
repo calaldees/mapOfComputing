@@ -29,6 +29,8 @@ The confusing brackets
 * <>
     * no used?
 
+python arrays/lists are janky - it would be nice to use chainable functions
+* [funct](https://github.com/Lauriat/funct) enhanced functions for lists
 
 https://book.pythontips.com/en/latest/index.html
 

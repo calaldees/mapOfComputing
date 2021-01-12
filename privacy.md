@@ -83,7 +83,9 @@ Censorship
     * If you don't trust the govenment to make these descisions, then why would you trust companies? Companies can change without elections are and largely out of your control
     * influence == power
 * [TED: How we take back the internet | Edward Snowden](https://www.youtube.com/watch?v=yVwAodrjZMY) 2014
-    * 
+    * We have warrents and due process for monitoring because giving a gonvenment complete overside is simply too great to be ignored
+    * The public interest is not always the same as a national interest
+    * Going to war with people that are not our enemy and are not a threat does not make us safe. The intenernet is not the enemy, our encompy is not the enemy. Any other company (regarless of country) is a part of socity
 
 
 https://www.bbc.co.uk/news/world-asia-china-51732042

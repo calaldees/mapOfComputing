@@ -65,3 +65,10 @@ Browser Based
 
 * [gitpod.io](https://gitpod.io)
     * Browser editor linked to github/gitlab
+
+
+* [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
+    * [antirez kilo](http://antirez.com/news/108)
+    * Pure C - no dependencies
+    * 184 steps of adding/remove (like my programming projects)
+
