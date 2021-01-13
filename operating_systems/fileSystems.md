@@ -21,3 +21,5 @@ Parity
 didnt know where else to put this ...
 * [tabfs](https://omar.website/tabfs/)
     * browser tabs (bi directional) as a filesystem mount
+* [juicefs](https://github.com/juicedata/juicefs)
+    * A distributed POSIX file system built on top of Redis and S3

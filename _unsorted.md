@@ -72,7 +72,8 @@ https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis
 Programming Tips
 * [Today I Learned](https://til.hashrocket.com/)
     * Tiny snippets of interesting developer tips
-
+* [Learn X by doing Y](https://aquadzn.github.io/learn-x-by-doing-y/)
+    * Project Based Learning is a teaching method in which students gain knowledge and skills by working for an extended period of time to investigate and respond to an authentic, engaging, and complex question, problem, or challenge
 
 
 * [Infinate Badguy](https://billie.withyoutube.com/) - A pop song that has been covered thoughsands of times with covers on youtube. Using AI to match the clips/song and timing, you can switch the song (in time) to other covers
@@ -82,6 +83,8 @@ Programming Tips
     * We make mistakes and learn from them
     * We learn how our tools we depend on need to work
     * We gain a deep understanding of our problem domain
+* [suckless.org - software that sucks less - philosophy](https://suckless.org/philosophy/)
+    * > Our project focuses on advanced and experienced computer users. In contrast with the usual proprietary software world or many mainstream open source projects that focus more on average and non-technical end users, we think that experienced users are mostly ignored. This is particularly true for user interfaces
 
 
 * [How to Write Code to Solve a Problem, A Beginner's Guide](https://www.codeproject.com/Articles/5282084/How-to-Write-Code-to-Solve-a-Problem-A-Beginners-G)

@@ -72,3 +72,5 @@ wildcards
 https://github.com/openautocomplete/openautocomplete
 
 See [UI.md](UI.md) for Command Line Interface Guidelines
+
+[CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)

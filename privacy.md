@@ -107,7 +107,9 @@ https://macwright.org/2020/06/21/ethics-in-geo.html
 
 
 
-[Social Cooling](https://www.socialcooling.com/)
+* [Social Cooling](https://www.socialcooling.com/)
+    * [What is Social Cooling?](https://reasonandmeaning.com/2017/10/31/what-is-social-cooling/) 2017
+
 
 
 * [‘You Have Zero Privacy’ Says an Internal Royal Canadian Mountain Police (RCMP) Presentation. Inside the Force’s Web Spying Program](https://thetyee.ca/News/2020/11/16/You-Have-Zero-Privacy-RCMP-Web-Spying/) - ‘Project Wide Awake’ files obtained by The Tyee show efforts to secretly buy and use powerful surveillance tools while downplaying capabilities.

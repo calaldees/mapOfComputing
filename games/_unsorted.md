@@ -31,3 +31,6 @@ https://www.polygon.com/2020/1/13/21064100/vvvvvv-source-code-game-development-t
 
 
 * [Castlevania III Password Algorithm ](https://meatfighter.com/castlevania3-password/)
+
+* [Games on GitHub](https://github.com/leereilly/games)
+    * a list of open source games and game-related projects that can be found on GitHub - old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins for commercial games, libraries, frameworks, engines.

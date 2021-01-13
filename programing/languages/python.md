@@ -140,3 +140,5 @@ Reference Implementation
 
 
 Performance logging - google chrome devtools viewer format? - automatically attach/analyse program
+
+* [python generator “send” function purpose?](https://stackoverflow.com/questions/19302530/python-generator-send-function-purpose)
