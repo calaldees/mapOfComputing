@@ -21,9 +21,9 @@ Key Pairs
     ssh-copy-id -i ~/.ssh/id_rsa.pub user@example.com
     # ~/.ssh/authorized_keys  # public keys of passwordless users
 
-    #Port forwarding Socks Proxy - on local client
+    # Port forwarding Socks Proxy - on local client
     ssh -D 8999 dreamhost
 
-    #To port forward
+    # To port forward
     ssh -L 5672:10.73.146.211:5672 username@hostname
 ```

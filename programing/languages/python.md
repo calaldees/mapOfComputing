@@ -66,7 +66,7 @@ what is the difference between list & tuple -> mutability
     set([2, 3])
     # Q: Why? - A: sets have no duplicates `&=` is union_in-place modification
 ```
-    #aa=[1,2,3];bb=aa;aa=[4,5,6];print(aa,bb)
+    # aa=[1,2,3];bb=aa;aa=[4,5,6];print(aa,bb)
 
     t = 10 + 1, 20 + 2 ; assert t == 11, 22
     # https://twitter.com/raymondh/status/1318242020461367296

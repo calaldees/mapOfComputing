@@ -26,7 +26,7 @@ Raspberry pi
 ```bash
 sudo apt-get update
 sudo apt-get full-upgrade -y
-#sudo apt-get dist-upgrade -y
+# sudo apt-get dist-upgrade -y
 sudo rpi-update
 
 # https://www.tomshardware.com/uk/how-to/boot-raspberry-pi-4-usb
@@ -56,7 +56,7 @@ sudo apt-get install -y \
     mame \
     chocolate-doom \
 
-    #webbrowser (need to upgrade for recent chomium)
+    # webbrowser (need to upgrade for recent chomium)
 
 curl -sSL https://get.docker.com | sh
 sudo usermod -aG docker pi
@@ -70,7 +70,7 @@ sudo pip3 -v install docker-compose
 # screen tearing fix - https://www.youtube.com/watch?v=6xiRUyOF7fM
 sudo mv /etc/xdg/autostart/xcompmgr.desktop /etc/xdg/autostart/xcompmgr.desktop.backup
 
-#sudo raspi-config
+# sudo raspi-config
 
 ssh-keygen -t rsa
 ```

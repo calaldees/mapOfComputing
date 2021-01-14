@@ -125,6 +125,14 @@ Editors
         * ABC
 * IDE Plugin/Extension
     * vscode
+        * [Foam](https://foambubble.github.io/foam/)
+            * [Markdown-all-in-one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+                * Keyboard shortcuts
+                * Table of content
+            * [Markdown Notes](https://marketplace.visualstudio.com/items?itemName=kortina.vscode-markdown-notes)
+                * `[[wiki-links]]`
+                * Backlinks
+                * `#tag` linking
         * [HackMD Extension](https://marketplace.visualstudio.com/items?itemName=HackMD.vscode-hackmd)
             * replaces the builtin preview
             * (See HackMD browser above for list of supported extras)
