@@ -9,3 +9,11 @@ What is required for a machine to be Turing Complete
     3. Realise lacking recursion makes things incredibly clunky to express, turning simple problems into brain teasers.
     4. Add recursion.
     5. Realise that the everything is better.
+
+
+
+Conways Game of life is turing complete
+
+[tic-tac-toe in single line of printf](https://github.com/carlini/printf-tac-toe)
+
+[SNES Code Injection -- Flappy Bird in SMW](https://youtu.be/hB6eY73sLV0)

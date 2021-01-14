@@ -19,3 +19,9 @@ Agile
     * Not stopping to improve
     * Feature releasing
 
+
+
+The agile manifesto
+-------------------
+
+

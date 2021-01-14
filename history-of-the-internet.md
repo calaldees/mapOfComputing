@@ -1,5 +1,5 @@
-Internet < 2005
-===============
+History of the Internet
+=======================
 
 See [[Win93]] (in UI)
 

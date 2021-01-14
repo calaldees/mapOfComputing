@@ -1,5 +1,5 @@
-Science and Evolution of Computer Graphics
-==========================================
+Evolution of Computer Graphics
+==============================
 
 
 Part 1 - 2D Graphics as pixel data

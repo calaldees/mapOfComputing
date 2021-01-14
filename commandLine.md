@@ -1,5 +1,5 @@
-Commandline Training
-====================
+Commandline
+===========
 
 CLI
 

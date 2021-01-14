@@ -1,7 +1,0 @@
-
-
-
-The agile manifesto
--------------------
-
-

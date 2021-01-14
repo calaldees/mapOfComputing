@@ -1,4 +1,5 @@
-
+rfc
+===
 
 * [How to Stop Endless Discussions](https://candost.blog/how-to-stop-endless-discussions/)
     * two types of people
