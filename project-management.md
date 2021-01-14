@@ -10,3 +10,6 @@ Project Management
     * > Leadership must occur at all levels: corporate, LOB, CFO, CIO, CTO, CISO and teams. Is technology project management cultural?  Absolutely. Companies must embrace and reward project management.  They must find and reward leaders – and punish those that cannot lead by clearing their project slates
     * > Companies are well aware of their leadership problems.  Very few have an abundance of good leaders; hardly any have a cadre of great ones
 
+Managing projects
+* [OpenProject](https://www.openproject.org/) - project management software
+* 

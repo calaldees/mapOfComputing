@@ -4,6 +4,10 @@ Design patterns
 https://en.wikipedia.org/wiki/Software_design_pattern
 
 
+
+* [Beginners Guide to Abstraction](https://jesseduffield.com/beginners-guide-to-abstraction/)
+
+
 * [The Grand Unified Theory of Software Architecture](https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html)
     * Beautifully short illustrative article
     * Summary of 'Clean Code' and 'thin imperative shell around a functional core'

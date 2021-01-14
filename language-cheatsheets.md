@@ -1,5 +1,5 @@
-Cheatsheets
-===========
+Language Cheatsheets
+====================
 
 ## Beginner
 
