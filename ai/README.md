@@ -1,5 +1,5 @@
-Artificial Intelligence
-=======================
+AI (Artificial Intelligence)
+============================
 
 * The elephant in the room in many education settings.
 * Mass public misunderstanding

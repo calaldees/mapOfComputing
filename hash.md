@@ -1,3 +1,6 @@
+Hash
+====
+
 What is a hash
 
 Where is it used

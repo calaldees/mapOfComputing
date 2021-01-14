@@ -13,6 +13,6 @@ Detection
 Correction
 ----------
 
-### Parity
+[[Parity]]
 
 Reconstruction?

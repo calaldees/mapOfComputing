@@ -18,15 +18,17 @@ has heatmap of png compression
 https://en.wikipedia.org/wiki/Discrete_cosine_transform
 
 
-* [jpeg.rocks](https://jpeg.rocks/)
-    * WebAssembly in browser `jpegoptim`
-
 
 * [An Invisible Tax on the Web: Video Codecs](https://blog.mozilla.org/blog/2018/07/11/royalty-free-web-video-codecs/)
     * H264 and H265 are patented codecs - playing video is not free
     * AV1 is open source
 
-JPEG
-----
+Image Compression
+-----------------
+
+### JPEG
 
 * [Understanding and Decoding a JPEG Image using Python](https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python/)
+* [jpeg.rocks](https://jpeg.rocks/)
+    * WebAssembly in browser `jpegoptim`
+
