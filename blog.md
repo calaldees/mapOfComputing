@@ -9,3 +9,10 @@ Blog
 
 Technical Posts
 [[see calaldees/blog/softwareEgnineering]]
+
+How to create one
+
+Markdown
+
+https://newcss.net/
+
