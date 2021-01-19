@@ -28,3 +28,8 @@ Simulation
     * [Building the Tamagotchi Singularity ](http://spritesmods.com/?art=tamasingularity)
     * [Building The Infinite Matrix Of Tamagotchis](https://hackaday.com/2015/11/24/building-the-infinite-matrix-of-tamagotchis/)
 
+
+* [King's Cross fire](https://en.wikipedia.org/wiki/King%27s_Cross_fire) - computer simulation of fire in 1980
+    * [Computer simulation of the  King’s Cross fire: effect of radiative heat transfer on fire spread](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.826.6629&rep=rep1&type=pdf)
+    * [Fire at King's Cross Underground Station, 18th November 1987: Numerical Solution of the Buoyant Flow and Heat Transfer.](https://www.researchgate.net/publication/287331079_Fire_at_King%27s_Cross_Underground_Station_18th_November_1987_Numerical_Solution_of_the_Buoyant_Flow_and_Heat_Transfer)
+  

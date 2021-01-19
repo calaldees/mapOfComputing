@@ -3,6 +3,7 @@ Maths
 
 
 * [linear-algebra](https://betterexplained.com/articles/linear-algebra-guide/)
+* [Dave's Short Course on Complex Numbers](https://www2.clarku.edu/faculty/djoyce/complex/)
 
 * [Green Tea Press](https://greenteapress.com/) Free books by Allen B. Downey
     * [Think Stats](http://greenteapress.com/thinkstats2/html/index.html)

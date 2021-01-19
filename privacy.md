@@ -100,6 +100,8 @@ https://citizenlab.ca/2020/05/we-chat-they-watch/
     * Local singing teacher blocked because of - drug references - WTF?! So I alerted her with blocked.org.uk
 * [‘Extremely aggressive’ internet censorship spreads in the world’s democracies](https://news.umich.edu/extremely-aggressive-internet-censorship-spreads-in-the-worlds-democracies/)
 
+* [DNS Watch](https://dns.watch/) - No Censorship. No Bullshit. Just DNS.
+
 Ethics
 ------
 (link to computingAcrossCurriculum)
