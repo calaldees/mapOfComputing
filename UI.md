@@ -50,6 +50,8 @@ Play at speed
 ADOM
 
 
+* [User power, not power users: htop and its design philosophy](https://hisham.hm/2020/12/18/user-power-not-power-users-htop-and-its-design-philosophy/)
+
 [Windows Explorer Through The Years](https://gekk.info/articles/explorer.html)
 
 Graphic Design

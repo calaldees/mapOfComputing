@@ -29,6 +29,10 @@ The confusing brackets
 * <>
     * no used?
 
+* `and`, `or`, `not`, `^` wtf python!
+* `0x11`==17 `0b11`==3 `0o11`==9
+* `hex()` `bin()` `oct()` to string `f'0b{number:08b}'`
+
 python arrays/lists are janky - it would be nice to use chainable functions
 * [funct](https://github.com/Lauriat/funct) enhanced functions for lists
 
@@ -141,4 +145,4 @@ Reference Implementation
 
 Performance logging - google chrome devtools viewer format? - automatically attach/analyse program
 
-* [python generator “send” function purpose?](https://stackoverflow.com/questions/19302530/python-generator-send-function-purpose)
+* [python generator "send" function purpose?](https://stackoverflow.com/questions/19302530/python-generator-send-function-purpose)

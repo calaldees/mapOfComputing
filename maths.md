@@ -4,7 +4,17 @@ Maths
 
 * [linear-algebra](https://betterexplained.com/articles/linear-algebra-guide/)
 * [Dave's Short Course on Complex Numbers](https://www2.clarku.edu/faculty/djoyce/complex/)
-
+* [Kenneth Kuttler](https://klkuttler.com/) books
+    * > personal website of Dr. Kenneth Kuttler. You can download these books as a PDF, or read them online without downloading
+    * One Variable Advanced Calculus
+    * Real and Abstract Analysis
+    * Calculus of One and Many Variables
+    * Calculus of Real and Complex Variables
+    * Elementary Linear Algebra
+    * Engineering Math
+    * Linear Algebra And Analysis
+    * Linear Algebra, Theory And Applications
+    * Topics In Analysis
 * [Green Tea Press](https://greenteapress.com/) Free books by Allen B. Downey
     * [Think Stats](http://greenteapress.com/thinkstats2/html/index.html)
     * [Think Bayes - Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/html/index.html) [pdf](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf)

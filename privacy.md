@@ -152,3 +152,6 @@ Unsorted
 * [No More Google](https://nomoregoogle.com/) Privacy-friendly alternatives to Google that don't track you
 * [You might not need to store plaintext email addresses](https://blog.klungo.no/2020/11/01/you-might-not-need-to-store-plaintext-emails/) - when you run a webservice, do you NEED to store the email address?
 * [Microsoft files patent to create chatbots from your dead loved ones](https://www.inputmag.com/culture/microsoft-files-patent-to-create-chatbots-from-your-dead-loved-ones)
+
+* [How to leave Google and why](https://jach.me/how-to-leave-google)
+* 

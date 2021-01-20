@@ -9,11 +9,14 @@ History of Computing
 * [Domesday86](https://www.domesday86.com/)
     * A UK custom laserdisk community project to document the nation before CD-ROMs
     * Currently undergoing a restoration project to run it on modern hardware
+* [Telex](https://vulcanhammer.info/2017/07/14/a-few-words-about-the-telex/) 1960 - text communication
 
 * [mandelbrot on an old IBM mainframe](http://www.righto.com/2015/03/12-minute-mandelbrot-fractals-on-50.html?m=1)
 
 * [archive.org](https://archive.org/)
     * Magazines, Software
+
+* [Computer History Wiki](https://gunkies.org/wiki/Main_Page)
 
 * [Apple II connecting via modem](https://www.youtube.com/watch?v=TAg0cQJ8Aag)
 * TODO: BBC archived educational videos from 80's

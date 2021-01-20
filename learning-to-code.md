@@ -40,6 +40,7 @@ My approach
 * guided examples mapped to theory
     * autonomy/responsibility
 
+* [psudocode quickref](https://tools.withcode.uk/quickref/) (equivalent of my cheatsheet idea)
 
 
 https://web.archive.org/web/20200309111959/https://sar3.ch/en/blog/kinder-programmieren-erfahrungen/
