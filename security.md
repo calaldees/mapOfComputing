@@ -67,3 +67,9 @@ Global Radio Login Gigya - 'Hacked by' alert
 * [System Bus Radio](https://github.com/fulldecent/system-bus-radio) - transmit radio from air-gapped computers with no radio hardware
 
 * [Stealing Your Private YouTube Videos, One Frame at a Time](https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/)
+
+
+* [Project Zero](https://googleprojectzero.blogspot.com/) - News and updates from the Project Zero team at Google
+    * [The State of State Machines ](https://googleprojectzero.blogspot.com/2021/01/the-state-of-state-machines.html)
+        * Video call mechanisms have state machine logic bugs. Investigating a range of protocols revealed most have state logic bugs
+        * Group FaceTime which allowed an attacker to call a target and force the call to connect without user interaction from the target, allowing the attacker to listen to the target’s surroundings without their knowledge or consent. 

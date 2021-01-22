@@ -25,3 +25,9 @@ Maths
         * An introduction to complexity science, which includes small world graphs, scale-free networks, cellular automata, fractals and pink noise, self-organized criticality, and agent-based models.
 
 * [How much math you need for programming ](https://lispmachine.wordpress.com/2014/12/05/how-much-math-you-need-for-programming/)
+
+
+Matrix
+------
+
+* [How to Multiply Matrices](https://www.mathsisfun.com/algebra/matrix-multiplying.html)

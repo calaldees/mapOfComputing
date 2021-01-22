@@ -133,7 +133,9 @@ Advanced Modules
 
 * [Trailtlets](https://github.com/ipython/traitlets) for config
 
-
+* [toolz](https://toolz.readthedocs.io/en/latest/index.html)
+    * Functional, Composable, Lazy tools for python
+    * (kind of annoying that these are not part of the standard language)
 
 * [brython](https://brython.info/) - Python3 in the browser instead of javascript
 
