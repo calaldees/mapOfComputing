@@ -18,6 +18,11 @@ Download Ubuntu Desktop iso
 VirtualBox enable vt-x and nested pageing (may not be available if another virtulisation system is running)
 2 way clipboard
 
+### Firecracker
+
+* [Firecracker: start a VM in less than a second](https://jvns.ca/blog/2021/01/23/firecracker--start-a-vm-in-less-than-a-second/)
+    * cool case study on using vms for live coding problems
+
 
 Raspberry pi
 -------------
