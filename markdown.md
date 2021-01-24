@@ -6,7 +6,7 @@ What is MarkDown
 ----------------
 
 * [markdownguide.org](https://www.markdownguide.org/)
-* [Markdown CheatSheet](https://devhints.io/markdown)
+* Markdown [CheatSheet](https://devhints.io/markdown) [CheatSheet2](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Basic Github Syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
 

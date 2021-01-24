@@ -32,3 +32,9 @@ todo Simulators? browser based?
         * [4-Bit CPU](https://simulator.io/samples#sample10)
 * [Logic Gate Simulator](https://academo.org/demos/logic-gate-simulator/)
     * A free, simple, online logic gate simulator. Investigate the behaviour of AND, OR, NOT, NAND, NOR and XOR gates
+
+Builds
+------
+
+* [Building a Relay Computer from Scratch](https://relaycomputer.co.uk/pages/overview.html)
+    * Video and description of machine and assembly instructions

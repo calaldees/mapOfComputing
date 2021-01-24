@@ -1,6 +1,10 @@
 GIT
 ===
 
+[git](https://git-scm.com/)
+
+* Beginners might start with [github native](https://desktop.github.com/)
+* Aspiring pros use _commandline_ `status`, `push`, `pull`, `commit`, `add`
 
 Version control!!
 

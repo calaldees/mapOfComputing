@@ -27,7 +27,9 @@ https://threadreaderapp.com/thread/927593460642615296.html
         * Every action should be undoable, even after a document or application has been closed and reopened.
         * warning screen ... are unhelpful because users tend to ignore them out of habit,
         * graphic icons in software without any accompanying text are often cryptic to users
-        * there should be only one way to accomplish a certain atomic task 
+        * there should be only one way to accomplish a certain atomic task
+* [Remembering Windows 3.1 themes and user empowerment](https://hisham.hm/2019/07/26/remembering-windows-31-themes-and-user-empowerment/)
+    * You used to have ownership and customisation of your machine
 
 Bluring the lines
 Ad's and content indistinguishable?
