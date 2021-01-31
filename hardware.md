@@ -10,10 +10,12 @@ Interupt handlers
 computers
 ---------
 
-IBM PC - 8086
-http://www.righto.com/2020/06/die-shrink-how-intel-scaled-down-8086.html
-http://www.righto.com/2020/08/latches-inside-reverse-engineering.html
+* IBM PC - 8086
+    * http://www.righto.com/2020/06/die-shrink-how-intel-scaled-down-8086.html
+    * http://www.righto.com/2020/08/latches-inside-reverse-engineering.html
 
+* [siliconpr0n.org](https://siliconpr0n.org/)
+    * High resolution chip maps
 
 retro consoles
 --------------

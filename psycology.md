@@ -50,3 +50,12 @@ Behaviour imitated observed by children
 
 * [New Defaults](https://stratechery.com/2021/new-defaults/)
     * Essay about vaccines, software company ethos, public opinion and public choice
+
+* [Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites](https://webtransparency.cs.princeton.edu/dark-patterns/)
+    * Sneaking
+    * Urgency
+    * Misdirection
+    * Social proof
+    * Scarcity
+    * Obstruction
+    * Forced action

@@ -102,6 +102,7 @@ Editors
     * [Obsidian](https://obsidian.md/) is a powerful knowledge base that works on top of a local folder of plain text Markdown files
     * [zettlr](https://www.zettlr.com/) A Markdown editor for the 21st century 
     * [Trilium Notes](https://github.com/zadam/trilium) is a hierarchical note taking application with focus on building large personal knowledge bases
+    * [MindForger](https://www.mindforger.com/)
 * Browser
     * [Github Markdown Support](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
         * Basic (no diagram plugins)

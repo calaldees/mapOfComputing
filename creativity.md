@@ -22,8 +22,7 @@ Creative Code
     * Similar to AI voice recodnition hack at Global
     * AMAZING creative visuals
 
-[Made It For Fun](https://madeitfor.fun/) A stupid website for animating images on top of videos
-
+* [Made It For Fun](https://madeitfor.fun/) A stupid website for animating images on top of videos
 
 Hacking/Making/Building Culture
 -------------------------------

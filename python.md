@@ -128,6 +128,14 @@ from collections import defaultdict, namedtuple, ChainMap, deque
 
 https://github.com/SigmaQuan/Better-Python-59-Ways
 
+### Type checking in python
+
+Useful? Or unneeded complexity?
+Surely this defeats the purpose of a dynamic language?
+
+* [Python's type checking renaissance](https://dafoster.net/articles/2021/01/26/python%27s-type-checking-renaissance/)
+
+
 Advanced Modules
 ----------------
 

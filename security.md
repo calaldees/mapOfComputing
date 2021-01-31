@@ -1,6 +1,22 @@
 Hacking and Security
 ====================
 
+* 75% of all attacks are phishing
+* Social engineering
+* Malware
+    * virus
+    * trogan
+* Randomware
+* Spyware/adware
+* Hacking DDoS
+
+* fake phishing emails - get data on links/replys - levels of difficulty
+* Vishing (voice call phishing)
+    * never take unsolicited calls
+* multi factor authentication
+* passowrd managers (dont use the same password)
+
+
 You can't add it later
 
 Question: how will you know you've had a data breach?
@@ -53,7 +69,6 @@ School Technitions and network admins about supporting students with security in
 Keyloggers
 
 
-specter
 
 Audio SSH RSA key reteaval
 
@@ -73,3 +88,4 @@ Global Radio Login Gigya - 'Hacked by' alert
     * [The State of State Machines ](https://googleprojectzero.blogspot.com/2021/01/the-state-of-state-machines.html)
         * Video call mechanisms have state machine logic bugs. Investigating a range of protocols revealed most have state logic bugs
         * Group FaceTime which allowed an attacker to call a target and force the call to connect without user interaction from the target, allowing the attacker to listen to the target’s surroundings without their knowledge or consent. 
+* [HeartBleed](https://heartbleed.com/)

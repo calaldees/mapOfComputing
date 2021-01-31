@@ -1,6 +1,7 @@
 Maths
 =====
 
+* [Map of Mathematics](https://mathmap.quantamagazine.org/map/)
 
 * [linear-algebra](https://betterexplained.com/articles/linear-algebra-guide/)
 * [Dave's Short Course on Complex Numbers](https://www2.clarku.edu/faculty/djoyce/complex/)
@@ -31,3 +32,7 @@ Matrix
 ------
 
 * [How to Multiply Matrices](https://www.mathsisfun.com/algebra/matrix-multiplying.html)
+
+---
+
+* [math inspector](https://mathinspector.com/) - A Visual Programming Environment for Scientific Computing

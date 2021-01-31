@@ -12,4 +12,9 @@ Project Management
 
 Managing projects
 * [OpenProject](https://www.openproject.org/) - project management software
-* 
+
+
+* [Escaping the roadmap trap](https://productcrunch.substack.com/p/escaping-the-roadmap-trap)
+  * Stop chasing your feature development plan and start crafting strategic product roadmaps
+  * Have discovery on your roadmap
+  * Have OKR's and user objectives

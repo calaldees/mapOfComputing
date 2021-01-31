@@ -109,3 +109,6 @@ Programming Tips
 
 * [2-Acre Vertical Farm Run By AI And Robots Out-Produces 720-Acre Flat Farm](https://www.intelligentliving.co/vertical-farm-out-produces-flat-farm/)
     * [The future of farms is vertical: 400X more yield, 95% less water, 99% less space](https://www.youtube.com/watch?v=0uXdnjXIGjI&feature=emb_logo) Nov 2020 30min interview
+
+* [Deskreen](https://github.com/pavlobu/deskreen)
+    * turns any device with a web browser to a second screen for your computer 

@@ -55,7 +55,8 @@ https://caffeine.js.org/
 Formal Specification
 --------------------
 
-[TLA+](https://learntla.com/)
+* [TLA+](https://learntla.com/)
+* [z3](https://research.nccgroup.com/2021/01/29/software-verification-and-analysis-using-z3/) - formal specification with Z?
 
 
 * [Principles of Programming Languages](http://www.cs.nott.ac.uk/~pszgmh/popl.pdf) Graham Hutton 1997

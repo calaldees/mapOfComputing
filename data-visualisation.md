@@ -1,6 +1,18 @@
 Data Visualisation
 ==================
 
+* Historical [Data Visualization and the Modern Imagination](https://exhibits.stanford.edu/dataviz/)
+    * Example of old visualisations from 1900+ as the field grew
+    * [Three-dimensional model of electricity consumption in Manchester](https://collection.sciencemuseumgroup.org.uk/objects/co8418916/three-dimensional-model-of-electricity-consumption-in-manchester-chart-graphic-document)
+
+* [Charles Joseph Minard](https://en.wikipedia.org/wiki/Charles_Joseph_Minard)
+    * was a French civil engineer recognized for his significant contribution in the field of information graphics in civil engineering and statistics. Minard was, among other things, noted for his representation of numerical data on geographic maps, especially his flow maps
+    * The map of Napoleon's Russian campaign
+
+* [idea.org.uk: Data Visualization Online lesson 10min](https://idea.org.uk/badge/data-visualisation)
+    * Napolion map
+    * pre-attentive visual attributes
+        * Length, width, orientation, size, enclosure, color intensity, color hue, curvature, shape, spatial grouping, 2d position
 
 
 * [Data Visualisation](https://en.wikipedia.org/wiki/Data_visualization)

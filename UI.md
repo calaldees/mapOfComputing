@@ -51,7 +51,7 @@ Accessibility is not optional
 Play at speed
 ADOM
 
-
+* [NYXT Browser: visual-mode: mouse-free copy](https://nyxt.atlas.engineer/article/visual-mode.org)
 * [User power, not power users: htop and its design philosophy](https://hisham.hm/2020/12/18/user-power-not-power-users-htop-and-its-design-philosophy/)
 
 [Windows Explorer Through The Years](https://gekk.info/articles/explorer.html)
