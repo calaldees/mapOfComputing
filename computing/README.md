@@ -19,7 +19,10 @@ Computing
 * [[game]]
 * [[web]]
 
-* [Everything I Know](https://wiki.nikitavoloboev.xyz/) - Another knowlege base (that's awesome)
+* Other knowlege bases
+    * [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources)
+    * [Everything I Know](https://wiki.nikitavoloboev.xyz/) - Another knowlege base (that's awesome)
+
 * [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
     * Project to build advanced uses of computer science
 
@@ -31,7 +34,6 @@ Computing
 [Graphics]: graphics.md "Graphics"
 [Cryptography]: cryptography.md "Cryptography"
 [Software Engineering]: software-engineering.md "Software Engineering"
-[developer-tooling]: ../teacherTraining/developer-tooling.md "Developer Tooling"
 [operating-systems]: operating-systems.md "Operating Systems"
 [history-of-computing]: history-of-computing.md "History of Computing"
 [theory]: theory.md "Theory"
