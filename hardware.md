@@ -23,3 +23,7 @@ retro consoles
 Sprite layers (shish gb emulator?)
 ROM
 
+processors
+----------
+
+* [Intel® Processor Names and Numbers](https://www.intel.com/content/www/us/en/processors/processor-numbers.html) 2010+

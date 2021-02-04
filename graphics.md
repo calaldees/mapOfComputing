@@ -10,6 +10,9 @@ Graphics
 * [[Timelaps]]
 * [[Vector]]
 
+* [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/) book
+    * Ray-tracing
+    * Rasterisation
 
 * [Worldsheet: Wrapping the World in a 3D Sheet for View Synthesis from a Single Image](https://worldsheet.github.io/)
     * 2d image + bump map -> 3d scene

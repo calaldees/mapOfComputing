@@ -9,6 +9,29 @@ Fonts
 * Raster Fonts
     * [Arcade Game Typography](https://readonlymemory.vg/shop/book/arcade-game-typography/)
     * [NFG's Arcade Font Engine](https://nfggames.com/games/fontmaker/lister.php)
+        * ```python
+            def font_loader(filename, sequence='ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789', size=8, font_name='aof2'):
+                """
+                Load fonts for use with PyGame
+                https://nfggames.com/games/fontmaker/index.php
+                https://nfggames.com/system/arcade/arcade.php/y-pabom/z-0/x-ABCDEFGHIJKLMNOPQRSTUVWXYZ01234567890
+                """
+                filename = Path(filename)
+                # Download font if it does not exist
+                if not filename.exists():
+                    filename.parent.mkdir(parents=True, exist_ok=True)
+                    url = f'https://nfggames.com/system/arcade/arcade.php/y-{font_name}/z-{(size/8)-1}/x-{sequence}'
+                    with urllib.request.urlopen(url) as url_request, filename.open(mode='wb') as filehandle:
+                        filehandle.write(url_request.read())
+                # Load font to dict
+                image = pygame.image.load(str(filename))
+                return MappingProxyType({
+                    character: image.subsurface((i*size, 0, size, size))
+                    for i, character in enumerate(sequence)
+                })
+          ```
+    * [BitmapFonts](https://github.com/ianhan/BitmapFonts)
+        * My collection of bitmap fonts pulled from various demoscene archives over the years
     * [opengameart.org pixel font pack](https://opengameart.org/content/bitmap-font-pack)
 * TrueType
     * [Lexend](https://www.lexend.com/)

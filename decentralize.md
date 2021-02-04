@@ -13,6 +13,7 @@ Decentralize
     * Email is a protocol
     * You control your data - could be funded by cryptocurrency.
     * Great thoughtful article!
+    * [Personium](https://personium.io/en/index.html) - open source personal datastore
 * [Social Ecosystem Review](https://matrix.org/_matrix/media/r0/download/twitter.modular.im/981b258141aa0b197804127cd2f7d298757bad20) Jan 2021
     * ActivityPub•GUN•Hypercore Protocol (Dat)•IPFS•Matrix•Peergos•Solid•XMPP
 
