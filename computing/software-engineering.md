@@ -45,7 +45,12 @@ I was looking at case studies for [[telematry]] and was thinking of practical us
             * How often are engineers required to context switch, preventing deep work?
             * How often do engineers receive pages outside of business hours, interrupting their sleep or family life?
         * An engineering leader exists to enable their team to achieve their goals
-
+* [How to hire senior developers: Give them more autonomy](https://hiringengineersbook.com/post/autonomy/)
+    * (insightful article about the value of code and the value of developers) - code is the manifestation of the the understanding of a problem
+    * Your source code is worthless
+    * The main value of a software company is the mapping of source code and problem space in the developer’s heads
+    * developers should be given more responsibility and regarded as permanent assets to the company.
+    * If you’re in a management position, you need to realize that development is mainly decision making, which of course only works if you’re given the necessary autonomy to make those decisions.
 
 * [What I’ve Learned in 45 Years in the Software Industry](https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/)
 
