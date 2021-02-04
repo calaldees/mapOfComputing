@@ -60,6 +60,7 @@ Technologies
     * [MarP: Markdown Presentation Ecosystem](https://marp.app/)
         * [vscode marp](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
     * [DeckDown](http://deckdown.org/)
+    * [fusuma](https://hiroppy.github.io/fusuma/) - [github/fusuma](https://github.com/hiroppy/fusuma)
     * [johnloy/markdown-for-slide-decks.md](https://gist.github.com/johnloy/27dd124ad40e210e91c70dd1c24ac8c8)
 * Books
     * [bookdown.org](https://bookdown.org/)
