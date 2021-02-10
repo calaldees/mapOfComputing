@@ -66,7 +66,12 @@ Browser Based
 * [gitpod.io](https://gitpod.io)
     * Browser editor linked to github/gitlab
 
+Terminal
+--------
 
+* [an atonement of nano](https://www.noa-s.org/nano.html)
+    * for years nano has been nothing but a mockery for those who use emacs or vim. 
+    *  nano is a friendly and pragmatic editor, but it's no notepad. nano has depth
 * [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
     * [antirez kilo](http://antirez.com/news/108)
     * Pure C - no dependencies

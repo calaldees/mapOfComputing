@@ -30,7 +30,7 @@ Fonts
                     for i, character in enumerate(sequence)
                 })
           ```
-    * [BitmapFonts](https://github.com/ianhan/BitmapFonts)
+    * [BitmapFonts](https://github.com/ianhan/BitmapFonts/blob/main/README.md)
         * My collection of bitmap fonts pulled from various demoscene archives over the years
     * [opengameart.org pixel font pack](https://opengameart.org/content/bitmap-font-pack)
 * TrueType

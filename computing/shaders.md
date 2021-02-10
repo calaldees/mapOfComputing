@@ -4,6 +4,7 @@ Shaders
 * [The Book of Shaders](https://thebookofshaders.com/) - a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders
 * [shadertoy.com](https://www.shadertoy.com/) - Build and Share your best shaders with the world and get Inspired
     * [Winding Menger Tunnel](https://www.shadertoy.com/view/4scXzn)
+* [godotshaders.com](https://godotshaders.com/) - Godot Shaders is a community-driven shader library for the Godot game engine
 * [Pixel Shaders in Windows Terminal](https://github.com/microsoft/terminal/tree/main/samples/PixelShaders)
 
 HLSL

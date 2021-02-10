@@ -17,7 +17,8 @@ Operating Systems
 
 * [[history-of-operating-systems]]
 
-
+* [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) free ebook 2021
+    * virtualization, concurrency, and persistence
 
 
 * [Bring back the ease of 80s and 90s personal computing](https://medium.com/@probonopd/bring-back-the-ease-of-80s-and-90s-personal-computing-393738c5e2a1)

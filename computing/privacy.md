@@ -157,4 +157,8 @@ Unsorted
 * [Microsoft files patent to create chatbots from your dead loved ones](https://www.inputmag.com/culture/microsoft-files-patent-to-create-chatbots-from-your-dead-loved-ones)
 
 * [How to leave Google and why](https://jach.me/how-to-leave-google)
-* 
+* [Developer of #Terraria](https://twitter.com/Demilogic/status/1358661842147692549)
+    * > @Google my account has now been disabled for over 3 weeks. I still have no idea why, and after using every resource I have to get this resolved you have done nothing but given me the runaround.
+    * > My phone has lost access to thousands of dollars of apps on @GooglePlay. I had just bought LOTR 4K and can't finish it. My @googledrive data is completely gone. I can't access my @YouTube channel. The worst of all is losing access to my @gmail address of over 15 years.
+    * > I absolutely have not done anything to violate your terms of service, so I can take this no other way than you deciding to burn this bridge. Consider it burned. #Terraria for @GoogleStadia is canceled. My company will no longer support any of your platforms moving forward.
+* There is no recourse or process to get your account back.

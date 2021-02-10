@@ -15,6 +15,8 @@ Networks
 * [XMPP](https://en.wikipedia.org/wiki/XMPP) - is a communication protocol for message-oriented middleware based on XML - formerly Jabba
 * [matrix.org](https://www.matrix.org/docs/projects/try-matrix-now) - A new basis for open, interoperable, decentralised real-time communication
 
+* MAC address
+    * [Change your MAC address with a shell script](https://josh.works/shell-script-basics-change-mac-address)
 
 
 CSMACD

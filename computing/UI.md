@@ -1,6 +1,11 @@
 UI - User Interfaces
 ====================
 
+* [Collection of Human Interface and Software Design Guides](http://www.geofcrowl.com/blog/articles/2020/2/17/collection-higs/)
+
+* Android
+    * [Material Design](https://material.io/)
+
 * tweet [Blackboard is aweful, here is why](https://twitter.com/dreen_gb/status/1335898204936806400) Greg Balaga @dreen_gb
 
 [Windows 95](https://twitter.com/tuomassalo/status/978717292023500805)

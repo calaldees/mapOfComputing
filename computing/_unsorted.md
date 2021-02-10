@@ -112,3 +112,6 @@ Programming Tips
 
 * [Deskreen](https://github.com/pavlobu/deskreen)
     * turns any device with a web browser to a second screen for your computer 
+
+* [Web Microphone Spectrogram](https://borismus.github.io/spectrogram/)
+    * Use a microphone to visualise frequencies of the input in a spectrogram

@@ -23,6 +23,8 @@ Computing
     * [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources)
     * [Everything I Know](https://wiki.nikitavoloboev.xyz/) - Another knowlege base (that's awesome)
 
+* [The Elements of Computing Systems, Second Edition](https://mitpress.mit.edu/books/elements-computing-systems-second-edition) Building a Modern Computer from First Principles
+
 * [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
     * Project to build advanced uses of computer science
 

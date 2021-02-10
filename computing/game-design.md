@@ -16,3 +16,8 @@ flappy birds
 Turn based Survival
  Where Time Stood Still
  Neo Scavenger
+
+* [soldat.pl](https://soldat.pl/en/)
+    * > One of the most addictive and fast-paced online multiplayer experiences ever created.
+    * Free, Open Source, Multiplatform
+    * [github.com/Soldat/](https://github.com/Soldat/soldat)
