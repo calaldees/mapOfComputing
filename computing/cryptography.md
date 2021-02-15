@@ -3,6 +3,8 @@ Cryptography
 
 Based off [[Random Number Generation]] number generation.
 
+* [So, You Want to Learn to Break Ciphers](https://littlemaninmyhead.wordpress.com/2015/09/28/so-you-want-to-learn-to-break-ciphers/)
+    * Book recommendations and examples
 * [Cracking Codes with Python](https://inventwithpython.com/cracking/)
     * Beginners journey into cryptography with python
 
@@ -18,7 +20,7 @@ rest of this site is all about understanding crypto
 
 * [Why I’m Writing A Book On Cryptography](https://www.cryptologie.net/article/504/why-im-writing-a-book-on-cryptography/)
     * [Real-World Cryptography](https://www.manning.com/books/real-world-cryptography?a_aid=Realworldcrypto&a_bid=ad500e09)
-
+* [(Very) Basic Intro to Elliptic Curve Cryptography](https://qvault.io/2020/09/17/very-basic-intro-to-elliptic-curve-cryptography/)
 
 * [Computer Scientists Achieve ‘Crown Jewel’ of Cryptography](https://www.quantamagazine.org/computer-scientists-achieve-crown-jewel-of-cryptography-20201110/)
     * A cryptographic master tool called indistinguishability obfuscation has for years seemed too good to be true. Three researchers have figured out that it can work

@@ -4,6 +4,7 @@ Logical Organization
 * [How These Things Work: The Preface](https://reasonablypolymorphic.com/book/preface)
     * The foundations of computing from scratch
 
+* [From Transistors To Tetris Part 1 : Computer Architecture](https://www.youtube.com/watch?v=6caLyckwo7U) 20min
 * [From Transistors to Functions](https://www.cs.bu.edu/~best/courses/modules/Transistors2Gates/)
 * [Computer Logical Organization - Overview](https://www.tutorialspoint.com/computer_logical_organization/computer_logical_organization_quick_guide.htm)
     * binary

@@ -1,3 +1,6 @@
+Hardware
+========
+
 Low level
 
 (reference electronics - adder, multiplexor, )
@@ -27,3 +30,12 @@ processors
 ----------
 
 * [Intel® Processor Names and Numbers](https://www.intel.com/content/www/us/en/processors/processor-numbers.html) 2010+
+
+Open Hardware
+-------------
+
+* [pine64.org](https://www.pine64.org/)
+    * Open laptops, phones, watch, other
+* [EOMA68 Laptop](https://www.linux-magazine.com/Online/Features/A-Free-Laptop-Project)
+    * 3d printed open laptop
+* 

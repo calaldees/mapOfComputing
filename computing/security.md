@@ -89,3 +89,6 @@ Global Radio Login Gigya - 'Hacked by' alert
         * Video call mechanisms have state machine logic bugs. Investigating a range of protocols revealed most have state logic bugs
         * Group FaceTime which allowed an attacker to call a target and force the call to connect without user interaction from the target, allowing the attacker to listen to the target’s surroundings without their knowledge or consent. 
 * [HeartBleed](https://heartbleed.com/)
+
+* [Open Web Application Security Project® (OWASP)](https://owasp.org/) is a nonprofit foundation that works to improve the security of software.
+    * [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/index.html) - how to write security centred software

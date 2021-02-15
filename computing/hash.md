@@ -13,6 +13,7 @@ Why
 https://github.com/in3rsha/sha256-animation
 https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/
 
+* [High Speed Hashing for Integers and Strings](https://arxiv.org/abs/1504.06804)
 
 Data-space
 [What 3 Words](https://what3words.com/) - Entire planet in 3m squares from 3 words

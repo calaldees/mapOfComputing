@@ -30,6 +30,7 @@ Shells
   * powershell
   * wsl (bash)
 * Linux
+  * [Alternative-Shells](https://github.com/oilshell/oil/wiki/Alternative-Shells)
   * sh
   * bash (5+)
     * [bash CheatSheet](https://devhints.io/bash)

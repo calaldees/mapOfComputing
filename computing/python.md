@@ -5,7 +5,8 @@ python3
     * Loads of topics - begginer, algorithums, web, bioinformatis, visulisations
 * [A Python Book: Beginning Python, AdvancedPython, and Python Exercises](http://www.davekuhlman.org/python_book_01.pdf) Dave Kuhlman 2013
     * [online course version](http://www.davekuhlman.org/python_course_03.html)
-[Learn Python for Data Science](https://github.com/blobcity/python-for-data-science) - Basics of python in juyter notebooks
+* [Beej's Guide to Python Programming For Beginners](https://beej.us/guide/bgpython/)
+* [Learn Python for Data Science](https://github.com/blobcity/python-for-data-science) - Basics of python in juyter notebooks
 
 The confusing brackets
 * []

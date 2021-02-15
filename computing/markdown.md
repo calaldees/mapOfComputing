@@ -66,7 +66,9 @@ Technologies
     * [bookdown.org](https://bookdown.org/)
         * [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
         * [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
-
+* Web (blog)
+    * Article
+        * [Blog with Markdown + Git, and degrade gracefully through time](https://brandur.org/fragments/graceful-degradation-time)
 
 
 Specs
@@ -291,6 +293,13 @@ Diagram Extensions Examples
     V:3 name="Bass" snm="b" clef=bass  
     D3 D3 | D6 | D3 D3 | D6 ||
     ```
+* More
+    * [CommonMark Extensions](https://irosyadi.gitbook.io/irosyadi/markdown/library-extended-commonmarks)
+        * Vega and Vega-lite
+            * Graphs
+        * Railroad
+            * Sequence
+
 
 Other text systems
 ------------------

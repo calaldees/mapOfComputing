@@ -31,6 +31,11 @@ AI (Artificial Intelligence)
 
 [Open Source Tools & Data for Music Source Separation](https://source-separation.github.io/tutorial/landing.html)
 
+* [Self-Organising Textures](https://distill.pub/selforg/2021/textures/)
+    * Neural Cellular Automata Model of Pattern Formation
+    * Growing textures
+
+
 [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
 AI is made by men (??!?)

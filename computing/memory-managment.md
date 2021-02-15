@@ -7,6 +7,8 @@ detructor
 
 memory leaks
 
+* [Linux memory management](http://landley.net/writing/memory-faq.txt)
+
 Garbage Collection
 ------------------
 
