@@ -7,6 +7,7 @@ Software Engineering
 * [[Project Management]]
 * [[rfc]]
 * [[testing]]
+* [[automated-testing]]
 * [[Software Industry]]
 * [[Technical Dept]]
 * [[hypothesis-driven-development]]
@@ -99,6 +100,7 @@ I was looking at case studies for [[telematry]] and was thinking of practical us
 [Project Management]: project-management.md "Project Management"
 [rfc]: rfc.md "rfc"
 [testing]: testing.md "Testing"
+[automated-testing]: automated-testing.md "Automated Testing"
 [Software Industry]: software-Industry.md "Software Industry"
 [Technical Dept]: technical-dept.md "Technical Dept"
 [hypothesis-driven-development]: hypothesis-driven-development.md "Hypothesis Driven Development"

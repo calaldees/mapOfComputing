@@ -83,9 +83,11 @@ https://www.forbes.com/sites/laurencebradford/2016/11/17/15-questions-technical-
 4. What are three of your weaknesses?
 
 Mine
+* What are the new features in the latest release of _your language here_
 * Describe what you contributed to your last team/project
 * Can you tell me about a project that failed and articulate why
 * You are working on a ticket - you have knowledge about the system and the it is used by users - you think you can add some useful functionality that is not directly specified in the ticket - what do you do?
+
 
 Code Questions
 --------------
