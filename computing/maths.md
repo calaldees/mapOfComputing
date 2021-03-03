@@ -3,6 +3,20 @@ Maths
 
 * [Map of Mathematics](https://mathmap.quantamagazine.org/map/)
 
+* [Discovering Statistics Using IBM SPSS Statistics](https://www.discoveringstatistics.com/books/dsus/) Andy Field
+    * > With an exciting new look, new characters to meet, and its unique combination of humour and step-by-step instruction, this award-winning book is the statistics lifesaver for everyone. From initial theory through to regression, factor analysis and multilevel modelling, Andy Field animates statistics and SPSS software with his famously bizarre examples and activities.
+    * > using SPSS to illustrate important statistical material and, through graphics, to make visible important approaches to data analysis. There are many places in the book where I had to laugh, and that’s saying a lot for a book on statistics
+* [Things to Make and Do in the Fourth Dimension](https://makeanddo4d.com/)
+    * Hello, my name is Matt Parker and I’m a mathematician and stand-up comedian. I’m one-third of Festival of the Spoken Nerd, I write for newspapers (The Guardian and the Telegraph) as well as presenting TV and radio programs (BBC, Channel 4, Discovery). But I seem to be most famous for my work on the [Numberphile youtube channel](https://www.youtube.com/user/numberphile).
+    * [The Golden Ratio (why it is so irrational) - Numberphile](https://www.youtube.com/watch?v=sj8Sg8qnjOg) 15min
+* [Coding the Matrix](https://codingthematrix.com/) - Linear Algebra Through Computer Science Applications
+    * eBook - free
+    * Perspective rectification
+    * Search Audio - Search Subimage
+    * Lossy Compression
+    * Face detection
+    * 2D transforms (rotation) -> camera in 3d space
+    * Minimum spanning tree
 * [linear-algebra](https://betterexplained.com/articles/linear-algebra-guide/)
 * [Dave's Short Course on Complex Numbers](https://www2.clarku.edu/faculty/djoyce/complex/)
 * [Kenneth Kuttler](https://klkuttler.com/) books

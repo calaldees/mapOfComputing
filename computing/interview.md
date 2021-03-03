@@ -1,6 +1,13 @@
 Interview Questions
 ===================
 
+* [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
+    * [educative.io](https://www.educative.io/)
+        * Courses for interview preparation
+
+* [My experience as a Gazan girl getting into Silicon Valley companies](https://daliaawad28.medium.com/my-experience-as-a-gazan-girl-getting-into-silicon-valley-companies-488062d769a1) Dalia Awad 2021
+
+
 https://github.com/yangshun/tech-interview-handbook
 
 * [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz#Programming_interviews) [_](https://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/)
@@ -58,16 +65,16 @@ https://www.forbes.com/sites/laurencebradford/2016/11/17/15-questions-technical-
 2. If you could design your dream job, what would it look like?
 3. Can you tell me about a side project you've worked on (outside of school or work) in the past year or so?
     * Possibly not overly convinced about this. people with familys and limited time can still be good engineers
-5. How did you first learn to program and what was the first thing you built?
+4. How did you first learn to program and what was the first thing you built?
     * Guageing exitement
-6. Describe a co-workers style
+5. Describe a co-workers style
     * Most candidates can't articulate this
-7. Which of your managers gets the best results and most value out of you and why?
-11. If I were to ask your last set of coworkers to describe you, what do you think they'd say?
+6. Which of your managers gets the best results and most value out of you and why?
+7.  If I were to ask your last set of coworkers to describe you, what do you think they'd say?
     *  Consider self reflection
-12. Have you made an account on our website and what do you think can be improved about the process?
+8.  Have you made an account on our website and what do you think can be improved about the process?
     * Only applicable if your company has a public visible website
-15. What’s the one thing we haven’t asked you about that you want to make sure we know?
+9.  What’s the one thing we haven’t asked you about that you want to make sure we know?
 
 [](https://www.roberthalf.com/blog/how-to-interview-candidates/7-must-ask-tech-interview-questions)
 3. Pretend I’m not a tech person. Can you explain [a relevant technology] in simple terms?

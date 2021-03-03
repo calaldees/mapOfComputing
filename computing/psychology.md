@@ -1,6 +1,28 @@
 Psychology
 ==========
 
+* [Psychology of Computing: Crash Course Computer Science #38](https://www.youtube.com/watch?v=DEHsvQ3Ylwg) 12min
+    * Social cognitive behaviour principles
+    * Badly designed interface - poor usability
+    * Order Color intensity good - order colours BAD!
+    * Colours are good for categories
+    * 7 items +- 2
+        * Chunks
+    * Menus are chunked to visually scan/access
+    * Affordances - strong clues - nobs/turn slots/insert
+        * A door-handle that you need to push is poor affordance
+    * Knelling - Draggable texture
+    * Icons - visual action
+    * Conflicts with _expertise_
+        * Copy/Paste -> menu + hotkeys
+    * The field of _Affective Computing_
+    * People shown more positive -> post positive
+        * > The Facebook study wasn't controversial because of what it showed. It was controversial because Facebook didn't even do a minimum of ethical approval. Participants did not consent to a study (at least not knowingly). So while it was legal (because the law doesn't care about whether you are aware of what you agree to) it was definitely not ethical. TL;DR: The FB study would have had the researcher kicked out of any accredited school anywhere for ethical violations.
+    * Mutual Gaze
+        * Watching lectures online means the instuctor is looking at audience, not camera
+    * Webcam lacks eye contact
+
+
 Stockholm Toll talk
 https://www.ted.com/talks/jonas_eliasson_how_to_solve_traffic_jams/transcript?language=en
 

@@ -1,6 +1,7 @@
 Memory Management
 =================
 
+
 Security - buffer overflow
 malloc
 detructor
@@ -15,4 +16,10 @@ Garbage Collection
 Safe
 in oppertunne time - problems with realtime + guaranteed
 
+
+
+Virtual Memory
+--------------
+
+* [Virtual Memory: 2 Three problems with Memory](https://www.youtube.com/watch?v=eSPFB-xF5iM)
 

@@ -18,3 +18,4 @@ Managing projects
   * Stop chasing your feature development plan and start crafting strategic product roadmaps
   * Have discovery on your roadmap
   * Have OKR's and user objectives
+

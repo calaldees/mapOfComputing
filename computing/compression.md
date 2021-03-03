@@ -2,22 +2,29 @@ Compression
 ===========
 
 RLE
+---
 
 Huffman
+-------
+* [What is Huffman Coding?](https://www.baseclass.io/huffman-coding/)
 
 
-
-* [MONOSPACE](http://www.p01.org/MONOSPACE/): Flip dots with feelings, a JavaScript demo in 1021 bytes, winner of the 1024 bytes demo competition at Assembly 2020
-
-has heatmap of png compression
-    * [PNGStore](https://www.iamcal.com/png-store/)
+* Visible huffman heatmap
+    * [MONOSPACE](http://www.p01.org/MONOSPACE/): Flip dots with feelings, a JavaScript demo in 1021 bytes, winner of the 1024 bytes demo competition at Assembly 2020
+        * [PNGStore](https://www.iamcal.com/png-store/)
 
 
-[vectorly](https://vectorly.io/) Vector video on the web (startup beta) - this is a HARD problem - I don't know how far they will get
+New techniques
+--------------
+* [vectorly](https://vectorly.io/) Vector video on the web (startup beta) - this is a HARD problem - I don't know how far they will get
+
+Algorithms
+-----------
 
 https://en.wikipedia.org/wiki/Discrete_cosine_transform
 
-
+Licencing
+---------
 
 * [An Invisible Tax on the Web: Video Codecs](https://blog.mozilla.org/blog/2018/07/11/royalty-free-web-video-codecs/)
     * H264 and H265 are patented codecs - playing video is not free

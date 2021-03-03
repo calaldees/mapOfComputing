@@ -5,10 +5,10 @@ AI (Artificial Intelligence)
 * Mass public misunderstanding
 * TODO this section needs fleshing out MASSIVELY!
 
-* [Coding Challenge #158: Shape Classifier Neural Network with ml5.js](https://www.youtube.com/watch?v=3MqJzMvHE3E) - TODO WATCH!
-    * He trains a network himself with drawing shapes and it recodnises shapes drawn on paper!
+* [Coding Challenge #158: Shape Classifier Neural Network with ml5.js](https://www.youtube.com/watch?v=3MqJzMvHE3E) Coding Train 36min
+    * He trains a network himself with drawing shapes and it recognises shapes drawn on paper!
     * This could be an AMAZING activity
-        * What about training the algorithm with lines - and then trying to recognise a filled circle. Could this be a powerful lesson in the data we tain algorithms with? (like the issues big tech companys had with recognising black faces with login systems)
+        * What about training the algorithm with lines - and then trying to recognise a filled circle. Could this be a powerful lesson in the data we tain algorithms with? (like the issues big tech companies had with recognising black faces with login systems)
 
 * [Machine Learning: The Great Stagnation](https://marksaroufim.substack.com/p/machine-learning-the-great-stagnation)
     * (I need to read up on AI and matrix's in general)

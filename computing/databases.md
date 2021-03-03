@@ -35,6 +35,8 @@ PostgreSQL
 
 * [postgREST](https://github.com/PostgREST/postgrest)
 
+* [Fuzzy Name Matching in Postgres](https://info.crunchydata.com/blog/fuzzy-name-matching-in-postgresql)
+    * Levenshtein Matching - fuzzy string match
 
 [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
 

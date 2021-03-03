@@ -25,6 +25,8 @@ UnitTests
 * [my doctest example with error](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/doctest_example.py)
 * [Solving Algorithmic Problems in Python with Pytest](https://adamj.eu/tech/2019/04/21/solving-algorithmic-problems-in-python-with-pytest/)
 
+* [Precisely: better assertions for Python tests](https://github.com/mwilliamson/python-precisely)
+
 TDD
 (expanding string calculator requirements example)
 https://osherove.com/tdd-kata-1/

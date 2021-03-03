@@ -7,6 +7,9 @@ History of Computing
 * [[history-of-the-games-industry]]
 * [[history-of-operating-systems]]
 
+* [Ancient Babylonian Algorithms: The Earliest Programs](https://www.historyofinformation.com/detail.php?id=3920) 1600bc
+    * [[algorithums]]
+
 * [Let's Not Dumb Down the History of Computer Science](https://cacm.acm.org/opinion/articles/250078-lets-not-dumb-down-the-history-of-computer-science/fulltext) By Donald E. Knuth, Len Shuste 2021
 
 * [PAPERCRAFT MODELS](http://rockybergen.com/papercraft) #papercraft
