@@ -1,6 +1,8 @@
 Software Licences
 =================
 
+* [Software Licenses in Plain English](https://tldrlegal.com/) - Lookup popular software licenses summarized at-a-glance.
+
 * MIT
     * [The MIT License, Line by Line](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html)
 

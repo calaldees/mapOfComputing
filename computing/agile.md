@@ -25,3 +25,8 @@ The agile manifesto
 -------------------
 
 
+Criticism
+----------
+
+* [Ask HN: Do you think Agile/Scrum is beneficial for software delivery?](https://news.ycombinator.com/item?id=26345235)
+    * 

@@ -8,6 +8,9 @@ Data Structures
         * Radix Tree
         * AST
 
+* [VisuAlgo.net](https://visualgo.net/en) - visualising data structures and algorithms through animation
+* [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+
 Linked List
 -----------
 

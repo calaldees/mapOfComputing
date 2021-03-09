@@ -29,6 +29,11 @@ Algorithms
 * [rosettacode.org](http://rosettacode.org)
     * Rosetta Code is a programming chrestomathy site. The idea is to present solutions to the same task in as many different languages as possible, to demonstrate how languages are similar and different, and to aid a person with a grounding in one approach to a problem in learning another.
 
+* [VisuAlgo.net](https://visualgo.net/en) - visualising data structures and algorithms through animation
+* [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/) - beautiful visual sorts and maze searches
+* [Hacker Earth - Programming Tutorials and Practice Problems](https://www.hackerearth.com/practice/)
+    * Lots of algorithms, visualisations and live coding
+    * [HackerEarth/Practice/Bubblesort/Visuliser](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/)
 
 
 dean to binary

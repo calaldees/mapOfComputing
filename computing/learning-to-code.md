@@ -54,3 +54,11 @@ https://web.archive.org/web/20200309111959/https://sar3.ch/en/blog/kinder-progra
 * Many Links on these
     * [coding-interview-university](https://github.com/jwasham/coding-interview-university)
     * [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
+
+
+
+* [As a CS student, I'm tired of the way the programming world is and I feel overwhelmed. [RANT]](https://www.reddit.com/r/learnprogramming/comments/lwxy8p/as_a_cs_student_im_tired_of_the_way_the/)
+    * Computing (and society in general) is overload. We're bombarded with more tech and knowledge than is possible to humanly assimilate.
+* [Play the long game when learning to code.](https://stackoverflow.blog/2020/10/05/play-the-long-game-when-learning-to-code/)
+    * Don't rush and copy and paste code to solve problems
+    * Understand slow the fundamentals

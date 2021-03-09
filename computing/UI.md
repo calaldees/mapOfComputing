@@ -17,6 +17,9 @@ Discoverability
 windows 93
 EmuOS
 
+* [The Universe of Discourse  - Fuckin' user interface design, I swear](https://blog.plover.com/tech/ui.html)
+    * Don't have your destructive operations near the common path operations
+
 [The Distribution of Users’ Computer Skills: Worse Than You Think](https://www.nngroup.com/articles/computer-skill-levels/)
 
 [hacker news discussion](https://news.ycombinator.com/item?id=21037674)
