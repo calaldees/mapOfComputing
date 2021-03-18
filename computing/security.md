@@ -32,7 +32,7 @@ SSH
 
 2 Factor
 
-SMS
+* [Can We Stop Pretending SMS Is Secure Now?](https://krebsonsecurity.com/2021/03/can-we-stop-pretending-sms-is-secure-now/) 2021 Krebs On Security
 
 U2F
 
@@ -75,7 +75,7 @@ Audio SSH RSA key reteaval
 
 Global Radio Login Gigya - 'Hacked by' alert
 
-[How To Become A Hacker](https://zalberico.com/essay/2020/04/19/how-to-become-a-hacker.html)
+* [How To Become A Hacker](https://zalberico.com/essay/2020/04/19/how-to-become-a-hacker.html)
 
 * [Dashboard: Zero-Days in Desktop Web Browsers](https://www.radsix.com/dashboard1/)
 
@@ -92,3 +92,13 @@ Global Radio Login Gigya - 'Hacked by' alert
 
 * [Open Web Application Security Project® (OWASP)](https://owasp.org/) is a nonprofit foundation that works to improve the security of software.
     * [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/index.html) - how to write security centred software
+
+* [Execute remote code on `git clone`](https://www.openwall.com/lists/oss-security/2021/03/09/3)
+    * > CVE-2021-21300: On case-insensitive filesystems, with support for symbolic links, if Git is configured globally to apply delay-capable clean/smudge filters (such as Git LFS), Git could be fooled into running remote code during a clone.
+
+Case Studies
+------------
+
+Cautionary tails of actual hacks
+
+* [Hackers Break Into Thousands of Security Cameras, Exposing Tesla, Jails, Hospitals](https://www.bnnbloomberg.ca/hackers-break-into-thousands-of-security-cameras-exposing-tesla-jails-hospitals-1.1574681)

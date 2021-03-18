@@ -48,6 +48,14 @@ I was looking at case studies for [[telematry]] and was thinking of practical us
             * How often are engineers required to context switch, preventing deep work?
             * How often do engineers receive pages outside of business hours, interrupting their sleep or family life?
         * An engineering leader exists to enable their team to achieve their goals
+* [The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124) - There's more to it than you think.
+    * Measuring productivity in multi dimenisons
+    * SPACE (5 dimensions)
+        * satisfaction and well-being; 
+        * performance; 
+        * activity; 
+        * communication and collaboration; 
+        * and efficiency and flow. 
 * [How to hire senior developers: Give them more autonomy](https://hiringengineersbook.com/post/autonomy/)
     * (insightful article about the value of code and the value of developers) - code is the manifestation of the the understanding of a problem
     * Your source code is worthless

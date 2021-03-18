@@ -44,6 +44,11 @@ History of Computing
 * [Hidden Figures](https://en.wikipedia.org/wiki/Hidden_Figures)
     * Hidden Figures is a 2016 American biographical drama film. It is loosely based on the 2016 non-fiction book about African American female mathematicians who worked at the National Aeronautics and Space Administration (NASA) during the Space Race. 1960's
 
+Mechanical Computers
+--------------------
+
+* [u.s navy vintage fire control computers (part 1)](https://www.youtube.com/watch?v=_8aH-M3PzM0)
+* [Mechanical Computer (All Parts) - Basic Mechanisms In Fire Control Computers](https://www.youtube.com/watch?v=s1i-dnAH9Y4)
 
 
 BioInfomatics

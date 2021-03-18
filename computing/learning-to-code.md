@@ -62,3 +62,9 @@ https://web.archive.org/web/20200309111959/https://sar3.ch/en/blog/kinder-progra
 * [Play the long game when learning to code.](https://stackoverflow.blog/2020/10/05/play-the-long-game-when-learning-to-code/)
     * Don't rush and copy and paste code to solve problems
     * Understand slow the fundamentals
+* [Test Club: don't learn tools, learn principles](https://www.youtube.com/watch?v=CCj53ZI7T4Q)
+    * Tools will change - principles and patterns are reusable
+* [I self-learned to code at 30. And so can you. ](https://www.kaapi.team/blog/i-self-learned-to-code-at-30-this-is-how-you-can-too)
+    * 240 hours (4 months)
+    * Goals, Principles, Support (ask targeted questions)
+    * Time breakdown of python, html, javascript, markdown, git (useful)

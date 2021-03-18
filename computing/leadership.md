@@ -16,3 +16,9 @@ https://github.com/VGraupera/1on1-questions
     * Mistake 2: Trying to do everything yourself as a manager is the best way to help
     * Mistake 3: Communicating something one time is enough
     * Mistake 4: You have to have everything together all the time
+* [The 5 Common Mistakes Of New Engineering Managers](https://ochronus.online/the-5-common-mistakes-of-new-engineering-managers/)
+    * 50% Coding and 50% managing - no time to do both right
+    * Doing all the project management (not your job)
+    * Not sharing information with the team
+    * Not doing one on one holistic coaching
+    * 

@@ -2,6 +2,8 @@ Software Licences
 =================
 
 * [Software Licenses in Plain English](https://tldrlegal.com/) - Lookup popular software licenses summarized at-a-glance.
+* [PolyForm Project.org](https://polyformproject.org/)
+    * The PolyForm Project is a group of experienced licensing lawyers and technologists developing simple, standardized, plain-language software source code licenses. PolyForm aims to fill gaps in the menu of standardized software licenses, like non-commercial, trial, and small-business-only terms.
 
 * MIT
     * [The MIT License, Line by Line](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html)

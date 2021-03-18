@@ -9,6 +9,8 @@ https://www.simplecto.com/complexity-downloading-favicons-told-in-15-plus-edge-c
 * [[web-scraping]]
 * [[web-apps]]
 
+* [security.txt](https://securitytxt.org/) - A proposed standard which allows websites to define security policies. 
+
 https://github.com/luruke/browser-2020
 
 

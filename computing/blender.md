@@ -7,3 +7,4 @@ Blender
 
 
 * [Export Paper Model Addon](https://blender-addons.org/export-paper-model-addon/) #papercraft
+    * [Retro Computer Papercraft Models](http://rockybergen.com/papercraft)
