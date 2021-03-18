@@ -12,6 +12,7 @@ Emergent behaviour from simple rules
     * [Simple](https://playgameoflife.com/)
     * [Example](https://pmav.eu/stuff/javascript-game-of-life-v3.1.1/)
     * [Example 2](https://www.samcodes.co.uk/project/game-of-life/)
+    * [](https://js1024.fun/demos/2020/8)
 * x86 Assembler
     * [MSDOS 32bytes](https://www.pouet.net/prod.php?which=85485)
 

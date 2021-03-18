@@ -10,7 +10,9 @@ Using real data is inspiring
 
 * Data sets
     * [Kaggle](https://www.kaggle.com/) Jupiter notebook with datasets live on the web
-        * [Data](https://girlswhocode.com/assets/downloads/craft-prod/downloads/Girls-Who-Code-At-Home-Depicting-Data.pdf)
+        * [Girls-Who-Code-At-Home-Depicting-Data.pdf](https://girlswhocode.com/assets/downloads/craft-prod/downloads/Girls-Who-Code-At-Home-Depicting-Data.pdf)
+    * [The Ultimate Python Seaborn Tutorial: Gotta Catch ‘Em All](https://elitedatascience.com/python-seaborn-tutorial)
+        * Pokemon gen1 data (csv) mined with python
     * [Google Dataset Search](https://datasetsearch.research.google.com/)
     * [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets)
     * [free-datasets-for-projects](https://www.dataquest.io/blog/free-datasets-for-projects/)
