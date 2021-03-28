@@ -7,6 +7,9 @@ History of Computing
 * [[history-of-the-games-industry]]
 * [[history-of-operating-systems]]
 
+* [C64 Home Companion](https://datassette.nyc3.cdn.digitaloceanspaces.com/livros/the_commodore_64_home_companion.pdf) George Beekman 198x?
+    * Spreadsheets for home accounts
+    * Modems
 * [Ancient Babylonian Algorithms: The Earliest Programs](https://www.historyofinformation.com/detail.php?id=3920) 1600bc
     * [[algorithums]]
 
