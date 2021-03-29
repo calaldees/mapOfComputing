@@ -126,7 +126,7 @@ lights?
 Routing Protocols
 -----------------
 
-[How RIP Works | Network Fundamentals Part 20](https://www.youtube.com/watch?v=aNV4rVLa_sc)
+* [How RIP Works | Network Fundamentals Part 20](https://www.youtube.com/watch?v=aNV4rVLa_sc)
 
 HELLO protocol?
 

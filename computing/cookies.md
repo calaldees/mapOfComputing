@@ -7,6 +7,9 @@ Programming message-board project in TeachProgramming
 Privacy
 -------
 
+* [I don't care about cookies 3.2.9](https://www.i-dont-care-about-cookies.eu/) - Get rid of cookie warnings from almost all websites!
+* [cookieconsentspeed.run](https://cookieconsentspeed.run/)
+    * Mock site using actual tricks to set cookies by marketers ... really hard! ... Minuets
 * [What Do You Actually Agree To When You Accept All Cookies](http://www.conradakunga.com/blog/what-do-you-actually-agree-to-when-you-accept-all-cookies/)
     * Many pages of terms
     * Sold to 600+ other vendors

@@ -1,6 +1,16 @@
 Performance Profiling
 =====================
 
+* Instrumentation
+    * TODO define
+
+* [Counting cycles and instructions on the Apple M1 processor](https://lemire.me/blog/2021/03/24/counting-cycles-and-instructions-on-the-apple-m1-processor/)
+    * How do you measure performance?
+        * modern process's just overclock to run faster
+        * branch prediction takes power
+    * What is you wanted to measure page useaage?
+
+
 Algorithms
 Platforms
 

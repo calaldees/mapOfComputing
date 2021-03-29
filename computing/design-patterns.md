@@ -1,6 +1,10 @@
 Design patterns
 ===============
 
+* [How to Design Programs, Second Edition](https://htdp.org/2018-01-06/Book/)
+    * > The typical course on programming teaches a “tinker until it works” approach. When it works, students exclaim “It works!” and move on. Sadly, this phrase is also the shortest lie in computing, and it has cost many people many hours of their lives. In contrast, this book focuses on habits of good programming, addressing both professional and vocational programmers.
+    * > By “good programming,” we mean an approach to the creation of software that relies on systematic thought, planning, and understanding from the very beginning, at every stage, and for every step
+
 https://en.wikipedia.org/wiki/Software_design_pattern
 
 

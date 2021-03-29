@@ -1,6 +1,9 @@
 Object Orientation
 ==================
 
+* [Why OO Sucks](http://harmful.cat-v.org/software/OO_programming/why_oo_sucks) 2000 - Joe Armstrong (Creator of Earlang)
+    * [Joe Is Wrong](http://goran.krampe.se/2009/06/26/joe-is-wrong/) - a rebuttle
+
 * Class [[diagrams]]
 
 

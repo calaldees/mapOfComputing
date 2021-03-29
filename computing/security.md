@@ -34,6 +34,12 @@ SSH
 
 * [Can We Stop Pretending SMS Is Secure Now?](https://krebsonsecurity.com/2021/03/can-we-stop-pretending-sms-is-secure-now/) 2021 Krebs On Security
 
+* [SolarWinds: Why the Sunburst hack is so serious](https://www.bbc.co.uk/news/technology-55321643)
+    * Targeted government devices by cyber military team. Payload in software update.
+    * [Why the World Needs a Software Bill Of Materials Now](https://drrispens.medium.com/why-the-world-needs-a-software-bill-of-materials-now-5a565df65dff)
+        * > The first details on the “Sunburst” attack were released in December 2020: a highly evasive attacker leveraged the supply chain of the U.S. based software company SolarWinds in order to compromise an administrative I.T. management tool which is used by tens of thousands of private and government organizations. The backdoors and malware that were installed on the victims’ infrastructures have been called by Microsoft “the most sophisticated and protracted intrusion attacks of the decade”.
+        * > The attack on SolarWinds has made it more apparent than ever before that software supply chain attacks are incredibly destructive. Damage done in a tiny module delivered by a small software vendor can break a global software empire’s security.
+
 U2F
 
 Authenticator app OTP
@@ -57,6 +63,7 @@ Authenticator app OTP
 * [Technology, as seen on TV](https://fasterthanli.me/series/tech-as-seen-on-tv)
     * TV depictions of technology, and reviewing how realistic they are
 
+* [Hidden OAuth attack vectors](https://portswigger.net/research/hidden-oauth-attack-vectors) Michael Stepankin
 
 Unauthenticaed SMTP
 

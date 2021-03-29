@@ -30,6 +30,9 @@ Licencing
     * H264 and H265 are patented codecs - playing video is not free
     * AV1 is open source
 
+* [Qpus](https://wiki.xiph.org/OpusFAQ) - lossy audio codec
+
+
 Image Compression
 -----------------
 

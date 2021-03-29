@@ -1,6 +1,10 @@
 Creativity
 ==========
 
+* [Computers and Creativity](https://www.mollymielke.com/cc)
+    * > The value of computers is not inherent; it is what we are able to do with them that makes them valuable. But what we can do with computers is often limited by the depth to which we are able to think creatively, translate these thoughts into computationally articulated work, and then share that work with others. For this reason, digital tools that foster creativity and collaboration hold immeasurable power.
+    * > Ultimately, I will be arguing that to foster optimal human innovation, digital creative tools need to be interoperable, moldable, efficient, and community-driven. 
+
 * [Bad Idea Factory](https://biffud.com/)
     * is a collective of chaotic creatives using technology to make people thinking face emoji. We have been working in this space for hundreds of thousands of years.
     * Their ideas are sooo bad
@@ -34,7 +38,8 @@ Creativity
 
 * [novelty-automation.com](https://www.novelty-automation.com/) London
     * [MicroBreak](https://youtu.be/nieXCqpxjC4?t=329)
-
+* [font-e-mon](https://www.coderelay.io/fontemon.html)
+    * An entire playable game in a font!!! WTF!!!
 
 Hacking/Making/Building Culture
 -------------------------------

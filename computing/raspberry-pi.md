@@ -84,3 +84,6 @@ external hd
 
 
 * [eBay removing listed for Raspberry Pi](https://twitter.com/lbhq/status/1323482627681198080) because they COULD be used as a computer
+
+
+* [CutiPi](https://cutiepi.io/) - CutiePi is a Raspberry Pi 4 tablet that turns your project into an untethered adventure. Build and create wherever an idea strikes you. No wires, no external power, and no strings attached.

@@ -2,6 +2,11 @@ Typography
 ==========
 
 * [Time to upgrade your monitor](https://tonsky.me/blog/monitors/) - Font Rasterisation on modern OS's
+* Concept
+    * [Continuous Typography](https://maxkoehler.com/posts/continuous-typography/) - Notes toward a continuous framework for screen typography
+        * Typography on the web is differnt to paper. We make lots of decisions about fonts. We could have functions to select these
+        * 
+
 
 Fonts
 -----

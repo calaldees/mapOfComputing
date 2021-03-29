@@ -4,6 +4,17 @@ Open Source
 [Vue.js documentaary](https://www.youtube.com/watch?v=2EmYw-O-WLI)
 [Elixer Documentary](https://www.youtube.com/watch?v=lxYFOM3UJzo) Ericson Telephone
 
+* [“Free Software”: An idea whose time has passed](https://r0ml.medium.com/free-software-an-idea-whose-time-has-passed-6570c1d8218a)
+    * Types
+        * Public software - The idea of public software was software that anybody could freely use
+        * Free software - intent of programmer is political
+        * Open software - intent of programmer is industrial
+        * Liberal software - intent of programmer is educational
+    * Today’s topic is political software. 
+        * > I think it is clear that the Free Software Foundation has failed to move the needle on the political issues relating to software. Those of us who are interested in issues of freedom and ethics and social justice related to software must explore alternative stratagems to achieve those objectives. The tactics of the Free Software Foundation (the insistence on copylefting software and fighting software patents) have become more and more ineffective. The world of software has evolved and changed in the years since 1985: we need to let the past die and build a better future.
+
+FLOSS, meaning Free, Liberal, or Open Source Software.
+
 [[software-licences]]
 
 Open Hardware

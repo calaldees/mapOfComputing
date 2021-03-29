@@ -22,6 +22,7 @@ Using real data is inspiring
         * [Who do we spend time with across our lifetime?](https://ourworldindata.org/time-with-others-lifetime)
     * [data.gov.uk](https://data.gov.uk/)
     * [National Office of Statistics](https://www.ons.gov.uk/)
+        * [Deaths](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths) - Deaths broken down by age, sex, area and cause of death.
     * [UK Data Service](https://www.ukdataservice.ac.uk/) international social science datasets
     * [University of Bath Library: Finding Data](https://library.bath.ac.uk/research-data/finding-data/home) links
     * [WorldBank Data](https://data.worldbank.org/)

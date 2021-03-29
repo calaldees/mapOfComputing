@@ -1,6 +1,7 @@
 Simulation
 ==========
 
+* [OpticSim.jl](https://microsoft.github.io/OpticSim.jl/dev/examples/) - a Julia package for simulation and optimization of complex optical systems
 * [Iceberger](https://joshdata.me/iceberger.html) - Draw an iceberg and see how it will float.
 * [Modeling and Simulation in Python](https://greenteapress.com/wp/modsimpy/) [pdf](http://greenteapress.com/modsimpy/ModSimPy3.pdf)
     * The first part presents discrete models, including a bikeshare system and world population growth.
