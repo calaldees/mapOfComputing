@@ -12,6 +12,7 @@ Creativity Visulisation
     * [Demo or Die! You're a teen hacker, you want to impress, you demo code](https://www.wired.com/1995/07/democoders/) - description of the demoscene
     * [flashtro-morton-strikes-back](http://flashtro.com/flashtro-morton-strikes-back/)
     * [elevated by Rgba & TBC | 4k intro](https://www.youtube.com/watch?v=jB0vBmiTr6o)
+        * [Escalated](https://www.shadertoy.com/view/MtK3Wc) 1024byte shader similar to Elavated - browser demo
         * [Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise)
     * [The vanishing of Ashlar by NuSan (PC 4k intro)](https://youtu.be/lAvug7LKiIE)
     * ["Memories" - 256 byte MSDOS intro](https://youtu.be/Imquk_3oFf4)

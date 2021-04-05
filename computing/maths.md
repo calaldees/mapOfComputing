@@ -1,6 +1,8 @@
 Maths
 =====
 
+* [Category Theory Illustrated](https://github.com/boris-marinov/category-theory-illustrated)
+    * Beautiful web/book illustrating mathematical and computing set constructs and terminology.
 * [Map of Mathematics](https://mathmap.quantamagazine.org/map/)
 
 * [Discovering Statistics Using IBM SPSS Statistics](https://www.discoveringstatistics.com/books/dsus/) Andy Field

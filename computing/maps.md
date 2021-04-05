@@ -17,7 +17,8 @@ Links to working with map data
 * [Unfolding the Earth: Myriahedral Projections](https://www.win.tue.nl/~vanwijk/myriahedral/)
     * > Mapping the earth is a classic problem. For thousands of years cartographers, mathematicians, and inventors have come up with methods to map the curved surface of the earth to a flat plane. The main problem is that you cannot do this perfectly
     * [Myriahedral animated in browser](http://philogb.github.io/page/myriahedral)
-
+* [shipmap.org](https://www.shipmap.org/)
+    * Shipping lanes animated and visualised
 
 
 

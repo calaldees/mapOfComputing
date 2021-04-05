@@ -10,6 +10,7 @@ Do not use the default terminal on any system. This will hinder your productivit
 
 * Multiplatform
   * [Alacritty](https://github.com/alacritty/alacritty) multi-platform terminal
+  * [WezTerm](https://wezfurlong.org/wezterm/) - is a GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
   * Electron
     * [Hyper](https://hyper.is/)
     * [Terminus](https://www.electronjs.org/apps/terminus)

@@ -1,5 +1,50 @@
 ux - User Experience
 ====================
 
+* [A list of design concepts every UX/UI designer should learn](https://uxdesign.cc/a-list-of-design-concepts-every-ux-ui-designer-should-learn-7e2d8412b391) Aman Gupta Jul 19, 2019·13 min read
+    * Links to EVERYTHING in the topics below!!! Amazing!
+    * UX
+        * UX Psychology
+        * UX Strategy
+        * Design Research
+        * Inclusive Design
+        * Mental Models
+        * Empathy Mapping
+        * Dark Patterns
+        * Universal Design
+        * Affinity Diagram
+        * Gamification
+        * User Personas
+        * Use Journy
+    * UI
+        * Information Architecture
+        * Typography
+        * Icons
+        * Interaction Design
+        * Heuristic Evaluation
+        * Prototyping
+        * Motion Design
+        * Empty States
+
+* [lawsOfUX.com](https://lawsofux.com/) - Laws of UX is a collection of best practices that designers can consider when building user interfaces.
+    * Aesthecitc-Usability Effect - percived asthric as design that is more useable
+    * Doherty Threshold - less than 400ms creates pace of use
+    * Fitts Law - 
+    * Goal Gradient Effect - The tendency to approach a goal increases with proximity to the goal
+    * Hicks Law - The time it takes to make a descision inclreases with the numbers of choices
+    * Jakobs Law - Users spend more time on other sites - work the say way as those
+    * Law of COmmon Region - 
+    * Law of Proximity -
+    * Millers Law - Average person 7 +-2 items in working memory
+    * Pareto Principle - 80% of effects come from 20% of causes
+    * Peak-End Rule - people judge experience largely based on how they feel at it's peak and it's end rather thant he sun of every moment of the experience.
+    * Serial Position Effect - user best remeber the first and last in a series
+    * Postels Law - liberal in what you accep tand conservative in what you send
+    * Von Restorff Effect - The item that differs most from the set is the most remebered
+    * Teslers Law - Any system has a certain amount of complexity that cannot be reduced
+    * 
 * [A comprehensive list of UX design methods & deliverables](https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168)
 * [E-Commerce UX Research Articles](https://baymard.com/blog)
+
+* [Tips for a Productive Design Critique](https://www.toptal.com/designers/product-design/productive-design-critique-guide)
+    * #professional #behaviour

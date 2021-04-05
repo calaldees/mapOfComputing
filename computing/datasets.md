@@ -59,6 +59,7 @@ Using real data is inspiring
             * Locate devices without GPS, explore Mobile Operator coverage and more!
             * View individual radio masts
             * [[networks]]
+        * [shipmap.org](https://www.shipmap.org/)
 
 
 [Senate Stock Watcher](https://senatestockwatcher.com/) US Senators invest in socks. Before CoVid 19 many senators sold stocks in travel/touisum and invested in medical supplies while telling the US population 'not to worry'. Senetors report their stocks with paper written notes. It takes multiple weeks to process them and they can be incorrect/misinterpreted as handwriting can be hard to read.

@@ -1,12 +1,14 @@
 Typography
 ==========
 
+* [Font size is useless; let’s fix it](https://tonsky.me/blog/font-size/)
 * [Time to upgrade your monitor](https://tonsky.me/blog/monitors/) - Font Rasterisation on modern OS's
 * Concept
     * [Continuous Typography](https://maxkoehler.com/posts/continuous-typography/) - Notes toward a continuous framework for screen typography
         * Typography on the web is differnt to paper. We make lots of decisions about fonts. We could have functions to select these
         * 
-
+* [Input - Fonts for code](https://input.djr.com/preview/)
+    * Live preview of coding font - LOADS of cool options - great for exploring typography
 
 Fonts
 -----
