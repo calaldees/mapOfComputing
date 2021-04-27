@@ -41,8 +41,12 @@ Maths
     * [Think Complexity](http://greenteapress.com/complexity2/html/index.html)
         * An introduction to complexity science, which includes small world graphs, scale-free networks, cellular automata, fractals and pink noise, self-organized criticality, and agent-based models.
 
-* [How much math you need for programming ](https://lispmachine.wordpress.com/2014/12/05/how-much-math-you-need-for-programming/)
+* [How much math you need for programming](https://lispmachine.wordpress.com/2014/12/05/how-much-math-you-need-for-programming/)
 
+* [Mathematicians Find a New Class of Digitally Delicate Primes](https://www.quantamagazine.org/mathematicians-find-a-new-class-of-digitally-delicate-primes-20210330/)
+    * We are still discovering things in the field of mathmatics
+* [What are the most important statistical ideas of the past 50 years?](https://fermatslibrary.com/s/what-are-the-most-important-statistical-ideas-of-the-past-50-years) Andrew Gelman and Aki Vehtari 17 Jan 2021
+    * > We argue that the most important statistical ideas of the past half century are: counterfactual causal inference, bootstrapping and simulation-based inference, overparameterized models and regularization, multilevel models, generic computation algorithms, adaptive decision analysis, robust inference, and exploratory data analysis. We discuss common features of these ideas, how they relate to modern computing and big data, and how they might be developed and extended in future decades. The goal of this article is to provoke thought and discussion regarding the larger themes of research in statistics and data science
 
 Matrix
 ------

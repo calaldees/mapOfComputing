@@ -8,6 +8,7 @@ Interview Questions
 * [My experience as a Gazan girl getting into Silicon Valley companies](https://daliaawad28.medium.com/my-experience-as-a-gazan-girl-getting-into-silicon-valley-companies-488062d769a1) Dalia Awad 2021
 
 * [HackerEarth - Technical Interview Questions from big tech companies](https://www.hackerearth.com/practice/interviews/)
+* [6 Red Flags I Saw While Doing 60+ Technical Interviews in 30 Days](https://meekg33k.dev/6-red-flags-i-saw-while-doing-60-technical-interviews-in-30-days)
 
 https://github.com/yangshun/tech-interview-handbook
 

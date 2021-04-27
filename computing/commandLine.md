@@ -60,6 +60,7 @@ ssh
 awk
 https://github.com/thewhitetulip/awk-anti-textbook
 
+[How to navigate directories faster with bash](https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html)
 
 wildcards
 

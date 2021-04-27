@@ -22,6 +22,8 @@ Creativity
 
 * [My Procedurally Generated Music is Awful](https://devlog.groovelet.com/p/procedurally-generated-music-is-awful)
     * 
+* [The Endless Acid Banger](https://www.vitling.xyz/toys/acid-banger/)
+    * generated in your browser by a randomised #algorithm
 
 * [Driver and Listen](https://driveandlisten.herokuapp.com/)
 * [[history-of-media]] - My 80's TV
@@ -40,6 +42,12 @@ Creativity
     * [MicroBreak](https://youtu.be/nieXCqpxjC4?t=329)
 * [font-e-mon](https://www.coderelay.io/fontemon.html)
     * An entire playable game in a font!!! WTF!!!
+
+* [Party in a Shared Google Doc](https://onezero.medium.com/party-in-a-shared-google-doc-d576c565706e)
+    * Creativity with sharing experiences in a google doc with strangers
+
+* [Digital Needle - A Virtual Gramophone ](https://www.cs.huji.ac.il/~springer/DigitalNeedle/index.html)
+    * Reading vinyl from graphical scans scans
 
 Hacking/Making/Building Culture
 -------------------------------

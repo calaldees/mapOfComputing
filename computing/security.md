@@ -102,6 +102,8 @@ Global Radio Login Gigya - 'Hacked by' alert
 
 * [Execute remote code on `git clone`](https://www.openwall.com/lists/oss-security/2021/03/09/3)
     * > CVE-2021-21300: On case-insensitive filesystems, with support for symbolic links, if Git is configured globally to apply delay-capable clean/smudge filters (such as Git LFS), Git could be fooled into running remote code during a clone.
+* [This man thought opening a TXT file is fine, he thought wrong. macOS CVE-2019-8761](https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html)
+    * Mac textedit tricked into opening rtf-html from txt file and making a web request, not sandboxed by a web browser proxy settings and leaking the users real ip address
 
 Case Studies
 ------------

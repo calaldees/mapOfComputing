@@ -50,7 +50,7 @@ https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis
 
 
 * [Complete BBC Micro Games Archive](http://bbcmicro.co.uk//about.php)
-* [DOS Games Archive](https://www.dosgamesarchive.com/)
+* [DOS Games Archive](https://www.dosgamesarchive.com/) #dos
 
 
 * [List of Software Post-Mortems](https://github.com/danluu/post-mortems) - Outages from big cloud providers

@@ -56,7 +56,8 @@ https://web.archive.org/web/20200309111959/https://sar3.ch/en/blog/kinder-progra
     * [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
 
 
-
+* [Programming is hard](https://dorinlazar.ro/2021-02-programming-is-hard/)
+    * > Most beginners in programming eventually end up with the same ingratiating message: „Programming is easy, everyone can do it”, with some threatening message that people doing the gatekeeping should stop doing that. I’m here to tell you that that is not true
 * [As a CS student, I'm tired of the way the programming world is and I feel overwhelmed. [RANT]](https://www.reddit.com/r/learnprogramming/comments/lwxy8p/as_a_cs_student_im_tired_of_the_way_the/)
     * Computing (and society in general) is overload. We're bombarded with more tech and knowledge than is possible to humanly assimilate.
 * [Play the long game when learning to code.](https://stackoverflow.blog/2020/10/05/play-the-long-game-when-learning-to-code/)

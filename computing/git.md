@@ -5,6 +5,7 @@ GIT
 * [try.github.io](https://try.github.io/) - Resources to learn Git
     * Interactive browser visualisations of git branching
 * [github-git-cheat-sheet.pdf](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
+* [OhMyGit](https://ohmygit.org/) - An open source game about learning Git!
 
 * Beginners might start with [github desktop](https://desktop.github.com/)
 * Aspiring pros use _commandline_ `status`, `push`, `pull`, `commit`, `add`

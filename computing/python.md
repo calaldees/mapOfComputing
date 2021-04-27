@@ -148,6 +148,8 @@ Advanced Modules
 
 * [brython](https://brython.info/) - Python3 in the browser instead of javascript
 
+* [Interfaces and Protocols](https://glyph.twistedmatrix.com/2021/03/interfaces-and-protocols.html) in python
+
 Reference Implementation
 ------------------------
 
@@ -157,3 +159,4 @@ Reference Implementation
 Performance logging - google chrome devtools viewer format? - automatically attach/analyse program
 
 * [python generator "send" function purpose?](https://stackoverflow.com/questions/19302530/python-generator-send-function-purpose)
+

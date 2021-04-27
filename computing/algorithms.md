@@ -21,19 +21,27 @@ Algorithms
             * contour lines
         * doomsday algorithm Day of the week - conway
         * Dijstra shortest path
-        * Levenstine distance
+        * Levenshtein distance
+            * [Dynamic Programming vs Divide-and-Conquer](https://trekhleb.dev/blog/2018/dynamic-programming-vs-divide-and-conquer/)
+                * Fibonacci, binary search and minimum edit distance (levenshtein)
         * substring search
 
 * [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by Jeff Erickson - June 2019 - Free eBook + lecture notes
-
+* [github.com/trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings 
 * [rosettacode.org](http://rosettacode.org)
     * Rosetta Code is a programming chrestomathy site. The idea is to present solutions to the same task in as many different languages as possible, to demonstrate how languages are similar and different, and to aid a person with a grounding in one approach to a problem in learning another.
 
+
+* [algorithm-visualizer.org](https://algorithm-visualizer.org/)
 * [VisuAlgo.net](https://visualgo.net/en) - visualising data structures and algorithms through animation
 * [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/) - beautiful visual sorts and maze searches
+* [Prim’s Algorithm III](https://bl.ocks.org/mbostock/11377353) visuisation
+  
 * [Hacker Earth - Programming Tutorials and Practice Problems](https://www.hackerearth.com/practice/)
     * Lots of algorithms, visualisations and live coding
     * [HackerEarth/Practice/Bubblesort/Visuliser](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/)
+    * [[data-structures]]
+    * [[maths]]
 
 
 dean to binary
@@ -99,6 +107,8 @@ Simple things that are actually hard
 [Parity]: parity.md "Parity"
 [error-correction]: error-correction.md "Error"
 [Hash]: hash.md "Hash"
+[data-structures]: data-structures.md "Data Structures"
+[maths]: maths.md "Maths"
 [raytracing]: raytracing.md "Raytracing"
 [demoscene]: demoscene.md "Demoscene"
 [sorting]: sorting.md "Sorting"

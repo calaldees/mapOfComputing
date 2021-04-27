@@ -26,6 +26,8 @@ https://ubuntu.com/blog/we-reduced-our-docker-images-by-60-with-no-install-recom
 apt-get purge   --auto-remove && \
 apt-get clean
 
+* [Running Docker Containers as Current Host User](https://jtreminio.com/blog/running-docker-containers-as-current-host-user/) - Making local development less aggravating
+
 https://www.fromlatest.io/#/
 
 https://medium.com/sciforce/strategies-of-docker-images-optimization-2ca9cc5719b6

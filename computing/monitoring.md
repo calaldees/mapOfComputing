@@ -5,6 +5,9 @@ https://serhack.me/articles/monitoring-infrastructure-grafana-influxdb-connectd/
 
 Open Telematry - why are logs not enough
 
+* [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right!
+* 
+
 Logs
 ----
 

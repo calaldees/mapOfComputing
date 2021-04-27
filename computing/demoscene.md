@@ -6,6 +6,7 @@ Copied from computingAcrossCurriculum.md
 Creativity Visulisation
 
 * [Demoscene](https://en.wikipedia.org/wiki/Demoscene)
+    * [Documentary on the 80s and 90s Demoscene: The Art Of The Algorithms [FULL]](https://www.youtube.com/watch?v=5MexnBunH_g) 1h20
     * cultural heritage
         * [Breakthrough of Digital Culture: Finland accepts the Demoscene on its national UNESCO list of intangible cultural heritage of humanity](http://demoscene-the-art-of-coding.net/2020/04/15/breakthrough-finland-accepts-demoscene-on-their-national-list-of-intangible-cultural-heritage-of-humanity/)
         * [Demoscene accepted as UNESCO cultural heritage in Germany](http://demoscene-the-art-of-coding.net/2021/03/20/demoscene-accepted-as-unesco-cultural-heritage-in-germany/)
@@ -15,7 +16,7 @@ Creativity Visulisation
         * [Escalated](https://www.shadertoy.com/view/MtK3Wc) 1024byte shader similar to Elavated - browser demo
         * [Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise)
     * [The vanishing of Ashlar by NuSan (PC 4k intro)](https://youtu.be/lAvug7LKiIE)
-    * ["Memories" - 256 byte MSDOS intro](https://youtu.be/Imquk_3oFf4)
+    * ["Memories" - 256 byte MSDOS intro](https://youtu.be/Imquk_3oFf4) #dos
         * Smaller then a single tweet (each character/letter is a byte)
         * [code + explanation](http://www.sizecoding.org/wiki/Memories)
     * [Javascript Magic Tunnel](https://js1k.com/2019-x/demo/4293)

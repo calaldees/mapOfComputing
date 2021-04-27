@@ -2,7 +2,8 @@ javascript
 ==========
 
 * [The Modern JavaScript Tutorial](https://javascript.info/)
-
+* [JavaScript for Data Science](http://js4ds.org/) - complete book of how to code, but focusing on techniques for data science
+    * Great examples and diagrams
 * [A Guide to Console Commands](https://css-tricks.com/a-guide-to-console-commands/)
     * console.log
     * .assert

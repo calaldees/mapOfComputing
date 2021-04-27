@@ -93,3 +93,11 @@ Social Media
         * Relative timestamps (“3 hours ago” instead of “6:56 PM”). This creates IMMEDIACY.
         * Infinite scrolling with no “more” button or link. This creates PERPETUATION.
         * Fake internet points (clickable, often animated icons with incrementing numbers. Likes, reactions, upvotes, retweets, etc.). This creates ADDICTION.
+
+---
+
+Not really social-media .. more data business
+
+* [Evan Greer talks "Spotify is Surveillance" on NBC](https://www.youtube.com/watch?v=Z1CyZEWDjUU)
+    * Spotify filed patent to constantly identify the users 'mood' to play them music that matches them
+    * Spotify say they will not implement the patent ... then why have it?

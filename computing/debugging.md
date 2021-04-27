@@ -15,5 +15,5 @@ chnage one thing at a time - test the hypothisi and change it back
     * Not all bugs can be reproduced by an automated test
     * Small commits make it easy to detect problems
 
-
+* [javascript: Use console.log() like a pro](https://markodenic.com/use-console-log-like-a-pro/) #javascript
 

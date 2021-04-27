@@ -32,6 +32,10 @@ https://ns1.com/resources/dns-protocol
 https://en.wikipedia.org/wiki/Domain_Name_System
 
 
+Build a http webserver yourself!
+
 Charles Proxy
 
 [The Long Road to HTTP/3 - Short history of HTTP protocol](https://scorpil.com/post/the-long-road-to-http3/)
+
+* [Tiny Container Challenge: Building a 6kB Containerized HTTP Server!](https://devopsdirective.com/posts/2021/04/tiny-container-image/)

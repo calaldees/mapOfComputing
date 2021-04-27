@@ -23,6 +23,8 @@ Algorithms
 
 https://en.wikipedia.org/wiki/Discrete_cosine_transform
 
+* [Lossless Text Compression](https://bilalonureskili.com/files/LTC_en.pdf)
+
 Licencing
 ---------
 
@@ -42,3 +44,12 @@ Image Compression
 * [jpeg.rocks](https://jpeg.rocks/)
     * WebAssembly in browser `jpegoptim`
 
+### AVIF
+* [Web developer's guide to AVIF images](https://darekkay.com/blog/avif-images/) #avif
+
+
+Cloud
+-----
+
+* [How Facebook encodes your videos](https://engineering.fb.com/2021/04/05/video-engineering/how-facebook-encodes-your-videos/)
+    * Using AI to target encoding

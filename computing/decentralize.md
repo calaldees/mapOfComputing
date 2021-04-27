@@ -12,6 +12,13 @@ Decentralize
     * Federated social media platforms
     * [[rss]] [[social-media]]
 
+* [Paid in Full](https://reallifemag.com/paid-in-full/) - The emerging dream of an internet where every interaction is a financial transaction
+    * > “Free” content on centralizing platforms is monetized, but most of the money flows directly from advertisers to the platforms themselves. Social media decoupled fame and fortune
+    * > The more decentralized apps of Web3 will not necessarily look and feel different but will allow mechanisms like crowdfunding to be incorporated directly into works themselves. Interactions will become transactions
+* [IndieWeb](https://indieweb.org/)
+    * The IndieWeb is a community of individual personal websites, connected by simple standards, based on the principles of owning your domain, using it as your primary identity, to publish on your own site (optionally syndicate elsewhere), and own your data.
+    * Beyond Blogging and Decentralization
+
 Platforms to Protocols
 ----------------------
 

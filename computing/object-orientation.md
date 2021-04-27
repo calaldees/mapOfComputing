@@ -4,6 +4,8 @@ Object Orientation
 * [Why OO Sucks](http://harmful.cat-v.org/software/OO_programming/why_oo_sucks) 2000 - Joe Armstrong (Creator of Earlang)
     * [Joe Is Wrong](http://goran.krampe.se/2009/06/26/joe-is-wrong/) - a rebuttle
 
+* [Background: how we got the generics we have](https://cr.openjdk.java.net/~briangoetz/erasure.html) - Or, how I learned to stop worrying and love erasure
+
 * Class [[diagrams]]
 
 

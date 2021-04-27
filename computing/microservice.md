@@ -7,6 +7,7 @@ MicroService
 * [Modules, monoliths, and microservices](https://tailscale.com/blog/modules-monoliths-and-microservices/)
     *  I get people asking me when microservices are a good idea. In systems design explains the world, I talked about big-picture issues like second system effect, innovator’s dilemmas, and more. Can systems design answer the microservices question? Yes, but you might not like the answers. First, we'll need some history.
     *  service boundaries? Where?
+* [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM) 53min
 
 microsercvices vs monolyth
 

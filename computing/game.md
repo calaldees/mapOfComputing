@@ -33,7 +33,7 @@ https://classicreload.com/dos-scorched-planet.html
 
 https://www.polygon.com/2020/1/13/21064100/vvvvvv-source-code-game-development-terry-cavanagh-release
 
-[archive.org MSDOS Games](https://archive.org/details/softwarelibrary_msdos_games?tab=collection)
+[archive.org MSDOS Games](https://archive.org/details/softwarelibrary_msdos_games?tab=collection) #dos
 
 [PyGame 2.0](https://github.com/pygame/pygame/releases/tag/2.0.0) Thank god ... finally ... 
 
@@ -59,7 +59,7 @@ https://www.polygon.com/2020/1/13/21064100/vvvvvv-source-code-game-development-t
 [architecture-of-consoles]: architecture-of-consoles.md "Architecture of Games Consoles"
 [physics-engine]: physics-engine.md "Physics Engine"
 [game-conversions]: game-conversions.md "game-conversions"
-[game-design]: game-design.md "game-design"
+[game-design]: game-design.md "Game Design"
 [game-engines]: game-engines.md "game-engines"
 [design-patterns-game]: design-patterns-game.md "design-patterns-game"
 [history-of-the-games-industry]: history-of-the-games-industry.md "history-of-the-games-industry"

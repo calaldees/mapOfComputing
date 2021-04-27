@@ -35,3 +35,7 @@ Simulation
     * [Computer simulation of the  King’s Cross fire: effect of radiative heat transfer on fire spread](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.826.6629&rep=rep1&type=pdf)
     * [Fire at King's Cross Underground Station, 18th November 1987: Numerical Solution of the Buoyant Flow and Heat Transfer.](https://www.researchgate.net/publication/287331079_Fire_at_King%27s_Cross_Underground_Station_18th_November_1987_Numerical_Solution_of_the_Buoyant_Flow_and_Heat_Transfer)
   
+* [Financial Money Life Simulator](https://simulator.money/) - windows XP theamed email joke game
+
+* [2021 Williams F1 CFD](https://maxtayloraero.wordpress.com/2021/04/21/2021-williams-f1-cfd/) - Max Taylor – Aerodynamics and Motorsport Engineering
+    * (cad file) + run CFD airflow models on it

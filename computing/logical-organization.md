@@ -26,6 +26,7 @@ Logical Organization
 * [Optional:Buildingaprocessorfromscratch](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/assignments/optional.pdf)
 * [Simple CPU design](http://www.simplecpudesign.com/)
     * > Computer architecture is awash with concepts that are fundamental to computer science generally and which do not appear in other parts of the undergraduate curriculum. A course in computer architecture can provide a suitable forum for incorporating fundamental principles in the CS curriculum
+* [8-bit Turing complete computer that I made in Factorio](https://imgur.com/a/tVB9xOx)
 
 ---
 

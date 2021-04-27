@@ -312,7 +312,7 @@ Other text systems
 * [Diagram as Code](https://diagrams.mingrammer.com/) Diagrams lets you draw the cloud system architecture in Python code.
 * [Create beautiful diagrams just by typing mathematical notation in plain text](https://github.com/penrose/penrose)
 * [elk](https://rtsys.informatik.uni-kiel.de/elklive/)
-
+* [Beautiful PDFs from HTML](https://pdf.math.dev/)
 
 Unsorted
 --------
