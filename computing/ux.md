@@ -25,7 +25,7 @@ ux - User Experience
         * Prototyping
         * Motion Design
         * Empty States
-
+* [growth.design - The Psychology of Design](https://growth.design/psychology/) - 101 Cognitive Biases & Principles That Affect Your UX
 * [lawsOfUX.com](https://lawsofux.com/) - Laws of UX is a collection of best practices that designers can consider when building user interfaces.
     * Aesthecitc-Usability Effect - percived asthric as design that is more useable
     * Doherty Threshold - less than 400ms creates pace of use

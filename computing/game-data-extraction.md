@@ -1,6 +1,9 @@
 Game Data Extraction
 ====================
 
+* [MarioNette: Self-Supervised Sprite Learning](https://arxiv.org/abs/2104.14553)
+    * AI Automated sprite ripping paper
+
 After burner sprites
 --------------------
 http://reassembler.blogspot.com/2012/11/sega-system-16-sprite-viewer.html

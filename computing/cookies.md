@@ -15,6 +15,8 @@ Privacy
     * Sold to 600+ other vendors
 * [URL shorteners set ad tracking cookies](https://ylukem.com/blog/url-shorteners-set-ad-tracking-cookies)
     * tinyurl -> ad tracking company (set cookies) -> zoom
+* [ClearURLs](https://github.com/ClearURLs/Addon/)
+    * is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy. 
 * [Tales of FAVICONS and Caches:Persistent Tracking in Modern Browsers](https://www.cs.uic.edu/~polakis/papers/solomos-ndss21.pdf)
     * Redirect user through a range of domains to check favicon cache 
     * Even persists though incognito/private mode

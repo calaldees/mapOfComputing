@@ -48,10 +48,33 @@ Maths
 * [What are the most important statistical ideas of the past 50 years?](https://fermatslibrary.com/s/what-are-the-most-important-statistical-ideas-of-the-past-50-years) Andrew Gelman and Aki Vehtari 17 Jan 2021
     * > We argue that the most important statistical ideas of the past half century are: counterfactual causal inference, bootstrapping and simulation-based inference, overparameterized models and regularization, multilevel models, generic computation algorithms, adaptive decision analysis, robust inference, and exploratory data analysis. We discuss common features of these ideas, how they relate to modern computing and big data, and how they might be developed and extended in future decades. The goal of this article is to provoke thought and discussion regarding the larger themes of research in statistics and data science
 
+* [A New Kind of Science](https://en.wikipedia.org/wiki/A_New_Kind_of_Science) Stephen Wolfram 2002
+    * Principles
+        1. The nature of computation must be explored experimentally
+        2. the results of these experiments have great relevance to understanding the physical world
+        3. empirically investigate computation for its own sake
+            * because traditional mathematics fails to meaningfully describe complex systems, and that there is an upper limit to complexity in all systems
+    * For a program to qualify as simple, there are several requirements:
+        * Its operation can be completely explained by a simple graphical illustration.
+        * It can be completely explained in a few sentences of human language.
+        * It can be implemented in a computer language using just a few lines of code.
+            * [[algorithums]]
+        * The number of its possible variations is small enough so that all of them can be computed.
+    * principle of computational equivalence (PCE): the principle states that systems found in the natural world can perform computations up to a maximal ("universal") level of computational power.
+
+
+
 Matrix
 ------
 
 * [How to Multiply Matrices](https://www.mathsisfun.com/algebra/matrix-multiplying.html)
+
+
+Visualising
+-----------
+
+* [Powers of 3 in binary](https://www.johndcook.com/blog/2021/04/28/powers-of-3-in-binary/)
+    * Drawing patter in a terminal
 
 ---
 

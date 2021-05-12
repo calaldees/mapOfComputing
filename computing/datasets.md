@@ -8,6 +8,13 @@ Using real data is inspiring
 
 * [datacamp.com](https://www.datacamp.com/) - Build data skills online
 
+
+https://developers.google.com/search/docs/data-types/dataset
+- W3C's Data Catalog Vocabulary: https://www.w3.org/TR/vocab-dcat-3/
+- Schema.org dataset: https://schema.org/Dataset
+- CSVW Namespace Vocabulary Terms: https://www.w3.org/ns/csvw
+- Generating RDF from Tabular Data on the Web (examples on how to use CSVW): https://www.w3.org/TR/csv2rdf/ 
+
 * Data sets
     * [Kaggle](https://www.kaggle.com/) Jupiter notebook with datasets live on the web
         * [Girls-Who-Code-At-Home-Depicting-Data.pdf](https://girlswhocode.com/assets/downloads/craft-prod/downloads/Girls-Who-Code-At-Home-Depicting-Data.pdf)
@@ -80,6 +87,8 @@ Examples of use of data
 * [[maps]]
 * [desirable-streets](https://senseable.mit.edu/desirable-streets/) in Boston
     * Beautiful visual web presentation ofb data
+* [hedonometer.org](https://hedonometer.org/)
+    * How happy is twitter - sentiment analysis from 2009 to 2021
 
 Space
 -----

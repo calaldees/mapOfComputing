@@ -30,9 +30,19 @@ Computing
 
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) Harold Abelson and Gerald Jay Sussman with Julie Sussman 
     * The material in this book has been the basis of MIT's entry-level computer science
-
+* [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
+    * [[operating-systems]]
+    * process
+    * [[virtual-memory]]
+    * [[linker]]
 * [build-your-own-x](https://github.com/danistefanovic/build-your-own-x)
     * Project to build advanced uses of computer science
+
+* [@CompSciFact](https://twitter.com/CompSciFact) @CompSciFact
+
+* [Reading for graduate students](http://matt.might.net/articles/books-papers-materials-for-graduate-students/)
+    * Reading to get to the next level after a degree
+
 
 Unsorted
 ========

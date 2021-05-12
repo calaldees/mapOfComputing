@@ -11,6 +11,7 @@ Graphics
 * [[Vector]]
 * [[pixel-art]]
 
+* [A Pixel is not A Little Square](http://alvyray.com/Memos/CG/Microsoft/6_pixel.pdf)
 * [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/) book
     * Ray-tracing
     * Rasterisation

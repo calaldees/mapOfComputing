@@ -81,3 +81,5 @@ Behaviour imitated observed by children
     * Scarcity
     * Obstruction
     * Forced action
+
+* [The secret tricks hidden inside restaurant menus](https://www.bbc.com/future/article/20171120-the-secret-tricks-hidden-inside-restaurant-menus)

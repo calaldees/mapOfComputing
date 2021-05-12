@@ -130,3 +130,19 @@ Programming Tips
 
 * [Phones and Apps Reduce Your Ability to Focus Even When They Don’t Distract You](https://blog.rize.io/blog/phones-and-apps-reduce-your-ability-to-focus-even-when-they-dont-distract-you)
     * Brain drain
+
+* [Inverse Gray code](https://www.johndcook.com/blog/2020/09/08/inverse-gray-code/)
+    * The Gray code of a non-negative integer n is given by
+        * ```
+            def gray(n):
+                return n ^ (n >> 1)
+            ```
+
+* [Why I Love Coding](https://henrikwarne.com/2012/06/02/why-i-love-coding/)
+    *  The Mythical Man-Month by Fred Brooks.
+    1. The sheer joy of making things.
+    2. The pleasure of making things that are useful to other people. 
+    3. The fascination of fashioning complex puzzle-like objects of interlocking moving parts, and watching them work in subtle cycles, playing out the consequences of principles built in from the beginning.
+    4. The joy of always learning, which springs from the non repeating nature of the task.
+    5. The delight of working in such a tractable medium. The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of imagination.
+    6. The expressiveness of code.

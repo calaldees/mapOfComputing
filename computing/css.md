@@ -4,8 +4,10 @@ CSS
 [Old CSS, new CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/)
 [3D Book Image CSS Generator](https://3d-book-css.netlify.app/)
 
-[Centering in CSS](https://web.dev/centering-in-css/)
 
+[Centering in CSS](https://web.dev/centering-in-css/)
+* [CSS-Tips](https://markodenic.com/css-tips/)
+    * Modern CSS tips for simple and powerful effects
 * [CSS Tricks - guides](https://css-tricks.com/guides/)
 
 Variables in CSS (see book for example)

@@ -27,7 +27,12 @@ UnitTests
 
 * [Precisely: better assertions for Python tests](https://github.com/mwilliamson/python-precisely)
 
-TDD
+Test Driven Development TDD
+---
+
+> 'Test-driven development is double-entry bookkeeping.' 
+<sub>@unclebobmartin</sub>
+
 (expanding string calculator requirements example)
 https://osherove.com/tdd-kata-1/
 

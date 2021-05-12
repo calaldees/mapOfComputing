@@ -23,16 +23,18 @@ Career Guidance
     * Learned helplessness
         * Money banna jets
         * A mood and demionour is coutagious
-
-
     * Say NO with grace
         * Have confidence - quit if need be
     * Ask for help sooner - even if your super senior
     * Develop empathy for others
         * Don't be part of the bitch-a-long chrous. Find people that are more posetive
 
-> People will forget what you said. People will forget what you do. They will never forget how you made them feel. 
-Maya Angelou
+
+* [Let's save Maya Angelou from fake quotes](https://www.bbc.co.uk/news/41913640)
+    * > According to Quote Investigator, this is probably a canard. 
+      > Maya Angelou was linked with the saying in 2003, but the site found a version in a 1971 volume called "Richard Evans' Quote Book", ascribed to one Carl W. Buehner, a high-level official in the Mormon church.
+      >> "They may forget what you said - but they will never forget how you made them feel."
+      > Ironically for Carl, this development makes his point perfectly.
 
 
 Sustainable
