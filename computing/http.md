@@ -22,6 +22,8 @@ curl -H "User-Agent: keycdn-tools:https://calaldees.uk" https://tools.keycdn.com
 
 https://mobisoftinfotech.com/tools/plot-multiple-points-on-map/
 
+* [Big list of http static server one-liners](https://gist.github.com/willurd/5720255) - Launch simple static servers with 1 line of shell
+
 
 Headers
 Make a request

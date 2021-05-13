@@ -108,6 +108,8 @@ Global Radio Login Gigya - 'Hacked by' alert
     * we found  that  accelerometer  data  alone  may  be  sufficient  to  obtain information  about  a  device  holder’s  location,  activities,  health condition,   body   features,   gender,   age,   personality   traits,   and emotional state. Acceleration signals can even be used to uniquely identify  a  person  based  on  biometric  movement  patterns  and  to reconstruct  sequences  of  text  entered  into  a  device,  including passwords.
     * [[privacy]]
 
+* [fragattacks.com](https://www.fragattacks.com/) - fragmentation and aggregation attacks
+    * a collection of new security vulnerabilities that affect Wi-Fi devices
 
 Case Studies
 ------------

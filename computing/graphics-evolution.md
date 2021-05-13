@@ -90,6 +90,12 @@ Modern game programmers use graphics library's and hardware.
 
 Mobile chipsets - 200 Million triangles per second - source [imagination graphics benchmark guide](https://www.imgtec.com/blog/consumer-guide-to-graphics-benchmarks/)
 
+Part 4 - The furture
+--------------------
+
+* [Enhancing Photorealism Enhancement](https://intel-isl.github.io/PhotorealismEnhancement/)
+    * Use of AI to apply photo-realism to game footage (GTA5)
+    * Temprolly stable
 
 Further Reading
 ---------------

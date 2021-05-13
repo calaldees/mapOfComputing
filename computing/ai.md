@@ -10,6 +10,10 @@ AI (Artificial Intelligence)
     * This could be an AMAZING activity
         * What about training the algorithm with lines - and then trying to recognise a filled circle. Could this be a powerful lesson in the data we tain algorithms with? (like the issues big tech companies had with recognising black faces with login systems)
 
+* [Explaining Machine Learning Predictions](https://explainml-tutorial.github.io/) - State-of-the-art, Challenges, and Opportunities
+    * [Explainable Machine Learning: Understanding the Limits & Pushing the Boundaries](https://drive.google.com/file/d/1xn2dCDAeEEhB_rex202KxMPqIPj31fZ4/view) Hima Lakkaraju
+
+
 * [Machine Learning: The Great Stagnation](https://marksaroufim.substack.com/p/machine-learning-the-great-stagnation)
     * (I need to read up on AI and matrix's in general)
     * The writer talks about AI research in general stagnating - there are some interesting AI research out there
