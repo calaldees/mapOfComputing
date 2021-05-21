@@ -25,6 +25,8 @@ Links to working with map data
     * Live Realtime
         * [Lightening Maps](https://www.lightningmaps.org/)
         * [Windy.com](https://www.windy.com/)
+        * [earth.nullschool.net](https://earth.nullschool.net/)
+            * [source](https://github.com/cambecc/earth)
         * [Rain-dar](https://meteoradar.co.uk/realtime-rainradar)
     * [Electricity Map of the World](https://www.electricitymap.org/) - Ranked by carbon intensity of electricity consumed (gCO₂eq/kWh)
     * [SlowWays](https://slowways.uk/) - footpaths between cities

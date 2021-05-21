@@ -29,6 +29,11 @@ AI (Artificial Intelligence)
     * Some really ugly font output
     * Really well described video
 
+* [Ai mid 2021. Self driving car meets reality](https://blog.piekniewski.info/2021/05/12/ai-mid-2021/)
+    * Size of dataset. In one city it works. It wont work across the world with different vehicles and terrain
+    * AI better than radiologists ... but move it the hospital down the road, with slightly different imaging and it  wont work and needs to be retrained from scratch, where as a radiologist can just walk down the road.
+
+
 ---
 
 

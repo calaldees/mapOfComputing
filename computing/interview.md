@@ -170,3 +170,25 @@ if __name__ == "__main__":
     print(f"{average_time_taken=}")
 
 ```
+
+QA Questions
+-------------
+
+Some of these might be domain specific.
+Some word vomit ... these were the first things that came to my head.
+I hope the rational for choosing them and the appropriate answers were hopefully decipherable
+
+1. How would you test a random number generator
+2. Do they have enough systems experience to setup CI
+3. Discuss Real or virtual devices - why
+4. What organisation-structure/process would be need to make BDD a worthwhile investment
+    * The business would need to be invested in the auditing of requirements
+5. Describe a testing abstraction you have created. Why was it needed.
+6. Can you describe the 'definition of done' in your last professional role.
+7. What metrics would signify 'the quality of your solution'. Give examples (or fallback to suggestions)
+8. Can quality practices be applied universally across multiple projects in an organisation? Can you give examples.
+9.  What's more important 'speed of releasing' or 'system reliability' - trick question - this is a business decision
+10. Multiple stakeholders within an organisation are putting pressure on the development team to fix outstanding issues. One of the senior stakeholders is becoming increasingly forceful with prioritising issues relating to their area of interest. How do you ensure the correct issues are prioritised.
+    * Rank issues by scorning them with a documented business process
+11. What new technology in the testing space would you be interested in investigating. Why.
+

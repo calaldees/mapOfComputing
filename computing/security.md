@@ -33,6 +33,8 @@ SSH
 2 Factor
 
 * [Can We Stop Pretending SMS Is Secure Now?](https://krebsonsecurity.com/2021/03/can-we-stop-pretending-sms-is-secure-now/) 2021 Krebs On Security
+* [SeaGlass](https://seaglass.cs.washington.edu/) - Enabling City-Wide IMSI-Catcher Detection
+    * Identifying rouge celltowers for evesdropping
 
 * [SolarWinds: Why the Sunburst hack is so serious](https://www.bbc.co.uk/news/technology-55321643)
     * Targeted government devices by cyber military team. Payload in software update.

@@ -26,6 +26,9 @@ generate SQL database relations and data based off a student name hash.
 Ask questions (with known results)
 Mark SQL compitence (no cheating)
 
+* [geocode-sqlite](https://github.com/eyeseast/geocode-sqlite) - Geocode rows in a SQLite database table
+    * take address and use web api to get lat/lon
+
 PostgreSQL
 ----------
 
