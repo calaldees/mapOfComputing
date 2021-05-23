@@ -5,6 +5,8 @@ AI (Artificial Intelligence)
 * Mass public misunderstanding
 * TODO this section needs fleshing out MASSIVELY!
 
+radiologists move to differnt hospital - ai cant be transfered
+
 * [Coding Challenge #158: Shape Classifier Neural Network with ml5.js](https://www.youtube.com/watch?v=3MqJzMvHE3E) Coding Train 36min
     * He trains a network himself with drawing shapes and it recognises shapes drawn on paper!
     * This could be an AMAZING activity
@@ -58,6 +60,8 @@ AI is made by men (??!?)
     * trained a neural network called DALL·E that creates images from text captions for a wide range of concepts expressible in natural language.
     * _Avocado Chair_
     * _a stained glass window with an image of a blue strawberry_
+
+* Stanford AI Lab Blog: [An Introduction to Knowledge Graphs](http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/)
 
 Services
 --------

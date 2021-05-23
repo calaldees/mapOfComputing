@@ -124,10 +124,19 @@ lights?
         * TCP three way handshake
 
 * [Cisco: Courses / Packet Tracer Courses / Intro to Packet Tracer](https://www.netacad.com/courses/packet-tracer/introduction-packet-tracer)
-* [Shadow](https://shadow.github.io/)
-    * an open-source network simulator/emulator hybrid
-    * runs real applications like Tor and Bitcoin over a simulated Internet topology
-    * light-weight, efficient, scalable, parallelized, controllable, deterministic, accurate, modular, and more!
+* [Open-Source Network Simulators](https://www.brianlinkletter.com/open-source-network-simulators/)
+    * [Shadow](https://shadow.github.io/)
+        * an open-source network simulator/emulator hybrid
+        * runs real applications like Tor and Bitcoin over a simulated Internet topology
+        * light-weight, efficient, scalable, parallelized, controllable, deterministic, accurate, modular, and more!
+    * [Graphical Network Simulator3](https://www.gns3.com/)
+        * Graphical Network Simulator3 is open-source software and a network emulator that allows the combination of virtual and real machine devices of almost any description used to simulate composite networks.
+    * [Educational Network Simulator](http://malkiah.github.io/NetworkSimulator/)
+        * [github.com/malkiah/NetworkSimulator](https://github.com/malkiah/NetworkSimulator)
+* [Open Network Lab](https://onl.kmi.open.ac.uk/)
+    * [pt-anywhere](http://pt-anywhere.kmi.open.ac.uk/) - free online course and simulator
+* [CS4G Netsim](https://netsim.erinn.io/) - simulator game
+    * Netsim is a simulator game intended to teach you the basics of how computer networks function, with an emphasis on security. You will learn how to perform attacks that real hackers use, and see how they work in our simulator!
 
 
 Routing Protocols
