@@ -149,7 +149,7 @@ HELLO protocol?
 ### Distance Vector
 signposts (not whole map)
 BGP (Border gateway protocol - big internet stuff) runs over TCP
-RIP (runs over UDP)
+RIP (runs over [[udp]])
 GIGRP
 
 Distance (number of hops) - use one it thinks is better
@@ -213,6 +213,7 @@ Location Services
 [port-scan]: port-scan.md "port-scan"
 [protocols]: protocols.md "Protocols"
 [information-theory]: information-theory.md "Information Theory"
+[udp]: udp.md "UDP"
 [distributed-filesystems]: distributed-filesystems.md "distributed-filesystems"
 [maps]: maps.md "Maps"
 [datasets]: datasets.md "datasets"

@@ -19,6 +19,8 @@ EmuOS
 
 * [The Universe of Discourse  - Fuckin' user interface design, I swear](https://blog.plover.com/tech/ui.html)
     * Don't have your destructive operations near the common path operations
+* [Why We Need to Rethink the Computer ‘Desktop’ as a Concept](https://onezero.medium.com/the-document-metaphor-desktop-gui-doesnt-work-anymore-d276271bfa40) - Thoughts about a new direction for desktop UI
+    * Keep every user interacted fragment, store metadata, make it searchable, across all applications (cloud or otherwise)
 
 [The Distribution of Users’ Computer Skills: Worse Than You Think](https://www.nngroup.com/articles/computer-skill-levels/)
 

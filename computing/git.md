@@ -63,3 +63,7 @@ Microservice Monolyth
 
 * [master -> main rename](https://mooseyanon.medium.com/github-f-ck-your-name-change-de599033bbbe)
 
+
+* [Stacked Git](https://stacked-git.github.io/)
+    * Manage a set of independent patches? TODO: read more?
+        * (Could be a replacement for my version system? for activities?)

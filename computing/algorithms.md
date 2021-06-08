@@ -21,16 +21,18 @@ Algorithms
             * contour lines
         * doomsday algorithm Day of the week - conway
         * Dijstra shortest path
-        * Levenshtein distance
-            * [Dynamic Programming vs Divide-and-Conquer](https://trekhleb.dev/blog/2018/dynamic-programming-vs-divide-and-conquer/)
-                * Fibonacci, binary search and minimum edit distance (levenshtein)
+        * [Dynamic Programming vs Divide-and-Conquer](https://trekhleb.dev/blog/2018/dynamic-programming-vs-divide-and-conquer/)
+            * Fibonacci, binary search and minimum edit distance (levenshtein)
+        * [[levenshtein-distance]]
         * substring search
+        * [Bayes Theorem](https://cs4fndownloads.files.wordpress.com/2021/05/cs4fnissue27.pdf) - graph of probabilitys
 
 * [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by Jeff Erickson - June 2019 - Free eBook + lecture notes
 * [github.com/trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings 
 * [rosettacode.org](http://rosettacode.org)
     * Rosetta Code is a programming chrestomathy site. The idea is to present solutions to the same task in as many different languages as possible, to demonstrate how languages are similar and different, and to aid a person with a grounding in one approach to a problem in learning another.
 
+* [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) - An _illustrated_ guide for programmers and other curious people - Aditya Bhargava 2015
 
 * [algorithm-visualizer.org](https://algorithm-visualizer.org/)
 * [VisuAlgo.net](https://visualgo.net/en) - visualising data structures and algorithms through animation
@@ -107,6 +109,7 @@ Simple things that are actually hard
 [Parity]: parity.md "Parity"
 [error-correction]: error-correction.md "Error"
 [Hash]: hash.md "Hash"
+[levenshtein-distance]: levenshtein-distance.md "Levenshtein distance"
 [data-structures]: data-structures.md "Data Structures"
 [maths]: maths.md "Maths"
 [raytracing]: raytracing.md "Raytracing"

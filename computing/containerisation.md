@@ -27,6 +27,7 @@ apt-get purge   --auto-remove && \
 apt-get clean
 
 * [Running Docker Containers as Current Host User](https://jtreminio.com/blog/running-docker-containers-as-current-host-user/) - Making local development less aggravating
+* [Best Practices Around Production Ready Web Apps with Docker Compose](https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose)
 
 https://www.fromlatest.io/#/
 

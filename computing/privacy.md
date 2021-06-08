@@ -56,6 +56,12 @@ Facial Recognition
     * Facial fingerprint - find social media profiles with your face
     * Assess emotion at interview
 
+GeoTaging Images
+----------------
+
+* [I Know Where Your Cat Lives](https://iknowwhereyourcatlives.com/about/)
+    * Searches for images of `cats` and if the image has a geotag, put it on a map
+    * > This project explores two uses of the internet: one that promotes sharing for the sociable and humorous appreciation of domesticated felines, and one in which the status quo of personal data usage is exploited by startups and international mega-corporations, who are riding the wave of decreased privacy for all
 
 Encryption
 ----------

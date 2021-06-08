@@ -3,7 +3,9 @@ Decentralize
 
 * [github.com/redecentralize](https://github.com/redecentralize/alternative-internet)
     * A collection of interesting new networks and tech aiming at decentralisation (in some form). 
-
+* [Why Decentralised Applications Don’t Work](https://ingrids.space/posts/why-distributed-systems-dont-work/)
+    * Description of crypto, email, web, git, irc/discord, rss, bittorrent
+    * Decentralised system fail because they don't make money
 * [Centralisation is a danger to democracy](https://redecentralize.org/blog/2021/01/18/centralization-is-a-danger-to-democracy)
     * Local rules instead of global censorship
     * Fediverse? decentralised twitter - like email is decentralised

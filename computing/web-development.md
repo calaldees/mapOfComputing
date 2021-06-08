@@ -13,3 +13,8 @@ This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that hav
     * Example of how complex web is
 
 #avif
+
+
+* [SPA Fatigue - Second-guessing the modern web](https://macwright.com/2020/05/10/spa-fatigue.html)
+    * Discussion of modern web tools not being a single bullet.
+        * REST, GraphQL and Server Side rendering have their issues

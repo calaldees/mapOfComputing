@@ -46,6 +46,19 @@ Online
         * System Design - 8
         * Object Oriented Design - 8
 
+Are code problems _real_ problems?
+https://news.ycombinator.com/item?id=27313883
+> LeetCode is an excellent collection of problems you’ll never encounter in real life. If you don’t have a computer science background you might learn some things. Otherwise, it’s just solving silly problems for the sake of solving silly problems.
+> It reminds me of when my college required linear algebra for my degree. Learning things that I knew without a shadow of a doubt I would never put to use again. 
+They are a good training ground, but should not be the be-all and end-all
+
+https://news.ycombinator.com/item?id=27313034
+> You know how some people think that fizzbuzz is useless, and how no one ever uses fizzbuzz in real life? if you google it, you'll read things like "I have never needed to write fizzbuzz in production in my entire career!" or words to that effect.
+> Of course, fizzbuzz is just checking if you grok some super basic programming concepts like logic, branching, and iteration.
+> So what if you want to know if someone knows a little bit _more_ than just the basics? It's the exact same story.
+> The ability to be able to work with algorithms and puzzle your way out of a problem is kind of important when you're doing some sorts of programming, especially when you need code that scales well (up OR down).
+> If you're really bad at it, you might write pessimal code that even overheats your regular laptop; but fortunately most people aren't quite that bad. ;-) 
+
 Competitions
 ------------
 

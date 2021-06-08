@@ -314,6 +314,7 @@ Other text systems
 * [Create beautiful diagrams just by typing mathematical notation in plain text](https://github.com/penrose/penrose)
 * [elk](https://rtsys.informatik.uni-kiel.de/elklive/)
 * [Beautiful PDFs from HTML](https://pdf.math.dev/)
+* [texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents in browser (from textarea with js)
 
 Unsorted
 --------

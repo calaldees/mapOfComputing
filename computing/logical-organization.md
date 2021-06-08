@@ -1,6 +1,8 @@
 Logical Organization
 ====================
 
+* [The Fetch-Execute Cycle: What's Your Computer Actually Doing?](https://www.youtube.com/watch?v=Z5JC9Ve1sfI&list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha&index=7) Tom Scott 9min
+
 * [How These Things Work: The Preface](https://reasonablypolymorphic.com/book/preface)
     * The foundations of computing from scratch
 

@@ -26,6 +26,8 @@ Creativity Visulisation
 * [Demo Reel & Tiny JavaScript – Mathieu Henri / Front-Trends 2016](http://www.p01.org/FrontTrends_2016/)
     * Love code a demo effect + audio in js
 
+* [Teach Yourself Demoscene in 14 Days](https://github.com/psenough/teach_yourself_demoscene_in_14_days)
+
 https://www.flipcode.com/archives/articles.shtml
 
 * [[digital-art]]

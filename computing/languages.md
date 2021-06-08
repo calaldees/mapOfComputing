@@ -14,10 +14,17 @@ Languages
 * [[rust]]
 * [[shaders]]
 * [[web-assembly]]
+* [Squeak/Smalltalk](https://squeak.org/)
+* [blocky](https://blockly-demo.appspot.com/static/demos/index.html)
+* [BluePrints UE4](https://docs.unrealengine.com/4.26/en-US/ProgrammingAndScripting/Blueprints/)
+    * [blueprintue.com](https://blueprintue.com/)
+    * [Blueprints as a programming language](https://boxbase.org/entries/2019/jan/20/blueprints/)
 
 * [[language-cheatsheets]]
 * [[formal-specification]]
 
+* [alice](https://www.alice.org/)
+    
 
 * [Here’s what people in tech had to say about JavaScript when it debuted in 1995](https://medium.com/dailyjs/heres-what-people-in-tech-had-to-say-about-javascript-when-it-debuted-in-1995-a4b81dc05b71)
 * [PYPL PopularitY of Programming Language](http://pypl.github.io/PYPL.html)

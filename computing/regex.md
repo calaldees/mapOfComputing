@@ -5,6 +5,8 @@ Regular Expressions
 
 * [The Regular Expression Visualizer, Simulator & Cross-Compiler Tool](https://blog.robertelder.org/regular-expression-visualizer/)
 * [regex101.com](https://regex101.com/)
+* [regexcrossword.com](https://regexcrossword.com/)
+    * Online web regex game with crosswords - surprisingly fun!
 
 * [tweet](https://twitter.com/RegexTip/status/1385604900462137345)
 > No regular expression, in the original sense of the term, can match the pattern "any number of a's followed by the same number of b's."

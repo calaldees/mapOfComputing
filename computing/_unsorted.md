@@ -51,7 +51,7 @@ https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis
 
 * [Complete BBC Micro Games Archive](http://bbcmicro.co.uk//about.php)
 * [DOS Games Archive](https://www.dosgamesarchive.com/) #dos
-
+* [Wayback](https://github.com/wabarc/wayback) is a tool that supports running as a command-line tool and docker container, purpose to snapshot webpage to time capsules
 
 * [List of Software Post-Mortems](https://github.com/danluu/post-mortems) - Outages from big cloud providers
 
@@ -146,3 +146,9 @@ Programming Tips
     4. The joy of always learning, which springs from the non repeating nature of the task.
     5. The delight of working in such a tractable medium. The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of imagination.
     6. The expressiveness of code.
+
+
+* [Reddit BeerMoney](https://www.reddit.com/r/beermoney/)
+    * Crowd Testing
+    * CLick-workers
+    * 

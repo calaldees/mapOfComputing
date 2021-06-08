@@ -12,7 +12,7 @@ Data
 * [[Data Visualisation]]
 * [[datasets]]
     * [[maps]]
-* [[simulation]]
+* [[simulation]] [[model]]
 
 Data visualisation from DB's
 [tableau](https://www.tableau.com/)
@@ -45,6 +45,7 @@ Document Formats and Publishing
 [datasets]: datasets.md "datasets"
 [maps]: maps.md "Maps"
 [simulation]: simulation.md "Simulation"
+[model]: model.md "Model"
 [spreadsheets]: spreadsheets.md "Spreadsheets"
 [markdown]: markdown.md "MarkDown"
 [latex]: latex.md "latex"

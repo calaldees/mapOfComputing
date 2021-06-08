@@ -7,6 +7,7 @@ RLE
 Huffman
 -------
 * [What is Huffman Coding?](https://www.baseclass.io/huffman-coding/)
+* [How Computers Compress Text: Huffman Coding and Huffman Trees](https://www.youtube.com/watch?v=JsTptu56GM8&list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha&index=3) Tom Scott 6min
 
 
 * Visible huffman heatmap
