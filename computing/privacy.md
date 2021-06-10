@@ -48,6 +48,7 @@ https://www.seattletimes.com/business/technology/special-sunglasses-license-plat
     * reverse image search profile picture
 
 
+
 Facial Recognition
 ------------------
 
@@ -138,6 +139,10 @@ some software is so poorly tested they they will not start without dns. (I had a
 * [Disable all Telemetry and Data Collection in Mozilla Firefox Quantum](https://chefkochblog.wordpress.com/2018/01/08/disable-all-telemetry-and-data-collection-in-mozilla-firefox-quantum/)
 * [Intent to Remove: HTTP/2 and gQUIC server push](https://groups.google.com/a/chromium.org/g/blink-dev/c/K3rYLvmQUBY/m/vOWBKZGoAQAJ?pli=1) - A case study of why/how telemetry is useful and important.
 
+Email
+-----
+
+* [What's in email tracking links and pixels?](https://bengtan.com/blog/whats-in-email-tracking-links-and-pixels/)
 
 Cookies
 -------

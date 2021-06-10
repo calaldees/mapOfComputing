@@ -5,6 +5,8 @@ AI (Artificial Intelligence)
 * Mass public misunderstanding
 * TODO this section needs fleshing out MASSIVELY!
 
+* [Summary of Envisioning AI for K-12: What should every child know about AI?](https://blog.teachcomputing.org/summary-of-what-should-every-child-know-about-ai/)
+
 radiologists move to differnt hospital - ai cant be transfered
 
 * [Coding Challenge #158: Shape Classifier Neural Network with ml5.js](https://www.youtube.com/watch?v=3MqJzMvHE3E) Coding Train 36min
