@@ -30,7 +30,7 @@ Links to working with map data
         * [Rain-dar](https://meteoradar.co.uk/realtime-rainradar)
     * [Electricity Map of the World](https://www.electricitymap.org/) - Ranked by carbon intensity of electricity consumed (gCO₂eq/kWh)
     * [SlowWays](https://slowways.uk/) - footpaths between cities
-
+* [OpenHistoricalMap](https://www.openhistoricalmap.org/)
 
 * [Map of Starlink Coverage](https://www.google.com/maps/d/u/0/viewer?mid=1H1x8jZs8vfjy60TvKgpbYs_grargieVw&ll=44.25360346049032%2C-101.80770101330125&z=4)
 * [Is the mcdonald’sice cream machine broken?](https://mcbroken.com/) [[creativity]]

@@ -15,7 +15,7 @@ Have you're dev environment reproducible and accessible anywhere
     * [python-in-a-box](https://github.com/raxod502/python-in-a-box) - 30 lines of code to run python in browser
 
 * Browser
-    * [repl.it](https://repl.it/)
+    * [repl.it](https://repl.it/) [[repl.it]]
         * an education revolution
         * (Has a paid-for school class system for projects/sumbissions/annotations/feedback $1000 per year per school)
     * [CodeHS](https://codehs.com/) - Code Highschool
@@ -30,6 +30,7 @@ Have you're dev environment reproducible and accessible anywhere
     * Other
         * [gist.cafe](https://gist.cafe/) - runnable snippets on the web
     * [play.golang.org](https://play.golang.org/)
+    * [Lambda Explorer](https://lambdaexplorer.com/) - Interactive REPL and tutorial for the untyped Lambda Calculus
 * Online IDE
     * [CodeTasty](https://codetasty.com/)
     * [GitPod](https://www.gitpod.io/)

@@ -79,3 +79,4 @@ Visualising
 ---
 
 * [math inspector](https://mathinspector.com/) - A Visual Programming Environment for Scientific Computing
+* [ALL IN ONE MATHEMATICS CHEAT SHEET](https://ourway.keybase.pub/mathematics_cheat_sheet.pdf) - my god ... 

@@ -68,6 +68,8 @@ https://developers.google.com/search/docs/data-types/dataset
             * [[networks]] [[maps]]
             * https://wigle.net/
         * [shipmap.org](https://www.shipmap.org/)
+        * [Earth Engine](https://earthengine.google.com/) - A planetary-scale platform for Earth science data & analysis
+            * [timelaps](https://earthengine.google.com/timelapse/)
 
 
 [Senate Stock Watcher](https://senatestockwatcher.com/) US Senators invest in socks. Before CoVid 19 many senators sold stocks in travel/touisum and invested in medical supplies while telling the US population 'not to worry'. Senetors report their stocks with paper written notes. It takes multiple weeks to process them and they can be incorrect/misinterpreted as handwriting can be hard to read.

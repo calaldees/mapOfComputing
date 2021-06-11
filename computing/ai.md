@@ -5,6 +5,12 @@ AI (Artificial Intelligence)
 * Mass public misunderstanding
 * TODO this section needs fleshing out MASSIVELY!
 
+https://experiments.withgoogle.com/collection/ai
+https://machinelearningforkids.co.uk/
+https://teachablemachine.withgoogle.com/
+
+https://www.appsforgood.org/courses/machine-learning
+
 * [Summary of Envisioning AI for K-12: What should every child know about AI?](https://blog.teachcomputing.org/summary-of-what-should-every-child-know-about-ai/)
 
 radiologists move to differnt hospital - ai cant be transfered

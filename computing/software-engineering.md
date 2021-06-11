@@ -27,6 +27,8 @@ I was looking at case studies for [[telematry]] and was thinking of practical us
     * Setup dev environment
     * Get overview of architecture
 
+* [Full Cycle Developers at Netflix — Operate What You Build](https://netflixtechblog.com/full-cycle-developers-at-netflix-a08c31f83249)
+
 * [Engineering productivity can be measured - just not how you'd expect ](https://www.okayhq.com/blog/engineering-productivity-can-be-measured) Antoine Boulanger 2021
     * AMAZING article
     * Mistake 1 - measure approximations of output
