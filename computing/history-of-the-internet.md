@@ -11,6 +11,7 @@ See [[Win93]] (in UI)
 
 Geocities
 
+* [The 88x31 GIF Collection](http://cyber.dabamos.de/88x31/)
 * [Cameron's World: A love letter to the Internet of old](https://www.cameronsworld.net/)
     * #history
 * [windows93.net](https://www.windows93.net/) a modern javascript browser based nostalgia demo

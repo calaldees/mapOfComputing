@@ -3,6 +3,7 @@ Data Encoding
 
 * [The Base16, Base32, and Base64 Data Encodings](https://tools.ietf.org/html/rfc3548.html)
     * [Base58](https://tools.ietf.org/id/draft-msporny-base58-01.html)
+    * [Base45](https://datatracker.ietf.org/doc/draft-faltstrom-base45/)
 * [Encoding and Decoding Base64 Strings in Python](https://stackabuse.com/encoding-and-decoding-base64-strings-in-python/)
 
 

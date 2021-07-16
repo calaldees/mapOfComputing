@@ -39,6 +39,8 @@ Fonts
           ```
     * [BitmapFonts](https://github.com/ianhan/BitmapFonts/blob/main/README.md)
         * My collection of bitmap fonts pulled from various demoscene archives over the years
+    * [hoard-of-bitfonts](https://github.com/robhagemans/hoard-of-bitfonts/)
+        * Black and white fonts in text files for retro computers
     * [opengameart.org pixel font pack](https://opengameart.org/content/bitmap-font-pack)
 * TrueType
     * [Lexend](https://www.lexend.com/)

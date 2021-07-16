@@ -54,6 +54,7 @@ https://developers.google.com/search/docs/data-types/dataset
             * 200+ datasets published under open licences covering MHCLG’s priorities including: deprivation, housing, local government finance, planning and other themes.
     * Maps
         * [OpenStreetMap](https://www.openstreetmap.org) Javascript Editor - [ID](https://wiki.openstreetmap.org/wiki/ID)
+            * [StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android 
             * [GeoJSON Tools](https://geoman.io/)
             * [Mapillary](https://www.mapillary.com/) Images to maps
         * Live Realtime
@@ -92,6 +93,14 @@ Examples of use of data
     * Beautiful visual web presentation ofb data
 * [hedonometer.org](https://hedonometer.org/)
     * How happy is twitter - sentiment analysis from 2009 to 2021
+
+etymology
+---------
+
+* [Surprising shared word etymologies](https://www.danielde.dev/blog/surprising-shared-word-etymologies/)
+    * list of common English words
+    * a database of word etymologies
+    * GloVe - Global Vectors for Word Representation
 
 Space
 -----

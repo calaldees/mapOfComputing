@@ -101,3 +101,6 @@ Not really social-media .. more data business
 * [Evan Greer talks "Spotify is Surveillance" on NBC](https://www.youtube.com/watch?v=Z1CyZEWDjUU)
     * Spotify filed patent to constantly identify the users 'mood' to play them music that matches them
     * Spotify say they will not implement the patent ... then why have it?
+
+* [Congress Is Going To Throw The Kitchen Sink At Big Tech](https://bigtechnology.substack.com/p/congress-is-going-to-throw-the-kitchen)
+    * Big Technology obtained the five draft bills currently circulating around the House of Representatives that target Big Tech. If they’re signed into law, it will be bad news for the tech giants. 

@@ -144,10 +144,15 @@ Email
 
 * [What's in email tracking links and pixels?](https://bengtan.com/blog/whats-in-email-tracking-links-and-pixels/)
 
+Browsers
+--------
+
+* ["Brave", the false sensation of privacy](http://ebin.city/%7Ewerwolf/posts/brave-is-shit/)
+
 Cookies
 -------
 
-EU has law of concent
+EU has law of consent
 
 * [[cookies]]
 

@@ -63,6 +63,7 @@ Maths
     * principle of computational equivalence (PCE): the principle states that systems found in the natural world can perform computations up to a maximal ("universal") level of computational power.
 
 
+* [What is the Axiom of Choice?](https://jaydaigle.net/blog/what-is-the-axiom-of-choice/)
 
 Matrix
 ------

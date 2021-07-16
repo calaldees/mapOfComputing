@@ -9,6 +9,7 @@ Networks
 * [[ports]]
 * [[port-scan]]
 * [[protocols]]
+* [[url]]
 
 * [[information-theory]]
 
@@ -212,6 +213,7 @@ Location Services
 [ports]: ports.md "ports"
 [port-scan]: port-scan.md "port-scan"
 [protocols]: protocols.md "Protocols"
+[url]: url.md "URL"
 [information-theory]: information-theory.md "Information Theory"
 [udp]: udp.md "UDP"
 [distributed-filesystems]: distributed-filesystems.md "distributed-filesystems"

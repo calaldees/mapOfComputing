@@ -10,3 +10,6 @@ Code Review
     * Readable
     * Elegant
     * Altruist
+* [No code reviews by default](https://raycast.com/blog/no-code-reviews-by-default/)
+    * How we built an engineering culture based on trust that allows us to move incredibly fast without requiring code reviews
+    * Make your own rules

@@ -192,3 +192,22 @@ I hope the rational for choosing them and the appropriate answers were hopefully
     * Rank issues by scorning them with a documented business process
 11. What new technology in the testing space would you be interested in investigating. Why.
 
+
+Questions to an interviewer
+---------------------------
+
+* [Reverse interview](https://github.com/viraptor/reverse-interview)
+
+* When did you last fire someone and why
+    * Do they get rid of the dead wood?
+* Am I replacing another role or is this expansion
+* Can you give examples of HR/staffing issues you have had and how they were resolved
+* How long have each of the team members worked on this project and how have they grown
+* Where do you see this department in 1 years time + 3 years time
+* Can you give an examples of when there was tension in the team and how this was resolved
+* Junoior senior balance
+* how evaluate performance
+* How are the team encouraged to grow
+    * hack time?
+    * autonomy
+* How do you balance technical vs business goals?

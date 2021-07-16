@@ -16,4 +16,4 @@ chnage one thing at a time - test the hypothisi and change it back
     * Small commits make it easy to detect problems
 
 * [javascript: Use console.log() like a pro](https://markodenic.com/use-console-log-like-a-pro/) #javascript
-
+* javascript [Advanced console.log Tips & Tricks](https://medium.com/nmc-techblog/advanced-console-log-tips-tricks-fa3762930bca)

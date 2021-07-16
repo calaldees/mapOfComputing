@@ -27,3 +27,16 @@ http://youmightnotneedjquery.com/
 
 * [Using ES Modules (ESM) in Node.js: A Practical Guide (Part 1)](https://gils-blog.tayar.org/posts/using-jsm-esm-in-nodejs-a-practical-guide-part-1/)
     * How to use ES2015+ modules
+
+
+
+* [ES2015+ cheatsheet](https://devhints.io/es6)
+* [10 New JavaScript Features in ES2020 That You Should Know](https://www.freecodecamp.org/news/javascript-new-features-es2020/)
+
+* [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
+
+
+https://til.hashrocket.com/posts/yq02bobyth-swap-javascript-array-items-inline
+```javascript
+[array[0], array[1]] = [array[1], array[0]]
+```

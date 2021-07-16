@@ -13,3 +13,8 @@ NVMe
         * 12 data lanes
     * NVMeOf is shared flash drives for multiple servers other fibre or ethernet
 
+SSD
+---
+
+* [What Every Programmer Should Know About SSDs ](https://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html)
+* 

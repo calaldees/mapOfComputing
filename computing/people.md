@@ -1,6 +1,8 @@
 People
 ======
 
+* [1931: Kurt Gödel, founder of theoretical computer science, shows limits of math, logic, computing, and artificial intelligence ](https://people.idsia.ch/~juergen/goedel-1931-founder-theoretical-computer-science-AI.html)
+    * Turing, shannon built on this work. Taking a reductionist view
 * [[shannon]]
 
 * [Edsger Dijkstra: The Man Who Carried Computer Science on His Shoulders](https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders)

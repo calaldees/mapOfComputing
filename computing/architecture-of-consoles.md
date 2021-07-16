@@ -5,6 +5,7 @@ Architecture of Games Consoles
     * [DS](https://www.copetti.org/projects/consoles/nintendo-ds/)
     * [VirtualBoy](https://www.copetti.org/writings/consoles/virtual-boy/)
     * [PS2](https://www.copetti.org/writings/consoles/playstation-2/)
+    * [PS1](https://www.copetti.org/writings/consoles/playstation/)
 
 [SegaVR](https://gamehistory.org/segavr/) 1993 Megadrive - emulated/reverse-engineered from source
 

@@ -16,6 +16,10 @@ Privacy
 * [What Do You Actually Agree To When You Accept All Cookies](http://www.conradakunga.com/blog/what-do-you-actually-agree-to-when-you-accept-all-cookies/)
     * Many pages of terms
     * Sold to 600+ other vendors
+* [Defeating cookie banners](https://transcend.io/blog/defeating-cookie-banners)
+    * Proposal to keep all tracking data locally and ask user permission to send journey when required
+    * Would not need popup on first view of every page
+        * This assumes all data is about purchases - most companies still want to track viewership
 * [URL shorteners set ad tracking cookies](https://ylukem.com/blog/url-shorteners-set-ad-tracking-cookies)
     * tinyurl -> ad tracking company (set cookies) -> zoom
 * [ClearURLs](https://github.com/ClearURLs/Addon/)

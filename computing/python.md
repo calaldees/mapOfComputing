@@ -175,6 +175,12 @@ Advanced Modules
 
 * [Interfaces and Protocols](https://glyph.twistedmatrix.com/2021/03/interfaces-and-protocols.html) in python
 
+Techniques
+----------
+
+* [Functools - The Power of Higher-Order Functions in Python](https://martinheinz.dev/blog/52)
+    * Really nice description of functools
+
 Reference Implementation
 ------------------------
 

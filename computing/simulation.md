@@ -11,6 +11,9 @@ See [[model]]
     * The third part is about second-order systems, including mechanical systems like projectiles, celestial mechanics, and rotating rigid bodies.
 * [HASH.ai](https://hash.ai/) free online platform for assembling models of the world
     * Solving Problems Traditional Data Science Can’t with Agent based simulations
+* Artificial Life
+    * [alien-project.org](https://alien-project.org/)
+    * conway
 * Climate
     * [climateinteractive](https://en-roads.climateinteractive.org/scenario.html)
     * [Joseph Cook](https://news.microsoft.com/en-gb/2018/12/11/uk-scientist-handed-microsoft-grant-to-launch-unique-study-into-how-climate-change-is-affecting-the-arctic/) (from Margate) Predictive model on how glaciers melt from drones (not satellites)

@@ -15,6 +15,7 @@ Hacking and Security
     * never take unsolicited calls
 * multi factor authentication
 * passowrd managers (dont use the same password)
+    * [](https://howsecureismypassword.net/)
 
 
 You can't add it later
@@ -32,6 +33,7 @@ SSH
 
 2 Factor
 
+* [Kontra OWASP Top 10 for API](https://application.security/free/owasp-top-10-API) - Application Security Training
 * [Can We Stop Pretending SMS Is Secure Now?](https://krebsonsecurity.com/2021/03/can-we-stop-pretending-sms-is-secure-now/) 2021 Krebs On Security
 * [SeaGlass](https://seaglass.cs.washington.edu/) - Enabling City-Wide IMSI-Catcher Detection
     * Identifying rouge celltowers for evesdropping

@@ -10,6 +10,8 @@ Are hard
     * All of these have their downsides. GUI's are hard
 
 
+* [guizero](https://lawsie.github.io/guizero/about/) is a Python 3 library for creating simple GUIs
+
 todo
 ----
 

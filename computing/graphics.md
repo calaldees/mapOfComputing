@@ -4,7 +4,7 @@ Graphics
 * [[3D]]
 * [[Animation]]
 * [[Dither]]
-* [[Evolution of Computer Graphics]]
+* [[graphics-evolution]]
 * [[OpenGL]]
 * [[Raytracing]]
 * [[Timelaps]]
@@ -26,7 +26,7 @@ Graphics
 [3D]: 3d.md "3D"
 [Animation]: animation.md "Animation"
 [Dither]: dither.md "dither"
-[Evolution of Computer Graphics]: evolution-of-computer-graphics.md "Evolution of Computer Graphics"
+[graphics-evolution]: graphics-evolution.md "Evolution of Computer Graphics"
 [OpenGL]: opengl.md "OpenGL"
 [Raytracing]: raytracing.md "Raytracing"
 [Timelaps]: timelaps.md "Timelaps"
