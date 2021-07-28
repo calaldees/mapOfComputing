@@ -44,7 +44,9 @@ Computing
 
 * [Reading for graduate students](http://matt.might.net/articles/books-papers-materials-for-graduate-students/)
     * Reading to get to the next level after a degree
-
+* [10 Papers Every Developer Should Read](https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice)
+    * Interesting set of papers for core concepts
+        * _Self_ looks very interesting
 
 Unsorted
 ========

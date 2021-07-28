@@ -1,6 +1,10 @@
 Testing
 =======
 
+* [We need to talk about testing](https://dannorth.net/2021/07/26/we-need-to-talk-about-testing/) 2021 Dan North
+    * Or how programmers and testers can work together for a happy and fulfilling life
+    * #agile #bdd #tdd #testing
+
 * [[automated-testing]]
 * [The Myth of Code Coverage](https://preslav.me/2020/12/03/the-myth-of-code-coverage/)
     * 1/3 of the code every software project is irrelevant, buggy, overly complicated, or simply sucks.

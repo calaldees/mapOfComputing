@@ -27,6 +27,10 @@ driver quality
 powerpc/intel split
 
 
+* [Apple to Pull 'iDOS 2' DOS Emulator From App Store](https://www.macrumors.com/2021/07/22/apple-to-pill-idos-2-emulator-from-app-store/)
+    * Your app's can't execute code. Apple controls what your software can do. Thank goodness for open platforms.
+
+
 linux
 -----
 

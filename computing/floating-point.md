@@ -13,6 +13,8 @@ Floating Point Numbers
 
 IEEE
 
+* [Binary representation of floating-point numbers](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/math/binary-floating-point)
+    * github explantation with diagrams
 * [There are Only Four Billion Floats–So Test Them All!](https://randomascii.wordpress.com/2014/01/27/theres-only-four-billion-floatsso-test-them-all/)
 
 * [Here be dragons: advances in problems you didn’t even know you had](http://www.serpentine.com/blog/2011/06/29/here-be-dragons-advances-in-problems-you-didnt-even-know-you-had/)

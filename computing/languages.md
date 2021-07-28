@@ -19,6 +19,9 @@ Languages
 * [BluePrints UE4](https://docs.unrealengine.com/4.26/en-US/ProgrammingAndScripting/Blueprints/)
     * [blueprintue.com](https://blueprintue.com/)
     * [Blueprints as a programming language](https://boxbase.org/entries/2019/jan/20/blueprints/)
+* Self
+    * [Programming as an Experience: The Inspiration for Self](https://link.springer.com/chapter/10.1007/3-540-49538-X_15)
+    * Smalltalk extreeem
 
 * [[language-cheatsheets]]
 * [[formal-specification]]

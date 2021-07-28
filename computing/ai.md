@@ -20,6 +20,10 @@ radiologists move to differnt hospital - ai cant be transfered
     * This could be an AMAZING activity
         * What about training the algorithm with lines - and then trying to recognise a filled circle. Could this be a powerful lesson in the data we tain algorithms with? (like the issues big tech companies had with recognising black faces with login systems)
 
+* [DeepMind: Generally capable agents emerge from open-ended play](https://deepmind.com/blog/article/generally-capable-agents-emerge-from-open-ended-play)
+    * Beautiful visual description of general purpose game playing AI.
+    * _Tasks_ for the AI to overcome are created procedurally
+
 * [Explaining Machine Learning Predictions](https://explainml-tutorial.github.io/) - State-of-the-art, Challenges, and Opportunities
     * [Explainable Machine Learning: Understanding the Limits & Pushing the Boundaries](https://drive.google.com/file/d/1xn2dCDAeEEhB_rex202KxMPqIPj31fZ4/view) Hima Lakkaraju
 

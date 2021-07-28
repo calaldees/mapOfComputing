@@ -51,6 +51,9 @@ Fonts
 * Uniwidth/Multiplex/Duplexed/Equal-width
     * [Uniwidth typefaces for interface design](https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7)
 * Monospace
+    * [Coding with Character](https://realdougwilson.com/writing/coding-with-character)
+        * Monospace fonts for coding with personality
+        * If you spend all day looking at code, letters, and characters—why not make it fun?
     * [Dev Fonts](https://devfonts.gafi.dev/) - free monospace font comparison
     * [comic-mono](https://dtinth.github.io/comic-mono-font/)
     * [oldschool-pc-fonts](https://int10h.org/oldschool-pc-fonts/readme/)

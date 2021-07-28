@@ -10,7 +10,7 @@ Functional Programming
 * [Cube Composer](https://david-peter.de/cube-composer/) - Learn Functional Programming Visually
 * [Why Isn't Functional Programming the Norm? – Richard Feldman](https://www.youtube.com/watch?v=QyJZzq0v7Z4) 46min
 
-* [Dr Software](https://bitgloss.ro/dr-software.pdf) - [[object-orientation]] to [[functional]]
+* [Dr Software](https://bitgloss.ro/dr-software.pdf) - [[object-orientation]] to [[functional]] #refactoring
     * An unfinished journey starting from dirty code
     * By Dan Nicolici
 

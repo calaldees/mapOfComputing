@@ -8,8 +8,8 @@ Game
 * [[game-design]]
 * [[game-engines]]
 * [[design-patterns-game]]
+* [[game-maps]]
 * [[history-of-the-games-industry]]
-* [[doom]]
 * [[graphics-evolution]]
 
 https://github.com/scottrippey/xquestjs
@@ -71,6 +71,7 @@ Games to Learn Computing
 [game-design]: game-design.md "Game Design"
 [game-engines]: game-engines.md "game-engines"
 [design-patterns-game]: design-patterns-game.md "design-patterns-game"
+[game-maps]: game-maps.md "Game Maps"
 [history-of-the-games-industry]: history-of-the-games-industry.md "history-of-the-games-industry"
 [graphics-evolution]: graphics-evolution.md "Evolution of Computer Graphics"
 [simulation]: simulation.md "Simulation"

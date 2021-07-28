@@ -7,6 +7,9 @@ History of Computing
 * [[history-of-the-games-industry]]
 * [[history-of-operating-systems]]
 
+* [How the IBM PC Won, Then Lost, the Personal Computer Market](https://spectrum.ieee.org/tech-history/silicon-revolution/how-the-ibm-pc-won-then-lost-the-personal-computer-market)
+    * Brilliant description of 1980 (invention) to 1986 (exit) of IBM with the PC architecture
+
 * [C64 Home Companion](https://datassette.nyc3.cdn.digitaloceanspaces.com/livros/the_commodore_64_home_companion.pdf) George Beekman 198x?
     * Spreadsheets for home accounts
     * Modems
@@ -67,6 +70,11 @@ Preserving Hardware
 * [Don't Piss Off Bradley, the Parts Seller Keeping Atari Machines Alive](https://www.vice.com/en/article/7kvkx9/dont-piss-off-bradley-the-parts-seller-keeping-atari-machines-alive)
     * Old unused Atari parts
 
+Preserving Data
+---------------
+
+* [Thoughts on "The Theory and Craft of Digital Preservation"](http://ajroach42.com/thoughts-on-digital-preservation/) 2021
+    * (I love the font and background - so readable!)
 
 
 * [How to send an 'E mail' - Database - 1984](https://www.youtube.com/watch?v=szdbKz5CyhA)

@@ -30,7 +30,7 @@ See [[model]]
 * Economic
     * ?
 * Tamagchi Singularity
-    * Reverse engineer Tamagochi -> VM -> Millions of Tamagochis -> Supervised/Fed/happy
+    * Reverse engineer Tamagochi -> VM -> Millions of Tamagochis -> Supervised/Fed/happy #reverse-engineering
     * [Building the Tamagotchi Singularity ](http://spritesmods.com/?art=tamasingularity)
     * [Building The Infinite Matrix Of Tamagotchis](https://hackaday.com/2015/11/24/building-the-infinite-matrix-of-tamagotchis/)
 * Flight Sim
