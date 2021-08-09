@@ -48,6 +48,7 @@ Fonts
         * See [[Accessibility]]
     * [evangelion](https://fontsinuse.com/uses/28760/neon-genesis-evangelion)
     * [Helvetica: feature-length documentary](https://www.hustwit.com/helvetica)
+    * [Inter](https://rsms.me/inter/) - Inter is a typeface carefully crafted & designed for computer screens
 * Uniwidth/Multiplex/Duplexed/Equal-width
     * [Uniwidth typefaces for interface design](https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7)
 * Monospace

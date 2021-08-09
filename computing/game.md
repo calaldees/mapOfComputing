@@ -38,6 +38,8 @@ https://www.polygon.com/2020/1/13/21064100/vvvvvv-source-code-game-development-t
 
 [PyGame 2.0](https://github.com/pygame/pygame/releases/tag/2.0.0) Thank god ... finally ... 
 
+* [itch.io](https://itch.io/)
+    * Independent developers showcase of browser based simple games
 * [[pico8]]
 * [freecivweb.org](https://www.freecivweb.org/) - Civilisation multiplayer (with hundreds of players simultaneously)
 

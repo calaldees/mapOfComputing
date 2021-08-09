@@ -14,6 +14,12 @@ Networks
 * [[information-theory]]
 
 
+* [TCP/IP illustrated](https://www.amazon.co.uk/TCP-Illustrated-Protocols-Addison-Wesley-Professional-ebook/dp/B00666M52S) Fall, Kevin R. 2011
+    * Volume 1: The protocols
+    * Volume 2: The implementation
+    * [vlebooks](https://www.vlebooks.com/Vleweb/Product/Index/194281)
+
+
 * [Beej's Guide to Network Programming - Using Internet Sockets](https://beej.us/guide/bgnet/html/)
 * [Computer Networks: A Systems Approach](https://book.systemsapproach.org/) - Larry Peterson and Bruce Davie
 

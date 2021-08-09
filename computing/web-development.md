@@ -18,3 +18,7 @@ This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that hav
 * [SPA Fatigue - Second-guessing the modern web](https://macwright.com/2020/05/10/spa-fatigue.html)
     * Discussion of modern web tools not being a single bullet.
         * REST, GraphQL and Server Side rendering have their issues
+
+* [static.wiki](http://static.wiki/)
+    * [GitHub: static-wiki](https://github.com/segfall/static-wiki) - Wikipedia using only static assets & no backend
+    * [Hosting SQLite databases on Github Pages](https://phiresky.netlify.app/blog/2021/hosting-sqlite-databases-on-github-pages/)

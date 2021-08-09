@@ -38,6 +38,7 @@ See [UI.md](UI.md) for Command Line Interface Guidelines
   * [[security]]
 
 * [modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands
+* [6 Command Line Tools for Productive Programmers](https://earthly.dev/blog/command-line-tools/)
 
 
 

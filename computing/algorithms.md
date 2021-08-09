@@ -27,6 +27,18 @@ Algorithms
         * substring search
         * [Bayes Theorem](https://cs4fndownloads.files.wordpress.com/2021/05/cs4fnissue27.pdf) - graph of probabilitys
 
+* [Nine algorithms that changed the future: the ingenious ideas that drive today's computers]() MacCormick, John 2011
+    * Ingenious ideas that drive today's computers
+    * [vlebooks](https://r3.vlereader.com/Reader?ean=9781400839568)
+    * Search engine indexing
+    * PageRank
+    * Public Key Cryptography
+    * Error-Correcting Codes
+    * Pattern Recondition
+    * Data Compression
+    * Database (Consistency)
+    * Digital Signatures
+
 * [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by Jeff Erickson - June 2019 - Free eBook + lecture notes
 * [github.com/trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings 
 * [rosettacode.org](http://rosettacode.org)

@@ -1,6 +1,8 @@
 ux - User Experience
 ====================
 
+* [Design a Curriculum with User-Experience Analysis: Case Study Computing Science Curriculum](https://link.springer.com/chapter/10.1007/978-3-030-51968-1_3) Punpiti Piamsa-nga, Yuen Poovarawan 2020
+
 * [userinyerface.com](https://userinyerface.com/) - interactive leaning of bad user interface patterns.
 * [A list of design concepts every UX/UI designer should learn](https://uxdesign.cc/a-list-of-design-concepts-every-ux-ui-designer-should-learn-7e2d8412b391) Aman Gupta Jul 19, 2019·13 min read
     * Links to EVERYTHING in the topics below!!! Amazing!

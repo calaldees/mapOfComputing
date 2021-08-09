@@ -55,7 +55,8 @@ radiologists move to differnt hospital - ai cant be transfered
 
 [World Models](https://adgefficiency.com/world-models/) - AI paper to teach 2d car how to drive
 
-[MarIO](https://www.youtube.com/watch?v=qv6UVOQ0F44) - AI plays Super Mario World
+* [MarIO](https://www.youtube.com/watch?v=qv6UVOQ0F44) - AI plays Super Mario World
+* [learnfun & playfun: A general technique for automating NES games](http://tom7.org/mario/)
 
 [Open Source Tools & Data for Music Source Separation](https://source-separation.github.io/tutorial/landing.html)
 

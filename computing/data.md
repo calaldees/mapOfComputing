@@ -15,6 +15,8 @@ Data
 * [[simulation]] [[model]]
 * [[dsp]]
 
+* [Information Geometry](https://math.ucr.edu/home/baez/information/) [[maths]]
+
 Data visualisation from DB's
 [tableau](https://www.tableau.com/)
 
@@ -54,6 +56,7 @@ Dashboards Live?
 [simulation]: simulation.md "Simulation"
 [model]: model.md "Model"
 [dsp]: dsp.md "Digital Signal Processing"
+[maths]: maths.md "Maths"
 [spreadsheets]: spreadsheets.md "Spreadsheets"
 [markdown]: markdown.md "MarkDown"
 [latex]: latex.md "latex"

@@ -16,3 +16,8 @@ https://www.youtube.com/watch?v=65weTx0haog&t=386s
     S16GfxViewer.exe mpr-10933.91 mpr-10935.95 mpr-10937.99 mpr-10939.103
     S16GfxViewer.exe mpr-10932.90 mpr-10934.94 mpr-10936.98 mpr-10938.102
 ```
+
+* [The Monkey Island (TM) PC-Speaker music player](https://www.thanassis.space/monkeyisland.html)
+    * extraction of music data from DOSBox and creation hardware player
+    * Compressed with huffman
+

@@ -9,6 +9,7 @@ Integrated Development Environment (IDE)
 * Notpad++
 * emacs
 * vim
+* PyCharm
 
 
 vscode

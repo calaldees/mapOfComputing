@@ -13,6 +13,12 @@ See [[algorithms]]
 * [VisuAlgo.net](https://visualgo.net/en) - visualising data structures and algorithms through animation
 * [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
+
+Binary Tree - B Tree
+--------------------
+
+* [B-tree Path Hints](https://github.com/tidwall/btree/blob/master/PATH_HINT.md)
+
 Linked List
 -----------
 

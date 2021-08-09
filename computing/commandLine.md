@@ -34,6 +34,7 @@ Shells
   * [Alternative-Shells](https://github.com/oilshell/oil/wiki/Alternative-Shells)
   * sh
   * [[bash]] (5+)
+    * (see the bash page for loads of cool tricks/examples for productive developers)
   * zsh
 
 

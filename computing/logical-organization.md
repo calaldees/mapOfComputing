@@ -1,6 +1,10 @@
 Logical Organization
 ====================
 
+* [I Made A Water Computer And It Actually Works](https://www.youtube.com/watch?v=IxXaizglscw) YouTube 16min
+* [A Computer Built With Dominos](https://www.youtube.com/watch?v=w6E7aQnA4Ws) YouTube 8min
+    * Half adder
+
 * [The Fetch-Execute Cycle: What's Your Computer Actually Doing?](https://www.youtube.com/watch?v=Z5JC9Ve1sfI&list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha&index=7) Tom Scott 9min
 
 * [How These Things Work: The Preface](https://reasonablypolymorphic.com/book/preface)
