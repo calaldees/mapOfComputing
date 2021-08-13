@@ -52,6 +52,13 @@ sudo mv /etc/xdg/autostart/xcompmgr.desktop /etc/xdg/autostart/xcompmgr.desktop.
 # sudo raspi-config
 
 ssh-keygen -t rsa
+
+# https://peppe8o.com/fixed-connect-bluetooth-headphones-with-your-raspberry-pi/
+sudo usermod -G bluetooth -a pi
+sudo apt-get install bluealsa pulseaudio
+sudo systemctl status bluetooth.service
+# service will not be running
+# OH GOD! .. this guide is huge ... maybe not today .. why is this now broken :(
 ```
 
 
