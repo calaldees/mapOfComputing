@@ -1,6 +1,10 @@
 Maths
 =====
-
+* [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila/index.html)
+    * Linear: having to do with lines, planes, etc.
+    * Algebra: solving equations involving unknowns.
+    * This text is roughly half computational and half conceptual in nature. 
+    * Most engineering problems, no matter how complicated, can be reduced to linear algebra
 * [Category Theory Illustrated](https://github.com/boris-marinov/category-theory-illustrated)
     * Beautiful web/book illustrating mathematical and computing set constructs and terminology.
 * [Map of Mathematics](https://mathmap.quantamagazine.org/map/)

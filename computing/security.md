@@ -1,6 +1,8 @@
 Hacking and Security
 ====================
 
+* [9Sec Blog](https://9esec.io/blog) - Experts insights
+
 * 75% of all attacks are phishing
 * Social engineering
 * Malware

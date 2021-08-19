@@ -40,7 +40,7 @@ didnt know where else to put this ...
 * [rsync](https://en.wikipedia.org/wiki/Rsync)
   * Sort of can be used like the copy command, but only copies the changed bits
   * [[networks]]
-  * [[commandLine]]
+  * [[terminal]]
   * New
     * [Bit-Sync](https://github.com/claytongulick/bit-sync) - pure javascript rsync protocol to sync arbitrary binary data
     * [zsync](http://zsync.moria.org.uk/) - rsync via [[http]]

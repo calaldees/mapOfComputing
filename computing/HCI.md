@@ -1,7 +1,7 @@
 HCI
 ===
 
-* [[commandLine]]
+* [[terminal]]
 * [[Desktop Applications]]
 * [[Fantasy UI]]
 * [[GUI]]

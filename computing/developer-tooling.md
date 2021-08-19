@@ -8,7 +8,7 @@ developer-tooling
 
 * Code + Terminal
 * [[hotkeys]]
-* [[version-control]] [[git]] from [[commandLine]]
+* [[version-control]] [[git]] from [[terminal]]
 * [[containerisation]]
 * Font [[typography]]
 * [[debugging]]

@@ -54,6 +54,14 @@ History of Computing
 * [Hidden Figures](https://en.wikipedia.org/wiki/Hidden_Figures)
     * Hidden Figures is a 2016 American biographical drama film. It is loosely based on the 2016 non-fiction book about African American female mathematicians who worked at the National Aeronautics and Space Administration (NASA) during the Space Race. 1960's
 
+Old Mainframes
+--------------
+
+* [IBM 1401 let's program #8, primes](https://www.youtube.com/watch?v=13Pn10RZWdE)
+    * find #prime numbers up to 255. Programmed with flipping switches
+    * Wonderful 3D unreal engine recreation of the IBM 1401
+        * [the virtual data center - a 1401 3D simulation](https://rolffson.de/)
+
 Mechanical Computers
 --------------------
 

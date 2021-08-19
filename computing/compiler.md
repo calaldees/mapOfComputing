@@ -10,6 +10,11 @@ BNF
 
 Compilers optimise into something that is unrecognizable but performs the same function
 
+* Let's write a compiler
+    * [Let's write a compiler, part 1: Introduction, selecting a language, and doing some planning](https://briancallahan.net/blog/20210814.html)
+    * [Let's write a compiler, part 2: A lexer](https://briancallahan.net/blog/20210815.html)
+    * [Let's write a compiler, part 3: A parser](https://briancallahan.net/blog/20210816.html)
+    * [Let's write a compiler, part 4: Testing](https://briancallahan.net/blog/20210817.html)
 * [A simple program reducer for any language](https://comby.dev/blog/2021/03/26/comby-reducer)
     * reducer?
 

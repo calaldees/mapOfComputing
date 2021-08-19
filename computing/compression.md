@@ -14,6 +14,10 @@ Huffman
     * [MONOSPACE](http://www.p01.org/MONOSPACE/): Flip dots with feelings, a JavaScript demo in 1021 bytes, winner of the 1024 bytes demo competition at Assembly 2020
         * [PNGStore](https://www.iamcal.com/png-store/)
 
+* [Modern LZ Compression ](https://glinscott.github.io/lz/index.html) - Gary Linscott 2021
+    * walks through the components of a modern LZ compressor
+    * create a compressor that can beat gzip while decompressing at almost the same speed — in less than 1000 lines
+    * (beautiful single page layout with code)
 
 New techniques
 --------------

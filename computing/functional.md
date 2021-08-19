@@ -2,6 +2,10 @@ Functional Programming
 ======================
 
 * [[haskell]]
+* [Why is Learning Functional Programming So Damned Hard?](https://cscalfani.medium.com/why-is-learning-functional-programming-so-damned-hard-bfd00202a7d1) Charles Scalfani Nov 30, 2019 21 min read
+    * insightful reflection on learning haskell as a profetional
+    * tutorial sand resources are patchy
+    * Functional has a higher upfront cost but the quality of the solution is MUCH better
 
 * [Advantages of Functional Programming](https://alvinalexander.com/scala/fp-book/benefits-of-functional-programming)
 * [Conversations with a six-year-old on functional programming](https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/)
