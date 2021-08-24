@@ -15,7 +15,11 @@ flappy birds
 
 [Game Design Curriculum](https://www.riotgames.com/en/urf-academy/curriculum-guide) Riot Games
 
-
+* [What Games Are Like For Someone Who Doesn't Play Games](https://www.youtube.com/watch?v=ax7f3JZJHSw)
+    * Gamers know a lot of patterns that enable them to engage with games
+    * Analysis of observations of a non gamer
+    * Games are frustrating and not as cool as people think they are
+    * Messaging is sometimes not clear
 
 [X-Com: Enemy Unknown](https://www.filfre.net/2020/09/x-com/) The story
 

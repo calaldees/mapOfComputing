@@ -64,7 +64,13 @@ https://news.ycombinator.com/item?id=27313034
 Competitions
 ------------
 
-* [British Informatics Olympiad](https://www.olympiad.org.uk/)
+* [bebras.org](https://www.bebras.org/)
+    * Bebras is an international initiative aiming to promote Informatics (Computer Science, or Computing) and computational thinking among school students at all ages.
+    * [UK Bebras](https://challenge.bebras.uk/) - Algorithmic Code Challenges for primary and secondary
+        * National competition
+* [British Informatics Olympiad](https://www.olympiad.org.uk/) - national computing competition for schools and colleges. 
+* [International Olympiad in Informatics](https://ioinformatics.org/) - international
+    * Lots of publications
 
 
 Other

@@ -94,6 +94,8 @@ Social Media
         * Infinite scrolling with no “more” button or link. This creates PERPETUATION.
         * Fake internet points (clickable, often animated icons with incrementing numbers. Likes, reactions, upvotes, retweets, etc.). This creates ADDICTION.
 
+* [End of Social Media | The Future of Serendipity | Future Technology](https://miikavonbell.com/posts/end-of-social-media/)
+    * People are waking up to mass advising and wilful algorithmic recommendations
 ---
 
 Not really social-media .. more data business
