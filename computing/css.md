@@ -27,8 +27,8 @@ www.csszengarden.com
 
 MonsterBoy title project?
 
-Windows 98 UI [98.css](https://jdan.github.io/98.css/)
-
+* Windows 98 UI [98.css](https://jdan.github.io/98.css/)
+* Windows 7 UI [7.css](https://github.com/khang-nd/7.css)
 
 Async CSS and Font Swap - [The Fastest Google Fonts](https://csswizardry.com/2020/05/the-fastest-google-fonts/)
 

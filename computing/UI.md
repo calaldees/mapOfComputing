@@ -15,7 +15,7 @@ Discoverability
 * Interact with windows95 ui in browser from [[web-operating-systems]]
 
 
-* [The Universe of Discourse  - Fuckin' user interface design, I swear](https://blog.plover.com/tech/ui.html)
+* [The Universe of Discourse - Fuckin' user interface design, I swear](https://blog.plover.com/tech/ui.html)
     * Don't have your destructive operations near the common path operations
 * [Why We Need to Rethink the Computer ‘Desktop’ as a Concept](https://onezero.medium.com/the-document-metaphor-desktop-gui-doesnt-work-anymore-d276271bfa40) - Thoughts about a new direction for desktop UI
     * Keep every user interacted fragment, store metadata, make it searchable, across all applications (cloud or otherwise)
@@ -29,6 +29,7 @@ https://threadreaderapp.com/thread/927593460642615296.html
 > You don't even realize why the process is frustrating because it's just The Way It Is.
 > Mice are great for unstructured data - wikipedia - twitter,google dopbox are linear
 
+* [The Rise Of User-Hostile Software](https://den.dev/blog/user-hostile-software/) Or why software we get today is not the software we should strive to be getting tomorrow.
 * [The Decline of Usability](https://datagubbe.se/decusab/)
 * [The Humane Interface](https://en.wikipedia.org/wiki/The_Humane_Interface) - 2000 Jef Raskin
     * The book puts forward a large number of interface design suggestions, from fairly trivial ones to radical ones. The overriding theme is that current computer interfaces are often poor and set up users to fail, as a result of poor planning (or lack of planning) by programmers and a lack of understanding of how people actually use software. 
