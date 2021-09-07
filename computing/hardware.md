@@ -27,6 +27,9 @@ computers
 * [siliconpr0n.org](https://siliconpr0n.org/)
     * High resolution chip maps
 
+* [The Chip Shortage Keeps Getting Worse. Why Can’t We Just Make More?](https://www.bloomberg.com/graphics/2021-chip-production-why-hard-to-make-semiconductors/)
+    * Lay-persons guide to chip fabrication process
+
 retro consoles
 --------------
 

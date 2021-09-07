@@ -39,3 +39,22 @@ https://github.com/moby/buildkit
 
 * [SubUser](https://subuser.org/)
     * Using docker containers to run applications with only dir level access
+
+### Docker Commandline Helpers
+
+```bash
+alias docker_clean='docker volume rm $(docker volume ls -qf dangling=true) ; docker rm $(docker ps -q -f status=exited) ; docker rmi $(docker images -q -f dangling=true)'
+alias docker_nuke='docker_rm_all ; docker rmi --force $(docker images -q -a) ; docker volume rm $(docker volume ls -qf dangling=true) ; docker network rm $(docker network ls -q)'
+alias docker_ps='docker ps -a --format "{{.ID}}\t{{.Names}}"'
+alias docker_rm_all='docker_stop_all ; docker rm $(docker ps -a -q) --force'
+alias docker_rm_exited='docker ps -a | grep Exit | cut -d " " -f 1 | xargs docker rm'
+alias docker_stop_all='docker stop $(docker ps -a -q)'
+```
+
+Podman
+------
+
+* Secure by default
+* No Root level daemon
+
+* [Migrating from Docker to Podman](https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman/)

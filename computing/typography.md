@@ -1,6 +1,8 @@
 Typography
 ==========
 
+* [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
+    * > For too long typographic style and its accompanying attention to detail have been overlooked by website designers, particularly in body copy. In years gone by this could have been put down to the technology, but now the web has caught up. The advent of much improved browsers, text rendering and high resolution screens, combine to negate technology as an excuse.
 * [Font size is useless; let’s fix it](https://tonsky.me/blog/font-size/)
 * [Time to upgrade your monitor](https://tonsky.me/blog/monitors/) - Font Rasterisation on modern OS's
 * Concept
