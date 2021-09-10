@@ -145,6 +145,11 @@ lights?
 * [CS4G Netsim](https://netsim.erinn.io/) - simulator game
     * Netsim is a simulator game intended to teach you the basics of how computer networks function, with an emphasis on security. You will learn how to perform attacks that real hackers use, and see how they work in our simulator!
 
+Infrastructure
+--------------
+
+* [DHCP Games with Smart Router Devices](https://www.anvilsecure.com/blog/dhcp-games-with-smart-router-devices.html)
+
 
 Routing Protocols
 -----------------

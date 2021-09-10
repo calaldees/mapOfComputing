@@ -27,6 +27,8 @@ Operating Systems
 
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) free ebook 2021
     * virtualization, concurrency, and persistence
+* [intermezzOS](http://intermezzos.github.io/)
+    * intermezzOS is a teaching operating system, specifically focused on introducing systems programming concepts to experienced developers from other areas of programming
 
 
 * [Bring back the ease of 80s and 90s personal computing](https://medium.com/@probonopd/bring-back-the-ease-of-80s-and-90s-personal-computing-393738c5e2a1)

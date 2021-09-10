@@ -4,6 +4,9 @@ Server Side
 * [[openapi]]
 * [[server-infrastructure]]
 
+* [My £4 a month server can handle 4.2 million requests a day](https://mark.mcnally.je/blog/post/My%20%C2%A34%20a%20month%20server%20can%20handle%204.2%20million%20requests%20a%20day)
+    * Simple webserver benchmark of static site and Django
+
 * [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
     * we will take you on a journey under the hood of web technologies, offering you a glimpse of all the bits and pieces that need to come together to make the web work as we know it
 

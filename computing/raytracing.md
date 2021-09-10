@@ -9,3 +9,4 @@ Raytracing
 * [Ray Tracing in One Weekend](https://raytracing.github.io/)
 * [Ray Tracing in pure CMake](https://64.github.io/cmake-raytracer/)
 * [I wrote a Raytracer for DOS, 16 VGA colors](https://www.youtube.com/watch?v=N8elxpSu9pw&lc=Ugw9uYtPMZ7t1-qfLr54AaABAg) video 10min code 5 min demo #dos
+* [The RayTracer Challenge](http://raytracerchallenge.com/) - Test-Driven guide to your first 3d renderer

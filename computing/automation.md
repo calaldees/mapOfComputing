@@ -1,8 +1,11 @@
 Automation
 ==========
 
-Assembly Concept
+* [automate.io](https://automate.io/)
+    * Link general tooling to create events to drive other general tooling
+        * e.g. recive an email with keywords, send other email on after 4 days
 
+Assembly Concept
 Sudoku solver
 
 * [[localisation]]

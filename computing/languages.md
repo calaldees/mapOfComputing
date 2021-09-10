@@ -35,6 +35,8 @@ Languages
 * Self
     * [Programming as an Experience: The Inspiration for Self](https://link.springer.com/chapter/10.1007/3-540-49538-X_15)
     * Smalltalk extreeem
+* scala
+    * [hands on scala](https://www.handsonscala.com/)
 
 * [[language-cheatsheets]]
 * [[formal-specification]]

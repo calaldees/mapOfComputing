@@ -55,6 +55,7 @@ Personal Projects
 [Build stuff!](https://why.degree/motivation/) - Personal Project
 
 * Side projects are important in landing your early jobs
+* [Recreational Coding And Preventing Burn-Out](https://corecursive.com/025-burn-out-and-recreational-programming/) 1hour podcast
 * [Advice to my young self: to succeed in your career, forget side projects and focus on your job](https://manuel.darcemont.fr/posts/focus-on-jour-job/)
     * You spend 7 hours a work day using the tech - only a few hours on home tech
     * To many side projects are off-putting to employers

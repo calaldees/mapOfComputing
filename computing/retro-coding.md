@@ -1,0 +1,11 @@
+Retro-coding
+============
+
+Coding on old machines
+
+* [Exploring the Amiga](https://www.thedigitalcatonline.com/blog/2018/05/28/exploring-the-amiga-1/)
+    * 8 part series of programming the Amiga
+    * Using linux to cross compile C code and run the real system
+* [Learn to code and write games on the Nintendo Game Boy | MVG](https://www.youtube.com/watch?v=FzPTK91EJY8&)
+    * Using plain C to build Gameboy roms
+    * [github.com/gbdk-2020](https://github.com/gbdk-2020/gbdk-2020)
