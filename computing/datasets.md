@@ -7,7 +7,8 @@ Datasets
 Using real data is inspiring
 
 * [datacamp.com](https://www.datacamp.com/) - Build data skills online
-
+* [Open Source Intelligence - Framework](https://osintframework.com/)
+    * Loads of links to cool datasets
 
 https://developers.google.com/search/docs/data-types/dataset
 - W3C's Data Catalog Vocabulary: https://www.w3.org/TR/vocab-dcat-3/
@@ -46,6 +47,8 @@ https://developers.google.com/search/docs/data-types/dataset
         * [Breathing Earth](http://www.p01.org/breathing_earth/)
     * [Severe Weather Europe](https://www.severe-weather.eu/) - Follow severe weather as it happens. Anywhere. Any time
         * (more writeups rather than data)
+    * [Open-Metro](https://open-meteo.com/en/docs)
+        * free weather data for non comercial use
     * Local
         * [propertydata.co.uk](https://propertydata.co.uk/)
             * [Planning Permissions](https://propertydata.co.uk/api/documentation/planning)

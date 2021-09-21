@@ -148,6 +148,13 @@ I was looking at case studies for [[telematry]] and was thinking of practical us
     * Being a good engineer means knowing best practices. Being a senior engineer means knowing when to break best practices.
     * If people are trying to assign blame to a bug or outage, it's time to move on.
     * It's not important to do what I like. It's more important to do what I don't hate.
+* [High-Performance-Organizations-Reading-List](https://github.com/pdfernhout/High-Performance-Organizations-Reading-List)
+    * Amazing book summarys of LOADS of classic books
+    * Not just computing - talks about organisation/societal structure
+    * Some damning books about why agile is bad
+
+* [MacPaint and QuickDraw Source Code](https://computerhistory.org/blog/macpaint-and-quickdraw-source-code/)
+    * Measuring _Lines of Code_ is a bad metric for programmers #metrics #history
 
 * Lock-in
     * [Don't get locked up into avoiding lock-in](https://martinfowler.com/articles/oss-lockin.html)

@@ -15,6 +15,16 @@ Human interaction (authorisation to deploy server or push to app store)
 Develop (cooking pot)
 Merge restricted (process of approval)
 Squash feature commits
+    bisect
+Artifacts (test reports - audit)
+Metrics from Jira
+    ticket duration
+    feature duration
+    story points per sprint
+    Cyclomatic complexity
+    NOT Lines of Code! (be careful what you measure)
+    NOT for the business - a tool for the developers to make judgements
+
 
 CI + Tests - we dont need to ask permission/approval all the time - we've automated it
 

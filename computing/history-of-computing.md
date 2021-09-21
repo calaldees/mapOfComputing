@@ -8,6 +8,8 @@ History of Computing
 * [[history-of-operating-systems]]
 * [[logical-organization]]
 
+* [computerhistory.org/blogs](https://computerhistory.org/blogs/)
+
 * [BBC Computer Literacy Project 1980 to 1980](https://clp.bbcrewind.co.uk/)
     * 
 
@@ -53,6 +55,10 @@ History of Computing
     * Long-Form/Podcast: Chile's audacious 1970s-era plan to network and automate the country's entire economy, hindered by political upheaval and CIA maneuvering.
 * [Hidden Figures](https://en.wikipedia.org/wiki/Hidden_Figures)
     * Hidden Figures is a 2016 American biographical drama film. It is loosely based on the 2016 non-fiction book about African American female mathematicians who worked at the National Aeronautics and Space Administration (NASA) during the Space Race. 1960's
+
+* Lost CGA game: [Golden Flute](https://twitter.com/rickbrewpdn/status/1210023029087985664) found after 40 years
+    * Achieving is amazing
+    * Some kids were pretty damn smart
 
 Old Mainframes
 --------------

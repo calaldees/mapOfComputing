@@ -7,6 +7,8 @@ People
 
 * [Edsger Dijkstra: The Man Who Carried Computer Science on His Shoulders](https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders)
 
+* [sir-clive-sinclair](https://www.theguardian.com/technology/2021/sep/16/home-computing-pioneer-sir-clive-sinclair-dies-aged-81)
+    * > There’s no point in asking if someone wants it, because they can’t imagine it.
 
 * [Dave Plummer](https://www.theregister.com/2021/01/06/plummer_interview/)
     * #dos 6.2 legend + [WindowsNT Task Manager](https://www.theregister.com/2020/05/26/task_manager_confession/)
