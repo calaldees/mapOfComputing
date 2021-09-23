@@ -13,3 +13,4 @@ Libs
 
 * [peerjs](https://peerjs.com/)
     * Wrapper for WebRTC
+* [ffmpeg-to-webrtc](https://github.com/ashellunts/ffmpeg-to-webrtc)

@@ -5,3 +5,6 @@ Java
     * Java is functional and reactive RX, streams
 * [A categorized list of all Java and JVM features since JDK 8 to 16](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/)
 * [Java is criminally underhyped](https://jackson.sh/posts/2021-04-java-underrated/)
+
+* Oracle Certification [Test Your Java Knowledge With FREE Sample Questions](https://blogs.oracle.com/oracleuniversity/post/test-your-java-knowledge-with-free-sample-questions) #certification
+

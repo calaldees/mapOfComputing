@@ -7,3 +7,5 @@ Error Messaging
     3. When will it be fixed?
     4. How can the user respond to the error?
 
+* [Improve Your Life with Long Error Messages](https://blog.appsignal.com/2021/09/22/improve-your-life-with-long-error-messages.html)
+    * 'circitbreaker' - errors produce a feedback page to log information form the user

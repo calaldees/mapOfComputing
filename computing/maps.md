@@ -21,6 +21,8 @@ Links to working with map data
 * [shipmap.org](https://www.shipmap.org/)
     * Shipping lanes animated and visualised
 * [lightpollutionmap.info](https://www.lightpollutionmap.info)
+* [mapsforeurope.org](https://www.mapsforeurope.org/)
+    * data
 * from [[datasets]]
     * Live Realtime
         * [Lightening Maps](https://www.lightningmaps.org/)
