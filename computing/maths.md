@@ -1,5 +1,11 @@
 Maths
 =====
+
+* [The most counterintuitive facts in all of mathematics, computer science, and physics](https://axisofordinary.substack.com/p/the-most-counterintuitive-facts-in)
+    * AMAZING! list of very interesting contradictions and facts
+    * It is possible to compute over encrypted data without access to the secret key: https://en.wikipedia.org/wiki/Homomorphic_encryption
+    * It is possible to play poker by telephone in a trusted way which prevents cheating: http://math.stonybrook.edu/~scott/blair/How_play_poker.html
+    * Closing roads can improve everyone’s commute time: https://mindyourdecisions.com/blog/2009/01/06/why-the-secret-to-speedier-highways-might-be-closing-some-roads-the-braess-paradox/#.U4Ksl_ldUud
 * [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila/index.html)
     * Linear: having to do with lines, planes, etc.
     * Algebra: solving equations involving unknowns.

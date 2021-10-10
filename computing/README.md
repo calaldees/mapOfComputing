@@ -38,6 +38,7 @@ Computing
         * [[languages]], [[algorithms]], [[terminal]], [[graphics]], [[cryptography]], [[databases]], [[maths]], [[operating-systems]]
 
 * [The Elements of Computing Systems, Second Edition](https://mitpress.mit.edu/books/elements-computing-systems-second-edition) Building a Modern Computer from First Principles
+    * [[logical-organization]]
 
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) Harold Abelson and Gerald Jay Sussman with Julie Sussman 
     * The material in this book has been the basis of MIT's entry-level computer science

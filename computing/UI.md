@@ -6,6 +6,7 @@ UI - User Interfaces
 * Android
     * [Material Design](https://material.io/)
         * [Material Icons](https://fonts.google.com/icons) searchable
+        * [Googled tried to enforce Material Design on iOS platforms](https://sixcolors.com/link/2021/10/googles-apps-to-embrace-ios-on-ios/) they gave up in 2021 because (quite rightly) the users were annoyed and confused
 
 * tweet [Blackboard is aweful, here is why](https://twitter.com/dreen_gb/status/1335898204936806400) Greg Balaga @dreen_gb
 

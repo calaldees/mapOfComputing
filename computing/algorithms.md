@@ -76,9 +76,12 @@ dean to hex
     * The Piecewise Geometric Model index (PGM-index) is a data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes while providing the same worst-case query time guarantees
     * Papers + Sourcecode
 
+* [vscode: Bracket pair colorization 10,000x faster](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
+    * tree incrementally edited
+    * js batches to not block ui thread (on inital load or `/*` insert)
+    * The feature can be enabled by adding the setting `"editor.bracketPairColorization.enabled": true`
 
-
-[14,000x Speedup a.k.a. Computer Science For the Win](http://james.hiebert.name/blog/work/2015/09/14/CS-FTW.html)
+* [14,000x Speedup a.k.a. Computer Science For the Win](http://james.hiebert.name/blog/work/2015/09/14/CS-FTW.html)
 
 
 [Background Blur Features in Google Meet, Powered by Web ML](https://ai.googleblog.com/2020/10/background-features-in-google-meet.html)

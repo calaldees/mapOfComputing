@@ -3,15 +3,23 @@ HTTP
 
 * [[rest]]
 
-[MDN: An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+* [MDN: An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 
 ```
 telnet
-o calaldees.uk 80
+o barcampcanterbury.com 80
 ```
 ```
 GET / HTTP/1.1
-Host: calaldees.uk
+Host: barcampcanterbury.com
+```
+```
+telnet
+o developer.mozilla.org 80
+```
+```
+GET / HTTP/1.1
+Host: developer.mozilla.org
 ```
 
 * [hurlit.com](https://www.hurlit.com/) - webservice to make http requests

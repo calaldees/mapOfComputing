@@ -1,6 +1,43 @@
 Languages
 =========
 
+* [Wikipedia: List of programming languages by type (Categorical)](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
+* [Evaluating Programming Languages](https://cs.lmu.edu/~ray/notes/evaluatingprogramminglanguages/)
+    * > So, if you ever get into an argument about programming languages, what should you say?
+    * Criteria for Evaluation • Popularity • Understanding Evaluation Tradeoffs
+* [rosettacode.org](http://rosettacode.org)
+    * Rosetta Code is a programming chrestomathy site. The idea is to present solutions to the same task in as many different languages as possible, to demonstrate how languages are similar and different, and to aid a person with a grounding in one approach to a problem in learning another.
+
+* [4 Programming Paradigms In 40 Minutes](https://www.youtube.com/watch?v=cgVVZMfLjEI) Coding Tech 40min RubyConf 2017 Aja Hammerly
+    * Object oriented (example in Ruby)
+    * Functional (example in Racket)
+    * Logical (example in Prolog)
+        * Describe _what_ not _how_
+        * Variables/Constants, Facts, Rules (specify relationships between facts)
+        * _ancestors_ example
+        * programs can run backwards and forwards finding missing value
+    * Procedural (example in Assembler)
+        * two register A and D
+        * no multiplication, devision
+        * constants go to A
+        * Jump if eq, lt, gt
+
+* [Seven Languages in Seven Weeks - A Pragmatic Guide to Learning Programming Languages](https://pragprog.com/titles/btlang/seven-languages-in-seven-weeks/) 2010 by Bruce A. Tate
+    * ISBN 9781934356593
+    * Ruby, IO, Prolog, Scala, Clojure, Haskell
+* [Exercises in Programming Style](https://www.routledge.com/Exercises-in-Programming-Style/Lopes/p/book/9780367350208) 2020 Cristina (Crista) Lopes
+    * ISBN 9780367350208
+    * Part 1 Historical
+    * Part 2 Basic Styles
+    * Part 3 Function Composition
+    * Part 4 Objects and Object Interaction
+    * Part 5 Reflection and Metaprogramming
+    * Part 6 Adversity
+    * Part 7 Data-Centric
+    * Part 8 Concurrency
+    * Part 9 Interactivity
+    * Part 10 Neural Networks
+
 * [[assembly]]
 * [[c]]
 * [[fstar]]
@@ -14,19 +51,7 @@ Languages
 * [[rust]]
 * [[shaders]]
 * [[web-assembly]]
-* LISP
-    * [Hell Is Other REPLs](https://hyperthings.garden/posts/2021-06-20/hell-is-other-repls.html)
-        * Again, true interactive development is programming such that
-            * your program never crashes
-            * because it enters an interactive debugger
-            * where you never lose program state
-            * unless you choose to do so
-            * after a thorough inspection of state
-            * including the call stack
-            * and after you have tinkered, recompiled functions, and edited objects
-            * and after you have tried restarting the computation
-            * all while the live program is running, possibly remotely. 
-        * Creators need immediate connection to what they are creating. 
+* [[lisp]]
 * [Squeak/Smalltalk](https://squeak.org/)
 * [blocky](https://blockly-demo.appspot.com/static/demos/index.html)
 * [BluePrints UE4](https://docs.unrealengine.com/4.26/en-US/ProgrammingAndScripting/Blueprints/)
@@ -42,7 +67,7 @@ Languages
 * [[formal-specification]]
 
 * [alice](https://www.alice.org/)
-    
+
 
 * [Here’s what people in tech had to say about JavaScript when it debuted in 1995](https://medium.com/dailyjs/heres-what-people-in-tech-had-to-say-about-javascript-when-it-debuted-in-1995-a4b81dc05b71)
 * [PYPL PopularitY of Programming Language](http://pypl.github.io/PYPL.html)
@@ -75,8 +100,7 @@ Other Languages
         * Other languages have something similar
     * repl: read-eval-print loop
 
-* [rosettacode.org](http://rosettacode.org)
-    * Rosetta Code is a programming chrestomathy site. The idea is to present solutions to the same task in as many different languages as possible, to demonstrate how languages are similar and different, and to aid a person with a grounding in one approach to a problem in learning another.
+
 * [Microsoft power-fx](https://github.com/microsoft/power-fx)
 
 Other Language Domains
@@ -88,7 +112,8 @@ Other Language Domains
 smalltalk
 ---------
 Live coding in browser (?)
-https://caffeine.js.org/
+* [caffeine.js.org](https://caffeine.js.org/)
+    * > Caffeine is a livecoding environment for web browsers, Node.js, and WebAssembly. After adding it to a webpage, you can use it to make live persistent changes to that page and other pages running Caffeine, without reloading.
 
 
 
@@ -100,6 +125,16 @@ Esoteric
     * Piet (executable image)
 
 
+Number systems
+--------------
+
+Python has "abstract" number system
+
+Java, Golang, C are all based on x86
+Overflow
+Modulo operator does not support negative
+
+Javascript (which should be abstract, but was heavily designed in an era of systems performance requirements) uses x86 modulo operator (which does not work with negative numbers)
 
 
 
@@ -117,6 +152,7 @@ Esoteric
 [rust]: rust.md "Rust"
 [shaders]: shaders.md "Shaders"
 [web-assembly]: web-assembly.md "WebAssembly"
+[lisp]: lisp.md "LISP"
 [language-cheatsheets]: language-cheatsheets.md "Language Cheatsheets"
 [formal-specification]: formal-specification.md "Formal Specification"
 [//end]: # "Autogenerated link references"

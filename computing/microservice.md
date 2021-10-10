@@ -1,6 +1,9 @@
 MicroService
 ============
 
+> Micro services are not an architecture. Micro services are a deployment strategy that should be independent of architecture.
+<sub>Robert C Martin</sub>
+
 * [MonolithFirst](https://martinfowler.com/bliki/MonolithFirst.html)
     * Monolith first - understand the components of the problem
     * Microservices have overhead

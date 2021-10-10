@@ -35,6 +35,9 @@ Data Visualisation
     * Trade data - compared to other countries
     * Big numbers good (% literacy) .. some big numbers bad (infant mortality)
 
+* [Towards a Theory of Bullshit Visualization](https://research.tableau.com/sites/default/files/altvis-bullshit.pdf)
+    * Example of poor visualisations and how people use them to spin false narratives
+
 ### examples
 
 * [Mapping Youtube](https://firstmonday.org/ojs/index.php/fm/article/view/10667/9575)

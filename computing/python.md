@@ -139,6 +139,9 @@ from functools partial, lru_cache, reduce, wraps
 from collections import defaultdict, namedtuple, ChainMap, deque
 ```
 
+* [Understanding all of Python, through its builtins](https://sadh.life/post/builtins/)
+    * using a terminal to dynamically investigate python
+
 * [Hypermodern Python](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
     * pyenv
     * poetry

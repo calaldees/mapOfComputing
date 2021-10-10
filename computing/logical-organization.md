@@ -1,6 +1,9 @@
 Logical Organization
 ====================
 
+* [The Elements of Computing Systems, Second Edition -  Building a Modern Computer from First Principles](https://mitpress.mit.edu/books/elements-computing-systems-second-edition) 2021 By Noam Nisan and Shimon Schocken
+    * ISBN 9780262539807
+
 * [I Made A Water Computer And It Actually Works](https://www.youtube.com/watch?v=IxXaizglscw) YouTube 16min
 * [A Computer Built With Dominos](https://www.youtube.com/watch?v=w6E7aQnA4Ws) YouTube 8min
     * Half adder
