@@ -53,6 +53,9 @@ Creativity
 * [If the Moon were only 1 pixel](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
     * Beautiful scrolling solar map
 
+* [10 innovative creative coding examples that are redefining programming](https://www.editorx.com/shaping-design/article/creative-coding)
+    * Videos of exhibits and performances
+
 Hacking/Making/Building Culture
 -------------------------------
 

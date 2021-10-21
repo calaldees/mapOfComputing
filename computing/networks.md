@@ -19,6 +19,7 @@ Networks
     * Volume 2: The implementation
     * [vlebooks](https://www.vlebooks.com/Vleweb/Product/Index/194281)
 
+https://thesquareplanet.com/blog/how-the-internet-works/
 
 * [Beej's Guide to Network Programming - Using Internet Sockets](https://beej.us/guide/bgnet/html/)
 * [Computer Networks: A Systems Approach](https://book.systemsapproach.org/) - Larry Peterson and Bruce Davie

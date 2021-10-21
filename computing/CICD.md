@@ -24,7 +24,7 @@ Metrics from Jira
     Cyclomatic complexity
     NOT Lines of Code! (be careful what you measure)
     NOT for the business - a tool for the developers to make judgements
-
+Run tests in paralall on CI and merge results (split alphabetically)
 
 CI + Tests - we dont need to ask permission/approval all the time - we've automated it
 

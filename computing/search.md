@@ -1,6 +1,9 @@
 Search
 ======
 
+* [What every software engineer should know about](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d)
+    * ElasticSearch is not enough and not a great experience
+
 Advanced Web Search
 -------------------
 

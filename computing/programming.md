@@ -24,6 +24,20 @@ Programming
 * [[interview]]
 
 * [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/)
+    * Computers can be understood
+    * Choose Boring Technology
+    * The Wrong Abstraction
+    * Falsehoods Programmers Believe About Names
+    * The Hiring Post
+    * The Product-Minded Engineer
+    * Write code that is easy to delete, not easy to extend
+    * Repeat yourself, do more than one thing, and rewrite everything
+    * The Law of Leaky Abstractions
+    * Reflections on software performance
+    * Building Robust Systems with ACID and Constraints, Using Atomic Transactions to Power an Idempotent API, Transactionally Staged Job Drains in Postgres, Implementing Stripe-like Idempotency Keys in Postgres.
+    * Notes on Distributed Systems for Young Bloods
+    * End-to-End Arguments in System Design
+    * Inventing on Principle
 
 * [22 YouTube Channels To Level Up Your Programming Skills](https://blog.codegiant.io/programming-skills-d77d4abdf255) - more of an overall guide about how to become a dev
 
@@ -61,7 +75,7 @@ Programming
 [example-development]: example-development.md "Examples"
 [functional]: functional.md "Functional Programming"
 [state]: state.md "state"
-[interpereter]: interpereter.md "interperter"
+[interpereter]: interpereter.md "interpreter"
 [language-edge-cases]: language-edge-cases.md "Language Edge Cases"
 [standard-library]: standard-library.md "standard-library"
 [object-orientation]: object-orientation.md "Object Orientation"

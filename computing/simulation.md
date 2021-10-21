@@ -27,6 +27,7 @@ See [[model]]
     * [Traffic Junction Simulation Video](https://www.youtube.com/watch?v=yITr127KZtQ)
     * [SkyLines Forum](https://forum.paradoxplaza.com/forum/index.php?threads/perpetual-traffic-jam.937466/)
     * [trafficvis.com](https://trafficvis.com)
+    * [PROFESSIONAL HIGHWAY ENGINEER plays Freeways!](https://www.youtube.com/watch?v=1OzC-LG9pG4) YouTube 20min
 * Economic
     * ?
 * Tamagchi Singularity

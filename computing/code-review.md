@@ -15,3 +15,6 @@ Code Review
     * Make your own rules
 * [Ship / Show / Ask](https://martinfowler.com/articles/ship-show-ask.html)
     * Use judgement and autonomy to judge when a code review is needed
+
+* [Makes me think of code reviews and gym class](https://twitter.com/aprilwensel/status/1449871041157754881/photo/1)
+    * > You cannot humiliate people into excellence

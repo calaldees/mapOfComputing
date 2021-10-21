@@ -1,6 +1,7 @@
 History of the Internet
 =======================
 
+* [webfoundation.org: History of the Web](https://webfoundation.org/about/vision/history-of-the-web/)
 * [WebDevelopmentHistory.com](https://webdevelopmenthistory.com/)
     * 1997 [DHTML](https://webdevelopmenthistory.com/1997-the-year-of-dhtml/) + [ECMAScript 0.3](http://archives.ecma-international.org/1997/TC39/97-001.pdf) universally agreed upon
     * 1993 [cgi-bin](https://webdevelopmenthistory.com/1993-cgi-scripts-and-early-server-side-web-programming/)

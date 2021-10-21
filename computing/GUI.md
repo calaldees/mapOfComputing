@@ -18,7 +18,8 @@ Are hard
 todo
 ----
 
-https://github.com/alfiopuglisi/guietta
+* [guietta](https://github.com/alfiopuglisi/guietta)
+    * A tool for making simple Python GUIs
 
 #electron
 

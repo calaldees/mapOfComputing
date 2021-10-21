@@ -82,7 +82,7 @@ https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Rainfall/date/
 https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/courts-sentencing-and-tribunals/prosecutions-and-convictions/latest
 https://data.cambridgeshireinsight.org.uk/dataset/mill-road-project-traffic-sensor-data/resource/67873c4e-2d50-4d31-b2a0-68f1df7f081e
 
-* [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+
 
 Data formats
 ------------

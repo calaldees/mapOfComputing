@@ -1,6 +1,12 @@
 Server Side
 ===========
 
+* [Web Architecture 101](https://medium.com/storyblocks-engineering/web-architecture-101-a3224e126947)
+    * The basic architecture concepts I wish I knew when I was getting started as a web developer
+
+* [Full Stack Python: Web Development - Overview](https://www.fullstackpython.com/web-development.html)
+    * Lots of links to describe what the web is
+
 * [[openapi]]
 * [[server-infrastructure]]
 

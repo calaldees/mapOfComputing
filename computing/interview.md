@@ -4,7 +4,8 @@ Interview Questions
 * [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
     * [educative.io](https://www.educative.io/)
         * Courses for interview preparation
-
+* [The Big Tech Coding Interview Framework - Pt 1. Inspect](https://3dtrends.substack.com/p/the-coding-interview-pt-1-inspect)
+    * [google sheet](https://docs.google.com/spreadsheets/d/1gy9cmPwNhZvola7kqnfY3DElk7PYrz2ARpaCODTp8Go/edit#gid=0)
 * [My experience as a Gazan girl getting into Silicon Valley companies](https://daliaawad28.medium.com/my-experience-as-a-gazan-girl-getting-into-silicon-valley-companies-488062d769a1) Dalia Awad 2021
 
 * [HackerEarth - Technical Interview Questions from big tech companies](https://www.hackerearth.com/practice/interviews/)

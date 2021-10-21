@@ -30,6 +30,10 @@ Computing
 
 * [[occupations]]
 
+* [What happens when...](https://github.com/alex/what-happens-when)
+    * > This repository is an attempt to answer the age-old interview question "What happens when you type google.com into your browser's address box and press enter?"
+    * [[operating-systems]] [[networks]]
+
 * Other knowledge bases
     * [Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources)
     * [Everything I Know](https://wiki.nikitavoloboev.xyz/) - Another knowlege base (that's awesome)

@@ -74,6 +74,9 @@ Maths
 
 
 * [What is the Axiom of Choice?](https://jaydaigle.net/blog/what-is-the-axiom-of-choice/)
+* [Sunset Geometry](https://www.shapeoperator.com/2016/12/12/sunset-geometry/)
+    * finding the radius of the earth based on a single photograph of a sunset over a large, calm lake.
+    * ![sunset-round](https://www.shapeoperator.com/img/sunset-round.png)
 
 Matrix
 ------

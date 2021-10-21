@@ -21,6 +21,9 @@ Generate server stubs form yaml for range of languages
 https://github.com/OAI/OpenAPI-Specification
 [[openapi]]
 
+* [JSONPlaceholder](https://jsonplaceholder.typicode.com/) example
+    * [guide](https://jsonplaceholder.typicode.com/guide/) in plainjs. can be run in browser debug window
+
 
 https://github.com/kotartemiy/newscatcher/blob/master/README.md
 
