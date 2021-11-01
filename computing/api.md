@@ -23,7 +23,7 @@ https://github.com/OAI/OpenAPI-Specification
 
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) example
     * [guide](https://jsonplaceholder.typicode.com/guide/) in plainjs. can be run in browser debug window
-
+* [yes/no api](https://yesno.wtf/#api)
 
 https://github.com/kotartemiy/newscatcher/blob/master/README.md
 

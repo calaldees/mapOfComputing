@@ -7,6 +7,9 @@ Design patterns
 
 https://en.wikipedia.org/wiki/Software_design_pattern
 
+* [Software Architecture Patterns: 5 minute read](https://orkhanscience.medium.com/software-architecture-patterns-5-mins-read-e9e3c8eb47d2)
+    * Server patters
+    * [Software Architecture Patterns](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/) by Mark Richards 2015
 
 
 * [Beginners Guide to Abstraction](https://jesseduffield.com/beginners-guide-to-abstraction/)
@@ -40,7 +43,7 @@ https://en.wikipedia.org/wiki/Software_design_pattern
 Anti Patterns
 -------------
 
-[The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
+* [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
 
 
 

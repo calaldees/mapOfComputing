@@ -31,6 +31,9 @@ Data Visualisation
 * Physical Visualisation
     * [Example of how many earths can fit in the sun](https://www.reddit.com/r/pics/comments/9g5fio/example_of_how_many_earths_can_fit_in_the_sun/?st=JM4IZ1M6&sh=56c0264e)
 
+* [A Day in the Life: Women and Men](https://flowingdata.com/2019/03/06/women-men-timeuse/)
+    * Animated time-series data
+
 * [PictoTrade](https://github.com/prototo/StreetsOfDFID/tree/0105a8cde94bd4560b24e178d602675221c732fe)
     * Trade data - compared to other countries
     * Big numbers good (% literacy) .. some big numbers bad (infant mortality)

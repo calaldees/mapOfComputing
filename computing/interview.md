@@ -42,9 +42,13 @@ https://github.com/yangshun/tech-interview-handbook
 Clarify any assumptions you made subconsciously. Many questions are under-specified on purpose. E.g. a tree-like diagram could very well be a graph that allows for cycles and a naive recursive solution would not work.
 
 How would you test a random number generator
+* Monty carlo? pi - 2d grid
 
 you type `google.com` into a urlbar
 You have as much time as you like to describe all the facets of computing that now happens
+* [What happens when...](https://github.com/alex/what-happens-when)
+    * > This repository is an attempt to answer the age-old interview question "What happens when you type google.com into your browser's address box and press enter?"
+
 
 As an interviewee 
 * Explain your reasoning
@@ -171,6 +175,17 @@ if __name__ == "__main__":
     print(f"{average_time_taken=}")
 
 ```
+
+
+* From [How WhatsApp scaled to 1 billion users with only 50 engineers](https://www.quastor.org/p/how-whatsapp-scaled-to-1-billion)
+    * Interview Question
+        * Implement a BST Iterator class that represents an iterator over the in-order traversal of a Binary Search Tree.
+        * Implement the following methods
+            * `BSTIterator` - constructor. The root of the BST will be passed in as a parameter. The pointer should be initialized to a non-existent number small than any number in the BST.
+            * `hasNext` - Returns true if there exists a number in the traversal to the right of the pointer, otherwise returns false.
+            * `next` - Moves the pointer to the right, then returns the number at the pointer. 
+
+
 
 QA Questions
 -------------

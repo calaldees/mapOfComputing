@@ -12,3 +12,9 @@ C
 
 * Debugging systems level librarys
     * [Tracking down a segfault that suddenly started happening](https://www.downtowndougbrown.com/2021/01/tracking-down-a-segfault-that-suddenly-started-happening/)
+
+* [Some Were Meant for C](https://www.humprog.org/~stephen/research/papers/kell17some-preprint.pdf) Stephen Kell 2017
+    * The Endurance of an Unmanageable Language
+    * The C language leads a double life: as an application program-ming language of yesteryear, perpetuated by circumstance,
+    * and as a systems programming language which remains a weapon of choice decades after its creation. 
+    * This essay is a C programmer’s reaction to the call to abandon ship.

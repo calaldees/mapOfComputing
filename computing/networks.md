@@ -13,11 +13,14 @@ Networks
 
 * [[information-theory]]
 
+* [[tor]]
 
 * [TCP/IP illustrated](https://www.amazon.co.uk/TCP-Illustrated-Protocols-Addison-Wesley-Professional-ebook/dp/B00666M52S) Fall, Kevin R. 2011
     * Volume 1: The protocols
     * Volume 2: The implementation
     * [vlebooks](https://www.vlebooks.com/Vleweb/Product/Index/194281)
+* [[udp]]
+* [[tcp]]
 
 https://thesquareplanet.com/blog/how-the-internet-works/
 
@@ -227,7 +230,9 @@ Location Services
 [protocols]: protocols.md "Protocols"
 [url]: url.md "URL"
 [information-theory]: information-theory.md "Information Theory"
+[tor]: tor.md "Tor"
 [udp]: udp.md "UDP"
+[tcp]: tcp.md "TCP"
 [distributed-filesystems]: distributed-filesystems.md "distributed-filesystems"
 [maps]: maps.md "Maps"
 [datasets]: datasets.md "datasets"

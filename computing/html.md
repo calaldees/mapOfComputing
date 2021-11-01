@@ -7,3 +7,8 @@
     * Modern examples of useful HTML features
 * [The Button Cheat Sheet](https://www.buttoncheatsheet.com/)
     * Just use `<button>` dont style divs or links
+
+
+* [The HTML <video> element needs to go back on the drawing board](https://www.ctrl.blog/entry/html-responsive-video.html) 2021
+    * video element is not powerful enough for adaptive streaming
+    * We need something similar to img srcset for video

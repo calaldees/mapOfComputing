@@ -9,6 +9,7 @@ Using real data is inspiring
 * [datacamp.com](https://www.datacamp.com/) - Build data skills online
 * [Open Source Intelligence - Framework](https://osintframework.com/)
     * Loads of links to cool datasets
+* [huggingface.co/datasets](https://huggingface.co/datasets) for machine learning
 
 https://developers.google.com/search/docs/data-types/dataset
 - W3C's Data Catalog Vocabulary: https://www.w3.org/TR/vocab-dcat-3/

@@ -305,6 +305,20 @@ Diagram Extensions Examples
             * Graphs
         * Railroad
             * Sequence
+* Other features
+    * Collapsing content
+        * ```
+            <details>
+                <summary>(expand tutorial css)</summary>
+                your collapsed content here
+            </details>
+          ```
+    * Heavy References at bottom to make viewing raw text more readable
+        * ```
+            [My Link Text][1-refernce]
+
+            [1-reference]: https://example.com/
+          ```
 
 Guides
 ------

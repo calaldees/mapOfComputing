@@ -5,6 +5,11 @@ Version Control
 
 * [A Visual Guide to Version Control](https://betterexplained.com/articles/a-visual-guide-to-version-control/)
 
+What is a DIFF - example needed
+
+* [How Microsoft reduced Windows 11 update size by 40%](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/how-microsoft-reduced-windows-11-update-size-by-40/ba-p/2839794)
+    * Binary diffs
+
 Version control for smaller increments
 --------------------------------------
 

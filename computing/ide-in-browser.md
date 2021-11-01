@@ -7,6 +7,8 @@ Have you're dev environment reproducible and accessible anywhere
     * [gitpod.io](https://gitpod.io)
         * Browser based fully remote dev environment
         * Instant Browser vscode dev environment linked to github/gitlab with container support and public port access
+        * [Reflections on software development from anywhere on an iPad](https://ghuntley.com/anywhere/)
+            * Comparisons of GitPod/codepsaces + home server setup of OpenVSCode browser IDE from docker
     * GitHub/[codespaces](https://github.com/features/codespaces)
         * GitHubs version of GitPod
     * [CodeTasty](https://codetasty.com/)
