@@ -42,6 +42,7 @@ https://til.hashrocket.com/posts/yq02bobyth-swap-javascript-array-items-inline
 ```javascript
 [array[0], array[1]] = [array[1], array[0]]
 ```
+* [Sparse vs Dense Arrays in JavaScript](https://dmitripavlutin.com/javascript-sparse-dense-arrays/)
 
 * [GPU.js](https://gpu.rocks/)
     * Wrapper for using javaacript on GPU's

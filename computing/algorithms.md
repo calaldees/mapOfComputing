@@ -38,6 +38,47 @@ Algorithms
     * Data Compression
     * Database (Consistency)
     * Digital Signatures
+* [The Most Important Algorithms](https://www3.risc.jku.at/people/ckoutsch/stuff/e_algorithms.html)
+    * A* search algorithm
+    * Beam Search
+    * Binary search
+    * Branch and bound
+    * Buchberger's algorithm
+    * Data compression
+    * Diffie-Hellman key exchange
+    * Dijkstra's algorithm
+    * Discrete differentiation
+    * Dynamic programming
+    * Euclidean algorithm
+    * Expectation-maximization algorithm (EM-Training)
+    * Fast Fourier transform (FFT)
+    * Gradient descent
+    * Hashing
+    * ... more
+
+* khanacademy.org [Unit: Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
+    * Lots of interactive sorting algorithms
+* [GeekForGeeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/) Algorithms
+    * Analysis of Algorithms
+    * Searching and Sorting
+    * Greedy Algorithms
+    * Dynamic Programming
+    * Pattern Searching
+    * Other String Algorithms
+    * Backtracking
+    * Divide and Conquer
+    * Geometric Algorithms
+    * Mathematical Algorithms
+    * Bit Algorithms
+    * Graph Algorithms
+    * Randomized Algorithms
+    * Branch and Bound
+    * Quizzes on Algorithms
+    * Misc
+
+* [Awesome Algorithms Education Awesome](https://github.com/gaerae/awesome-algorithms-education)
+    * A curated list to learning and practicing about algorithm. 
+
 
 * [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by Jeff Erickson - June 2019 - Free eBook + lecture notes
 * [github.com/trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings 

@@ -36,6 +36,15 @@ https://developers.google.com/search/docs/data-types/dataset
     * [University of Bath Library: Finding Data](https://library.bath.ac.uk/research-data/finding-data/home) links
     * [WorldBank Data](https://data.worldbank.org/)
         * [WDI - World Development Data](https://datatopics.worldbank.org/world-development-indicators/)
+    * tableau [7 public data sets you can analyse for free right now](https://www.tableau.com/en-gb/learn/articles/free-public-data-sets)
+        1. Google Trends
+        2. National Climatic Data Center
+        3. Global Health Observatory data
+        4. Data.gov.sg
+        5. Earthdata
+        6. Amazon Web Services Open Data Registry
+            1. 1000 genome project
+        7. Pew Internet
     * Met Office (UK)
         * [Digital Library and Archive](https://digital.nmla.metoffice.gov.uk/)
         * [Historic Weather Data](https://www.metoffice.gov.uk/climate/uk/data)

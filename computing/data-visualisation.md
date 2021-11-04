@@ -44,6 +44,7 @@ Data Visualisation
 ### examples
 
 * [Mapping Youtube](https://firstmonday.org/ojs/index.php/fm/article/view/10667/9575)
+* [All World Languages in One Visualization](https://www.visualcapitalist.com/a-world-of-languages/)
 
 Tools
 -----

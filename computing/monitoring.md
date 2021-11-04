@@ -8,6 +8,9 @@ Open Telematry - why are logs not enough
 * [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right!
 * 
 
+* CodeAmigo [Results from HN](https://docs.codeamigo.dev/blog/results-from-hn-1)
+    * > Last week (10/28/2021) a post about Codeamigo was #1 on Hacker News for about 6 hours. We've always wondered what kind of traffic that would drive to applications. Maybe you have too.
+
 Logs
 ----
 

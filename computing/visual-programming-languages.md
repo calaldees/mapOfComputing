@@ -13,5 +13,6 @@ Visual Programming Languages
       > The problem is, within a few weeks of using any paradigm developers usually have built a repository of habits that keep them from making mistakes. For instance, if a new visual logic builder prides itself on preventing all syntax errors, that’s really cool, but most developers have learned to do that automatically.
 
 
+* [Fabrik](https://web.archive.org/web/20070927190552/http://users.ipa.net/~dwighth/smalltalk/Fabrik/Fabrik.html) - A Visual Programming Environment 1988
 
 

@@ -299,12 +299,28 @@ Diagram Extensions Examples
     V:3 name="Bass" snm="b" clef=bass  
     D3 D3 | D6 | D3 D3 | D6 ||
     ```
+* geo
+    * ```geo
+        The British Museum
+        ```
+* [markmap](https://markmap.js.org/)
+    * Mind map
+* fretboard
+    * ```fretboard {title="horizontal, 5 frets", type"h6 noNut"}
+        -oO-*-
+        --o-o-
+        -o-oo-
+        -o-oO-
+        -oo-o-
+        -*O-o-
+        ```
 * More
     * [CommonMark Extensions](https://irosyadi.gitbook.io/irosyadi/markdown/library-extended-commonmarks)
-        * Vega and Vega-lite
-            * Graphs
+        * Vega and [Vega-lite](https://vega.github.io/vega-lite/examples/)
+            * Graphs (bar graphs)
         * Railroad
             * Sequence
+* [CodiMD Documentation](https://hackmd.io/c/codimd-documentation/%2F%40codimd%2Fextra-supported-syntax#Flow-Chart)
 * Other features
     * Collapsing content
         * ```
@@ -319,6 +335,12 @@ Diagram Extensions Examples
 
             [1-reference]: https://example.com/
           ```
+    * Comments 
+        * https://stackoverflow.com/a/32190021/3356840
+        * ```
+            (empty line)
+            [comment]: # (This actually is the most platform independent comment)
+            ```
 
 Guides
 ------
@@ -350,12 +372,7 @@ https://www.getoutline.com/
 * [This page is a truly naked, brutalist html quine](https://secretgeek.github.io/html_wysiwyg/html.html)
 * [markdown-css](https://mrcoles.com/demo/markdown-css/) - make HTML look like plain text markdown source
 
-### Comments in Markdown
-https://stackoverflow.com/a/32190021/3356840
-```
-(empty line)
-[comment]: # (This actually is the most platform independent comment)
-```
+
 
 
 [GitHub css in markdown](https://github.com/sindresorhus/css-in-readme-like-wat)
