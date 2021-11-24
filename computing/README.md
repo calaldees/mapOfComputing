@@ -29,6 +29,7 @@ Computing
     * [[logical-organization]]
 
 * [[occupations]]
+* [[books]]
 
 * [What happens when...](https://github.com/alex/what-happens-when)
     * > This repository is an attempt to answer the age-old interview question "What happens when you type google.com into your browser's address box and press enter?"
@@ -107,6 +108,7 @@ Unsorted
 [hardware]: hardware.md "Hardware"
 [logical-organization]: logical-organization.md "Logical Organization"
 [occupations]: occupations.md "Occupations"
+[books]: books.md "Books"
 [languages]: languages.md "Languages"
 [terminal]: terminal.md "Terminal"
 [graphics]: graphics.md "Graphics"

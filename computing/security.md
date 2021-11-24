@@ -122,6 +122,8 @@ Global Radio Login Gigya - 'Hacked by' alert
 * [fragattacks.com](https://www.fragattacks.com/) - fragmentation and aggregation attacks
     * a collection of new security vulnerabilities that affect Wi-Fi devices
 
+* [Router Security Vulnerabilities](https://modemly.com/m1/pulse)
+    * 8000+
 
 Fuzzing #fuzzing
 -------

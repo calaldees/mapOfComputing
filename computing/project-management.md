@@ -19,3 +19,6 @@ Managing projects
   * Have discovery on your roadmap
   * Have OKR's and user objectives
 
+* ["This project will only take 2 hours"](https://web.eecs.utk.edu/~azh/blog/thisprojectwillonlytake.html)
+  * Clipboard monitoring app
+  * So... still think it will only take 2 hours?

@@ -73,6 +73,9 @@ Languages
 * scala
     * [hands on scala](https://www.handsonscala.com/)
 * [[logo]]
+* C# #csharp
+    * [C# 10 new feature CallerArgumentExpression, argument check and more](https://weblogs.asp.net/dixin/csharp-10-new-feature-callerargumentexpression-argument-check-and-more)
+        * New feature .. read .. 
 
 * [[language-cheatsheets]]
 * [[formal-specification]]
@@ -134,7 +137,9 @@ Esoteric
 * [A Brief Introduction to Esoteric Languages](https://www.hillelwayne.com/talks/esolangs/)
     * Brainfuck (turing complete - obtuse)
     * Piet (executable image)
-
+* [orca](http://100r.co/site/orca.html)
+    * designed to create procedural sequencers in which each letter of the alphabet is an operation, where lowercase letters operate on bang, uppercase letters operate each frame.
+    * The application is not a synthesiser, but a flexible livecoding environment capable of sending MIDI, OSC & UDP to your audio interface, like Ableton, Renoise, VCV Rack or SuperCollider.
 
 Number systems
 --------------

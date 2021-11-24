@@ -14,6 +14,8 @@ Low level
 Interupt handlers
 
 * [Ben Eater](https://www.youtube.com/c/BenEater) - Videos of building computers from and/or gates
+    * [How do hardware timers work?](https://www.youtube.com/watch?v=g_koa00MBLg) 31min
+        * Assembler interupt to drive a 32bit timer
 
 * [Teardown of a PC power supply ](https://www.righto.com/2021/05/teardown-of-pc-power-supply.html)
 

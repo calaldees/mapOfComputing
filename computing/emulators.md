@@ -3,6 +3,8 @@ emulators
 
 what is emulation?
 
+* [How To Write a Computer Emulator](https://fms.komkon.org/EMUL8/HOWTO.html)
+    * An experienced console emulator dude
 * [[pico8]]
 * [EMU2: A simple text-mode x86 + DOS emulator](https://github.com/dmsc/emu2)
     * Run turbo pascal in text mode in linux terminal

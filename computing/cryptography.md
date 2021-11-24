@@ -1,6 +1,9 @@
 Cryptography
 ============
 
+* [Signatures: The foundations of modern end-to-end encryption](https://kerkour.com/signatures-modern-end-to-end-encryption/)
+    * Great diagrams of key flow and evolution
+
 Based off [[Random Number Generation]] number generation.
 
 * [So, You Want to Learn to Break Ciphers](https://littlemaninmyhead.wordpress.com/2015/09/28/so-you-want-to-learn-to-break-ciphers/)
