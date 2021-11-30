@@ -11,6 +11,13 @@ Interview Questions
 * [HackerEarth - Technical Interview Questions from big tech companies](https://www.hackerearth.com/practice/interviews/)
 * [6 Red Flags I Saw While Doing 60+ Technical Interviews in 30 Days](https://meekg33k.dev/6-red-flags-i-saw-while-doing-60-technical-interviews-in-30-days)
 
+* gov.uk [The STAR method](https://nationalcareers.service.gov.uk/careers-advice/interview-advice/the-star-method)
+    * situation - the situation you had to deal with
+    * task - the task you were given to do
+    * action - the action you took
+    * result - what happened as a result of your action and what you learned from the experience
+* Looking for autonomy - what did the candidate identify and do off their own back
+
 https://github.com/yangshun/tech-interview-handbook
 
 * [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz#Programming_interviews) [_](https://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/)

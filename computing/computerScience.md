@@ -2,7 +2,9 @@ Computer Science
 ================
 
 What is it?
-Not a single lanaguage
+Not a single language
+
+* [Theoretical Computer Science Cheat Sheet](https://www.tug.org/texshowcase/cheat.pdf)
 
 https://teachyourselfcs.com/
 

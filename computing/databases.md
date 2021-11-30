@@ -75,6 +75,8 @@ Object Relational Model (ORM) #orm
 Moving away from database api to data layer
 -------------------------------------------
 
+[[nosql]]
+
 * [NoneSQL, All the DevEx](https://planetscale.com/blog/nonesql-all-the-devex)
     * Most products today are database focused
     * Database internals will eventually just not matter

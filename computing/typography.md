@@ -8,7 +8,9 @@ Typography
 * Concept
     * [Continuous Typography](https://maxkoehler.com/posts/continuous-typography/) - Notes toward a continuous framework for screen typography
         * Typography on the web is differnt to paper. We make lots of decisions about fonts. We could have functions to select these
-        * 
+* [Please Stop “Fixing” Font Smoothing](https://usabilitypost.com/2012/11/05/stop-fixing-font-smoothing/)
+    * Critique on `-webkit-font-smoothing` CSS
+    * > for main portions of text where readability is paramount please leave the default setting alone and let the operating system handle the smoothing.
 * [Input - Fonts for code](https://input.djr.com/preview/)
     * Live preview of coding font - LOADS of cool options - great for exploring typography
 * [CodingFont](https://www.codingfont.com/)

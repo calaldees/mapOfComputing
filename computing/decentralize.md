@@ -1,7 +1,14 @@
 Decentralize
 ============
 
+* [Why decentralization matters](https://cdixon.org/2018/02/18/why-decentralization-matters)
+    * “Web 3”: the third era of the internet
+    * > Decentralized networks can win the third era of the internet for the same reason they won the first era: by winning the hearts and minds of entrepreneurs and developers.
+    * > An illustrative analogy Wikipedia (decentralised) vs Encarta (centralised). in 2000, Encarta was a far better product ... Wikipedia improved at a much faster rate ... active community. By 2005, Wikipedia was the most popular reference. Encarta was shut down in 2009.
+
 * [[ipfs]]
+* [peertube](https://framablog.org/2021/11/30/peertube-v4-more-power-to-help-you-present-your-videos/)
+    * Distributed YouTube clone
 
 * [github.com/redecentralize](https://github.com/redecentralize/alternative-internet)
     * A collection of interesting new networks and tech aiming at decentralisation (in some form). 

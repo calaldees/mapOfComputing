@@ -59,6 +59,9 @@ Podman
 
 * [Migrating from Docker to Podman](https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman/)
 
+* [Will Nix Overtake Docker?](https://blog.replit.com/nix-vs-docker)
+    * repl.it is moving from a single 30gb mega- container to a `nix` package pick and mix approach
+
 ---
 
 * [The good things in the current age in tech](https://blog.kronis.dev/articles/the-good-things-in-the-current-age-in-tech)

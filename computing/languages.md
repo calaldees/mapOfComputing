@@ -60,6 +60,7 @@ Languages
 * [[web-assembly]]
 * [[lisp]]
 * [[erlang]]
+* #ClojureScript
 * Ember
     * [Ember Documentary](https://www.youtube.com/watch?v=Cvz-9ccflKQ) 27min
 * [Squeak/Smalltalk](https://squeak.org/)
@@ -140,6 +141,8 @@ Esoteric
 * [orca](http://100r.co/site/orca.html)
     * designed to create procedural sequencers in which each letter of the alphabet is an operation, where lowercase letters operate on bang, uppercase letters operate each frame.
     * The application is not a synthesiser, but a flexible livecoding environment capable of sending MIDI, OSC & UDP to your audio interface, like Ableton, Renoise, VCV Rack or SuperCollider.
+* [J](https://www.jsoftware.com/help/jforc/loopless_code_i_verbs_have_r.htm)
+    * Loopless code
 
 Number systems
 --------------
