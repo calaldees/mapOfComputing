@@ -118,7 +118,7 @@ https://yangshun.github.io/tech-interview-handbook/best-practice-questions
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 fizzbuzz
-fibonachi - optimise?
+fibonachi - optimise? - [Python Program to Print the Fibonacci sequence](https://www.programiz.com/python-programming/examples/fibonacci-sequence)
 isPrime - optimise?
 
 ```python

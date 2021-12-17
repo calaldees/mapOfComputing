@@ -63,6 +63,8 @@ I was looking at case studies for [[telematry]] and was thinking of practical us
         * An engineering leader exists to enable their team to achieve their goals
 * Metrics
     * [Applying Advanced Agile Metrics (AAAM)](https://actineo.xyz/training/advanced-agile-courses/applying-advanced-agile-metrics/) course
+    * [DevOps Metrics Platform](https://www.software.com/) - Measure and improve your organization’s DevOps performance.
+        * From plugins in developers IDE's to measuring the time for tickets testing, merging and release
 * SPACE
     * [The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124) - There's more to it than you think.
         * Measuring productivity in multi dimenisons

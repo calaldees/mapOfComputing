@@ -29,6 +29,8 @@ History of Computing
     * Print, Cut, Score, Fold and Glue
 
 * [Tiny PDP11](http://spritesmods.com/?art=minipdp11&page=1) emulator on ESP32
+* [PDP-11 Booting](https://trmm.net/PDP-11/Booting/)
+    * Animated gifs and guide of the boot process
 
 * [Domesday86](https://www.domesday86.com/)
     * A UK custom laserdisk community project to document the nation before CD-ROMs

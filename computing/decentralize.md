@@ -6,6 +6,13 @@ Decentralize
     * > Decentralized networks can win the third era of the internet for the same reason they won the first era: by winning the hearts and minds of entrepreneurs and developers.
     * > An illustrative analogy Wikipedia (decentralised) vs Encarta (centralised). in 2000, Encarta was a far better product ... Wikipedia improved at a much faster rate ... active community. By 2005, Wikipedia was the most popular reference. Encarta was shut down in 2009.
 
+* [Is web3 bullshit?](https://maxread.substack.com/p/is-web3-bullshit) - And is that even the right question?
+* [Web3? I have my DAOts](https://networked.substack.com/p/web3-i-have-my-daots)
+    * Great dissection of _trust_ in smart contracts and crypto
+    * _oracles_ give real work data into the ethereum network (these need trust)
+    * Smart contracts can be flawed
+    * NFT's still mean you own nothing
+
 * [[ipfs]]
 * [peertube](https://framablog.org/2021/11/30/peertube-v4-more-power-to-help-you-present-your-videos/)
     * Distributed YouTube clone

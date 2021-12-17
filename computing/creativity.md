@@ -56,6 +56,10 @@ Creativity
 * [10 innovative creative coding examples that are redefining programming](https://www.editorx.com/shaping-design/article/creative-coding)
     * Videos of exhibits and performances
 
+* [busysimulator.com](https://busysimulator.com/)
+    * Make noises from common application to make your computer sound busy
+
+
 Hacking/Making/Building Culture
 -------------------------------
 

@@ -51,6 +51,7 @@ https://developers.google.com/search/docs/data-types/dataset
             * [sheffield](https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/sheffielddata.txt) yearly
             * [Example global temp visulisation](https://twitter.com/anttilip/status/1217529718938820610)
         * [datapoint api](https://www.metoffice.gov.uk/datapoint)
+    * [spaceweatherlive.com](https://www.spaceweatherlive.com/)
     * [National Centers for Environmental Information (US)](https://www.ncei.noaa.gov/)
         * [global hourly](https://www.ncei.noaa.gov/data/global-hourly/)
     * [NOAA STAR - Global Vegetation Health Products : Introduction](https://www.star.nesdis.noaa.gov/smcd/emb/vci/VH/index.php)
@@ -126,6 +127,7 @@ Space
     * [Orbit Dataset](https://www.ucsusa.org/resources/satellite-database)
     * [Orbit descriptions](https://earthobservatory.nasa.gov/features/OrbitsCatalog)
     * [Japan developing wooden satellites to cut space junk](https://www.bbc.co.uk/news/business-55463366)
+* [spaceweatherlive.com](https://www.spaceweatherlive.com/)
 * [Logarithmic Maps of the Universe](https://www.astro.princeton.edu/universe/)
 
 Medical
