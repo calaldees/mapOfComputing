@@ -7,6 +7,9 @@ Architecture of Games Consoles
     * [PS2](https://www.copetti.org/writings/consoles/playstation-2/)
     * [PS1](https://www.copetti.org/writings/consoles/playstation/)
 
+* [Scan of the Month](https://scanofthemonth.com/)
+    * CT Scans of Gameboy consoles
+
 [SegaVR](https://gamehistory.org/segavr/) 1993 Megadrive - emulated #reverse-engineering from source
 
 * Micro Mages - [How we fit an NES game into 40 Kilobytes](https://www.youtube.com/watch?v=ZWQ0591PAxM)

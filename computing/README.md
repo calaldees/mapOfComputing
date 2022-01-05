@@ -1,6 +1,9 @@
 Computing
 =========
 
+* [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know)
+    * A collection of (mostly) technical things every software developer should know about 
+
 * TODO: Consider [The 2012 ACM Computing Classification System](https://www.acm.org/publications/class-2012)? 
 
 * [[HCI]]

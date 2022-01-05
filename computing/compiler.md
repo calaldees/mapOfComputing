@@ -22,6 +22,7 @@ Compilers optimise into something that is unrecognizable but performs the same f
 
 * [Branchless Coding in Go](https://mattnakama.com/blog/go-branchless-coding/)
     * [[branch-prediction]]
+* [Branchless Programming: Why "If" is Sloowww... and what we can do about it!](https://www.youtube.com/watch?v=bVJ-mWWL7cE) YouTube 20min
 
 * [Tree-Shaking: A Reference Guide](https://www.smashingmagazine.com/2021/05/tree-shaking-reference-guide/)
     * > tree-shaking means removing unreachable code (also known as dead code) from a bundle

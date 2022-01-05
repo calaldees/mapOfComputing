@@ -105,4 +105,7 @@ Not really social-media .. more data business
     * Spotify say they will not implement the patent ... then why have it?
 
 * [Congress Is Going To Throw The Kitchen Sink At Big Tech](https://bigtechnology.substack.com/p/congress-is-going-to-throw-the-kitchen)
-    * Big Technology obtained the five draft bills currently circulating around the House of Representatives that target Big Tech. If they’re signed into law, it will be bad news for the tech giants. 
+    * Big Technology obtained the five draft bills currently circulating around the House of Representatives that target Big Tech. If they’re signed into law, it will be bad news for the tech giants.
+
+* [Tinder just permabanned me or the problem with big tech](https://paulefou.com/blog/tinder-permaban)
+    * Big tech can just disable accounts algorithmicly - false posetives dont matter - you cant ask them for "why" because they don't even know - there is no way to recover

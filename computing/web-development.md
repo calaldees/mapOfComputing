@@ -1,6 +1,8 @@
 Web Development
 ===============
 
+* [software-engineer-roadmap](https://github.com/articat18/software-engineer-roadmap)
+
 
 * [free-for.dev](https://free-for.dev/)
     * Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all to make informed decisions.

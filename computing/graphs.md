@@ -10,3 +10,7 @@ Directed/Undirected/Weighted
     * Querys, Analytics, Graph Neural Networks
 
 * [Force Directed Graph of the London Tube Map – including CrossRail!](https://shkspr.mobi/blog/2021/02/force-directed-graph-of-the-london-tube-map-including-crossrail/)
+
+Drawing
+-------
+* [Handbook of Graph Drawing and Visualization](https://cs.brown.edu/people/rtamassi/gdhandbook/)

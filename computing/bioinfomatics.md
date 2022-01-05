@@ -7,8 +7,9 @@ https://varsome.com/variant/hg19/chr13-32937506-G-C
 * [Rosalind](http://rosalind.info/) - learning bioinformatics and programming through problem solving
     * [Transcribing DNA into RNA](http://rosalind.info/problems/rna/)
     * [Semiglobal Alignment](http://rosalind.info/problems/smgb/)
+* [Sequencing your DNA with a USB dongle and open source code](https://stackoverflow.blog/2021/12/24/sequencing-your-dna-with-a-usb-dongle-and-open-source-code/)
 
-see [history](./historyOfComputing.md#)
+see [history](./historyOfComputing.md)
 
 * [30 Years Since the Human Genome Project Began, What’s Next?](https://www.wired.com/story/30-years-since-the-human-genome-project-began-whats-next/)
     * Eric Green, head of the nation’s top genomics research institute, looks back on how far the field has come and shares his bold vision for the future.

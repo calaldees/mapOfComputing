@@ -23,6 +23,8 @@ Networks
     * [vlebooks](https://www.vlebooks.com/Vleweb/Product/Index/194281)
 * [[udp]]
 * [[tcp]]
+* [[websockets]]
+* [[http]]
 
 https://thesquareplanet.com/blog/how-the-internet-works/
 
@@ -242,6 +244,8 @@ Unsorted
 [web]: web.md "Web"
 [udp]: udp.md "UDP"
 [tcp]: tcp.md "TCP"
+[websockets]: websockets.md "WebSockets"
+[http]: http.md "HTTP"
 [distributed-filesystems]: distributed-filesystems.md "distributed-filesystems"
 [maps]: maps.md "Maps"
 [datasets]: datasets.md "datasets"
