@@ -4,6 +4,10 @@ Testing
 * [We need to talk about testing](https://dannorth.net/2021/07/26/we-need-to-talk-about-testing/) 2021 Dan North
     * Or how programmers and testers can work together for a happy and fulfilling life
     * #agile #bdd #tdd #testing
+* [How programmers make sure that their software is correct](https://lemire.me/blog/2022/01/03/how-programmers-make-sure-that-their-software-is-correct/)
+    * Overview of whole area
+    * Formal mathematical proofs are difficult for large programs
+    * Unit and Integration tests
 
 * [[automated-testing]]
 * [The Myth of Code Coverage](https://preslav.me/2020/12/03/the-myth-of-code-coverage/)

@@ -128,6 +128,8 @@ Global Radio Login Gigya - 'Hacked by' alert
 * [Router Security Vulnerabilities](https://modemly.com/m1/pulse)
     * 8000+
 
+* [Dev corrupts NPM libs 'colors' and 'faker' breaking thousands of apps](https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/)
+
 Fuzzing #fuzzing
 -------
 

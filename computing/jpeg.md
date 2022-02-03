@@ -6,3 +6,4 @@ JPEG
 * [Understanding and Decoding a JPEG Image using Python](https://yasoob.me/posts/understanding-and-writing-jpeg-decoder-in-python/)
 * [jpeg.rocks](https://jpeg.rocks/)
     * WebAssembly in browser `jpegoptim`
+* [JPEG: Image compression algorithm](http://pi.math.cornell.edu/~web6140/TopTenAlgorithms/JPEG.html)

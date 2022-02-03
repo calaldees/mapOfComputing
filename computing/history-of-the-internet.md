@@ -18,6 +18,8 @@ https://neustadt.fr/essays/against-a-user-hostile-web/
 
 See [[Win93]] (in UI)
 
+* [The Internet Changed My Life](https://pointersgonewild.com/2022/01/19/the-internet-changed-my-life/)
+    * One persons story about how internet in 90's empowered people with information and pulled out of poverty
 
 Geocities
 

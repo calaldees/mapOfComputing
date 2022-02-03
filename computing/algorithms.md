@@ -21,8 +21,7 @@ Algorithms
             * contour lines
         * doomsday algorithm Day of the week - conway
         * Dijstra shortest path
-        * [Dynamic Programming vs Divide-and-Conquer](https://trekhleb.dev/blog/2018/dynamic-programming-vs-divide-and-conquer/)
-            * Fibonacci, binary search and minimum edit distance (levenshtein)
+        * [[dynamic-programming]]
         * [[levenshtein-distance]]
         * substring search
         * [Bayes Theorem](https://cs4fndownloads.files.wordpress.com/2021/05/cs4fnissue27.pdf) - graph of probabilitys
@@ -165,6 +164,7 @@ Simple things that are actually hard
 [Parity]: parity.md "Parity"
 [error-correction]: error-correction.md "Error"
 [Hash]: hash.md "Hash"
+[dynamic-programming]: dynamic-programming.md "Dynamic Programming"
 [levenshtein-distance]: levenshtein-distance.md "Levenshtein distance"
 [data-structures]: data-structures.md "Data Structures"
 [maths]: maths.md "Maths"

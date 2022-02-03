@@ -39,6 +39,8 @@ Async CSS and Font Swap - [The Fastest Google Fonts](https://csswizardry.com/202
 
 * [Pure Digital CSS, Swiss made, clock. No JavaScript, no HTML(*)](https://www.quaxio.com/pure_css_digital_clock.html)
     * utter abomination - but very clever
+* [Yes, I can connect to a DB in CSS](https://www.leemeichin.com/posts/yes-i-can-connect-to-a-db-in-css.html)
+    * utter abomination - CSS has JS Support and a painting canvas.
 
 * [After Dark in CSS](https://www.bryanbraun.com/after-dark-css/)
 

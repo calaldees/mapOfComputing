@@ -3,12 +3,16 @@ Career Guidance
 
 * [No CS Degree](https://www.nocsdegree.com/) Inspiring interviews with successful self-taught and bootcamp developers 
 * [Do I Need to Go to University?](http://colah.github.io/posts/2020-05-University/)
+* [Completing a Part-Time Master's in Computer Science While Working](https://alexanderell.is/posts/mscs/)
 * [Lambda School](https://lambdaschool.com/)
     * Pay for tuition when you earn more than 50k
     * [Redit LambdaSchool](https://www.reddit.com/r/LambdaSchool/)
         * [Lambda School is the biggest mistake I made this year](https://www.reddit.com/r/LambdaSchool/comments/kb87od/lambda_school_is_the_biggest_mistake_i_made_this/)
     * [Lambda School Reaches Settlement with DFPI, Agreeing to End Deceptive Educational Financing Practices](https://dfpi.ca.gov/2021/04/26/lambda-school-reaches-settlement-with-dfpi-agreeing-to-end-deceptive-educational-financing-practices/)
 
+* [](https://alexchesser.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556)
+    * > I’m telling you that the absolute very best time to talk to a recruiter happens when you’re not looking for a job.
+    * Craft a deliberate automated response to weed out the low quality opportunities
 
 * [[interview]]
 

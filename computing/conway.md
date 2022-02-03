@@ -7,13 +7,14 @@ Emergent behaviour from simple rules
 * [The Recursive Universe](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/)
 * [Conway basic patterns](http://pi.math.cornell.edu/~lipa/mec/lesson6.html)
 * [Building a computer in Conway's game of life](https://www.nicolasloizeau.com/gol-computer) - gates, memory and compiler
+* [Let’s BUILD a COMPUTER in CONWAY's GAME of LIFE ⠠⠵](https://www.youtube.com/watch?v=Kk2MH9O4pXY) YouTube 23min
 * [Build a working game of Tetris in Conway's Game of Life](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life)
 * Web Based Examples
     * [lifeee](https://lifeee.netlify.app/) - infinite zoom and grey history
     * [Simple](https://playgameoflife.com/)
     * [Example](https://pmav.eu/stuff/javascript-game-of-life-v3.1.1/)
     * [Example 2](https://www.samcodes.co.uk/project/game-of-life/)
-    * [](https://js1024.fun/demos/2020/8)
+    * [js1024](https://js1024.fun/demos/2020/8) shader beam!
 * x86 Assembler
     * [MSDOS 32bytes](https://www.pouet.net/prod.php?which=85485)
 

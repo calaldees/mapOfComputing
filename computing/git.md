@@ -67,3 +67,7 @@ Microservice Monolyth
 * [Stacked Git](https://stacked-git.github.io/)
     * Manage a set of independent patches? TODO: read more?
         * (Could be a replacement for my version system? for activities?)
+
+
+* [CITATION files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)
+    * Helping people cite your code and citing others code

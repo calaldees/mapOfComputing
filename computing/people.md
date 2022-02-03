@@ -15,6 +15,9 @@ People
     * [Daves Garage](https://www.youtube.com/channel/UCNzszbnvQeFzObW0ghk0Ckw)
     * Wrote the XP product activation code
 
+* [von Neumann, Einstein, Morgenstern, Morse & Lefschetz (1952)](https://www.privatdozent.co/p/privatdozent-photo-edition-4)
+    * Colorized photo of science heros
+
 Youtube
 -------
 

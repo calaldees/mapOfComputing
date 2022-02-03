@@ -159,6 +159,10 @@ Editors
             * Presentation Writer
             * Pandoc (output pdf, word)
             * Code Chunk - render code output into documents
+            * [@import](https://github.com/shd101wyy/markdown-preview-enhanced/blob/master/docs/file-imports.md)
+                * ```
+                    @import "your_file"
+                    ```
         
 
 
@@ -315,13 +319,36 @@ Diagram Extensions Examples
         -oo-o-
         -*O-o-
         ```
+* [Markdown Preview Enhanced: Diagrams - examples](https://gist.github.com/blackcater/1701e845a963216541591106c1bb9d3b)
+* [vega](https://vega.github.io/vega/examples/) and [vega-lite](https://vega.github.io/vega-lite/examples/)
+    * ```vega
+            {
+                "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+                "description": "A simple bar chart with embedded data.",
+                "data": {
+                    "values": [
+                    {"a": "A", "b": 28}, {"a": "B", "b": 55}, {"a": "C", "b": 43},
+                    {"a": "D", "b": 91}, {"a": "E", "b": 81}, {"a": "F", "b": 53},
+                    {"a": "G", "b": 19}, {"a": "H", "b": 87}, {"a": "I", "b": 52}
+                    ]
+                },
+                "mark": "bar",
+                "encoding": {
+                    "x": {"field": "a", "type": "nominal", "axis": {"labelAngle": 0}},
+                    "y": {"field": "b", "type": "quantitative"}
+                }
+            }
+        ```
+    * ```
+        @import "your_vega_source.json" {as="vega"}
+        ```
 * More
     * [CommonMark Extensions](https://irosyadi.gitbook.io/irosyadi/markdown/library-extended-commonmarks)
         * Vega and [Vega-lite](https://vega.github.io/vega-lite/examples/)
             * Graphs (bar graphs)
         * Railroad
             * Sequence
-* [CodiMD Documentation](https://hackmd.io/c/codimd-documentation/%2F%40codimd%2Fextra-supported-syntax#Flow-Chart)
+* [CodiMD Documentation](https://hackmd.io/c/codimd-documentation/%2F%40codimd%2Fextra-supported-syntax#Extra-Supported-Syntax)
 * Other features
     * Collapsing content
         * ```

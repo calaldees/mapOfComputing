@@ -22,4 +22,9 @@ Visual Programming Languages
         * Graph/equations
 
 
+* [viscuit](https://www.viscuit.com/) JP
+    * [How Can Children Express Their Intentions Through Coding?: Analysis of Viscuit Programs in Kindergarten](https://dl.acm.org/doi/10.1145/3304221.3325558)
+        * > you can move and change multiple pictures on the screen using eyeglasses, which make a sequence from left to right, following from-to (picture rewriting) rules. Its distinguishing feature is that the program is expressed solely with pictures and their layouts. No letters are necessary at all. Therefore, Viscuit is perfectly suitable for pre-school children. 
 
+* [PyFlow](https://github.com/Bycelium/PyFlow) #python 
+    * An open-source tool for visual and modular block programing in python 

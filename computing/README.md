@@ -18,6 +18,8 @@ Computing
 * [[operating-systems]]
 * [[history-of-computing]]
 * [[theory]]
+    * [[computerScience]]
+    * [github.com/papers-we-love](https://github.com/papers-we-love/papers-we-love)  Papers from the computer science community to read and discuss. 
 * [[ai]]
 * [[blockchain]]
 * [[programming]]
@@ -98,6 +100,7 @@ Unsorted
 [operating-systems]: operating-systems.md "Operating Systems"
 [history-of-computing]: history-of-computing.md "History of Computing"
 [theory]: theory.md "Theory"
+[computerScience]: computerScience.md "Computer Science"
 [ai]: ai.md "AI (Artificial Intelligence)"
 [blockchain]: blockchain.md "Blockchain"
 [programming]: programming.md "Programming"

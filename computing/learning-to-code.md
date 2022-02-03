@@ -1,6 +1,20 @@
 Learning Programming
 ====================
 
+* [Teaching how to code is broken](https://neil.computer/notes/teaching-how-to-code-is-broken/)
+    * Chaper names: Variables, arrays
+    * none of these chapters answer the most important question a reader has, the entire time, WHY!? Why is all this important and what problems does it solve?
+    * What is the problem this is trying to solve
+    * Example of learning though modelling decks of cards
+
+* [The Nature of Code](https://natureofcode.com/book/) Daniel Shiffman
+    * free eBook
+    * The goal of this book is simple. We want to take a look at something that naturally occurs in our physical world, then determine how we can write code to simulate that occurrence.
+    * Chapter 4 - particle systems
+        * oo and inheritance - emergent behaviour
+    * Chapter 8 Fractals
+
+
 
 * [5 Pillars of Learning Programming](https://www.rainerhahnekamp.com/en/5-pillars-of-learning-programming/)
     * Test Driven Development

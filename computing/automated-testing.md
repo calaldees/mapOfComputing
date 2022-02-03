@@ -20,6 +20,10 @@ https://github.com/syscolabs/kasaya
 UnitTests
 ---------
 
+* [Favor real dependencies for unit testing](https://stackoverflow.blog/2022/01/03/favor-real-dependencies-for-unit-testing/) Mark Seeman
+    * Which dependencies should be present in your code base? This article suggests an answer to that question.
+    * Mocks may not be needed - there are other strategies
+
 ### DocTests
 
 * [my doctest example with error](https://github.com/calaldees/TeachProgramming/blob/master/teachprogramming/static/projects/doctest_example.py)
@@ -44,7 +48,7 @@ https://axiom.ai/ - AI based browser testing
     * > Verification   technology   can only work against errors that have been accurately  specified,  with  as  much  ac-curacy   and   attention   to   detail   as   all other aspects of the programming task.
     * software verification: Automated tests and [[formal-specification]]
 
-* [pynguin](https://github.com/se2p/pynguin) - The PYthoN General UnIt Test geNerator is a test-generation tool for Python
+* [pynguin](https://github.com/se2p/pynguin) - The PYthoN General Unit Test geNerator is a test-generation tool for Python
     * humm .. unsure of how effective automatically generated tests are - investigate
 
 * Contact Testing

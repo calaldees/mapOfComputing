@@ -1,7 +1,10 @@
-
-REST
+RESTful API
 ----
 https://jsonplaceholder.typicode.com/
+
+* [spacetraders.io](https://spacetraders.io/)
+    * An online game that exposes and API and YOU make the interface - good luck!
+    * Has a gallery of frontends
 
 [[openapi]]
 

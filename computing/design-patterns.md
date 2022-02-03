@@ -39,6 +39,11 @@ https://en.wikipedia.org/wiki/Software_design_pattern
         * Rate limit?
     * Fan Out / In
 
+### Distributed
+
+* [Paxos](https://martinfowler.com/articles/patterns-of-distributed-systems/paxos.html)
+    * Use two consensus building phases to reach safe consensus even when nodes disconnect
+
 
 Anti Patterns
 -------------

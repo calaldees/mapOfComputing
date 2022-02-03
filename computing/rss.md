@@ -15,3 +15,8 @@ https://github.com/kotartemiy/newscatcher/blob/master/README.md
 
 
 https://rssbox.herokuapp.com/
+
+
+* [dfeed](https://dfeed.net/)
+    * Public feed aggregator?
+

@@ -49,13 +49,19 @@ https://www.polygon.com/2020/1/13/21064100/vvvvvv-source-code-game-development-t
 * [Ten-Year Long Study Confirms No Link Between Playing Violent Video Games as Early as Ten Years Old and Aggressive Behavior Later in Life](https://gamesage.net/blogs/news/ten-year-long-study-confirms-no-link-between-playing-violent-video-games-as-early-as-ten-years-old-and-aggressive-behavior-later-in-life)
 
 
-* [Castlevania III Password Algorithm ](https://meatfighter.com/castlevania3-password/)
+* [Castlevania III Password Algorithm](https://meatfighter.com/castlevania3-password/)
 
 * [Games on GitHub](https://github.com/leereilly/games)
     * a list of open source games and game-related projects that can be found on GitHub - old school text adventures, educational games, 8-bit platform games, browser-based games, indie games, GameJam projects, add-ons/maps/hacks/plugins for commercial games, libraries, frameworks, engines.
 
 * [Arcade Database](http://adb.arcadeitalia.net/)
     * Web browsable and filterable list of mame games
+
+* [Yet Another Roguelike Tutorial - Written in Python 3 and TCOD](http://rogueliketutorials.com/tutorials/tcod/v2/) #rouge
+* [Roguelikes: The Misnamed Genre](https://zorbathut.livejournal.com/827037.html)
+    * > Roguelikes aren’t about dungeons. They’re not about text-based graphics, or random artifacts, or permadeath.
+    * > Roguelikes are about complexity.
+    * > Roguelikes are about using an unpredictable toolkit with complex interactions in order to overcome unpredictable challenges.
 
 Games to Learn Computing
 ------------------------

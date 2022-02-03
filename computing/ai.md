@@ -83,6 +83,8 @@ AI is made by men (??!?)
 
 * Stanford AI Lab Blog: [An Introduction to Knowledge Graphs](http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/)
 
+* [Welcome to Waifu Labs v2: How do AIs Create?](https://waifulabs.com/blog/ai-creativity)
+
 Services
 --------
 

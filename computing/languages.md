@@ -47,15 +47,15 @@ Languages
 
 * [[assembly]]
 * [[c]]
+* [[nim]]
+* [[rust]]
 * [[fstar]]
 * [[golang]]
 * [[javascript]]
 * [[logo]]
-* [[nim]]
 * [[python]]
 * [[ruby]]
 * [[qbasic]]
-* [[rust]]
 * [[shaders]]
 * [[web-assembly]]
 * [[lisp]]
@@ -81,6 +81,9 @@ Languages
 * [[language-cheatsheets]]
 * [[formal-specification]]
 
+
+
+
 * [alice](https://www.alice.org/)
 
 
@@ -92,6 +95,23 @@ Static languages
 
 * [Typing is Hard](https://3fx.ch/typing-is-hard.html)
     * Static typing description in a variety of languages
+
+
+Systems level languages
+-----------------------
+
+* [The case for a modern language (part 1)](https://jeang3nie.codeberg.page/case-for-modern-language-pt1/)
+    * C is less than perfect
+    * > as with many things #BSD even when thay do something that is obviously better than Linux it just never really gets adopted there
+    * > the fact that `libc` looks and feels very much like it was hacked together by a bunch of random dudes over the course of a few decades rather than being designed. Which is, of course, exactly what happened. 
+    * > I have some other complaints about C that revolve around the lack of any kind of official error handling strategy, the issue of null in general, etc 
+    * > but what it really comes down to is that if we keep the language we should at the very least modernize `libc` and standardize the other tooling around the language somewhat.
+
+* C
+* Rust
+* Nim
+* Zig
+
 
 
 Learn Online
@@ -162,15 +182,15 @@ Javascript (which should be abstract, but was heavily designed in an era of syst
 [visual-programming-languages]: visual-programming-languages.md "Visual Programming Languages"
 [assembly]: assembly.md "Assembly Code"
 [c]: c.md "C"
+[nim]: nim.md "NIM"
+[rust]: rust.md "Rust"
 [fstar]: fstar.md "F*"
 [golang]: golang.md "Golang"
 [javascript]: javascript.md "javascript"
 [logo]: logo.md "Logo"
-[nim]: nim.md "NIM"
 [python]: python.md "python3"
 [ruby]: ruby.md "Ruby"
 [qbasic]: qbasic.md "qbasic"
-[rust]: rust.md "Rust"
 [shaders]: shaders.md "Shaders"
 [web-assembly]: web-assembly.md "WebAssembly"
 [lisp]: lisp.md "LISP"

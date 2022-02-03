@@ -17,7 +17,8 @@ Compilers optimise into something that is unrecognizable but performs the same f
     * [Let's write a compiler, part 4: Testing](https://briancallahan.net/blog/20210817.html)
 * [A simple program reducer for any language](https://comby.dev/blog/2021/03/26/comby-reducer)
     * reducer?
-
+* [Dear Sir, You Have Built a Compiler](https://rachitnigam.com/post/you-have-built-a-compiler/)
+    * > A parser, an intermediate representation, transformation passes, and a code generator. Dear Sir, you have built a compiler.
 * [[linker]]
 
 * [Branchless Coding in Go](https://mattnakama.com/blog/go-branchless-coding/)

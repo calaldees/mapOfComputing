@@ -234,3 +234,8 @@ Questions to an interviewer
     * hack time?
     * autonomy
 * How do you balance technical vs business goals?
+
+* [I Think I Know Why You Can't Hire Engineers Right Now](https://cushychicken.github.io/why-you-cant-hire-engineers/)
+    * Technology -> Cool Stuff to Work On
+    * Intellection -> Smart People to Work With
+    * Certainty -> Repeatability in Work Environment

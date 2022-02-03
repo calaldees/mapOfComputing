@@ -6,11 +6,13 @@ Logical Organization
 
 * [1Hz Minecraft Redstone Computer](https://www.youtube.com/watch?v=tDxKhiJfgYk)
     * Addition, subtraction, BCD display and 1 bit pixel display.
-    * 1 instuction per second
+    * 1 instruction per second
     * Can fly around and see elements of the computer
 * [I Made A Water Computer And It Actually Works](https://www.youtube.com/watch?v=IxXaizglscw) YouTube 16min
 * [A Computer Built With Dominos](https://www.youtube.com/watch?v=w6E7aQnA4Ws) YouTube 8min
     * Half adder
+* [Reso: A visual circuits programming language using pixels.](https://github.com/lynnpepin/reso)
+    * Reso is a low-level circuit design language and simulator, inspired by things like Redstone, Conway's Game of Life, and Wireworld.
 
 * [The Fetch-Execute Cycle: What's Your Computer Actually Doing?](https://www.youtube.com/watch?v=Z5JC9Ve1sfI&list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha&index=7) Tom Scott 9min
 

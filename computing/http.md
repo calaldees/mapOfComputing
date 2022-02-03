@@ -5,6 +5,7 @@ HTTP
 * [[cors]]
 
 * [MDN: An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+* DRAFT [The HTTP QUERY Method](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-safe-method-w-body-02)
 
 ```
 telnet

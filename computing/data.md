@@ -16,6 +16,9 @@ Data
 * [[simulation]] [[model]]
 * [[dsp]]
 
+* [[natural-language-processing]]
+* [[image-processing]]
+
 * [Information Geometry](https://math.ucr.edu/home/baez/information/) [[maths]]
 
 Data visualisation from DB's
@@ -58,6 +61,8 @@ Dashboards Live?
 [simulation]: simulation.md "Simulation"
 [model]: model.md "Model"
 [dsp]: dsp.md "Digital Signal Processing"
+[natural-language-processing]: natural-language-processing.md "Natural Language Processing"
+[image-processing]: image-processing.md "Image Processing"
 [maths]: maths.md "Maths"
 [spreadsheets]: spreadsheets.md "Spreadsheets"
 [markdown]: markdown.md "MarkDown"
