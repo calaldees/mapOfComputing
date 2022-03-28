@@ -7,3 +7,6 @@ JPEG
 * [jpeg.rocks](https://jpeg.rocks/)
     * WebAssembly in browser `jpegoptim`
 * [JPEG: Image compression algorithm](http://pi.math.cornell.edu/~web6140/TopTenAlgorithms/JPEG.html)
+* [JPEG Sandbox](https://github.com/OmarShehata/jpeg-sandbox)
+    * live [jpeg-sandbox.glitch.me/](https://jpeg-sandbox.glitch.me/)
+    * Interactively edit individual #DCT blocks in any #JPEG image in the browser. 

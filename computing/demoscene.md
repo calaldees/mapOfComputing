@@ -15,6 +15,7 @@ Creativity Visulisation
     * [elevated by Rgba & TBC | 4k intro](https://www.youtube.com/watch?v=jB0vBmiTr6o)
         * [Escalated](https://www.shadertoy.com/view/MtK3Wc) 1024byte shader similar to Elavated - browser demo
         * [Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise)
+            * [Coding Challenge #11: 3D Terrain Generation with Perlin ](https://www.youtube.com/watch?v=IKB1hWWedMk) 22min
     * [The vanishing of Ashlar by NuSan (PC 4k intro)](https://youtu.be/lAvug7LKiIE)
     * ["Memories" - 256 byte MSDOS intro](https://youtu.be/Imquk_3oFf4) #dos
         * Smaller then a single tweet (each character/letter is a byte)

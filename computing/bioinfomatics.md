@@ -18,8 +18,11 @@ see [history](./historyOfComputing.md)
 
 https://mpeg-g.org/
 
+* [NHS Genomic Medicine Service](https://www.england.nhs.uk/genomics/nhs-genomic-med-service/)
 
-[Integrative Genomics Viewer](http://igv.org/) - IGV in a webbrowser
+* [Google Images: Genome Viewer](https://www.google.com/search?q=genome+viewer&tbm=isch)
+    * [Integrative Genomics Viewer](http://igv.org/) - IGV in a webbrowser
+    * [geneious.com](https://www.geneious.com/) - professional desktop viewer (paid)
 
 
 * [Am I still lactose tolerant? - Lactose Gene Therapy Update](https://youtu.be/aoczYXJeMY4)

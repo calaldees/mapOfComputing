@@ -85,6 +85,13 @@ BarCamp
     * A wardrobe as a multi function table
 
 
+Little projects
+---------------
+
+* [Back of your hand](https://backofyourhand.com/51.27975,1.08118/XHGHRA) - How well do you know your area? Test your knowledge by locating streets.
+    * Taking map data and making an automated quiz out of it
+
+
 Other
 -----
 

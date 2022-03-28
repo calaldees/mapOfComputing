@@ -192,6 +192,9 @@ Ownership of digital
 Unsorted
 ========
 
+* [Google Tag Manager, the new anti-adblock weapon](https://chromium.woolyss.com/f/HTML-Google-Tag-Manager-the-new-anti-adblock-weapon.html)
+    * > The "Server-Side Tagging" version of the Google tool allows you to bypass browser and other adblocker protections
+    * Good explantion of client-side tag manager - this is a server side tag manager - can't be blocked
 
 * [A Real-Time Website Privacy Inspector](https://themarkup.org/blacklight/) - Get report of trackers/cookies on any website
 * [No More Google](https://nomoregoogle.com/) Privacy-friendly alternatives to Google that don't track you

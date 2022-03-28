@@ -13,6 +13,8 @@ Architecture of Games Consoles
 [SegaVR](https://gamehistory.org/segavr/) 1993 Megadrive - emulated #reverse-engineering from source
 
 * Micro Mages - [How we fit an NES game into 40 Kilobytes](https://www.youtube.com/watch?v=ZWQ0591PAxM)
+* [NES Scrolling Basics featuring Super Mario Bros. - Behind the Code](https://www.youtube.com/watch?v=3uzcN9PHZZs)
+    * Technical video about the registers used for NES scrolling and why it can only scroll vertically or horizontally
 
 * [[retro-coding]]
 * [[graphics-hardware]]

@@ -3,6 +3,11 @@ Databases
 
 * [[sql]]
 * [[nosql]]
+* Vector Database's
+    * [A Gentle Introduction to Vector Databases](https://frankzliu.com/2021/12/23/a_gentle_introduction_to_vector_databases.html)
+        * Float for how related two items are
+
+* Stackoverflow: [How does database indexing work?](https://stackoverflow.com/questions/1108/how-does-database-indexing-work)
 
 https://www.prisma.io/blog/comparison-of-database-models-1iz9u29nwn37
 

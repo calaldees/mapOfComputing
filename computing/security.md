@@ -2,6 +2,19 @@ Hacking and Security
 ====================
 
 * [9Sec Blog](https://9esec.io/blog) - Experts insights
+* [Cyber Roadmap by Tux](https://blog.ashimi.xyz/cyber-security-beginner-roadmap-ckk1cmmvb08jfqps1amjuh10o)
+    * [tryhackme.com](https://tryhackme.com/) - Byte-sized gamified lessons
+    * [immersivelabs.online](https://immersivelabs.online/) - info
+    * [hackthebox.eu](https://www.hackthebox.eu/)
+        * is very much hard than the previous two because you can't sign up directly, you have to hack your way into the platform. 
+    * VulnHub
+    * [PEH by TCM](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
+        * is a 25 hours course by TCM Security, 
+    * Certification
+        * [eJPT](https://elearnsecurity.com/product/ejpt-certification/)
+        * [Offensive Security Certified Professional (OSCP)](https://www.offensive-security.com/pwk-oscp/OSCP/)
+            *  is an ethical hacking certification offered by Offensive Security that teaches penetration testing methodologies and the use of the tools included with the Kali Linux distribution (successor of BackTrack). The OSCP is a hands-on penetration testing certification, requiring holders to successfully attack and penetrate various live machines in a safe lab environment.
+        * [Certified Ethical Hacker (CEH)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) certificate of the ultimate pen tester
 
 * 75% of all attacks are phishing
 * Social engineering
@@ -59,7 +72,7 @@ Authenticator app OTP
 * [AIR-FI: Generating Covert Wi-Fi Signals from Air-Gapped Computers](https://arxiv.org/abs/2012.06884)
 * [Timing Analysis of Keystrokes and Timing Attacks on SSH](https://people.eecs.berkeley.edu/~daw/papers/ssh-use01.pdf)
     * > in inter-active mode,every individual keystroke that a user types is sent to the remote machine in a separate IP packet immediately after the key is pressed, which leaks the inter-keystroke timing information of users’ typing.
-* Acoustic Cryptanalysis
+* Acoustic Cryptanalysis - Audio SSH RSA key retrieval
     * [New attack steals e-mail decryption keys by capturing computer sounds](https://arstechnica.com/information-technology/2013/12/new-attack-steals-e-mail-decryption-keys-by-capturing-computer-sounds/)
     * [Acoustic Cryptanalysis](https://link.springer.com/article/10.1007/s00145-015-9224-2) 2016
         * [another pdf](https://www.cs.tau.ac.il/~tromer/papers/acoustic-20131218.pdf)
@@ -88,7 +101,7 @@ Keyloggers
 
 
 
-Audio SSH RSA key reteaval
+
 
 
 Global Radio Login Gigya - 'Hacked by' alert

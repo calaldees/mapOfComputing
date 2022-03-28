@@ -99,6 +99,10 @@ Knowledge base
 * software (see desktop below)
 * [Using sqlite3 as a notekeeping document graph with automatic reference indexing](https://epilys.github.io/bibliothecula/notekeeping.html)
     * Amazing use of binary data, insert triggers, virtual tables, search indexing, json meta data extraction in queries
+* [SuperNotes.app](https://supernotes.app/)
+    * > Free Your Thoughts - Supernotes is your new home for ideas, records, tasks, and lists. Enjoy efficient note-taking without the hassle.
+    * Online service for Zettelkasten/Markdown stuff
+    
 
 Editors
 -------

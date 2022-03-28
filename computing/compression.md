@@ -55,6 +55,12 @@ Image Compression
 * [Web developer's guide to AVIF images](https://darekkay.com/blog/avif-images/) #avif
 
 
+Video
+-----
+
+* [H.264 is Magic](https://sidbala.com/h-264-is-magic/)
+    * High level overview of the components of video compression with simple metrics
+
 Cloud
 -----
 

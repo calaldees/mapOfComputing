@@ -21,4 +21,5 @@ https://github.com/VGraupera/1on1-questions
     * Doing all the project management (not your job)
     * Not sharing information with the team
     * Not doing one on one holistic coaching
-    * 
+* [How to get the most out of your 1:1s](https://erik.wiffin.com/posts/how-to-get-the-most-out-of-your-11s/)
+    * Don't make them status updates - it's about longer term growth

@@ -6,3 +6,4 @@ Hacker Maker Builder Culture
 * [Critter.Camera](https://critter.camera/) - Ever wondered what was running around your floor at night...well now you can find out!
 * [A Guide to Recording 660FPS Video On A $6 Raspberry Pi Camera](https://blog.robertelder.org/recording-660-fps-on-raspberry-pi-camera/)
     * Worlds cheapest high framerate camera
+* [IBM open sources $300* fully-functional LEGO®microscope design](https://ibm-research.medium.com/ibm-open-sources-300-fully-functional-lego-microscope-design-248a6cdc81bf)

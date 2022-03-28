@@ -2,7 +2,8 @@ Maps
 ====
 
 Links to working with map data
-
+* [app.electricitymap.org](https://app.electricitymap.org/map)
+    * Electricity usage per country
 * [city-roads](https://anvaka.github.io/city-roads/)
     * Download openstreetmap data for a city 
         * view in opengl

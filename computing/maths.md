@@ -80,6 +80,11 @@ Maths
     * finding the radius of the earth based on a single photograph of a sunset over a large, calm lake.
     * ![sunset-round](https://www.shapeoperator.com/img/sunset-round.png)
 
+* [American Institute of Mathematics - Open Textbook initiative - Approved books](https://aimath.org/textbooks/approved-textbooks/)
+
+* [Symplectic Geometry in 2D - Points, Lines, Circles](https://www.researchgate.net/publication/358747081_Symplectic_Geometry_in_2D_-_Points_Lines_Circles)
+    * Research paper describing visually and with maths, geometric algorithms (line crossing etc)
+
 Matrix
 ------
 

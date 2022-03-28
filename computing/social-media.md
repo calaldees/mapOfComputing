@@ -96,6 +96,10 @@ Social Media
 
 * [End of Social Media | The Future of Serendipity | Future Technology](https://miikavonbell.com/posts/end-of-social-media/)
     * People are waking up to mass advising and wilful algorithmic recommendations
+
+* [China's state media buys Meta ads pushing Russia's line on war](https://www.axios.com/chinas-state-media-meta-facebook-ads-russia-623763df-c5fb-46e4-a6a8-36b607e1b672.html)
+    * Social media is used a political tool
+
 ---
 
 Not really social-media .. more data business
