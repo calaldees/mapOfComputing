@@ -96,6 +96,7 @@ Visualising
 
 * [Powers of 3 in binary](https://www.johndcook.com/blog/2021/04/28/powers-of-3-in-binary/)
     * Drawing patter in a terminal
+* [Visual Dictionary of Special Plane Curves](http://xahlee.info/SpecialPlaneCurves_dir/specialPlaneCurves.html)
 
 ---
 

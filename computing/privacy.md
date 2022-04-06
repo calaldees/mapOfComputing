@@ -4,7 +4,15 @@ Privacy
 > Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.
 <sub>Edward Snowden</sub>
 
+* [Why to Care About Privacy After Years of Sharing Data](https://blog.thenewoil.org/why-to-care-about-privacy-after-years-of-sharing-data)
+    * > “oh wait, this isn’t the way to get where I’m going. This is the way to get to [another place I frequent]!” Do you just keep going?
+      > The answer is “of course not!” That’s totally ridiculous.
+
 * Do you want your money to be secure when you bank online. Of course you do. So you want encryption!
+
+* [Ask HN: How to move away from Google](https://news.ycombinator.com/item?id=30859680)
+* [privacytools.io](https://www.privacytools.io/)
+    * > You are being watched. Private and state-sponsored organizations are monitoring and recording your online activities. privacytools.io provides services, tools and knowledge to protect your privacy against global mass surveillance.
 
 * [Privacy matters even if “you have nothing to hide”](https://write.privacytools.io/freddy/why-privacy-matters-even-if-you-have-nothing-to-hide)
     * > We all care about our privacy, though we might not know it. It is why we lock the door when we go to the toilet; or why we close the curtains to stop people looking into our homes.

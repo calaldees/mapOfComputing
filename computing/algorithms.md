@@ -10,6 +10,7 @@ Algorithms
         * Nagles
         * Clock synchronisation
         * Fouier transform
+            * [But what is the Fourier Transform? A visual introduction.](https://www.youtube.com/watch?v=spUNpyF58BY) 20min YouTube
         * [[Compression]]
             * Huffman
         * [[Parity]] (reconstruction) Hammering?
