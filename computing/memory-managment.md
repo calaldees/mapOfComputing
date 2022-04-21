@@ -23,3 +23,8 @@ Virtual Memory
 
 * [Virtual Memory: 2 Three problems with Memory](https://www.youtube.com/watch?v=eSPFB-xF5iM)
 
+
+Developing/Profiling
+----------
+
+* Python [memray](https://bloomberg.github.io/memray/) #python #memory

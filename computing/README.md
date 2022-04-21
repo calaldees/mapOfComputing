@@ -80,7 +80,17 @@ Unsorted
     * > Some lines of code are a riddle to anyone but their author and the name code serves as a warning. Other times, strangely, it’s a badge of honor.
 * [Tech Drawings](https://vincentdnl.com/drawings/)
     * Funny web comic
-
+* [Ask HN: What bits of fundamental knowledge are productivity multipliers?](https://news.ycombinator.com/item?id=30853807)
+    * Regular expressions for simple text processing.
+    * Parser combinators for parsing.
+    * Parser generators (esp. packrat variety) for parsing.
+    * The concept of fuzzing and property testing for testing code.
+    * Calculus for solving all sorts of problems.
+    * MCMC for solving a huge class of probability problems.
+    * Search algorithms for solving a variety of problems (e.g. all NP-hard problems, sudoku, HTNs, scheduling, planning).
+    * Gradient descent for solving a variety of optimization problems.
+    * Vector Space embedding as a conceptual tool for a variety of complex AI problems.
+    * Effect composition (Haskell's IO or Scala's ZIO) as an incredibly powerful paradigm for concurrency and parallelism.
 
 * [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
     * The Guide to the Software Engineering Body of Knowledge (SWEBOK Guide) describes generally accepted knowledge about software engineering. Its 15 knowledge areas (KAs) summarize basic concepts and include a reference list pointing to more detailed information

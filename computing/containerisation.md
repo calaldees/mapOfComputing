@@ -35,11 +35,26 @@ https://www.fromlatest.io/#/
 https://medium.com/sciforce/strategies-of-docker-images-optimization-2ca9cc5719b6
 
 Sharing build cache
-https://medium.com/titansoft-engineering/docker-build-cache-sharing-on-multi-hosts-with-buildkit-and-buildx-eb8f7005918e
-https://github.com/moby/buildkit
+
+* Rubbish - manual and clumbsy
+    * [Distributing Docker Cache across Hosts](https://runnable.com/blog/distributing-docker-cache-across-hosts)
+        * Docker 1.10 changed layer cache
+        * explicitly use `save` and `load` for tag.gz of layers
+    * [Caching Docker layers on serverless build hosts with multi-stage builds, --target, and --cache-from](https://andrewlock.net/caching-docker-layers-on-serverless-build-hosts-with-multi-stage-builds---target,-and---cache-from/)
+        * `--cache-from` for manually pushing build image. There must be a better way ...
+* [Docker build cache sharing on multi-hosts with BuildKit and buildx](https://medium.com/titansoft-engineering/docker-build-cache-sharing-on-multi-hosts-with-buildkit-and-buildx-eb8f7005918e)
+    * [docker/buildx](https://github.com/docker/buildx)
+  
+  
 
 * [SubUser](https://subuser.org/)
     * Using docker containers to run applications with only dir level access
+    * > Subuser turns a docker container into a normal program. But this program is not fully privileged. It can only access the directory from which it was called
+
+* [The smallest Docker image to serve static websites](https://lipanski.com/posts/smallest-docker-image-static-website)
+    * `thttpd` 187kb - built with alpine but uses the `scratch` image with no OS installed
+
+
 
 ### Docker Commandline Helpers
 

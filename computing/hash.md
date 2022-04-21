@@ -7,15 +7,15 @@ Where is it used
 
 Why
 
+* https://www.quora.com/What-is-the-simplest-example-of-a-hash-function
+* FNV1
+* [FNV-1](https://en.wikipedia.org/wiki/Fowler%E2%80%93Noll%E2%80%93Vo_hash_function)
 
 MD5
 SHA1
-SHA256?
+SHA-2 SHA256?
 Argon2
 
-* [SHA-1 ‘Fully and Practically Broken’ By New Collision](https://duo.com/decipher/sha-1-fully-and-practically-broken-by-new-collision) 2020
-    * > Our work show that SHA-1 is now fully and practically broken for use in digital signatures. GPU technology improvements and general computation cost decrease will quickly render our attack even cheaper, making it basically possible for any ill-intentioned attacker in the very near future
-    * [[security]]
 
 
 Fast as possible - uniform as possible
@@ -25,8 +25,12 @@ Fast as possible - uniform as possible
 [We Didn't Encrypt Your Password, We Hashed It. Here's What That Means:](https://www.troyhunt.com/we-didnt-encrypt-your-password-we-hashed-it-heres-what-that-means/)
 > A password hash is a representation of your password that can't be reversed, but the original password may still be determined if someone hashes it again and gets the same result.
 
-https://github.com/in3rsha/sha256-animation
-https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/
+* [Secure Hash Algorithms](https://brilliant.org/wiki/secure-hashing-algorithms/) SHA1 Example
+* [SHA-1 ‘Fully and Practically Broken’ By New Collision](https://duo.com/decipher/sha-1-fully-and-practically-broken-by-new-collision) 2020
+    * > Our work show that SHA-1 is now fully and practically broken for use in digital signatures. GPU technology improvements and general computation cost decrease will quickly render our attack even cheaper, making it basically possible for any ill-intentioned attacker in the very near future
+    * [[security]]
+* [How SHA-256 Works Step-By-Step](https://qvault.io/2020/07/08/how-sha-2-works-step-by-step-sha-256/)
+* [sha256-animation](https://github.com/in3rsha/sha256-animation) in terminal
 
 * [High Speed Hashing for Integers and Strings](https://arxiv.org/abs/1504.06804)
 * [Argon2](https://argon2.online/) - Hash Generator & Verifier
