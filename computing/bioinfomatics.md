@@ -15,6 +15,8 @@ see [history](./historyOfComputing.md)
     * Eric Green, head of the nation’s top genomics research institute, looks back on how far the field has come and shares his bold vision for the future.
     * Human Genome project 1990 to 2000 - 10 years to sequence the first human genome
         * racks of crt screens - computers only had a few megabytes of RAM not even gigabytes
+        * [The human genome is, at long last, complete](https://www.rockefeller.edu/news/32087-the-human-genome-is-at-long-last-complete/) 2022
+            * in 2000 only 92% of main bits were sequenced. Some bits that did not directly create proteins were de-prioritised. Turns out the missing 8% was quite important to regulating other functions.
 
 https://mpeg-g.org/
 

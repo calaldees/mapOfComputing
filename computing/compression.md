@@ -6,7 +6,8 @@ RLE
 
 Huffman
 -------
-* [What is Huffman Coding?](https://www.baseclass.io/huffman-coding/)
+#huffman
+* [What is Huffman Coding?](https://www.baseclass.io/huffman-coding/) 
 * [How Computers Compress Text: Huffman Coding and Huffman Trees](https://www.youtube.com/watch?v=JsTptu56GM8&list=PL96C35uN7xGLLeET0dOWaKHkAlPsrkcha&index=3) Tom Scott 6min
 
 
@@ -14,10 +15,11 @@ Huffman
     * [MONOSPACE](http://www.p01.org/MONOSPACE/): Flip dots with feelings, a JavaScript demo in 1021 bytes, winner of the 1024 bytes demo competition at Assembly 2020
         * [PNGStore](https://www.iamcal.com/png-store/)
 
-* [Modern LZ Compression ](https://glinscott.github.io/lz/index.html) - Gary Linscott 2021
+* [Modern LZ Compression](https://glinscott.github.io/lz/index.html) - Gary Linscott 2021
     * walks through the components of a modern LZ compressor
     * create a compressor that can beat gzip while decompressing at almost the same speed — in less than 1000 lines
     * (beautiful single page layout with code)
+
 
 New techniques
 --------------
@@ -50,6 +52,10 @@ Image Compression
     * It losslessly compresses RGB and RGBA images to a similar size of PNG, while offering a 20x-50x speedup in compression and 3x-4x speedup in decompression. All single-threaded, no SIMD. It's also stupidly simple.
     * tl;dr: 300 lines of C, single header, 
     * Somewhere between RLE and LZW
+
+* PNG
+    * [The smallest 256x256 single-color PNG file, and where you've seen it](https://www.mjt.me.uk/posts/smallest-png/)
+        * #huffman #rle
 
 ### AVIF
 * [Web developer's guide to AVIF images](https://darekkay.com/blog/avif-images/) #avif

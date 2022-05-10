@@ -67,6 +67,8 @@ https://developers.google.com/search/docs/data-types/dataset
         * [planningfinder.co.uk](https://www.planningfinder.co.uk/) - planning permission on map with emial alerts
         * [Official statistics from MHCLG (Ministry of Housing, Communities & Local Government)](https://opendatacommunities.org/)
             * 200+ datasets published under open licences covering MHCLG’s priorities including: deprivation, housing, local government finance, planning and other themes.
+        * [local.gov.uk](https://lginform.local.gov.uk/dataAndReports/explorer) -  Improving services through information 
+            * The local area benchmarking tool from the Local Government Association
     * Maps
         * [OpenStreetMap](https://www.openstreetmap.org) Javascript Editor - [ID](https://wiki.openstreetmap.org/wiki/ID)
             * [StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android 

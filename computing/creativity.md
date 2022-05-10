@@ -59,6 +59,8 @@ Creativity
 * [busysimulator.com](https://busysimulator.com/)
     * Make noises from common application to make your computer sound busy
 
+* [The Making of "Stunt Island"](https://fabiensanglard.net/stunt_island/)
+    * One of the most innovative [[game-design]] of all time
 
 Hacking/Making/Building Culture
 -------------------------------

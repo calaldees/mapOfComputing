@@ -56,8 +56,10 @@ https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis
 * [List of Software Post-Mortems](https://github.com/danluu/post-mortems) - Outages from big cloud providers
 
 
-* [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
-    * [flicker](https://www.flickr.com/photos/95869671@N08/36231833334/)
+* [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA) YouTube
+    * [flicker](https://www.flickr.com/photos/95869671@N08/36231833334/) image
+* [The Computer Science Iceberg Explained (Part 1)](https://www.youtube.com/watch?v=H565avw-ufk)
+
 
 * [Brilliant](https://brilliant.org/)
     * [Computer Science Essentials](https://brilliant.org/courses/computer-science-essentials/)

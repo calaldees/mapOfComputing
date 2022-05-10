@@ -119,8 +119,7 @@ Editors
 * Browser
     * [Github Markdown Support](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
         * Basic (no diagram plugins)
-        * [GitHub Mermaid Support ticket](https://github.community/t/feature-request-support-mermaid-markdown-graph-diagrams-in-md-files/1922/42) 5 years old?
-        * [GitHub Chrome Extension for Markdown](https://github.com/BackMarket/github-mermaid-extension)
+        * Mermaid
     * [GitLab Markdown Support](https://docs.gitlab.com/ee/user/markdown.html#diagrams-and-flowcharts)
         * Mermaid
         * PlantUML
@@ -162,11 +161,15 @@ Editors
             * PlantUML
             * Presentation Writer
             * Pandoc (output pdf, word)
+            * [wavedrom](https://shd101wyy.github.io/markdown-preview-enhanced/#/diagrams?id=wavedrom) timing diagrams
+            * [ditaa](https://shd101wyy.github.io/markdown-preview-enhanced/#/diagrams?id=ditaa) - ascii art flow diagrams
             * Code Chunk - render code output into documents
             * [@import](https://github.com/shd101wyy/markdown-preview-enhanced/blob/master/docs/file-imports.md)
                 * ```
                     @import "your_file"
                     ```
+                * partial line numbers from file
+                * can execute commands and include the output
         
 
 
@@ -373,6 +376,13 @@ Diagram Extensions Examples
             (empty line)
             [comment]: # (This actually is the most platform independent comment)
             ```
+    * [MUME](https://github.com/shd101wyy/mume) renderer features (used in MarkdownPreviewEnhanced)
+        * rendering of code blocks with line numbers and 'partial file' inclusion
+            * https://shd101wyy.github.io/markdown-preview-enhanced/#/markdown-basics?id=line-numbers
+            * https://shd101wyy.github.io/markdown-preview-enhanced/#/file-imports?id=import-certain-lines
+            * These use an underlying Markdown Library called MUME for rendering
+            * I need to do more research into how this could be done on the commandline and CI
+
 
 Guides
 ------

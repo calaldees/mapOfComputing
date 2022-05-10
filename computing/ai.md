@@ -20,6 +20,8 @@ radiologists move to differnt hospital - ai cant be transfered
     * This could be an AMAZING activity
         * What about training the algorithm with lines - and then trying to recognise a filled circle. Could this be a powerful lesson in the data we tain algorithms with? (like the issues big tech companies had with recognising black faces with login systems)
 
+* [DALL-E 2 - Pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch.
+
 * [DeepMind: Generally capable agents emerge from open-ended play](https://deepmind.com/blog/article/generally-capable-agents-emerge-from-open-ended-play)
     * Beautiful visual description of general purpose game playing AI.
     * _Tasks_ for the AI to overcome are created procedurally

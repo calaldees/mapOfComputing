@@ -162,6 +162,7 @@ Useful? Or unneeded complexity?
 Surely this defeats the purpose of a dynamic language?
 
 * [Python's type checking renaissance](https://dafoster.net/articles/2021/01/26/python%27s-type-checking-renaissance/)
+* [Python’s “Type Hints” are a bit of a disappointment to me](https://www.uninformativ.de/blog/postings/2022-04-21/0/POSTING-en.html)
 
 
 Advanced Modules
@@ -177,6 +178,9 @@ Advanced Modules
 * [Pyodide](https://lwn.net/SubscriberLink/855875/25b1611bb7e4c9a4/) - compile python to [[web-assembly]]
 
 * [Interfaces and Protocols](https://glyph.twistedmatrix.com/2021/03/interfaces-and-protocols.html) in python
+
+* [dis](https://docs.python.org/3/library/dis.html) - Disassembler for Python bytecode
+    * Look under the hood of a python function
 
 Techniques
 ----------
