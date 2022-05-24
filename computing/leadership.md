@@ -23,3 +23,13 @@ https://github.com/VGraupera/1on1-questions
     * Not doing one on one holistic coaching
 * [How to get the most out of your 1:1s](https://erik.wiffin.com/posts/how-to-get-the-most-out-of-your-11s/)
     * Don't make them status updates - it's about longer term growth
+
+* [Thoughts on OKRs](https://joeblu.com/blog/2022_05_okrs/) Joe Blubaugh 2022
+    * Why they fail
+    * Leadership don't take long enough to do them - there is no consequence for failure
+
+Other
+-----
+
+Behaviours to inspire in employees
+* [How to feel engaged at work: a software engineer's guide](https://jasont.co/ennui/)

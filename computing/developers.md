@@ -10,6 +10,34 @@ Developers
 * [Reflections on 10,000 Hours of Programming](https://matt-rickard.com/reflections-on-10-000-hours-of-programming/) 2021
     * Seasoned google engineer tells some high level nuggets of truth
 * [Rules of thumb for a 1x developer](https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html)
+* [Professional Programming: The First 10 Years](https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/)
+    * Fearlessness is undervalued
+    * You can’t predict the future; try and you might end up in trouble
+    * Nothing really matters, except bringing value to the customer
+    * Perfection is unachievable
+    * If you can’t connect it to the business, it doesn’t matter
+    * Write tests that give you confidence that the system works as it should
+        * 'how' is largely irrelevent
+    * Using other people’s code is not as good as I thought
+    * Some companies get it, others don’t. But nobody’s perfect
+    * Investing in feedback loops is never wasted effort
+    * Always leave something unfinished at the end of the day
+    * Sharpen the axe
+        * improve your daily tools
+    * Hiring is hard
+    * The most important trait in developers: rolling up their sleeves because it has to get done
+    * Work on a codebase with other people over a longer period of time
+        * see how decisions pan out
+        * how extendable is your code
+    * Knowing the full stack
+    * Typing can be the bottleneck
+    * Code reviews aren’t waterproof
+    * Not every code review is worth the effort
+    * Negativity begets negativity
+    * Every dial at 100% all the time doesn’t work
+    * Code has mass
+    * Programming as a part of my life
+        * You have to program/interest outside work
 
 
 * [An incomplete list of skills senior engineers need, beyond coding](https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f) - For varying levels of seniority, from senior, to staff, and beyond - Camille Fournier 2021

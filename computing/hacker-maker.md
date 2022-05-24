@@ -9,3 +9,12 @@ Hacker Maker Builder Culture
 * [A Guide to Recording 660FPS Video On A $6 Raspberry Pi Camera](https://blog.robertelder.org/recording-660-fps-on-raspberry-pi-camera/)
     * Worlds cheapest high framerate camera
 * [IBM open sources $300* fully-functional LEGO®microscope design](https://ibm-research.medium.com/ibm-open-sources-300-fully-functional-lego-microscope-design-248a6cdc81bf)
+
+
+Ideas
+-----
+
+* Would it be possible to train AI to recodnise car noise and log it?
+    * [New York Rolling Out Noise Law, Listening Tech for Souped-Up Speedsters](https://www.thecity.nyc/2022/2/24/22949795/new-york-rolling-out-noise-law-listening-tech-for-souped-up-speedsters)
+        * Could this be a raspberry pi project?
+

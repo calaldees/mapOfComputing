@@ -55,6 +55,7 @@ Social Media
     * > Rumours, half-truths and misinformation can be consumed and shared non-stop online and have an enormous reach. 
       > Although their truthfulness is questionable, they can have a significant impact on personal opinions and public discourse.
 
+* [Taking a One-Week Break from Social Media Improves Well-Being, Depression, and Anxiety: A Randomized Controlled Trial](https://doi.org/10.1089/cyber.2021.0324) Lambert 2022
 
 * [‘YouTube recommendations are toxic,’ says dev who worked on the algorithm](https://thenextweb.com/google/2019/06/14/youtube-recommendations-toxic-algorithm-google-ai/)
     * > the problem is that the AI isn’t built to help you get what you want — it’s built to get you addicted to YouTube. Recommendations were designed to waste your time

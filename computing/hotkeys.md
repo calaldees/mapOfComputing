@@ -26,6 +26,11 @@ tabs
     ctrl + pgup
     ctrl + pgdwn
     ctrl + w - close-tab
+Screenshot (Windows)
+    prtscr (clipboard)
+    windows + prtscr (screenshot int HOME/Pictures/Screenshots)
+    windows + shift + s (crop screenshot)
+
 
 browser
     ctrl + t - new tab

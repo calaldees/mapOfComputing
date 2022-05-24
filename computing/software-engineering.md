@@ -87,6 +87,10 @@ I was looking at case studies for [[telematry]] and was thinking of practical us
     * If you’re in a management position, you need to realize that development is mainly decision making, which of course only works if you’re given the necessary autonomy to make those decisions.
 
 * [What I’ve Learned in 45 Years in the Software Industry](https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/)
+* ["What if it changes?"](https://chriskiehl.com/article/the-tyranny-of-what-if-it-changes)
+    * You can justify any complexity by 'speculation about change'.
+    * Comedy rant
+    * Stop making things so complex
 
 * [What Silicon Valley "Gets" about Software Engineers that Traditional Companies Do Not](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/)
     * > "SV-like" companies think of engineers as value generators, and creative problem solvers. Traditional companies think of them as factory workers.

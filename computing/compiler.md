@@ -5,6 +5,9 @@ compiler
 
 [CS 6120: Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
 
+* [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/)
+    *  A free online textbook by Douglas Thain 
+
 tokenisation
 BNF
 

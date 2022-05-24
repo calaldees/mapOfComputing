@@ -7,6 +7,8 @@ python3
     * [online course version](http://www.davekuhlman.org/python_course_03.html)
 * [Beej's Guide to Python Programming For Beginners](https://beej.us/guide/bgpython/)
 * [Learn Python for Data Science](https://github.com/blobcity/python-for-data-science) - Basics of python in juyter notebooks
+* [What’s in which Python](https://nedbatchelder.com/text/which-py.html)
+    * Features of python by version
 
 The confusing brackets
 * []

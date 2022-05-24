@@ -11,5 +11,8 @@ Advanced Web Search
 
 * [playstation.com "age of booty" example](https://www.google.com/search?q=site%3Aplaystation.com+%E2%80%9Cage+of+booty%22)
     * `site:playstation.com "age of booty"`
+* [Why Google is so unbearable (and how to fix it)](https://ixns.github.io//lifehacks/computers/internet/2022/05/17/avoid-google-bloatware.html)
+    * bypass commercial sites
+    * `site:*.edu how are pearls made`
 
 * [Building personal search infrastructure for your knowledge and code](https://beepb00p.xyz/pkm-search.html)
