@@ -6,7 +6,11 @@
   "editor.lineHeight": 24,
   "editor.wordBasedSuggestions": false,
   "[markdown]": {
-    "editor.quickSuggestions": false
+    "editor.quickSuggestions": {
+      "comments": "off",
+      "strings": "off",
+      "other": "off"
+    }
   },
   "git.enableSmartCommit": true,
   "git.postCommitCommand": "sync",

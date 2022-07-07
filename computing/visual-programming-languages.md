@@ -1,6 +1,8 @@
 Visual Programming Languages
 ============================
 
+* [Learnable Programming](http://worrydream.com/#!/LearnableProgramming) - Designing a programming system for understanding programs
+
 * [Rethinking Visual Programming with Go](https://divan.dev/posts/visual_programming_go/) #golang [[golang]]
     * Great description of conventional code editing is "caveman in a dark cave with a tourch" analogy
     * great eye tracking gif of reading code (not linear)

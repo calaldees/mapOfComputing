@@ -143,6 +143,12 @@ I was looking at case studies for [[telematry]] and was thinking of practical us
 
 * [Programming, Motherfucker](http://programming-motherfucker.com/) - Do you speak it?
 
+* [7 Absolute Truths I Unlearned as Junior Developer](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
+    * Not all 'experience' is equal - home coding is different to commercial coding
+    * Most compaies don't have tests to tech infra
+    * Nitpicking over semicolons is pointless
+    * Disorganised code != technical debt
+    * Seniors need need more than raw code skill
 * [Drunk Post: Things I've learned as a Sr Engineer](https://old.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/)
     * The best way I've advanced my career is by changing companies.
     * Technology stacks don't really matter because there are like 15 basic patterns of software engineering in my field that apply. I work in data so it's not going to be the same as webdev or embedded. But all fields have about 10-20 core principles and the tech stack is just trying to make those things easier, so don't fret overit.

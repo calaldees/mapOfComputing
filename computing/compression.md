@@ -19,6 +19,8 @@ Huffman
     * walks through the components of a modern LZ compressor
     * create a compressor that can beat gzip while decompressing at almost the same speed — in less than 1000 lines
     * (beautiful single page layout with code)
+* [lizard LZ5](https://github.com/inikep/lizard)
+    * > Lizard (formerly LZ5) is an efficient compressor with very fast decompression. It achieves compression ratio that is comparable to zip/zlib and zstd/brotli (at low and medium compression levels) at decompression speed of 1000 MB/s and faster. 
 
 
 New techniques
@@ -56,6 +58,7 @@ Image Compression
 * PNG
     * [The smallest 256x256 single-color PNG file, and where you've seen it](https://www.mjt.me.uk/posts/smallest-png/)
         * #huffman #rle
+    * [‘optiPNG’ vs ‘PNGcrush’ vs ‘Gimp’ to Reduce PNG Size](https://rubysash.com/programming/wordpress/optipng-vs-pngcrush-vs-gimp-to-reduce-png-size/)
 
 ### AVIF
 * [Web developer's guide to AVIF images](https://darekkay.com/blog/avif-images/) #avif
@@ -64,6 +67,7 @@ Image Compression
 Video
 -----
 
+* [Digital Video File Formats - Understanding QuickTime and Video for Windows](http://archive.retro.co.za/CDROMs/DrDobbs/CD%20Release%2012/articles/1994/9413/9413b/9413b.htm) 1994
 * [H.264 is Magic](https://sidbala.com/h-264-is-magic/)
     * High level overview of the components of video compression with simple metrics
 

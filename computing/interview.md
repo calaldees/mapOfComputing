@@ -1,6 +1,12 @@
 Interview Questions
 ===================
 
+* [Wasting Time in Tech Interviews](https://www.benjamistan.tech/2022/06/26/wasting-time-in-tech-interviews.html)
+    * Most interviews don't actually ask the right questions
+    * l33t code questions are no real office work
+* [Leetcode Considered Harmful](https://www.fullcontextdevelopment.com/qb/leetcode-considered-harmful)
+    * > What is leetcode? If you are not familiar with the term, leetcode is a type of coding task, widely used by the word's largest software companies during live interviews that's exploring a candidate's knowledge of elementary computer science concepts: algorithms, data-structures and complexity analysis. This is in stark contrast with the regular job of most developers, where this knowledge is, at best, marginally relevant.
+    * > the real goal of any software product, and in turn every software developer, is to solve human problems. 
 * [Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview)
     * [educative.io](https://www.educative.io/)
         * Courses for interview preparation

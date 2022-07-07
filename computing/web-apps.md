@@ -16,3 +16,9 @@ Sharing state changes with clients
     * React (100 lines)
     * Replicache
     * Server (Node)
+
+Dashboard?
+---------
+
+* [How to create a dashboard in Python with Jupyter Notebook?](https://mljar.com/blog/dashboard-python-jupyter-notebook/)
+    * [Mercury](https://github.com/mljar/mercury) framework to convert Python notebook to interactive web application.

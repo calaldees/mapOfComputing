@@ -12,6 +12,8 @@ Regular Expressions
     * [The Greatest Regex Trick Ever](http://rexegg.com/regex-best-trick.html)
         * > How do I match a word unless it's surrounded by quotes?
         * `NotThis|NotThat|GoAway|(WeWantThis)`
+* [rulex](https://rulex-rs.github.io/)
+    * Enhanced regex that compiles down to regex
 
 * [tweet](https://twitter.com/RegexTip/status/1385604900462137345)
 > No regular expression, in the original sense of the term, can match the pattern "any number of a's followed by the same number of b's."

@@ -30,6 +30,9 @@ Game engines
         * Group pathfinding
         * Pathfinding for large units
         * graphics optimisation
+* [Ren'Py](https://www.renpy.org/) is a visual novel engine
+    * Android, iOS, Linux, Windows, Mac
+* [Phaser](http://phaser.io/) - HTML5 game framework (desktop and mobile)
 
 * [The guide to implementing 2D platformers](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/)
 

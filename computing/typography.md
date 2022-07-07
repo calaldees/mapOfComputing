@@ -18,6 +18,9 @@ Typography
     * Asks you to compare two fonts and helps you find your _perfect_ coding font
     * Mine was `Inconsolata`
 
+* [Bunny Fonts](https://fonts.bunny.net/about)
+    * GDPR open drop in replacement for google fonts
+
 Fonts
 -----
 

@@ -17,7 +17,8 @@ What is required for a machine to be Turing Complete
         * Cool animated gif
 * [[conway]] Game of life is turing complete
 
-[tic-tac-toe in single line of printf](https://github.com/carlini/printf-tac-toe)
+* [tic-tac-toe in single line of printf](https://github.com/carlini/printf-tac-toe)
+    * [[c]]
 
 [SNES Code Injection -- Flappy Bird in SMW](https://youtu.be/hB6eY73sLV0)
 

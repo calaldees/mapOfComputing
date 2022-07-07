@@ -75,6 +75,15 @@ Computing
 Unsorted
 ========
 
+* [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html), Why is everyone in such a rush?
+    * Get Interested
+    * Program (you need to do it)
+    * Talk with other Programmers
+    * Uni gives you creds
+    * Projects with other programmers
+    * Projects after other programmers
+    * Half a dozen languages
+    * understand computer hardware operations
 * [How can you not be romantic about programming?](https://thorstenball.com/blog/2020/09/08/how-can-you-not-be-romantic-about-programming/)
     * > Code, we say, can be: neat, nice, clean, crafted, baroque, minimal, solid, defensive, hacky, a hack, art, a piece of shit, the stupidest thing I’ve ever read, beautiful, like a poem.
     * > Some lines of code are a riddle to anyone but their author and the name code serves as a warning. Other times, strangely, it’s a badge of honor.

@@ -11,6 +11,9 @@ Open Source
     * Today’s topic is political software. 
         * > I think it is clear that the Free Software Foundation has failed to move the needle on the political issues relating to software. Those of us who are interested in issues of freedom and ethics and social justice related to software must explore alternative stratagems to achieve those objectives. The tactics of the Free Software Foundation (the insistence on copylefting software and fighting software patents) have become more and more ineffective. The world of software has evolved and changed in the years since 1985: we need to let the past die and build a better future.
 
+* [Don't be that open-source user, don't be me](https://jacobtomlinson.dev/posts/2022/dont-be-that-open-source-user-dont-be-me/)
+    * Somebody somewhere needs to maintain the software - at somepoint it may need funding.
+
 FLOSS, meaning Free, Liberal, or Open Source Software.
 
 [[software-licences]]

@@ -11,6 +11,16 @@ https://teachablemachine.withgoogle.com/
 
 https://www.appsforgood.org/courses/machine-learning
 
+* [MLU-EXPLAIN](https://mlu-explain.github.io/) - Visual explanations of core machine learning concepts (Amazon)
+    * Train, Test, Validation
+    * Precision and recall
+    * Random forest
+    * Decision trees
+    * Bias variance trade-off
+    * Double descent
+        * visual
+        * mathematical
+
 * [[image-recognition]]
 
 * [Starting Your AI Career Has Never Been Easier](https://www.deeplearning.ai/program/machine-learning-specialization/) Andrew Ng, Standford Online
@@ -140,6 +150,12 @@ Can AI actually happen
 
 * [An argument for the impossibility of machine intelligence](https://arxiv.org/abs/2111.07765) 2021, Landgrebe, Smith
 
+* [Consciousness is not computation](https://joe-antognini.github.io/ml/consciousness)
+    * > computer simulations can never produce the entity they are simulating since the “simulation” is not an independent system. 
+      > It is only defined in terms of its relation to an external observer. 
+      > A simulation of a brain cannot produce consciousness any more than a simulation of the weather can produce rain.
+    * > Unfortunately in arguing that consciousness is not computation, we end up struggling to imagine how the mind can compute anything at all.
+    * > There is something special going on in the cerebral cortex, and only the cerebral cortex, that seems to produce consciousness
 
 Unsorted
 ========

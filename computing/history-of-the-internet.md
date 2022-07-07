@@ -10,6 +10,8 @@ History of the Internet
 
 * [Classic 90's - The Kids Guide to the Internet](https://www.youtube.com/watch?v=mfMrVKnGzwg)
     * Amazing 90's _family_ info-mercial
+* [Intro to the Web Revival #1: What is the Web Revival?](https://thoughts.melonking.net/guides/introduction-to-the-web-revival-1-what-is-the-web-revival)
+    * Making rough web pages, no social media, creativity, money is not the goal
 
 * [The Web Is Fucked](https://thewebisfucked.com/)
     * > The web is fucked and there's nothing we can do about it. This is a manifesto by Kev Quirk looking back at Web 1.0 and why it was better. 

@@ -1,6 +1,9 @@
 Functional Programming
 ======================
 
+* [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon)
+    *  Jargon from the functional programming world in simple terms! 
+
 * [[haskell]]
 * [Why is Learning Functional Programming So Damned Hard?](https://cscalfani.medium.com/why-is-learning-functional-programming-so-damned-hard-bfd00202a7d1) Charles Scalfani Nov 30, 2019 21 min read
     * insightful reflection on learning haskell as a profetional

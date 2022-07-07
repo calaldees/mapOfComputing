@@ -28,6 +28,34 @@ Networks
 
 https://thesquareplanet.com/blog/how-the-internet-works/
 
+
+* My Analogy:
+    * A (home) router is a suite of network services.
+        * Routers often contain: Network gateway, DHCP, Ethernet switch, ADSL modem and a Wireless Access Point (which also manages it's own keys).
+    * In short.
+        * WAP == Professional component to bridge wireless and Ethernet.
+        * Router (in the context of the home) == a range of components combined for home use. a WAP is part of it's suite
+    * a (home) router has a WAP as part of it. This is not helped by the fact that a (commercial) router is very different and is the logic to direct traffic to multiple nodes (using RIP for routing tables and creating self healing network). This is not what (home) routers do. So already the terminology is confusing.
+    * Any simplification will create misconceptions.
+    * I think the best way I can convey this to young people is (very carefully) using the analogy of 'transport infrastructure'. "How would you get to Disneyland Florida?" ... you would not just walk in the right direction ... it would take you days and days of walking and eventually you would reach the UK coast. You would use a car to go to a train station and then the airport to another airport and then a bus at the other end. Some of your family could take a later train and a different plane that takes another route, but your family would all end up together in Disnyland at some point.
+    * Networks are lots of different technologies: (wifi, ADSL (copper), ehternet, transatlatic fiberoptic). Together they all form a network that can transport data.
+    * Like transport infrastructure: Walking, cycling, bus, trains, airplanes, boats; are all ways of transporting a person. ...
+* More of my notes
+    * A home router is an amalgamation of a range of network services/devices in a single box
+        - An Ethernet Switch
+        - A Wireless access point (to run a wireless network and (separately) bridge this network to the Ethernet switch. The wireless network and the Ethernet switch are actually two separate networks)
+        - A DHCP server (for assigning ip address's to new devices)
+        - a DNS pass-through (for domain name lookup)
+        - Firewall (rules for incoming and outgoing traffic)
+        - ADSL modem (analogue to digital conversion)
+        - Internet Gateway (bridges your local network to a wider network - the outside world)
+        - Web server (Linux operating system)
+    * It is not technically a "Router" as it does not have a routing table or perform route negotiation.
+    * But people call it a router as it fits the concept of "passing something on to something else".
+
+
+
+
 * [Beej's Guide to Network Programming - Using Internet Sockets](https://beej.us/guide/bgnet/html/)
 * [Computer Networks: A Systems Approach](https://book.systemsapproach.org/) - Larry Peterson and Bruce Davie
 
@@ -132,6 +160,9 @@ laptop
 moisture sensor under washing machine
 lights?
 
+Learning Resources and Simulators
+---------------------------------
+
 * [NetworkDirection.net](https://networkdirection.net/) Resources to expand your networking horizons
     * Here you will find IT educational resources, specifically for networking. Whether you are a beginner or you have been in the industry for years, you will find easy to understand videos on a range of topics to suit your skill set. 
     * [Youtube: Network Fundamentals](https://www.youtube.com/watch?v=cNwEVYkx2Kk&list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8)
@@ -153,6 +184,7 @@ lights?
 * [CS4G Netsim](https://netsim.erinn.io/) - simulator game
     * Netsim is a simulator game intended to teach you the basics of how computer networks function, with an emphasis on security. You will learn how to perform attacks that real hackers use, and see how they work in our simulator!
 
+
 Infrastructure
 --------------
 
@@ -162,7 +194,9 @@ Infrastructure
 Routing Protocols
 -----------------
 
-* [How RIP Works | Network Fundamentals Part 20](https://www.youtube.com/watch?v=aNV4rVLa_sc)
+* YouTube [What is a ROUTER? // FREE CCNA // EP 2](https://www.youtube.com/watch?v=p9ScLm9S3B4) NetworkChuck 2020 22min
+    * Layer 2 and Layer 3 ARP example with gateway and DNS
+* YouTube [How RIP Works | Network Fundamentals Part 20](https://www.youtube.com/watch?v=aNV4rVLa_sc)
 
 HELLO protocol?
 
@@ -246,6 +280,7 @@ Unsorted
 [tcp]: tcp.md "TCP"
 [websockets]: websockets.md "WebSockets"
 [http]: http.md "HTTP"
+[daw]: ../daw.md "daw"
 [distributed-filesystems]: distributed-filesystems.md "distributed-filesystems"
 [maps]: maps.md "Maps"
 [datasets]: datasets.md "datasets"

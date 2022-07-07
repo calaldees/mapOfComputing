@@ -31,7 +31,10 @@ Creativity
 * [School or Prison](https://www.schoolprison.com/)
     * photos of schools and prisons - can you guess which is which
 * [City Guesser](https://virtualvacation.us/guess) with video!
-* [Human Clock](https://humanclock.com/)
+* [humanclock.com](https://humanclock.com/)
+* [pointerpointer.com](https://pointerpointer.com/)
+* [The Floppotron 3.0](http://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
+    * Floppy drive and scanner orchestra
 
 * [Problematic.tv](https://problematic.tv/) - video taking soundbytes from radio show
     * Similar to AI voice recodnition hack at Global
@@ -47,7 +50,7 @@ Creativity
 * [Party in a Shared Google Doc](https://onezero.medium.com/party-in-a-shared-google-doc-d576c565706e)
     * Creativity with sharing experiences in a google doc with strangers
 
-* [Digital Needle - A Virtual Gramophone ](https://www.cs.huji.ac.il/~springer/DigitalNeedle/index.html)
+* [Digital Needle - A Virtual Gramophone](https://www.cs.huji.ac.il/~springer/DigitalNeedle/index.html)
     * Reading vinyl from graphical scans scans
 
 * [If the Moon were only 1 pixel](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
@@ -92,6 +95,8 @@ Little projects
 
 * [Back of your hand](https://backofyourhand.com/51.27975,1.08118/XHGHRA) - How well do you know your area? Test your knowledge by locating streets.
     * Taking map data and making an automated quiz out of it
+* [Pandemic Walks](https://nedbatchelder.com/blog/202102/pandemic_walks.html)
+    * Using mapping tools to see every street in your neighborhood
 * [I spent 2 years launching tiny projects](https://tinyprojects.dev/posts/i_spent_two_years_launching_tiny_projects)
 
 Other

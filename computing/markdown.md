@@ -93,9 +93,13 @@ Implementations
 Knowledge base
 --------------
 
-* Zettelkasten
+* #Zettelkasten
     * [Stop Taking Regular Notes; Use a Zettelkasten Instead](https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/)
     * [Zettelkasten note-taking in 10 minutes](https://blog.viktomas.com/posts/slip-box/)
+    * [Zettelkasten, Linking Your Thinking, and Nick Milo's Search for Ground](https://writing.bobdoto.computer/zettelkasten-linking-your-thinking-and-nick-milos-search-for-ground/)
+        *  Linking Your Thinking (LYT) and zettelkasten remain two different ways to achieve similar, but ultimately different goals
+        *  Luhmann felt that writing, not his zettelkasten, was the only way to think with any sense of complexity
+        *  LYT is a Life Operating System
 * software (see desktop below)
 * [Using sqlite3 as a notekeeping document graph with automatic reference indexing](https://epilys.github.io/bibliothecula/notekeeping.html)
     * Amazing use of binary data, insert triggers, virtual tables, search indexing, json meta data extraction in queries
@@ -167,10 +171,24 @@ Editors
             * [@import](https://github.com/shd101wyy/markdown-preview-enhanced/blob/master/docs/file-imports.md)
                 * ```
                     @import "your_file"
+                    @import "test.puml" {code_block=true class="line-numbers"}
+                    @import "test.md" {line_begin=2 line_end=10}
                     ```
                 * partial line numbers from file
                 * can execute commands and include the output
         
+
+Flavors
+-------
+
+Markdown is reasonably fragmented. There are a range of standards
+
+* GitHub Flavoured Markdown
+* GitLab Flavoured Markdown
+* CommonMark
+    * An attempt to formally describe MarkDown behaviour
+* [MDx](https://mdxjs.com/)
+    * > MDX allows you to use JSX in your markdown content. You can import components, such as interactive charts or alerts, and embed them within your content. This makes writing long-form content with components
 
 
 Diagram Extensions Examples
@@ -405,6 +423,8 @@ Other text systems
 Unsorted
 --------
 
+* [Plain text. With lines.](http://akkartik.name/lines.html)
+    * markdown with drawing lines in a code block
 https://github.com/Jam3/math-as-code
 https://www.getoutline.com/
 * [treesheets](http://strlen.com/treesheets/)
@@ -413,7 +433,7 @@ https://www.getoutline.com/
 
 * [This page is a truly naked, brutalist html quine](https://secretgeek.github.io/html_wysiwyg/html.html)
 * [markdown-css](https://mrcoles.com/demo/markdown-css/) - make HTML look like plain text markdown source
-
+* [How to Style Images With Markdown](https://dzone.com/articles/how-to-style-images-with-markdown)
 
 
 

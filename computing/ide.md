@@ -11,11 +11,18 @@ Integrated Development Environment (IDE)
 * vim
 * PyCharm
 
+* [Ask HN: How do you sync your computer’s development configurations/environment?](https://news.ycombinator.com/item?id=31517668)
+    * Stick/learn the defaults where possible
 
 vscode
 https://code.visualstudio.com/docs/getstarted/tips-and-tricks
 
-### hotkeys
+Show whitespace
+
+Hotkeys
+-------
+
+Stick/learn the defaults where possible
 
 tab
 shift + tab
@@ -37,8 +44,10 @@ esc (back to single)
 
 cmd + p - quick open
 
+search
 crtl + f
 crtl + shift + f
+
 
 crtl + alt + f - formatter
 
@@ -47,31 +56,44 @@ shift + alt + drag - block drag
 
 
 
-shift + alt + F12  (find all reference - current file)
+shift + alt + F12  (find all references - current file)
 
 
 
 ### characters
 
 Show whitespace - tabs and spaces
-Three types of quotes `'" (watch out for unicode fudgeery)
-Four types of brackets <{[(
+Three types of quotes: backtick, single quote, double quote
+```
+`'" 
+```
+(watch out for unicode fudgeery of single and double quotes)
+
+Four types of brackets
+```
+<{[( )]}>
+```
 Unicode
 
+Live Share
+----------
 
 [The best parts of Visual Studio Code are proprietary](https://underjord.io/the-best-parts-of-visual-studio-code-are-proprietary.html) - LiveShare
+
 
 Browser Based
 -------------
 
 * [[ide-in-browser]]
+* Hotkeys are masked by browser defaults
+    *  TODO: investigate vscode in browser hotkeys
 
-Terminal
---------
+Terminal-IDE
+------------
 
 * [an atonement of nano](https://www.noa-s.org/nano.html)
     * for years nano has been nothing but a mockery for those who use emacs or vim. 
-    *  nano is a friendly and pragmatic editor, but it's no notepad. nano has depth
+    * nano is a friendly and pragmatic editor, but it's no notepad. nano has depth
 * [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo/)
     * [antirez kilo](http://antirez.com/news/108)
     * Pure C - no dependencies

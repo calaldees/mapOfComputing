@@ -1,6 +1,12 @@
 Character Encoding
 ==================
 
+```bash
+# copy the char between the brackets
+echo -e [\\t]
+```
+
+
 ascii
 -----
 

@@ -8,6 +8,8 @@ Sorting
     * Worst case n^2
     * Bogosort (randomise it every time and check sorted)
     * Think about what works best for the problem you are trying to solve .. that might be a text file [[software-engineering-skills]]
+* [Sorting algorithms visualized using the Blender Python API](https://github.com/ForeignGods/Sorting-Algorithms-Blender)
+    * Pretty colors 9in animated gifs
 
 * [[algorithms]]
 * [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)

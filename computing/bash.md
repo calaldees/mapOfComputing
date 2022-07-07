@@ -3,6 +3,9 @@ bash
 
 Born Again Shell
 
+* [GameShell](https://github.com/phyver/GameShell) GitHub
+  * A game to learn the basics of
+
 * [bash CheatSheet](https://devhints.io/bash)
 
 * [explainshell](https://explainshell.com/)

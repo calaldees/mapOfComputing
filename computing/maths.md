@@ -98,6 +98,8 @@ Visualising
     * Drawing patter in a terminal
 * [Visual Dictionary of Special Plane Curves](http://xahlee.info/SpecialPlaneCurves_dir/specialPlaneCurves.html)
 
+* [manim](https://github.com/3b1b/manim) -  Animation engine for explanatory math videos 
+
 ---
 
 * [math inspector](https://mathinspector.com/) - A Visual Programming Environment for Scientific Computing
