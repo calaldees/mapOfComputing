@@ -425,6 +425,10 @@ Unsorted
 
 * [Plain text. With lines.](http://akkartik.name/lines.html)
     * markdown with drawing lines in a code block
+* [Typograms](https://code.sgo.to/typograms/) (typographic diagrams) 
+    * a lightweight image format (text/typograms) useful for defining simple diagrams in technical documentation.
+* [MonoDraw](https://monodraw.helftone.com/)
+    * Powerful ASCII art editor designed for the Mac. 
 https://github.com/Jam3/math-as-code
 https://www.getoutline.com/
 * [treesheets](http://strlen.com/treesheets/)

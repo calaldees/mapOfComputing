@@ -50,6 +50,10 @@ Computing
 * [The Elements of Computing Systems, Second Edition](https://mitpress.mit.edu/books/elements-computing-systems-second-edition) Building a Modern Computer from First Principles
     * [[logical-organization]]
 
+* Stanford [CS101 - Introduction to Computing Principles](https://web.stanford.edu/class/cs101/)
+    * [IntroComputing.org](https://introcomputing.org/)
+        * Free materials for teaching the essential qualities of computers using little snippets of code in the browser.
+        * materials are based on Nick Parlante's Stanford CS101 course
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) Harold Abelson and Gerald Jay Sussman with Julie Sussman 
     * The material in this book has been the basis of MIT's entry-level computer science
 * [Computer Science from the Bottom Up](https://www.bottomupcs.com/)

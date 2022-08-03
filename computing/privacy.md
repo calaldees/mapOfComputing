@@ -68,6 +68,8 @@ Facial Recognition
     * Lie about ago
     * Facial fingerprint - find social media profiles with your face
     * Assess emotion at interview
+* [Live Facial Recognition](https://www.met.police.uk/advice/advice-and-information/fr/facial-recognition) MET Police UK 2022
+
 
 GeoTaging Images
 ----------------
@@ -177,6 +179,9 @@ Ownership of digital
 Unsorted
 ========
 
+* [Anonymous Review Site Glassdoor Not So Anonymous](https://www.webworm.co/p/glassdoor)
+    * Don't trust companies to protect your identity - they wont
+
 * [Google Tag Manager, the new anti-adblock weapon](https://chromium.woolyss.com/f/HTML-Google-Tag-Manager-the-new-anti-adblock-weapon.html)
     * > The "Server-Side Tagging" version of the Google tool allows you to bypass browser and other adblocker protections
     * Good explantion of client-side tag manager - this is a server side tag manager - can't be blocked
@@ -211,6 +216,9 @@ Unsorted
 
 * [Facebook Says Apple is Too Powerful. They're Right.](https://www.eff.org/deeplinks/2022/06/facebook-says-apple-too-powerful-theyre-right)
     * > That means that Apple doesn’t just control which apps its mobile customers can use; it also has near-total control over which literary works they can listen to. Apple may have not set out to control its customers’ reading habits, but having attained it, it jealously guards that control. When Apple’s customers express interest in using rival app stores, Apple goes to extraordinary technical and legal lengths to prevent them from doing so.
+
+* [Help me identify possible tracking device found in my car (gist.github.com)](https://news.ycombinator.com/item?id=32040251)
+    * 
 
 Censorship
 ----------

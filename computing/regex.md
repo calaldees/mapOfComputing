@@ -23,6 +23,10 @@ Regular Expressions
 > `(a(?1)?b)`
 > The optional (?1) in the middle stands for the outer expression, introducing recursion.
 
+* [AutoRegex](https://www.autoregex.xyz/) - English to RegEx with Natural Language Processing - [[ai]]
+    * > Regex is difficult to write and comprehend to the average human reader because of its complex patterns. This website uses GPT-3 to generate regular expressions from plain English.
+    * > All words starting with the letter "n" and ending with "g", case insensitive
+        >> /^nw*g$/i
 
 Use find and replace `<.*?>` 
 ```

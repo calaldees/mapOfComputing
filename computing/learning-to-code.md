@@ -12,7 +12,7 @@ Learning Programming
     * The goal of this book is simple. We want to take a look at something that naturally occurs in our physical world, then determine how we can write code to simulate that occurrence.
     * Chapter 4 - particle systems
         * oo and inheritance - emergent behaviour
-    * Chapter 8 Fractals
+    * Chapter 8 [[fractals]]
 
 
 

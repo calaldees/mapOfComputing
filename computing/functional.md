@@ -3,6 +3,10 @@ Functional Programming
 
 * [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon)
     *  Jargon from the functional programming world in simple terms! 
+* [Why Study Functional Programming?](https://acm.wustl.edu/functional/whyfp.php) ...or, "why make programming even harder?"
+    * Concepts in Scheam and LISP
+    * Concepts in Haskell
+    * Functions concepts in other langauges (python, perl, ruby, scala, java)
 
 * [[haskell]]
 * [Why is Learning Functional Programming So Damned Hard?](https://cscalfani.medium.com/why-is-learning-functional-programming-so-damned-hard-bfd00202a7d1) Charles Scalfani Nov 30, 2019 21 min read

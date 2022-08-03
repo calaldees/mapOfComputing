@@ -25,6 +25,10 @@ Sorting
 
 * Youtube [Merge-sort with Transylvanian-saxon (German) folk dance](https://www.youtube.com/watch?v=XaqR3G_NVoo) 4min
 
+* [Timsort — the fastest sorting algorithm you’ve never heard of](https://skerritt.blog/timsort/)
+    * Timsort: A very fast , O(n log n), stable sorting algorithm built for the real world — not constructed in academia.
+    * #python s shorting algorithm
+
 Joke Sorting Algorithms
 -----------------------
 

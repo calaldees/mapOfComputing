@@ -101,6 +101,9 @@ Social Media
 * [China's state media buys Meta ads pushing Russia's line on war](https://www.axios.com/chinas-state-media-meta-facebook-ads-russia-623763df-c5fb-46e4-a6a8-36b607e1b672.html)
     * Social media is used a political tool
 
+* [TikTok ‘frog army’ stunt could have grave consequences, experts warn](https://www.theguardian.com/technology/2022/jul/10/tiktok-frog-army-stunt)
+    * TikTok does not need followers, it's a black box algorithm that distributes content. People do crazy things for popularity
+
 ---
 
 Not really social-media .. more data business

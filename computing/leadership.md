@@ -10,6 +10,11 @@ How to line manage
 
 https://github.com/VGraupera/1on1-questions
 
+* [How to drive away your best engineers.](https://blog.hulacorn.com/2021/09/08/how-to-drive-away-your-best-engineers/)
+    * Managers are to spend 1 week every quarter delivering a feature - and not a nancy feature - a real customer facing feature - one that is sized my the team.
+    * Support engineers with product people
+    * Don't estimate
+    * have a team size of 6
 
 * [Mistakes I’ve Made as an Engineering Manager ](https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/)
     * Mistake 1: Thinking people give feedback the way they want to receive it

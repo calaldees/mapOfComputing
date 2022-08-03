@@ -12,14 +12,19 @@ Typography
 * [Please Stop “Fixing” Font Smoothing](https://usabilitypost.com/2012/11/05/stop-fixing-font-smoothing/)
     * Critique on `-webkit-font-smoothing` CSS
     * > for main portions of text where readability is paramount please leave the default setting alone and let the operating system handle the smoothing.
+* [Bunny Fonts](https://fonts.bunny.net/about)
+    * GDPR open drop in replacement for google fonts
+
+### Fonts for coding
+
 * [Input - Fonts for code](https://input.djr.com/preview/)
     * Live preview of coding font - LOADS of cool options - great for exploring typography
 * [CodingFont](https://www.codingfont.com/)
     * Asks you to compare two fonts and helps you find your _perfect_ coding font
     * Mine was `Inconsolata`
+* [programmingfonts.org](https://www.programmingfonts.org/)
+    * fonts for coding with previews
 
-* [Bunny Fonts](https://fonts.bunny.net/about)
-    * GDPR open drop in replacement for google fonts
 
 Fonts
 -----

@@ -7,3 +7,6 @@ NoCode
     * It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click.
 * [huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf. Your agents are standing by! 
     * Open source, can run in docker
+
+* [airflow]()
+    * [Airflow's Problem](https://stkbailey.substack.com/p/airflows-problem) - In 2022, data engineers manage forests, not trees

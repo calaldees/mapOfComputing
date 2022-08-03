@@ -5,6 +5,25 @@ AI (Artificial Intelligence)
 * Mass public misunderstanding
 * TODO this section needs fleshing out MASSIVELY!
 
+* [AI Forecasting: One Year In](https://bounded-regret.ghost.io/ai-forecasting-one-year-in/) July 2022
+    * Metrics from AI's ability to work on known datasets
+
+* [Did Google's LaMDA chatbot just become sentient?](https://www.youtube.com/watch?v=mIZLGBD99iU) YouTune 22min 2022
+    * Nice description of why the google chatbot was thought to be sentient
+    * Suggestible persona based on volume of data
+    * [Google Engineer on His Sentient AI Claim](https://www.youtube.com/watch?v=kgCUn4fQTsc) 10min
+        * A small handfull of people have control of the way ai should respond to topics such as religion
+* [This New A.I. Can Write Anything, Even Code (GPT-3)](https://www.youtube.com/watch?v=Te5rOTcE4J4) 15min 2022
+    * [Will humans even write code in 2040 and what would that mean for extreme heterogeneity in computing?](https://doi.org/10.48550/arXiv.1712.00676) 2017
+    * GPT-3 examples of explaining code and summering documents. Writing small apps
+    * Generate faces
+    * Have conversations with simulated dead people
+    * Just a tool that can write sentences, but it does not understand them
+* [Using GPT-3 to explain how code works](https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/)
+    * AI can explain code in clear english sentences
+    * (once again) avoid leading questions "Which is most efficient?" (the real is - "it dosn't matter")
+
+
 https://experiments.withgoogle.com/collection/ai
 https://machinelearningforkids.co.uk/
 https://teachablemachine.withgoogle.com/
@@ -105,7 +124,7 @@ Images from Text
     * _a stained glass window with an image of a blue strawberry_
 * [DALL-E 2 - Pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch.
 * [Imagen](https://gweb-research-imagen.appspot.com/) - unprecedented photorealism × deep level of language understanding
-
+* [Text2LIVE:](https://text2live.github.io/): Text-Driven Layered Image and Video Editing
 
 Services
 --------

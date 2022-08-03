@@ -61,6 +61,9 @@ Builds
 * [Building a Relay Computer from Scratch](https://relaycomputer.co.uk/pages/overview.html)
     * Video and description of machine and assembly instructions
 
+* [home-built computers web-ring](https://www.homebrewcpuring.org/ringhome.html)
+    * Images and catalog
+
 TODO:
 ----
 

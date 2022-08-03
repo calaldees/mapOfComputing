@@ -16,6 +16,9 @@ Interview Questions
 
 * [HackerEarth - Technical Interview Questions from big tech companies](https://www.hackerearth.com/practice/interviews/)
 * [6 Red Flags I Saw While Doing 60+ Technical Interviews in 30 Days](https://meekg33k.dev/6-red-flags-i-saw-while-doing-60-technical-interviews-in-30-days)
+* [How To Solve Amazon's Hanging Cable Interview Question](https://www.youtube.com/watch?v=l_ffdarcJiQ)
+    * Two poles 50m high. Connected by a rope 80m long. The rope in the middle is 10m off the ground.
+
 
 * gov.uk [The STAR method](https://nationalcareers.service.gov.uk/careers-advice/interview-advice/the-star-method)
     * situation - the situation you had to deal with
@@ -24,7 +27,9 @@ Interview Questions
     * result - what happened as a result of your action and what you learned from the experience
 * Looking for autonomy - what did the candidate identify and do off their own back
 
-https://github.com/yangshun/tech-interview-handbook
+* https://github.com/yangshun/tech-interview-handbook
+* https://github.com/checkcheckzz/system-design-interview
+    * Loads of resources and links to engineering blogs
 
 * [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz#Programming_interviews) [_](https://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/)
     * > Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.

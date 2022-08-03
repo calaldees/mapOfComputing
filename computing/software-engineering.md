@@ -241,7 +241,8 @@ I was looking at case studies for [[telematry]] and was thinking of practical us
 
 
 
-
+* [SOC2: The Screenshots Will Continue Until Security Improves](https://fly.io/blog/soc2-the-screenshots-will-continue-until-security-improves/)
+    * #secutiry auditing for professional dev process - auditing/limiting who can commit to master
 
 
 

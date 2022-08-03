@@ -18,3 +18,8 @@ Ideas
     * [New York Rolling Out Noise Law, Listening Tech for Souped-Up Speedsters](https://www.thecity.nyc/2022/2/24/22949795/new-york-rolling-out-noise-law-listening-tech-for-souped-up-speedsters)
         * Could this be a raspberry pi project?
 
+
+
+---
+
+* [Fold n Fly - Paper aeroplane designs](https://www.foldnfly.com/) #papercraft
