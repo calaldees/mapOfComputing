@@ -12,6 +12,9 @@ Key Value Stores
 redis
 -----
 
+
+* [Redis Explained](https://architecturenotes.co/redis/)
+    * A deep technical dive into all things Redis. Covering various Redis topologies, data persistence and process forking.
 * [pydis](https://github.com/boramalper/pydis) - redis subset reimplementation in 250 lines of python (60% of redis performance)
     * pydis is an experiment to disprove some of the falsehoods about performance and optimisation regarding software and interpreted languages in particular.
 

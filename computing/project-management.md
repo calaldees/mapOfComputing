@@ -22,3 +22,11 @@ Managing projects
 * ["This project will only take 2 hours"](https://web.eecs.utk.edu/~azh/blog/thisprojectwillonlytake.html)
   * Clipboard monitoring app
   * So... still think it will only take 2 hours?
+
+* [I Regret My $46k Website Redesign](https://mtlynch.io/tinypilot-redesign/)
+  * Story of a redesign that cost 4 times as much as planned
+  * Learnings
+    * Hire a single freelancer rather than an agency
+    * Have incremental deliverables
+    * Agree timelines
+    * Share billable hours

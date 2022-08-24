@@ -219,6 +219,9 @@ Unsorted
 
 * [Help me identify possible tracking device found in my car (gist.github.com)](https://news.ycombinator.com/item?id=32040251)
     * 
+* [This Is the Data Facebook Gave Police to Prosecute a Teenager for Abortion](https://www.vice.com/en/article/n7zevd/this-is-the-data-facebook-gave-police-to-prosecute-a-teenager-for-abortion)
+    * > ... obtained court documents that show Facebook gave police a teenager’s private chats about her abortion. Cops then used those chats to seize her phone and computer
+* [iOS Privacy: Instagram and Facebook can track anything you do on any website in their in-app browser](https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser)
 
 Censorship
 ----------

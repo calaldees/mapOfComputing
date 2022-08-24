@@ -36,3 +36,5 @@ Geocities
     * Back in our day, memes didn't benefit from centralized services like YouTube, Twitter.
 
 * [yesterweb.org](https://yesterweb.org/)
+
+* [The Best and Worst of 1994 and Predictions for '95](http://www.panix.com/~kgreenb/iw/bwv6n1.htm)

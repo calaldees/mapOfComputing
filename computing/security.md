@@ -148,6 +148,9 @@ Global Radio Login Gigya - 'Hacked by' alert
 
 * [Dev corrupts NPM libs 'colors' and 'faker' breaking thousands of apps](https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/)
 
+* [But You Told Me You Were Safe: Attacking the Mozilla Firefox Renderer (Part 1)](https://www.zerodayinitiative.com/blog/2022/8/17/but-you-told-me-you-were-safe-attacking-the-mozilla-firefox-renderer-part-1)
+    * From javascript, corrupting the array.prototype to get the module object and binary access to the deterministic JIT compiler to then exploit kernel32.dll on windows. This is MAD!
+
 Fuzzing #fuzzing
 -------
 

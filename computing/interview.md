@@ -27,7 +27,13 @@ Interview Questions
     * result - what happened as a result of your action and what you learned from the experience
 * Looking for autonomy - what did the candidate identify and do off their own back
 
-* https://github.com/yangshun/tech-interview-handbook
+* [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+    * 💯 Curated coding interview preparation materials for busy software engineers
+    * [techinterviewhandbook.org](https://www.techinterviewhandbook.org/)
+        * Prepare the CV
+        * Ace the interview
+        * Negotiate the offer
+        * Prepare for the job
 * https://github.com/checkcheckzz/system-design-interview
     * Loads of resources and links to engineering blogs
 

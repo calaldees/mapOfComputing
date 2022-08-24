@@ -11,6 +11,9 @@ Have you're dev environment reproducible and accessible anywhere
             * Comparisons of GitPod/codepsaces + home server setup of OpenVSCode browser IDE from docker
     * GitHub/[codespaces](https://github.com/features/codespaces)
         * GitHubs version of GitPod
+    * [Recode](https://github.com/recode-sh/cli)
+        *  A CLI to create remote development environments in your cloud provider account in seconds 
+        *  > ... you can think of it as a desktop version of Gitpod / Coder / GitHub Codespaces less polished and with less features but 100% free, 100% open-source and 100% community-driven 
     * [CodeTasty](https://codetasty.com/)
     * [codesandbox.io](https://codesandbox.io/)
         * focused on JS + web?

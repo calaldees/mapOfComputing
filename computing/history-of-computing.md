@@ -10,6 +10,9 @@ History of Computing
 
 * [computerhistory.org/blogs](https://computerhistory.org/blogs/)
 
+* [The story of the first "computer bug"... is a pile of lies.](https://lunduke.substack.com/p/the-story-of-the-first-computer-bug)
+    * _Bug_ was a term for engineering defects in the 1800's (used by Edison, and other before)
+
 * [BBC Computer Literacy Project 1980 to 1980](https://clp.bbcrewind.co.uk/)
     * 
 
