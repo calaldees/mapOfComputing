@@ -38,3 +38,8 @@ Other
 
 Behaviours to inspire in employees
 * [How to feel engaged at work: a software engineer's guide](https://jasont.co/ennui/)
+
+* [Why are you so busy?](https://tomlingham.com/articles/why-are-you-so-busy/)
+    * Decrease the scope of work.
+    * Fund additional teams and/or restructure the work accordingly.
+    * Move the delivery date.

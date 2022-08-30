@@ -13,6 +13,8 @@ Open Source
 
 * [Don't be that open-source user, don't be me](https://jacobtomlinson.dev/posts/2022/dont-be-that-open-source-user-dont-be-me/)
     * Somebody somewhere needs to maintain the software - at somepoint it may need funding.
+* [How to pay your rent with your open source project](https://plausible.io/blog/open-source-funding)
+    * Detailed breakdown of the real way to earn money from OpenSource projects
 
 FLOSS, meaning Free, Liberal, or Open Source Software.
 
