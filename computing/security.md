@@ -23,7 +23,7 @@ Hacking and Security
     * trogan
 * Randomware
 * Spyware/adware
-* Hacking DDoS
+* Hacking #DDoS
 
 * fake phishing emails - get data on links/replys - levels of difficulty
 * Vishing (voice call phishing)
@@ -105,7 +105,8 @@ School Technitions and network admins about supporting students with security in
 Keyloggers
 
 
-
+* [Python 3.10.7 - DDos Fix - CVE-2020-10735](https://pythoninsider.blogspot.com/2022/09/python-releases-3107-3914-3814-and-3714.html) #python #ddos #hex
+    * > Converting between int and str in bases other than 2 (binary), 4, 8 (octal), 16 (hexadecimal), or 32 such as base 10 (decimal) now raises a ValueError if the number of digits in string form is above a limit to avoid potential denial of service attacks due to the algorithmic complexity.
 
 
 

@@ -16,3 +16,6 @@ https://github.com/GothAck/HP-WebOS-Hack-Weekend/blob/master/server/public/javas
         * Code 39,
         * Code 128, and
         * EAN/UPC
+
+
+* [Everything is an input device (fun with barcodes)](https://media.ccc.de/v/mch2022-254-everything-is-an-input-device-fun-with-barcodes-) Video 30min

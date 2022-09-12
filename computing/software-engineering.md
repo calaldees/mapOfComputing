@@ -68,6 +68,9 @@ I was looking at case studies for [[telematry]] and was thinking of practical us
     * [DevOps Metrics Platform](https://www.software.com/) - Measure and improve your organization’s DevOps performance.
         * From plugins in developers IDE's to measuring the time for tickets testing, merging and release
     * [Metrics-driven product development is hard](https://blog.doubleloop.app/metrics-driven-product-development-is-hard/)
+    * [Be good-argument-driven, not data-driven](http://twitchard.github.io/posts/2022-08-26-metrics-schmetrics.html)
+        * > Data has its place. Metrics are a useful tool for making a certain class of persuasive arguments in certain domains. But they are only a tool for making good arguments. Data is not an end in itself. A weak argument founded on poorly-interpreted data is not better than a well-reasoned argument founded on observation and theory. Stop going all googly-eyed (tee hee) at statistics. Metrics are tempting. They promise easy answers. Resist! Be skeptical! Have no tolerance for poor arguments made with data. Keep intrinsic motivation alive.
+
 * SPACE
     * [The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124) - There's more to it than you think.
         * Measuring productivity in multi dimenisons

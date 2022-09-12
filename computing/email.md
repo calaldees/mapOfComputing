@@ -1,8 +1,12 @@
 Email
 =====
 
-
-
+* [Falsehoods programmers believe about email](https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email)
+    * Everyone has an email address
+    * Everyone has exactly one email address
+    * An email address never changes
+    * ... much more!
+* [useplaintext.email](https://useplaintext.email)
 
 cc bcc
 

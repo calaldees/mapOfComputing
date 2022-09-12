@@ -10,6 +10,8 @@ GIT
 * Beginners might start with [github desktop](https://desktop.github.com/)
 * Aspiring pros use _commandline_ `status`, `push`, `pull`, `commit`, `add`
 
+* [Git Tutorial – All You Need to Get Started](https://codesweetly.com/how-to-use-git)
+
 Version control!!
 
 commit

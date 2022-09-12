@@ -14,3 +14,10 @@ Directed/Undirected/Weighted
 Drawing
 -------
 * [Handbook of Graph Drawing and Visualization](https://cs.brown.edu/people/rtamassi/gdhandbook/)
+
+
+Permissions
+-----------
+
+* [Zanzibar: Google’s Consistent, Global Authorization System](https://research.google/pubs/pub48190/)
+    * Amazing fine grained model for permissions that have dates, times, other conditions to get the 'access'. Super clever!

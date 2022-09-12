@@ -19,6 +19,12 @@ HCI
     * Role of creativity and cognition in HCI
     * Naturalistic approach to evaluation, persuasion, and globalization
 
+* [#rC3 - What have we lost?](https://www.youtube.com/watch?v=7RNbIEJvjUA) - YouTube 1 hour
+    * Operating system interfaces of the past that never made it
+    * We have ended up in a world where UNIX and Windows have taken over, and most people have never experienced anything else. 
+    * Over the years, though, many other system designs have come and gone, and some of those systems have had neat ideas that were nevertheless not enough to achieve commercial success. We will take you on a tour of a variety of those systems, talking about what makes them special.
+    * In particular, we'll discuss IBM i, with emphasis on the Single Level Store, TIMI, and block terminals Interlisp, the Lisp Machine with the interface of Smalltalk OpenGenera, with a unique approach to UI design TRON, Japan's ambitious OS standard  More may be added as time permits
+
 Hardware
 --------
 

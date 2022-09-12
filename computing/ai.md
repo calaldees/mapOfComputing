@@ -118,12 +118,7 @@ AI is made by men (??!?)
 Images from Text
 ----------------
 
-* [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
-    * trained a neural network called DALL·E that creates images from text captions for a wide range of concepts expressible in natural language.
-    * _Avocado Chair_
-    * _a stained glass window with an image of a blue strawberry_
-* [DALL-E 2 - Pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch.
-* [Imagen](https://gweb-research-imagen.appspot.com/) - unprecedented photorealism × deep level of language understanding
+* [[stable-diffusion]] #stable-diffusion
 * [Text2LIVE:](https://text2live.github.io/): Text-Driven Layered Image and Video Editing
 
 Services
@@ -136,6 +131,10 @@ Services
     * No more manual data entry
     * [[automation]]
 
+Ethics
+------
+
+* [AI wins state fair art contest, annoys humans](https://arstechnica.com/information-technology/2022/08/ai-wins-state-fair-art-contest-annoys-humans/) - Stealth win for AI-generated art inspires heated ethics debate on social media.
 
 Recruitment
 -----------
