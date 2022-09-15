@@ -118,7 +118,7 @@ AI is made by men (??!?)
 Images from Text
 ----------------
 
-* [[stable-diffusion]] #stable-diffusion
+* [[ai-text-to]] #stable-diffusion
 * [Text2LIVE:](https://text2live.github.io/): Text-Driven Layered Image and Video Editing
 
 Services

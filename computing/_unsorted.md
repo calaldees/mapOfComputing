@@ -19,7 +19,7 @@
     * Version control - understand it!
     * Much of your job is communication
     * You don't always need an app
-    * Perceived performance
+    * #perceived-performance
 
 
 * [How to Write Technical Posts (so people will read them)](https://reasonablypolymorphic.com/blog/writing-technical-posts/)

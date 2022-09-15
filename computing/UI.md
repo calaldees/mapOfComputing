@@ -14,6 +14,9 @@ UI - User Interfaces
 * [[web-design]]
 
 * tweet [Blackboard is aweful, here is why](https://twitter.com/dreen_gb/status/1335898204936806400) Greg Balaga @dreen_gb
+    * > Chances are when you went to University you used something called Blackboard to manage your course online. Chances are you remember it as the worst piece of software you ever had to use, and you could be right. Anyway, this man said it best:
+    * > Why is it so bad? There is a lesson here. Blackboard is marketed to Uni admin staff who don't use the software themselves, they do no usability testing for students/profs, and simply approve a big ol list of features. Looks good on paper, it's got all of this stuff!
+    * [Christ, I hate Blackboard](https://www.lawyersgunsmoneyblog.com/2014/01/christ-i-hate-blackboard)
 
 [Windows 95](https://twitter.com/tuomassalo/status/978717292023500805)
 Discoverability
@@ -55,7 +58,7 @@ Ad's and content indistinguishable?
 (link to psycology.md?)
 https://twitter.com/craigmod/status/1219644556003565568
 
-Perceived performance
+#perceived-performance
 
 Carousels are a terrible pattern
     nobody knows how to use them

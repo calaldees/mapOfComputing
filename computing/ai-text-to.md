@@ -1,5 +1,5 @@
-Stable Diffusion
-================
+Text to xxx
+===========
 
 Text to Image method
 
@@ -12,3 +12,7 @@ Text to Image method
 
 
 * [Diffusion Bee - Stable Diffusion GUI App for M1 Mac](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
+
+* [Is Stable Diffusion really a big deal?](https://definiteoptimism.substack.com/p/is-stable-diffusion-really-a-big) The new text to image generators rocking the art world
+    * Top level description with examples
+    * Considers AI generated porn of stable-diffusion
