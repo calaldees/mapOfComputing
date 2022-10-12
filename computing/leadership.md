@@ -43,3 +43,6 @@ Behaviours to inspire in employees
     * Decrease the scope of work.
     * Fund additional teams and/or restructure the work accordingly.
     * Move the delivery date.
+* [Valve_NewEmployeeHandbook.pdf](https://cdn.cloudflare.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf) 2012
+    * No roles - no managers - employ bright people to solve problems - no emails of progress
+    * No external funding (ever) - own their own ip

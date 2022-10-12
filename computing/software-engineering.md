@@ -6,16 +6,17 @@ Software Engineering
 * [[Agile]]
 * [[CV]]
 * [[Code Review]]
+* [[code-quality]]
 * [[Project Management]]
 * [[rfc]]
 * [[testing]]
 * [[automated-testing]]
 * [[Software Industry]]
 * [[Technical Dept]]
+* [[tech-dept]]?
 * [[hypothesis-driven-development]]
 * [[job-applications]]
 * [[software-engineering-skills]]
-* [[tech-dept]]
 * [[microservice]]
 * [[server-infrastructure]]
 
@@ -250,6 +251,8 @@ I was looking at case studies for [[telematry]] and was thinking of practical us
 
 
 
+* [The disproportionate influence of early tech decisions](https://brandur.org/fragments/early-tech-decisions)
+    * todo
 
 
 
@@ -260,6 +263,7 @@ I was looking at case studies for [[telematry]] and was thinking of practical us
 [Agile]: agile.md "Agile"
 [CV]: cv.md "Carrers and Resume"
 [Code Review]: code-review.md "Code Review"
+[code-quality]: code-quality.md "Code Quality"
 [Project Management]: project-management.md "Project Management"
 [rfc]: rfc.md "rfc"
 [testing]: testing.md "Testing"

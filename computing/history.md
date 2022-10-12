@@ -13,6 +13,7 @@ History
 * [[history-of-media]]
 * [[history-of-the-games-industry]]
 * [[history-of-the-internet]]
+* [[history-of-ide]]
 
 
 * Danm Interesting [Nineteen Seventy Three Long-Form/Podcast](https://www.damninteresting.com/nineteen-seventy-three/) - Chile's audacious 1970s-era plan to network and automate the country's entire economy, hindered by political upheaval and CIA maneuvering

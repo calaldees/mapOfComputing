@@ -4,6 +4,15 @@ UI - User Interfaces
 * [The Dark Side of Minimalist Design: Updating Dieter Rams’ Ten Principles](https://www.youtube.com/watch?v=cMDGwj1QlSU) YouTube 18min
 * [Collection of Human Interface and Software Design Guides](http://www.geofcrowl.com/blog/articles/2020/2/17/collection-higs/)
 
+* [The Design of Everyday Things — Book Summary & Notes](https://elvischidera.com/2022-06-24-design-everyday-things)
+    * Chapter 1: The psychopathology of everyday things
+    * Chapter 2: The psychology of everyday actions
+    * Chapter 3: Knowledge in the head and in the world
+    * Chapter 4: Knowing what to do: Constraints, Discoverability, & Feedback
+    * Chapter 5: Human error? No, bad design
+    * Chapter 6: Design thinking
+    * Chapter 7: Design in the world of business
+
 * [The forgotten benefits of “low tech” user interfaces](https://uxdesign.cc/the-forgotten-benefits-of-low-tech-user-interfaces-57fdbb6ac83)
     * The benefits of low tech user interfaces - tacktile feedback
 

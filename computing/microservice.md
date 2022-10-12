@@ -4,6 +4,10 @@ MicroService
 > Micro services are not an architecture. Micro services are a deployment strategy that should be independent of architecture.
 <sub>Robert C Martin</sub>
 
+* [Micro Blog - Real World Micro Services](https://micro.dev/blog/2022/09/27/real-world-micro-services.html)
+    * [micro](https://github.com/micro/services) - a framework for microservices
+    * Big companies (Facebook, Google) have their own infra which makes building systems systems straighforward. Every company build this similar infra again and again
+
 * [MonolithFirst](https://martinfowler.com/bliki/MonolithFirst.html)
     * Monolith first - understand the components of the problem
     * Microservices have overhead

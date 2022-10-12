@@ -11,6 +11,8 @@ Integrated Development Environment (IDE)
 * vim
 * PyCharm
 
+* [[history-of-ide]]
+
 * [Ask HN: How do you sync your computer’s development configurations/environment?](https://news.ycombinator.com/item?id=31517668)
     * Stick/learn the defaults where possible
 

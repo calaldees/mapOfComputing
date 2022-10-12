@@ -63,7 +63,7 @@ Examples
 
 ### Filled Polygons
 
-[Polygon Filling Algorithm](https://www.tutorialspoint.com/computer_graphics/polygon_filling_algorithm.htm)
+[Polygon Filling Algorithm](https://www.tutorialspoint.com/computer_graphics/polygon_filling_algorithm.htm) [[polygon]]
 
 Examples
 * [Carrier Command](https://youtu.be/NvpcGs-NJPw?t=408) Amiga

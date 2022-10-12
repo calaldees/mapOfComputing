@@ -21,6 +21,8 @@ unicode
 https://github.com/ikatyang/emoji-cheat-sheet
 https://fontawesome.com/cheatsheet
 
+[Katakana, Hiragana, and Unicode](https://www.johndcook.com/blog/2022/09/25/katakana-hiragana-unicode/)
+
 
 Games
 -----

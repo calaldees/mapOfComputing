@@ -1,6 +1,8 @@
 Algorithms
 ==========
 
+* MIT Open Courseware [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) 2020 #MITOpenCourseWare
+
 * [Wikipedia: List of algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
     * Hundreds of important computer science algorithms
     * Of note
@@ -26,6 +28,7 @@ Algorithms
         * [[levenshtein-distance]]
         * substring search
         * [Bayes Theorem](https://cs4fndownloads.files.wordpress.com/2021/05/cs4fnissue27.pdf) - graph of probabilitys
+        * [[polygon]] drawing and crossing
 
 * [Nine algorithms that changed the future: the ingenious ideas that drive today's computers]() MacCormick, John 2011
     * Ingenious ideas that drive today's computers

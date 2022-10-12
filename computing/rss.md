@@ -20,3 +20,5 @@ https://rssbox.herokuapp.com/
 * [dfeed](https://dfeed.net/)
     * Public feed aggregator?
 
+* [NetNewsWire is a free and open source RSS reader for Mac, iPhone, and iPad](https://netnewswire.com/)
+    * It’s like podcasts — but for reading.

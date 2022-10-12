@@ -50,6 +50,7 @@ Computing
 * [The Elements of Computing Systems, Second Edition](https://mitpress.mit.edu/books/elements-computing-systems-second-edition) Building a Modern Computer from First Principles
     * [[logical-organization]]
 
+* MIT [OpenCourseWare Computer Science](https://ocw.mit.edu/search/?t=Computer%20Science) #MITOpenCourseWare
 * Stanford [CS101 - Introduction to Computing Principles](https://web.stanford.edu/class/cs101/)
     * [IntroComputing.org](https://introcomputing.org/)
         * Free materials for teaching the essential qualities of computers using little snippets of code in the browser.
