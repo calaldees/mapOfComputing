@@ -24,6 +24,8 @@ Creativity Visulisation
     * [Nightdrive](https://incoherency.co.uk/blog/stories/nightdrive.html) - Night time driving simulation
         * Not really a demo - but a really chill cool concept
     * [TiTAN - Overdrive 2 (RGB 50fps) - SEGA Mega Drive - Revision 2017 (1st Place)](https://www.youtube.com/watch?v=gWVmPtr9O0g)
+    * [8088MPH](https://www.youtube.com/watch?v=yHXx3orN35Y) DOS CGA
+    * [BACK TO THE PET](https://www.youtube.com/watch?v=3FFPCuDqi_g) 2022 Commodore PET
 
 
 * [Demo Reel & Tiny JavaScript – Mathieu Henri / Front-Trends 2016](http://www.p01.org/FrontTrends_2016/)

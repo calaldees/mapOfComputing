@@ -1,6 +1,8 @@
 Sorting
 =======
 
+* [daweedkob sorting_algos html visulisation](https://daweedkob.github.io/sorting_algos/)
+
 * [Why My Teenage Code Was Terrible: Sorting Algorithms and Big O Notation](https://www.youtube.com/watch?v=RGuJga2Gl_k)
     * Big O
     * Sorting algorithums

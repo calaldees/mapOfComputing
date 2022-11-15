@@ -53,7 +53,7 @@ tabs
     ctrl + pgdwn
     ctrl + w - close-tab
 Screenshot (Windows)
-    prtscr (clipboard)
+    prtscr ([[clipboard]])
     alt + printscr (active window)
     windows + prtscr (screenshot int HOME/Pictures/Screenshots)
     windows + shift + s (crop screenshot to clipboard)

@@ -14,7 +14,7 @@ Virtual Machines
 VirtualBox
 Download Ubuntu Desktop iso
 VirtualBox enable vt-x and nested pageing (may not be available if another virtulisation system is running)
-2 way clipboard
+2 way [[clipboard]]
 
 
 ### Firecracker

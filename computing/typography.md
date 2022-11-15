@@ -79,6 +79,8 @@ Fonts
         * [ibm-prototype](https://int10h.org/blog/2016/03/olympiad-ibm-prototype-fonts-unearthed/)
 * Custom
     * [font based on my handwriting](https://sachachua.com/blog/2020/06/pythonfontforgeorg-i-made-a-font-based-on-my-handwriting/)
+* Exotic
+    * [Nabla: Isometric font](https://nabla.typearture.com/)
 
 
 Text is Hard
