@@ -6,7 +6,7 @@ TODO: port loads of bits over from calaldees/blog?
 * Code coverage - CI upwards trend only
 * Metrics (cyclomatic complexity)
 * Overall metrics
-* pre-commit hooks
+* #pre-commit hooks
     * Formatter
         * Formatter on a legacy codebase
 

@@ -16,3 +16,12 @@ Text to Image method
 * [Is Stable Diffusion really a big deal?](https://definiteoptimism.substack.com/p/is-stable-diffusion-really-a-big) The new text to image generators rocking the art world
     * Top level description with examples
     * Considers AI generated porn of stable-diffusion
+
+* [Some notes on the Stable Diffusion safety filter](https://vickiboykis.com/2022/11/18/some-notes-on-the-stable-diffusion-safety-filter/)
+    * It's manually curated - this list will grow as use becomes mainstream - who gets to control this list?
+
+* [Magic3D: High-Resolution Text-to-3D Content Creation](https://deepimagination.cc/Magic3D/)
+    * text to 3d models (rather than flat images)
+
+* [Geotagging Model How-Tos](https://github.com/1712n/yachay-public/tree/master/conf_geotagging_model)
+    * text to location - training data

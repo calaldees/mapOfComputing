@@ -31,6 +31,8 @@ UnitTests
 
 * [Precisely: better assertions for Python tests](https://github.com/mwilliamson/python-precisely)
 
+* [Doctest](https://hughjonesd.github.io/doctest/) in R?
+
 Test Driven Development TDD
 ---
 

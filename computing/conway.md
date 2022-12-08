@@ -9,6 +9,7 @@ Emergent behaviour from simple rules
 * [Building a computer in Conway's game of life](https://www.nicolasloizeau.com/gol-computer) - gates, memory and compiler
 * [Let’s BUILD a COMPUTER in CONWAY's GAME of LIFE ⠠⠵](https://www.youtube.com/watch?v=Kk2MH9O4pXY) YouTube 23min
 * [Build a working game of Tetris in Conway's Game of Life](https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life)
+* [Building arbitrary Life patterns in 15 gliders](https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/)
 * Web Based Examples
     * [lifeee](https://lifeee.netlify.app/) - infinite zoom and grey history
     * [Simple](https://playgameoflife.com/)

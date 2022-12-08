@@ -6,7 +6,7 @@ Operating Systems
     * [[ios]]
 * desktop
     * [[linux]]
-    * [[osx]]
+    * [[macos]]
     * [[windows]]
 * server
     * [[linux]]

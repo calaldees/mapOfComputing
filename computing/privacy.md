@@ -31,6 +31,8 @@ Windows 10 "Welcome to your new machine" .. No, it's mine .. I get to welcome yo
 * [My Phone Was Spying on Me, so I Tracked Down the Surveillants](https://nrkbeta.no/2020/12/03/my-phone-was-spying-on-me-so-i-tracked-down-the-surveillants/) Dec 2020
     * There are 160 apps on my phone. What they’re actually doing, I don’t know. But I decided to find out
 * [location-tracking-cell-phone](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html)
+* [Smart Move, Google](https://garrit.xyz/posts/2022-11-24-smart-move-google)
+    * `maps.google.com` now redirects to `google.com/maps` - google have your location across all it's services
 * [Spy pixels in emails have become endemic](https://www.bbc.co.uk/news/technology-56071437) bbc 2021
 
 https://www.nbcnews.com/news/us-news/google-tracked-his-bike-ride-past-burglarized-home-made-him-n1151761

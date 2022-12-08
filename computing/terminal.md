@@ -3,6 +3,9 @@ Terminal
 
 CLI
 
+* [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) in one page
+  * bash trial
+
 
 Terminal
 --------

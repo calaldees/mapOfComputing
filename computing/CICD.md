@@ -7,7 +7,7 @@ Example
 
 Running tests on multiple nodes and combining
 Code coverage - reject to lower
-pre-commit hooks
+#pre-commit hooks
 code format
 * [Conventional Commits](https://www.conventionalcommits.org/)
     * A specification for adding human and machine readable meaning to commit messages

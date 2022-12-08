@@ -34,7 +34,7 @@ Algorithms
     * Ingenious ideas that drive today's computers
     * [vlebooks](https://r3.vlereader.com/Reader?ean=9781400839568)
     * Search engine indexing
-    * PageRank
+    * [[pagerank]]
     * Public Key Cryptography
     * Error-Correcting Codes
     * Pattern Recondition
@@ -172,6 +172,7 @@ Simple things that are actually hard
 [Hash]: hash.md "Hash"
 [dynamic-programming]: dynamic-programming.md "Dynamic Programming"
 [levenshtein-distance]: levenshtein-distance.md "Levenshtein distance"
+[polygon]: polygon.md "Polygon"
 [data-structures]: data-structures.md "Data Structures"
 [maths]: maths.md "Maths"
 [raytracing]: raytracing.md "Raytracing"
