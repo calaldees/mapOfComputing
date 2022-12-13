@@ -257,7 +257,10 @@ I was looking at case studies for [[telematry]] and was thinking of practical us
     * todo
 
 
-
+* Future: Infrastructure: [What Is Negative Engineering?](https://future.com/negative-engineering-and-the-art-of-failing-successfully/)
+    * Negative engineering is “insurance as code”
+    * Plan for things going wrong
+    * Example of a cron job not firing and the team not knowing until it was too late and none of the data had been collected.
 
 
 

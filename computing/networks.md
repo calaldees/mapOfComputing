@@ -1,6 +1,8 @@
 Networks
 ========
 
+* [[networking_physical_layer]]
+
 * [[certificates]]
 * [[dns]]
 * [[error-correction]]
