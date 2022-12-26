@@ -10,3 +10,5 @@ Dithering and color reduction
 * [Ditherpunk 2 — beyond 1-bit](https://www.makeworld.gq/2021/02/dithering.html)
 
 * [Coding Challenge #90: Floyd-Steinberg Dithering](https://www.youtube.com/watch?v=0L2n8Tg2FwI) video 28min
+
+* [Pixel Accurate Atkinson Dithering for Images in HTML](https://sheep.horse/2022/12/pixel_accurate_atkinson_dithering_for_images_in_ht.html)

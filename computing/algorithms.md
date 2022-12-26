@@ -29,6 +29,15 @@ Algorithms
         * substring search
         * [Bayes Theorem](https://cs4fndownloads.files.wordpress.com/2021/05/cs4fnissue27.pdf) - graph of probabilitys
         * [[polygon]] drawing and crossing
+        * [[line-drawing]]
+        * [[wave-function-collapse]]
+        * [Challenging algorithms and data structures every programmer should try](https://austinhenley.com/blog/challengingalgorithms.html)
+            * Topological sort - used for spreadsheet cell evaluation order
+            * Recursive descent parsing (compilers/interpreters)
+            * Myers string diff (algorithm for git diff)
+            * Bloom filter (big hash)
+            * Piece table (used by text editors to store text as edits)
+            * Splay tree (binary tree with most accessed closer to the root)
 
 * [Nine algorithms that changed the future: the ingenious ideas that drive today's computers]() MacCormick, John 2011
     * Ingenious ideas that drive today's computers
@@ -173,6 +182,9 @@ Simple things that are actually hard
 [dynamic-programming]: dynamic-programming.md "Dynamic Programming"
 [levenshtein-distance]: levenshtein-distance.md "Levenshtein distance"
 [polygon]: polygon.md "Polygon"
+[line-drawing]: line-drawing.md "line-drawing"
+[wave-function-collapse]: wave-function-collapse.md "Wave Function Collapse"
+[pagerank]: pagerank.md "PageRank"
 [data-structures]: data-structures.md "Data Structures"
 [maths]: maths.md "Maths"
 [raytracing]: raytracing.md "Raytracing"
