@@ -133,6 +133,8 @@ Space
     * [Orbit Dataset](https://www.ucsusa.org/resources/satellite-database)
     * [Orbit descriptions](https://earthobservatory.nasa.gov/features/OrbitsCatalog)
     * [Japan developing wooden satellites to cut space junk](https://www.bbc.co.uk/news/business-55463366)
+    * [How "See A Satellite Tonight" Works](https://james.darpinian.com/blog/how-see-a-satellite-tonight-works)
+        * Mobile app! for seeing satellites! and setting alarms to see them
 * [spaceweatherlive.com](https://www.spaceweatherlive.com/)
 * [Logarithmic Maps of the Universe](https://www.astro.princeton.edu/universe/)
 

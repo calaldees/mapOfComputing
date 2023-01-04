@@ -10,3 +10,7 @@ RISC-V
 
 * [Hot Chips 34 – Intel’s Meteor Lake Chiplets, Compared to AMD’s](https://chipsandcheese.com/2022/09/10/hot-chips-34-intels-meteor-lake-chiplets-compared-to-amds/) 2022
     * Breakdown of Intel and AMD processor architectures with diagrams
+
+* [twitter](https://twitter.com/kenshirriff/status/1609974005519290369?t=Wg8lpzILXxAjOdmQcUn2ww&s=19) @kenshirriff
+    * > The Intel 8086 processor was introduced in 1978, ancestor of the x86 architecture. The 8086 was the first microprocessor with prefetch, reading instructions from memory in advance for more speed. By reverse-engineering the chip under a microscope, I can explain how this works.
+
