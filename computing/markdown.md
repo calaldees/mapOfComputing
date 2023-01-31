@@ -106,7 +106,8 @@ Knowledge base
 * [SuperNotes.app](https://supernotes.app/)
     * > Free Your Thoughts - Supernotes is your new home for ideas, records, tasks, and lists. Enjoy efficient note-taking without the hassle.
     * Online service for Zettelkasten/Markdown stuff
-    
+
+* [MDWiki](http://dynalon.github.io/mdwiki/)
 
 Editors
 -------

@@ -30,6 +30,8 @@ Fonts
 -----
 
 * Raster Fonts
+    * Mario's Lab [Rendering like it's 1996 - Bitmap fonts and DOS](https://marioslab.io/posts/rendering-like-its-1996/dos-nostalgia/)
+        * Testing graphics throughput on a 486 (touch video memory ONCE as you have limited bandwidth)
     * [Arcade Game Typography](https://readonlymemory.vg/shop/book/arcade-game-typography/)
     * [NFG's Arcade Font Engine](https://nfggames.com/games/fontmaker/lister.php)
         * ```python
@@ -82,6 +84,8 @@ Fonts
     * [Creating a handwritten TrueType font in Linux](https://gordonlesti.com/creating-a-handwritten-truetype-font-in-linux/)
         * example and instructions
         * > I always wanted to create a font out of my handwritten letters and in this small tutorial I will show you the way I have done it with the help of FontForge, Inkscape and GIMP.
+    * [calligrapher.ai](https://www.calligrapher.ai/)
+        * AI generated handwriting
 * Exotic
     * [Nabla: Isometric font](https://nabla.typearture.com/)
 

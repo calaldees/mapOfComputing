@@ -5,6 +5,8 @@ AI (Artificial Intelligence)
 * Mass public misunderstanding
 * TODO this section needs fleshing out MASSIVELY!
 
+* [What is AGI-hard](https://lspace.swyx.io/p/agi-hard) - At this point, knowing what AI can't do is more useful than knowing what it can
+
 * [AI Forecasting: One Year In](https://bounded-regret.ghost.io/ai-forecasting-one-year-in/) July 2022
     * Metrics from AI's ability to work on known datasets
 
@@ -61,6 +63,9 @@ radiologists move to differnt hospital - ai cant be transfered
 * [Explaining Machine Learning Predictions](https://explainml-tutorial.github.io/) - State-of-the-art, Challenges, and Opportunities
     * [Explainable Machine Learning: Understanding the Limits & Pushing the Boundaries](https://drive.google.com/file/d/1xn2dCDAeEEhB_rex202KxMPqIPj31fZ4/view) Hima Lakkaraju
 
+* [Why TensorFlow is dying a slow death for Python](https://canadatoday.news/ca/grief-isolation-an-alarming-red-carpet-appearance-226653/)
+    * TensorFlow is no longer being developed
+    * PyTorch is expanding
 
 * [Machine Learning: The Great Stagnation](https://marksaroufim.substack.com/p/machine-learning-the-great-stagnation)
     * (I need to read up on AI and matrix's in general)
@@ -186,6 +191,7 @@ Unsorted
 [image-recognition]: image-recognition.md "Image Recognition"
 [ai]: ai.md "AI (Artificial Intelligence)"
 [datasets]: datasets.md "datasets"
+[ai-text-to]: ai-text-to.md "Text to xxx"
 [automation]: automation.md "Automation"
 [job-applications]: job-applications.md "Job Applications and Interviews"
 [game]: game.md "Game"

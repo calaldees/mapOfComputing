@@ -33,6 +33,14 @@ UnitTests
 
 * [Doctest](https://hughjonesd.github.io/doctest/) in R?
 
+
+### Property based tests
+
+Not specifying the inputs and letting the test framework fuzz the test
+
+* [Getting Started With Property-Based Testing in Python With Hypothesis and Pytest](https://semaphoreci.com/blog/property-based-testing-python-hypothesis-pytest)
+
+
 Test Driven Development TDD
 ---
 

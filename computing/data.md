@@ -21,6 +21,8 @@ Data
 
 * [Information Geometry](https://math.ucr.edu/home/baez/information/) [[maths]]
 
+* [[data-science]]
+
 Data visualisation from DB's
 [tableau](https://www.tableau.com/)
 

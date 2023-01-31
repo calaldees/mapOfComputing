@@ -166,6 +166,9 @@ lights?
 Learning Resources and Simulators
 ---------------------------------
 
+* [Functional and Performance Analysis of Discrete Event Network Simulation Tools](https://doi.org/10.1016/j.simpat.2021.102470)
+    * 23 Network Simulators for Education with summary table
+
 * [NetworkDirection.net](https://networkdirection.net/) Resources to expand your networking horizons
     * Here you will find IT educational resources, specifically for networking. Whether you are a beginner or you have been in the industry for years, you will find easy to understand videos on a range of topics to suit your skill set. 
     * [Youtube: Network Fundamentals](https://www.youtube.com/watch?v=cNwEVYkx2Kk&list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8)

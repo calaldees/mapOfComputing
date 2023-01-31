@@ -1,6 +1,9 @@
 Processors
 ==========
 
+* [[cpu]]
+* [[gpu]]
+
 x86
 ARM
 RISC-V

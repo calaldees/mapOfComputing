@@ -39,3 +39,5 @@ Geocities
 * [yesterweb.org](https://yesterweb.org/)
 
 * [The Best and Worst of 1994 and Predictions for '95](http://www.panix.com/~kgreenb/iw/bwv6n1.htm)
+
+* [The Web As It Was Part One: Before 1999](http://brassicgamer.blogspot.com/2018/11/the-web-as-it-was-part-one-before-1999.html)

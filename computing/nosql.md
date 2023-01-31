@@ -6,7 +6,7 @@ nosql
     * Types
         * Key/Value
             * Dynamo
-            * Redis
+            * [[redis]]
         * Column
             * Hypertable, Cassandra
         * Graph
