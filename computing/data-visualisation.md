@@ -14,6 +14,9 @@ Data Visualisation
     * pre-attentive visual attributes
         * Length, width, orientation, size, enclosure, color intensity, color hue, curvature, shape, spatial grouping, 2d position
 
+* [Communicating with Interactive Articles](https://distill.pub/2020/communicating-with-interactive-articles/)
+    * Web based interactive data concepts explained
+    * Examining the design of interactive articles by synthesizing theory from disciplines such as education, journalism, and visualization.
 
 * [Data Visualisation](https://en.wikipedia.org/wiki/Data_visualization)
     * [Information Is Beautiful](https://informationisbeautiful.net/)

@@ -15,6 +15,7 @@ Born Again Shell
 pipe write
 cat
 * [NetCat](https://blog.ikuamike.io/posts/2021/netcat/)
+* [[grep]]
 
 ssh
 awk

@@ -4,6 +4,7 @@ Formal Specification
 * [Formal Methods of Software Design](http://www.cs.utoronto.ca/~hehner/FMSD/) an online course by Eric Hehner
 
 * [TLA+](https://learntla.com/)
+    * [Creatively Misusing TLA+](https://buttondown.email/hillelwayne/archive/creatively-misusing-tla/)  Five not-quite-normal uses 
 * [z3](https://research.nccgroup.com/2021/01/29/software-verification-and-analysis-using-z3/) - formal specification with Z?
 * [Fuzzing me wrong — How QuickCheck destroyed my favourite theory](https://thma.github.io/posts/2021-01-30-How-QuickCheck-destroyed-my-favourite-theory.html) #fuzzing
 

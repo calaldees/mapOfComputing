@@ -21,6 +21,10 @@ Software Engineering
 * [[microservice]]
 * [[server-infrastructure]]
 
+
+* [Writing an engineering strategy](https://lethain.com/eng-strategies/)
+    * Business level guidance on engineering process
+
 Consider ideas about industry software engineering.
 Could be combined with the notes in my blog repo?
 

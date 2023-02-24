@@ -16,3 +16,10 @@ Advanced Web Search
     * `site:*.edu how are pearls made`
 
 * [Building personal search infrastructure for your knowledge and code](https://beepb00p.xyz/pkm-search.html)
+
+Ramifications
+--------------
+
+* [Why Are Online Recipes Always So Damn Long-Winded?](https://jjpryor.substack.com/p/why-are-online-recipes-always-so)
+    * Repeating the words gets you higher up the page rank
+    * Search has mutated content

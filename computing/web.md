@@ -14,6 +14,8 @@ Web
 * [[http]]
 * [[html]]
 
+* [[static-site-generation]]
+
 Tools
 -----
 

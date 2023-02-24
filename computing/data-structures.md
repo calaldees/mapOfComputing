@@ -7,6 +7,8 @@ See [[algorithms]]
     * Hundreads of data structures
     * Of note
         * Quad tree
+            * [An interactive explanation of quadtrees](https://jimkang.com/quadtreevis/)
+                * hit detection, nearest neighbor
         * Radix Tree
         * AST
 

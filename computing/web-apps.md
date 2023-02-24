@@ -1,11 +1,21 @@
 Web Apps
 ========
 
+* [pagespeed.web.dev](https://pagespeed.web.dev/)
+    * Amazing breakdown of page performance! With suggestions
+
 
 Single Page WebApps
 -------------------
 
 * [nullboard](https://github.com/apankrat/nullboard) - khanban board with html5 local storage
+
+'Local First' Web Development
+-----------------------
+
+* [localfirstweb.dev](https://localfirstweb.dev/)
+    * > So, you want to build an app that has its data co-located with its UI? That works offline? That synchronizes between clients? And that lets its users own their data? 
+
 
 Collaborative Web Apps
 ----------------------

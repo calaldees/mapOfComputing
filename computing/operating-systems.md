@@ -23,7 +23,13 @@ Operating Systems
 * [[ecosystems]]
 * [[file-systems]]
 * [[kernel]]
-
+    * process scheduling
+        * [A complete guide to Linux process scheduling](https://trepo.tuni.fi/bitstream/handle/10024/96864/GRADU-1428493916.pdf) Nikita Ishkov 2015
+* [[posix]] unix
+    * [The Elephant in the Room - It's time to get the POSIX elephant off our necks.](https://queue.acm.org/detail.cfm?id=3570921)
+        * posix is underneath everything
+        * Old system == limited RAM + unreliable secondary storage + single processor
+        * Modern system == multiple processors, huge RAM, secondary storage reliable, Layers of storage (network, spinning, ssd, nvme, ram, cache)
 
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) free ebook 2021
     * virtualization, concurrency, and persistence
@@ -54,7 +60,7 @@ Operating Systems
 [android]: android.md "Android"
 [ios]: ios.md "iOS"
 [linux]: linux.md "Linux"
-[osx]: osx.md "osx"
+[macos]: macos.md "MacOS"
 [windows]: windows.md "Windows"
 [experimental-operating-systems]: experimental-operating-systems.md "experimental-operating-systems"
 [web-operating-systems]: web-operating-systems.md "web-operating-systems"

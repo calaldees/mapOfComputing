@@ -1,4 +1,7 @@
 
+* [HISTORY OF VIDEO GAMES (1940's - 2010's)](https://ultimatehistoryvideogames.jimdofree.com/)
+    * List of "Firsts" in videogames - massive list!
+
 * [High Score - Documentary](https://www.imdb.com/title/tt12759400/fullcredits?ref_=tt_cl_sm#cast) 4 hours
     * Traces the history of classic video games, featuring insights from the innovators who brought these worlds and characters to life.
 * [Before Pong, There Was Computer Space](https://thereader.mitpress.mit.edu/before-pong-there-was-computer-space/)
