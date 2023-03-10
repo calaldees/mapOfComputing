@@ -1,6 +1,10 @@
 technical language vocabulary
 =============================
 
+* [How to Write Technical Posts (so people will read them)](https://reasonablypolymorphic.com/blog/writing-technical-posts/)
+    * Although not directly related to teaching - the clarity of this article and the points made are universal
+
+
 _The Business_ to distinguish from individuals
 
 Business process

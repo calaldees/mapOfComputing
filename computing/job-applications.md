@@ -1,6 +1,10 @@
 Job Applications and Interviews
 ===============================
 
+
+* [hired.com](https://hired.com/employers/resources?cookie_consent=true&set_locale=en-GB&category=Report)
+    * Reports about the state of the industry - updated yearly
+
 https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews
 
 

@@ -94,7 +94,7 @@ Personal Projects
     * Why junior employees are more likely to fail in remote
     * > junior remote employees are doing almost 2x the upskilling they're doing in the office. It's not their fault they are struggling to get up to speed as quickly. 
 
-
+* [Letters To A New Developer: Understanding People Matters More Than Understanding Tech](https://letterstoanewdeveloper.com/2023/03/06/understanding-people-matters-more-than-understanding-tech/) - What I wish I had known when starting my development career
 
 * [How Senior Programmers ACTUALLY Write Code](https://www.youtube.com/watch?v=oJbfMBROEO0) 13min
     * Your code is your personal brand

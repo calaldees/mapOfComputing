@@ -13,6 +13,7 @@ Graphics
 * [[raytracing]]
 * [[pallet-cycling]]
 
+
 * [Beginning FPGA Graphics](https://projectf.io/posts/fpga-graphics/)
     * Software for a graphics controller explained with drawing flags
 
@@ -20,6 +21,10 @@ Graphics
 * [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/) book
     * Ray-tracing
     * Rasterisation
+    * [Filled Triangles](https://gabrielgambetta.com/computer-graphics-from-scratch/07-filled-triangles.html)
+
+* More Filled Triangles
+    * [Software Rasterization Algorithms for Filling Triangles](http://www.sunshine2k.de/coding/java/TriangleRasterization/TriangleRasterization.html)
 
 * [Worldsheet: Wrapping the World in a 3D Sheet for View Synthesis from a Single Image](https://worldsheet.github.io/)
     * 2d image + bump map -> 3d scene
