@@ -10,7 +10,7 @@ Data Visualisation
     * The map of Napoleon's Russian campaign
 
 * [idea.org.uk: Data Visualization Online lesson 10min](https://idea.org.uk/badge/data-visualisation)
-    * Napoleon map
+    * Napoleon map (Minard)
     * pre-attentive visual attributes
         * Length, width, orientation, size, enclosure, color intensity, color hue, curvature, shape, spatial grouping, 2d position
 

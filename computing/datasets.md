@@ -100,6 +100,8 @@ https://www.ethnicity-facts-figures.service.gov.uk/crime-justice-and-the-law/cou
 https://data.cambridgeshireinsight.org.uk/dataset/mill-road-project-traffic-sensor-data/resource/67873c4e-2d50-4d31-b2a0-68f1df7f081e
 
 
+* [Analysis of distances between bus stops](https://www.michalpaszkiewicz.co.uk/blog/busdistributions/index.html) London 2023
+
 
 Data formats
 ------------

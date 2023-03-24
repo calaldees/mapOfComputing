@@ -9,7 +9,7 @@ PostgreSQL
     * [postgREST](https://github.com/PostgREST/postgrest)
     * PostgREST is a standalone web server that turns your PostgreSQL database directly into a RESTful API. The structural constraints and permissions in the database determine the API endpoints and operations.
     * [A poor man's API](https://blog.frankel.ch/poor-man-api/) - no need for a [[frameworks]]
-* [Fuzzy Name Matching in Postgres](https://info.crunchydata.com/blog/fuzzy-name-matching-in-postgresql) #fuzzing
+* [Fuzzy Name Matching in Postgres](https://info.crunchydata.com/blog/fuzzy-name-matching-in-postgresql) [[fuzzy]]
     * Levenshtein Matching - fuzzy string match
 * [10 Things I Hate About PostgreSQL](https://rbranson.medium.com/10-things-i-hate-about-postgresql-20dbab8c2791)
     * Experienced data engineer talks about experiences with Postgres in production
