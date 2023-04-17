@@ -16,7 +16,7 @@ JSON
 
 * [jsonhero.io](https://jsonhero.io/)
     * Visualise and explore json nicely - online service/app
-
+* [json-ld.org](https://json-ld.org/) - json + linked data - solution for data from multiple places in a single document
 * [Uninterrupted JSON RPC](https://github.com/unum-cloud/ujrpc) - Remote Procedure Calls Up to 100x Faster than FastAPI #python
 * [Analyzing multi-gigabyte JSON files locally](https://thenybble.de/posts/json-analysis/)
     * using bash `parallel` and `jq` (first try) - then 'Jupyter and Dask'

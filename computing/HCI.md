@@ -25,6 +25,8 @@ HCI
     * Over the years, though, many other system designs have come and gone, and some of those systems have had neat ideas that were nevertheless not enough to achieve commercial success. We will take you on a tour of a variety of those systems, talking about what makes them special.
     * In particular, we'll discuss IBM i, with emphasis on the Single Level Store, TIMI, and block terminals Interlisp, the Lisp Machine with the interface of Smalltalk OpenGenera, with a unique approach to UI design TRON, Japan's ambitious OS standard  More may be added as time permits
 
+* [The Untapped Potential of Human Programming](https://humanprogramming.substack.com/p/the-untapped-potential-of-human-programming) 2022 - A vision-building essay for a new kind of human-computer collaboration
+
 Hardware
 --------
 

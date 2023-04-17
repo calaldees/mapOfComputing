@@ -26,6 +26,10 @@ UI - User Interfaces
     * > Chances are when you went to University you used something called Blackboard to manage your course online. Chances are you remember it as the worst piece of software you ever had to use, and you could be right. Anyway, this man said it best:
     * > Why is it so bad? There is a lesson here. Blackboard is marketed to Uni admin staff who don't use the software themselves, they do no usability testing for students/profs, and simply approve a big ol list of features. Looks good on paper, it's got all of this stuff!
     * [Christ, I hate Blackboard](https://www.lawyersgunsmoneyblog.com/2014/01/christ-i-hate-blackboard)
+* [@0xDesigner](https://twitter.com/0xDesigner/status/1642554817590566915?t=zuQpfnUM4nL9hCA9qFZRPw&s=19) https://twitter.com/0xDesigner
+    * > In 2017, a group of developers hilariously competed for who could create worst volume control interface in the world.
+
+
 
 [Windows 95](https://twitter.com/tuomassalo/status/978717292023500805)
 Discoverability

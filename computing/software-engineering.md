@@ -240,7 +240,9 @@ I was looking at case studies for [[telematry]] and was thinking of practical us
         * > Any technology that surpasses 50% penetration will never double again (in any number of months).
 
 
-
+* StackExchange: Project Management [Why are developers expected to estimate tasks at all?](https://pm.stackexchange.com/questions/34768/why-are-developers-expected-to-estimate-tasks-at-all)
+    * Because business gotta produce! - go agile!
+    * > We'll ask for estimates ... and then treat them as deadlines
 
 
 

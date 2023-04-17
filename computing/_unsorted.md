@@ -159,3 +159,7 @@ Programming Tips
 
 * blog.gov.uk [FAQs: why we don’t have them](https://gds.blog.gov.uk/2013/07/25/faqs-why-we-dont-have-them/)
 
+
+* [The Day Windows Died](https://thomasbandt.com/the-day-windows-died)
+    * Just a platform to peddle news and media - not use it as a tool to explore and be creative
+    * > So, there is basically little you can do with Windows out of the box but buy subscriptions and log into pre-installed social media apps. One thing I knew right on the spot: That's not an environment I want my kid to make his first steps "on a real computer." Not in a hundred years. Never.

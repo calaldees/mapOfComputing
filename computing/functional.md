@@ -1,6 +1,7 @@
 Functional Programming
 ======================
 
+* [The Craft of Functional Programming](https://kar.kent.ac.uk/id/document/3359918) Professor Simon Thompson - Kent Archive - Free eBook - 3rd edition 2023
 * [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon)
     *  Jargon from the functional programming world in simple terms! 
 * [Why Study Functional Programming?](https://acm.wustl.edu/functional/whyfp.php) ...or, "why make programming even harder?"

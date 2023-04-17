@@ -104,6 +104,8 @@ Social Media
 * [TikTok ‘frog army’ stunt could have grave consequences, experts warn](https://www.theguardian.com/technology/2022/jul/10/tiktok-frog-army-stunt)
     * TikTok does not need followers, it's a black box algorithm that distributes content. People do crazy things for popularity
 
+* [Utah is first US state to limit teen social media access](https://www.bbc.co.uk/news/world-us-canada-65060733) 2023
+
 ---
 
 Not really social-media .. more data business
@@ -117,3 +119,4 @@ Not really social-media .. more data business
 
 * [Tinder just permabanned me or the problem with big tech](https://paulefou.com/blog/tinder-permaban)
     * Big tech can just disable accounts algorithmicly - false posetives dont matter - you cant ask them for "why" because they don't even know - there is no way to recover
+
