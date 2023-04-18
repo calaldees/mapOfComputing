@@ -424,7 +424,7 @@ Other text systems
 Unsorted
 --------
 
-* [Plain text. With lines.](http://akkartik.name/lines.html)
+* [Plain text. With lines.](http://akkartik.name/lines.html) #plaintext
     * markdown with drawing lines in a code block
 * [Typograms](https://code.sgo.to/typograms/) (typographic diagrams) 
     * a lightweight image format (text/typograms) useful for defining simple diagrams in technical documentation.

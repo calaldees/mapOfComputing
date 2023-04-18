@@ -29,7 +29,7 @@ https://succesfeelosophy.wordpress.com/disadvantage-gap-how-to-close-it/
 
 [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 
-[Hard Subtitles on the Fly from plain text](https://011.video/2020/08/03/burn-video-subtitles-on-the-fly-from-a-plain-text-file/)
+[Hard Subtitles on the Fly from plain text](https://011.video/2020/08/03/burn-video-subtitles-on-the-fly-from-a-plain-text-file/) #plaintext
 
 
 [How long does a freezer stay frozen when the power goes out](https://woodgears.ca/heating/freezer.html) - Raspberry PI to measure freezer temperature (scientific method)

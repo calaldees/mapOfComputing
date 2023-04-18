@@ -27,6 +27,9 @@ HCI
 
 * [The Untapped Potential of Human Programming](https://humanprogramming.substack.com/p/the-untapped-potential-of-human-programming) 2022 - A vision-building essay for a new kind of human-computer collaboration
 
+* [Usability Heuristics for User Interface Design](https://www.1984.design/c/discussions/usability-heuristics-for-user-interface-design)
+    * 
+
 Hardware
 --------
 

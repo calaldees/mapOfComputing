@@ -40,7 +40,7 @@ Document Formats and Publishing
 -------------------------------
 * [[markdown]]
 * [[latex]]
-* [plain text accounting](https://plaintextaccounting.org/)
+* [plain text accounting](https://plaintextaccounting.org/) #plaintext
     * Accounting software but in plain text files
 
 Dashboards Live?
@@ -58,7 +58,7 @@ Dashboards Live?
 [Parity]: parity.md "Parity"
 [version-control]: version-control.md "Version Control"
 [Data Visualisation]: data-visualisation.md "Data Visualisation"
-[datasets]: datasets.md "datasets"
+[datasets]: datasets.md "Unsorted"
 [maps]: maps.md "Maps"
 [simulation]: simulation.md "Simulation"
 [model]: model.md "Model"
@@ -66,6 +66,7 @@ Dashboards Live?
 [natural-language-processing]: natural-language-processing.md "Natural Language Processing"
 [image-processing]: image-processing.md "Image Processing"
 [maths]: maths.md "Maths"
+[data-science]: data-science.md "Data Science"
 [spreadsheets]: spreadsheets.md "Spreadsheets"
 [markdown]: markdown.md "MarkDown"
 [latex]: latex.md "latex"

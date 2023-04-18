@@ -8,3 +8,11 @@ Analogy
 * [Tips On Prioritizing Tech Debt In A Healthy Way](https://leadership.garden/tips-on-prioritizing-tech-debt/)
     * RICE metric
     * Talk the language
+
+* [Self-Admitted Technical Debt](https://neverworkintheory.org/2023/03/16/self-admitted-technical-debt.html)
+    * when we put `FIXME` or `TODO` in our code.
+    * Research says we don't do this as much in industry code, as this affects how people perceive our code.
+    * [Fiorella Zampetti, Gianmarco Fucci, Alexander Serebrenik, and Massimiliano Di Penta. Self-admitted technical debt practices: a comparison between industry and open-source. Empirical Software Engineering, Sep 2021. doi:10.1007/s10664-021-10031-3.](https://doi.org/10.1007/s10664-021-10031-3)
+
+* [Alien Artefacts](https://www.brautaset.org/posts/alien-artefacts.html)
+    * > alien artefacts, a subcategory of legacy code. I use the term to describe particularly complicated and important pieces of software written by very smart engineers that are no longer working for the company—and thus not available to support it. The software works really well for what it was designed to do, but it is highly resistant to change. 
