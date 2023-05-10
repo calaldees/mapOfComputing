@@ -2,6 +2,8 @@ Software Engineer Skills
 ========================
 
 * [[developers]]
+* [[program-design]]
+* [[design-patterns]]
 
 ## Tooling
 

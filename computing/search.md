@@ -1,6 +1,8 @@
 Search
 ======
 
+This is 'how' search works. But for practical use, see [[ai]] for investigating topics.
+
 * [What every software engineer should know about](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d)
     * ElasticSearch is not enough and not a great experience
 

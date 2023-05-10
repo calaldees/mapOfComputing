@@ -38,6 +38,11 @@ Algorithms
             * Bloom filter (big hash)
             * Piece table (used by text editors to store text as edits)
             * Splay tree (binary tree with most accessed closer to the root)
+        * Geometry
+            * [Geometry Central](https://geometry-central.net/)
+                * > C++ library of data structures and algorithms for geometry processing, with a particular focus on surface meshes.
+        * [[graphics]]
+            * [[line-drawing]]
 
 * [Nine algorithms that changed the future: the ingenious ideas that drive today's computers]() MacCormick, John 2011
     * Ingenious ideas that drive today's computers

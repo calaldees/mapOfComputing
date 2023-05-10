@@ -25,3 +25,5 @@ Text to Image method
 
 * [Geotagging Model How-Tos](https://github.com/1712n/yachay-public/tree/master/conf_geotagging_model)
     * text to location - training data
+
+* [NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers](https://speechresearch.github.io/naturalspeech2/)

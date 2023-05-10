@@ -73,6 +73,46 @@ what is the difference between list & tuple -> mutability
     set([2, 3])
     # Q: Why? - A: sets have no duplicates `&=` is union_in-place modification
 ```
+
+I asked ChatGPT on 24/04/2023 these interview screening questions
+
+I have a set of questions I use to screen professional python programmers before inviting them to a job interview.
+I have listed three mini programs and their output. I ask candidates to describe why each program creates these outputs.
+Can you explain why these python snippets produce the outputs they do?
+
+    >>> aa=(x+1 for x in range(3)) ; print(tuple(aa), tuple(aa))
+    ((1, 2, 3), ())
+
+    >>> aa=[1,2,3] ; bb=aa ; aa[:]=[4,5,6] ; print(aa, bb)
+    ([4, 5, 6], [4, 5, 6])
+
+    >>> dd = {i for i in (1,2,2,3)} ; dd &= {2,3,4} ; print(dd)
+    set([2, 3])
+
+Sure, I'd be happy to explain these snippets!
+
+1. `aa=(x+1 for x in range(3)) ; print(tuple(aa), tuple(aa))`
+
+In this code, a generator expression is created with `(x+1 for x in range(3))` and assigned to the variable `aa`. A generator is a special type of iterable that allows you to iterate over its elements one at a time. 
+
+Then, `tuple(aa)` is called twice: the first time, it creates a tuple with the first three values of the generator (1, 2, 3) and prints it. The second time, `tuple(aa)` creates an empty tuple because all the values in the generator have already been exhausted by the previous `tuple(aa)` call. 
+
+So the output of this program is `((1, 2, 3), ())`.
+
+2. `aa=[1,2,3] ; bb=aa ; aa[:]=[4,5,6] ; print(aa, bb)`
+
+This code creates a list `aa` containing the values 1, 2, and 3, and then assigns `aa` to the variable `bb`. The third line is where the interesting stuff happens: `aa[:]=[4,5,6]`. This is a slice assignment, which means it replaces the entire contents of `aa` with the new list `[4,5,6]`. Since `bb` is just a reference to the same list object as `aa`, it also gets updated with the new values.
+
+So the output of this program is `([4, 5, 6], [4, 5, 6])`.
+
+3. `dd = {i for i in (1,2,2,3)} ; dd &= {2,3,4} ; print(dd)`
+
+In this code, a set comprehension is used to create a new set `dd` containing the unique values from the tuple `(1,2,2,3)`. Since sets can only contain unique values, this set contains the values 1, 2, and 3. 
+
+Then, `dd &= {2,3,4}` performs an in-place intersection of `dd` with the set `{2,3,4}`. This means that any elements in `dd` that are not also in `{2,3,4}` are removed, leaving only the values 2 and 3.
+
+So the output of this program is `set([2, 3])`.
+
     # aa=[1,2,3];bb=aa;aa=[4,5,6];print(aa,bb)
 
     t = 10 + 1, 20 + 2 ; assert t == 11, 22

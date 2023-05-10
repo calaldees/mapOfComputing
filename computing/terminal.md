@@ -34,6 +34,7 @@ Shells
 * Windows
   * cmd
   * powershell
+    * [PSKoans](https://github.com/vexx32/PSKoans) -  A simple, fun, and interactive way to learn the PowerShell language through Pester [[automated-testing]]
   * wsl (bash)
 * Linux
   * [Alternative-Shells](https://github.com/oilshell/oil/wiki/Alternative-Shells)

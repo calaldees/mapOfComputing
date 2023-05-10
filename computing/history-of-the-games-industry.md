@@ -8,3 +8,6 @@
     * Fifty years ago, Computer Space launched the video game industry. Here's why it never took off.
 
 * [Wolfenstein 3D secrets revealed by John Romero in lengthy post-mortem chat](https://arstechnica.com/gaming/2022/03/achtung-john-romero-exposes-wolfenstein-3ds-history-in-gdc-post-mortem/) - Admits id Software was nearly acquired by Sierra—and we get Ken Williams' response.
+
+* [Shareware Heroes: The renegades who redefined gaming at the dawn of the internet](https://sharewareheroes.com/)
+    * Book (and retro site)

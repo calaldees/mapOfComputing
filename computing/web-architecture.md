@@ -9,6 +9,8 @@ CDN's
     * RPC REST
     * Cache
     * Load balancer
+        * [Load Balancing](https://samwho.dev/load-balancing/)
+            * Visualising the problem! Beautifully described!
     * CDN
     * DNS
     * Availability - failover

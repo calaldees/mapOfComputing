@@ -43,6 +43,7 @@ Great table from link above
 * [[tcp]]
 * [[websockets]]
 * [[http]]
+* [[wake-on-LAN]]
 
 https://thesquareplanet.com/blog/how-the-internet-works/
 

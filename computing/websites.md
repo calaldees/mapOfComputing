@@ -2,8 +2,11 @@ Websites
 --------
 
 
-
-https://www.simplecto.com/complexity-downloading-favicons-told-in-15-plus-edge-cases/
+Favicon
+-------
+* https://www.simplecto.com/complexity-downloading-favicons-told-in-15-plus-edge-cases/
+* [favicon-dino-game](https://mashpoe.github.io/favicon-dino-game/)
+    * entire game in favicon!
 
 
 * [[web-scraping]]

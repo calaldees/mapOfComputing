@@ -20,6 +20,7 @@ See [[model]]
     * [Joseph Cook](https://news.microsoft.com/en-gb/2018/12/11/uk-scientist-handed-microsoft-grant-to-launch-unique-study-into-how-climate-change-is-affecting-the-arctic/) (from Margate) Predictive model on how glaciers melt from drones (not satellites)
 * Fluid
     * [WebGL-Fluid-Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+    * [WaterLily.jl](https://github.com/weymouth/WaterLily.jl)
 * Fire
     * [Far Cry: How the Fire Burns and Spreads](https://jflevesque.com/2012/12/06/far-cry-how-the-fire-burns-and-spreads/) 2012
 * Traffic

@@ -23,3 +23,5 @@ Ideas
 ---
 
 * [Fold n Fly - Paper aeroplane designs](https://www.foldnfly.com/) #papercraft
+* [DVD Laser Scanner Microscope](https://www.gaudi.ch/GaudiLabs/?page_id=652)
+    * homemade laser microscope with off the shelf parts

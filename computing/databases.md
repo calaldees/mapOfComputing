@@ -55,6 +55,7 @@ SQLite
 
 * [SQLite as a document database](https://dgl.cx/2020/06/sqlite-json-support)
     * insert JSON straight into SQLite and then have it extract data and index them
+* [sqlite-gui](https://github.com/little-brother/sqlite-gui) -  Lightweight SQLite editor for Windows
 
 Object Relational Model (ORM) #orm
 -----------------------
