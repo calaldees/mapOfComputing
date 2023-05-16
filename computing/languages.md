@@ -80,6 +80,8 @@ Languages
 * [BluePrints UE4](https://docs.unrealengine.com/4.26/en-US/ProgrammingAndScripting/Blueprints/)
     * [blueprintue.com](https://blueprintue.com/)
     * [Blueprints as a programming language](https://boxbase.org/entries/2019/jan/20/blueprints/)
+* [Verse](https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference)
+    * Super interesting! Tim Sweeny! Large distributed, functional
 * Self
     * [Programming as an Experience: The Inspiration for Self](https://link.springer.com/chapter/10.1007/3-540-49538-X_15)
     * Smalltalk extreeem
@@ -201,6 +203,7 @@ Performance
 [language-design]: language-design.md "Language Design"
 [language-features]: language-features.md "Language Features"
 [language-cheatsheets]: language-cheatsheets.md "Language Cheatsheets"
+[dsl]: dsl.md "Domain Specific Languages (DSL)"
 [no-code]: no-code.md "NoCode"
 [visual-programming-languages]: visual-programming-languages.md "Visual Programming Languages"
 [assembly]: assembly.md "Assembly Code"

@@ -2,6 +2,8 @@ Data Structures
 ===============
 
 See [[algorithms]]
+* [CS 61B Data Structures, Spring 2023](https://sp23.datastructur.es/) - University of Berkley course
+    * Java -> Arrays -> Trees, Sets, Sorting, Heaps, Priority Queues
 
 * [Wikipedia: List of data structures](https://en.wikipedia.org/wiki/List_of_data_structures)
     * Hundreads of data structures

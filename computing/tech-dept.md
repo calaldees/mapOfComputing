@@ -1,6 +1,9 @@
 Tech Dept
 =========
 
+* [My 20 Year Career is Technical Debt or Deprecated](https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt) - Deprecated should be my middle name
+    * Everything is "Technical Debt"
+
 Analogy
 
 * [A Home, Not a Mortgage - Musings on Tech Debt](https://decompiled.dev/work/not-debt/)

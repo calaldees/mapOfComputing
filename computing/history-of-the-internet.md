@@ -4,6 +4,11 @@ History of the Internet
 * [What is Internet ? Explained by Bill Gates 1995 | Funny Video | David Letterman Show | Must Watch](https://www.youtube.com/watch?v=gipL_CEw-fk) 2min
 * [The web’s most important decision](https://thehistoryoftheweb.com/postscript/the-webs-most-important-decision/)
     * > on April 30 1995, with a half-page document and a few signatures, CERN made it official. Nobody owned the web, and the web wasn’t licensed. It was simply a part of the world, for anybody to use, distribute, or modify. It looked like this:
+* [Protocol Wars](https://en.wikipedia.org/wiki/Protocol_Wars)
+    * > Internet–OSI Standards War in the late 1980s and early 1990s, which was ultimately "won" by the Internet protocol suite
+* [](https://technicshistory.com/the-backbone/)
+    * > This page provides a single entry point to all the posts in the story of how the world got online.
+    * ARPANET and internetworking
 
 * [webfoundation.org: History of the Web](https://webfoundation.org/about/vision/history-of-the-web/)
 * [WebDevelopmentHistory.com](https://webdevelopmenthistory.com/)

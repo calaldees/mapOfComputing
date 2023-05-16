@@ -1,7 +1,9 @@
 Spreadsheets
 ============
 
-[[spreadsheets]]
+TODO:
+* [Excel: LAMBDA function](https://support.microsoft.com/en-us/office/lambda-function-bd212d27-1cd1-4321-a34a-ccbf254b8b67)
+    * New feature!
 
 Visicalc on apple 2 changed the world
 

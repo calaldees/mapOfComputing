@@ -1,3 +1,8 @@
+Makefile
+========
+
+* [makefiletutorial.com](https://makefiletutorial.com/)
+    * Brilliant guide to `make` from examples
 * [Your Makefiles are wrong - An opinionated approach to (GNU) Make](https://tech.davis-hansson.com/p/make/)
 
 

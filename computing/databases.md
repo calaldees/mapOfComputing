@@ -1,6 +1,10 @@
 Databases
 =========
 
+* [Build Your Own X From Scratch Books](https://build-your-own.org/)
+    * [database](https://build-your-own.org/#section-database) [book_done](https://build-your-own.org/blog/20230420_byodb_done/)
+
+
 * [[sql]]
 * [[nosql]]
 * Vector Database's

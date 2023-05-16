@@ -2,6 +2,8 @@ Networks
 ========
 
 * [[internet]]
+* [High Performance Browser Networking](https://hpbn.co/) - eBook
+    * Brilliant all-round protocols and network hardware
 
 * Explained from first principles - [Internet](https://explained-from-first-principles.com/internet/)
 
@@ -310,6 +312,7 @@ Unsorted
 [tcp]: tcp.md "TCP"
 [websockets]: websockets.md "WebSockets"
 [http]: http.md "HTTP"
+[wake-on-LAN]: wake-on-LAN.md "Wake on LAN"
 [daw]: daw.md "daw"
 [distributed-filesystems]: distributed-filesystems.md "distributed-filesystems"
 [maps]: maps.md "Maps"
