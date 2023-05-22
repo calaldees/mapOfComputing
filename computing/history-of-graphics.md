@@ -3,6 +3,8 @@ History of Graphics
 
 * [[graphics-evolution]]
 
+* [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://www.jagregory.com/abrash-black-book/) 1997 3D graphics from scratch in DOS (Quake)
+
 * [ZX Spectrum | Ghetto Graphics & Colour Clash](https://www.youtube.com/watch?v=iemMlbIY1SI)
     * How colour clash happens
 

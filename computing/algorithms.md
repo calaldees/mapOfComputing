@@ -68,7 +68,7 @@ Algorithms
     * Dynamic programming
     * Euclidean algorithm
     * Expectation-maximization algorithm (EM-Training)
-    * Fast Fourier transform (FFT)
+    * Fast Fourier transform [[fft]]
     * Gradient descent
     * Hashing
     * ... more
@@ -201,6 +201,7 @@ Simple things that are actually hard
 [polygon]: polygon.md "Polygon"
 [line-drawing]: line-drawing.md "line-drawing"
 [wave-function-collapse]: wave-function-collapse.md "Wave Function Collapse"
+[graphics]: graphics.md "Graphics"
 [pagerank]: pagerank.md "PageRank"
 [data-structures]: data-structures.md "Data Structures"
 [maths]: maths.md "Maths"

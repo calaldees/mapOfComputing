@@ -3,6 +3,7 @@ PostgreSQL
 
 * [PostgreSQL beginner guide](https://knowledgepill.it/posts/postgresql-basics-guide/) - connecting, remote access, psql CLI and troubleshooting connection
 * [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html) - for database administrators and system developers
+* [Understanding database Indexes in PostgreSQL](https://blog.mastermind.dev/indexes-in-postgresql) - A deep dive into indexes
 * [Why you (probably) don't need PostGIS](https://blog.rebased.pl/2020/04/07/why-you-probably-dont-need-postgis)
 * [psql command line tutorial and cheat sheet](https://tomcam.github.io/postgres/)
 * [PostgREST](https://postgrest.org/) [[server-side]] [[microservice]] [[rest]]

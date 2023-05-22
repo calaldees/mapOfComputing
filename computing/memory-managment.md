@@ -1,6 +1,8 @@
 Memory Management
 =================
 
+* [Memory Allocation](https://samwho.dev/memory-allocation/)
+    * A visual guide to malloc and fragmentation
 
 Security - buffer overflow
 malloc

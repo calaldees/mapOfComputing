@@ -1,6 +1,9 @@
 UI - User Interfaces
 ====================
 
+* [userinyerface.com](https://userinyerface.com/)
+    * Fun timed practical hands on demo of bad UI!
+
 * [The Dark Side of Minimalist Design: Updating Dieter Rams’ Ten Principles](https://www.youtube.com/watch?v=cMDGwj1QlSU) YouTube 18min
 * [Collection of Human Interface and Software Design Guides](http://www.geofcrowl.com/blog/articles/2020/2/17/collection-higs/)
 
