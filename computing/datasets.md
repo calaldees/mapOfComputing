@@ -74,6 +74,8 @@ https://developers.google.com/search/docs/data-types/dataset
             * [StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android 
             * [GeoJSON Tools](https://geoman.io/)
             * [Mapillary](https://www.mapillary.com/) Images to maps
+            * [How to make fancy road trip maps with R and OpenStreetMap](https://www.andrewheiss.com/blog/2023/06/01/geocoding-routing-openstreetmap-r/)
+                * Use R to get geocoded location and routing data from OpenStreetMap and explore our family’s impending 5,000 mile road trip around the USA
         * Live Realtime
             * [Lightening Maps](https://www.lightningmaps.org/)
             * [Windy.com](https://www.windy.com/)

@@ -1,6 +1,8 @@
 Shaders
 =======
 
+* [An introduction to Shader Art Coding](https://www.youtube.com/watch?v=f4s1h2YETNY) YouTube 22min kishimisu
+    * vectors, swizzling, global constants - this video has it all
 * [shader-school](https://github.com/stackgl/shader-school) GitHub
     * A workshopper for GLSL shaders and graphics programming 
 * [The Book of Shaders](https://thebookofshaders.com/) - a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders

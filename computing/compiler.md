@@ -3,11 +3,13 @@ compiler
 
 * [[dynamic-recompilation]]
 * [[assembly]]
+* [Counterexamples in Type Systems](https://counterexamples.org/)
 
 * [Compiler Explorer: Matt Godbolt](https://godbolt.org/) - Web based - See C code and compiled ASM (x86/Arm/riskV)
     * It highlights with colors what parts of the [[c]] code is turned into the ASM bits [[assembly]]
 * [create-your-own-compiler](https://citw.dev/tutorial/create-your-own-compiler)
     * interactive web tutorial for building a compiler!
+* [Teaching and Learning Compilers Incrementally](https://iucompilercourse.github.io/tutorial-web-page/)
 
 [CS 6120: Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
 

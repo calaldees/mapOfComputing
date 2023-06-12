@@ -94,8 +94,6 @@ Programming Tips
 * [How to Write Code to Solve a Problem, A Beginner's Guide](https://www.codeproject.com/Articles/5282084/How-to-Write-Code-to-Solve-a-Problem-A-Beginners-G)
     * Guide to layout a problem
 
-* [The cleverest floppy disc protection ever? Western Security Ltd.](https://scarybeastsecurity.blogspot.com/2020/12/the-cleverest-floppy-disc-protection.html) - BBCMicro emulator author describes his findings
-
 * [How Video Works](https://howvideo.works/) - informational site about video and how it works
     * The whole flow of capture to mass digital distribution engineering
 

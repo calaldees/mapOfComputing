@@ -10,6 +10,9 @@ Text to Image method
 * [DALL-E 2 - Pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch.
 * [Imagen](https://gweb-research-imagen.appspot.com/) - unprecedented photorealism × deep level of language understanding
 
+* [shap-e](https://github.com/kedzkiest/shap-e-local) 
+    * text to 3d shape
+    * The code to run shap-e text-to-3d sample code locally.
 
 * [Diffusion Bee - Stable Diffusion GUI App for M1 Mac](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
 

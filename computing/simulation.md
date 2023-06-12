@@ -43,6 +43,8 @@ See [[model]]
     * [mscsim](https://github.com/marek-cel/mscsim)
 * Space
     * [lunar-lander-autopilot](https://szhu.github.io/lunar-lander-autopilot/) - live in web browser
+    * [Venus is not Earth’s closest neighbor](https://fermatslibrary.com/s/venus-is-not-earth-s-closest-neighbor)
+        * Mathematically Mercury is closer. I WANT TO SIMULATE THIS!
 
 * [King's Cross fire](https://en.wikipedia.org/wiki/King%27s_Cross_fire) - computer simulation of fire in 1980
     * [Computer simulation of the  King’s Cross fire: effect of radiative heat transfer on fire spread](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.826.6629&rep=rep1&type=pdf)

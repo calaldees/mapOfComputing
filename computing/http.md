@@ -49,7 +49,9 @@ https://ns1.com/resources/dns-protocol
 https://en.wikipedia.org/wiki/Domain_Name_System
 
 
-Build a http webserver yourself!
+Build a http webserver yourself from scratch (see TeachProgramming repo)
+
+* [Commodore 64 Web server - C64 - Contiki webserver](https://www.youtube.com/watch?v=O2cMnxShCVQ)
 
 Charles Proxy
 

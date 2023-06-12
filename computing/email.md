@@ -18,6 +18,7 @@ collection from other accounts
     * smpt
     * pop3
     * imap
+    * [jmap](https://jmap.io/spec.html)
 
 * [Sub addressing or Plus addressing](https://en.wikipedia.org/wiki/Email_address#Subaddressing)
     * `myemail+tag@server.com`

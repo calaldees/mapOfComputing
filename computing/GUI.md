@@ -15,6 +15,8 @@ Are hard
 
 * [7GUIs](https://7guis.bradwoods.io/) - 7GUIs defines 7 tasks that represent typical challenges in GUI programming. This site implements the 7 tasks using vanilla [[html]], [[css]] & [[javascript]]
 
+* [You don't need a modal window](https://youdontneedamodalwindow.dev/) - Just make a separate page
+
 todo
 ----
 

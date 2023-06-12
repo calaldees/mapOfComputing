@@ -7,3 +7,5 @@ Elm
 * [Compiler Errors for Humans](https://elm-lang.org/news/compiler-errors-for-humans)
 
 * [Understanding UI Components in Elm](https://www.humio.com/blog/understanding-ui-components-in-elm/)
+
+* [Why I Use Elm in 2023](https://taylor.town/elm-2023)
