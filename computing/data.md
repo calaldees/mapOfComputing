@@ -7,6 +7,7 @@ Data
 * [[File Formats]]
 * [[semantic-web]]
 
+* [[hex]]
 * [[Parity]]
 * [[version-control]]
 
@@ -55,6 +56,7 @@ Dashboards Live?
 [qr_barcode]: qr_barcode.md "QR Codes and Barcodes"
 [File Formats]: file-formats.md "File Formats"
 [semantic-web]: semantic-web.md "Semantic Web"
+[hex]: hex.md "Hex"
 [Parity]: parity.md "Parity"
 [version-control]: version-control.md "Version Control"
 [Data Visualisation]: data-visualisation.md "Data Visualisation"

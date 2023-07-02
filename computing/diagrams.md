@@ -2,6 +2,8 @@ Diagrams
 ========
 
 * [[mermaid]]
+    * [Sequence diagrams, the only good thing UML brought to software development](https://www.mermaidchart.com/blog/posts/sequence-diagrams-the-good-thing-uml-brought-to-software-development)
+
 * [structurizr.com](https://structurizr.com/) - Diagrams as code 2.0 
     * A DSL for archetecture diagrams that outputs [[mermaid]] plantuml
     * [YouTube Conference Talk](https://www.youtube.com/watch?v=Za1-v4Zkq5E) 2022

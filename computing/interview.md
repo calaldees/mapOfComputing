@@ -1,6 +1,32 @@
 Interview Questions
 ===================
 
+*  Philipp Hauer's Blog: [Leveling Up in Job Interviews for Software Engineers](https://phauer.com/2022/leveling-up-job-interviews/) 2022
+    * Really good summary
+* [Twitter](https://twitter.com/pwang_szn/status/1674719490993688577) [leetcode job offers](https://mem.ai/p/EYuaVqZSCIYiDKcM0w80) 
+    * //1: Focus on Fundamentals
+        * There are 2000+ problems on Leetcode, but only 10-15 basic data sturcture/algos to use in interviews.
+        * topics like: Arrays, Sorting Algorithms, Trees etc
+        * So the trick is to do the same 150-200 problems on repeat until you know them in ur sleep.
+    * // 2: Get Good at Acting
+        * the entire interview process is a charade.
+        - act like its the first time seeing the problem (even if you've solved it 5+ times while prepping)
+        - purposely make bugs so you can "fix them" to show that you are a good problem solver
+    * // 3: Cheat
+        * you wanna be broke or cheat?
+        * i don't mean cheat in the interviews but use resources in the wild!
+        > 1point3acres: chinese forum where entire interview Qs are posted. Use G-Translate or make a chinese friend :)
+        > Leetcode Discuss: ppl post direct interview Qs lol.
+    * // 4: Get Good at Storytelling
+        * 50% of the interview is based on your tech skills but more 50% is on "behavioral" aka how you work w/ other ppl.
+        * The trick is to have 4-5 good stories that you can use for any question and you mold the story to fit the interviewer's Q
+        * P.S - ✨ I wrote this FREE step-by-step mini-course guide to start coding with A.I
+        * (Free for now, but not free forever) Check it out: https://t.co/pmDsYC74tK
+    * // 5: Master Negotiating
+        * If you're spending 100+ hrs prepping, spend at least 10+ research how much each company pays and invest some time in mastering negotiating.
+        * Use sites like Blind + Levels to figure out pay bands and use offers to compete w/ your other offers.
+        * 
+
 * [We found the Google Secret Hiring Coding Challenge](https://gurgleapps.com/learn/coding/google-foobar-secret-hiring-coding-challenge-part-1)
     * Kids find and document a random code challenge given by Google profiling.
     * [We found Google's secret coding challenge recruitment platform](https://www.youtube.com/watch?v=JnzHl3RTIFc) YouTube 6min

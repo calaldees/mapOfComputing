@@ -1,6 +1,7 @@
 python3
 =======
 
+* [python-cheatsheet](https://gto76.github.io/python-cheatsheet/) - best one I've seen
 * [Legally Free Python Books List](https://www.pythonkitchen.com/legally-free-python-books-list/) - Jan 2020
     * Loads of topics - begginer, algorithums, web, bioinformatis, visulisations
 * [A Python Book: Beginning Python, AdvancedPython, and Python Exercises](http://www.davekuhlman.org/python_book_01.pdf) Dave Kuhlman 2013
@@ -9,6 +10,9 @@ python3
 * [Learn Python for Data Science](https://github.com/blobcity/python-for-data-science) - Basics of python in juyter notebooks
 * [What’s in which Python](https://nedbatchelder.com/text/which-py.html)
     * Features of python by version
+
+* [This is valid Python syntax](https://www.bitecode.dev/p/this-is-valid-python-syntax)
+    * obfuscated python nonsense
 
 The confusing brackets
 * []
@@ -236,6 +240,9 @@ Techniques
 * [Functools - The Power of Higher-Order Functions in Python](https://martinheinz.dev/blog/52)
     * Really nice description of functools
 * [Python Program to Merge Dictionaries (with Examples)](https://favtutor.com/blogs/merge-dictionaries-python)
+* [json.AttrDict](https://docs.python.org/3.12/library/json.html#json.AttrDict)
+    * orbital_period['earth']
+    * orbital_period.earth
 
 Reference Implementation
 ------------------------

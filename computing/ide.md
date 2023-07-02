@@ -101,6 +101,7 @@ Terminal-IDE
     * [antirez kilo](http://antirez.com/news/108)
     * Pure C - no dependencies
     * 184 steps of adding/remove (like my programming projects)
+    * [Text Editor Data Structures](https://cdacamar.github.io/data%20structures/algorithms/benchmarking/text%20editors/c++/editor-data-structures/)
 
 Custom
 ------

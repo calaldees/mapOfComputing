@@ -1,6 +1,9 @@
 Clean Code
 ==========
 
+Comments are a form of "code duplication".
+Comments that describe WHY something is like it is, are very valuable
+
 #cleancode
 
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.oreilly.com/library/view/clean-code-a/9780136083238/) Robert C. Martin 2008

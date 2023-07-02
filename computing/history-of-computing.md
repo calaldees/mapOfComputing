@@ -9,6 +9,9 @@ History of Computing
 * [[logical-organization]]
 
 * [computerhistory.org/blogs](https://computerhistory.org/blogs/)
+* [bitsavers.org](https://bitsavers.org/)
+    * Magazines, software, communications archive of documents
+    * > rsync is the preferred method for cloning and syncing with the archive. This site has no javascript, data bases or any of that Web 2.0 stuff You can clone the entire archive with `rsync -av rsync://bitsavers.org:/bitsavers/ bitsavers/` As of Nov, 2022, the entire archive is around 880gb
 
 * [How did Dennis Ritchie produce his PhD thesis? A typographical mystery (2022) (princeton.edu)](https://news.ycombinator.com/item?id=35177110) [pdf](https://www.cs.princeton.edu/~bwk/dmr/doceng22.pdf)
     * how the creator of C and the creator of unix created a PhD thesis, that was never accepted, about the foundations of computation (e.g. nested loops and function calls) with ridiculously primitive tooling. A mystery! and a piece of history!
@@ -37,6 +40,7 @@ History of Computing
 * [PAPERCRAFT MODELS](http://rockybergen.com/papercraft) #papercraft
     * Construct the computer from your childhood or build an entire computer museum at home with these paper models, free to download and share
     * Print, Cut, Score, Fold and Glue
+* [Highly Detailed Collectibles and Handcrafted Miniature Scale Models - of Vintage Computers](https://www.miniatua.com/)
 
 * [Tiny PDP11](http://spritesmods.com/?art=minipdp11&page=1) emulator on ESP32
 * [PDP-11 Booting](https://trmm.net/PDP-11/Booting/)
