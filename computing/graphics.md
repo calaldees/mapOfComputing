@@ -13,6 +13,7 @@ Graphics
 * [[raytracing]]
 * [[pallet-cycling]]
 
+* [Meta Uses Khronos Open Standards in New Intermediate Graphics Library](https://www.khronos.org/blog/meta-uses-khronos-open-standards-in-new-intermediate-graphics-library)
 
 * [Beginning FPGA Graphics](https://projectf.io/posts/fpga-graphics/)
     * Software for a graphics controller explained with drawing flags

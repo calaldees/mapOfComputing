@@ -1,6 +1,9 @@
 Tech Dept
 =========
 
+* [Tech debt metaphor maximalism](https://apenwarr.ca/log/?m=202306)
+    * Good examples of teach debt and why it's good
+
 * [My 20 Year Career is Technical Debt or Deprecated](https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt) - Deprecated should be my middle name
     * Everything is "Technical Debt"
 

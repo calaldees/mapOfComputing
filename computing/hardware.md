@@ -21,6 +21,10 @@ Interupt handlers
 
 * [Teardown of a PC power supply ](https://www.righto.com/2021/05/teardown-of-pc-power-supply.html)
 
+* [What's inside a mouse](https://twitter.com/Siliconinsid/status/1432796585390485505)
+    * SunPlus SPMC01B (2000)
+    * What’s inside a Microsoft mouse? A small SunPlus microcontroller. What’s inside the SunPlus microcontroller? 2.5 kB of ROM, 64 Bytes of RAM, and a 6502 processor!
+    * Navigate through a 210Mpix image of the die on
 
 computers
 ---------

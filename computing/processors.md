@@ -11,6 +11,8 @@ x86
 ARM
 RISC-V
 
+* [Optimize machine learning for Metal apps](https://developer.apple.com/videos/play/wwdc2023/10050/?time=590)
+    * Half Precision Floating Point
 
 * [A bit of Z80 history](https://mitsi.com/2021/12/21/a-bit-of-z80-history/)
 

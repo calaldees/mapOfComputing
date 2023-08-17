@@ -52,6 +52,8 @@ Computing
 * [The Elements of Computing Systems, Second Edition](https://mitpress.mit.edu/books/elements-computing-systems-second-edition) Building a Modern Computer from First Principles
     * [[logical-organization]]
 
+* Harvard [CS50](https://cs50.harvard.edu/)
+    * [cs50/x/2023](https://cs50.harvard.edu/x/2023/) Harvard - CS50’s Introduction to Computer Science - Open CourseWare
 * MIT [OpenCourseWare Computer Science](https://ocw.mit.edu/search/?t=Computer%20Science) #MITOpenCourseWare
 * Stanford [CS101 - Introduction to Computing Principles](https://web.stanford.edu/class/cs101/)
     * [IntroComputing.org](https://introcomputing.org/)

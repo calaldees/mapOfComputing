@@ -1,6 +1,7 @@
-javascript
+javascript (ECMAScript)
 ==========
 
+* [ECMAScript Language Specification](https://tc39.es/ecma262/)
 * [The Modern JavaScript Tutorial](https://javascript.info/)
 * [Modern Javascript: Everything you missed over the last 10 years](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
 * [Deep JavaScript](https://exploringjs.com/deep-js/toc.html)

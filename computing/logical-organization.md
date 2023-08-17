@@ -6,6 +6,9 @@ Logical Organization
     * Create AND, OR, NOT gates as bitmaps
     * Levels and progression
 
+* [CP4U processor](https://beletronics.wordpress.com/cp4u-processor/)
+    * A 4-bit build it yourself processor - whole pdf walkthough the process with diagrams and photos
+
 * [The Math Behind the Magic - Processor Design](http://www.gamezero.com/team-0/articles/math_magic/micro/)
     * > we will be taking a look at how a computer works, down to the basic boolean algebra. To begin with, we need to take a look at how boolean algebra works, this will lead us into truth tables, and simple schematics. Building from these schematics we will look at Karnaugh maps, and higer level implementation. This higher level implementation will then be used to create an Arithmetic Logic Unit--the brains in a computer. We will end by desiging some simple memory schemes, the final stage in building a processor. By the end of this article, we will design a fully functional processor.
 

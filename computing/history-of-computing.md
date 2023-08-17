@@ -118,6 +118,8 @@ Other
 
 * [How Atari took on Apple in the 1980s home PC wars](https://www.fastcompany.com/90432140/how-atari-took-on-apple-in-the-1980s-home-pc-wars)
 
+* [This Code Smells of Desperation](https://www.os2museum.com/wp/this-code-smells-of-desperation/)
+    * math exception handler of `WIN87EM.DLL`, the Windows 3.1 math emulator and FPU support library
 
 Historically hard computing problems
 ------------------------------------

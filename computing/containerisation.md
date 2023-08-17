@@ -1,6 +1,8 @@
 Containerisation
 ================
 
+* [Container Training](https://container.training/)
+    * Introduction to docker to Kubernetees deployments
 * [[containerisation-WASM]]
 
 * [The Docker, Kubernetes, Terraform, and AWS crash course series](https://blog.gruntwork.io/the-docker-kubernetes-terraform-and-aws-crash-course-series-dca343ba1274) [[kubernetes]]

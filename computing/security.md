@@ -98,6 +98,10 @@ Authenticator app OTP
 * [Video-based Cryptanalysis BH USA 23 & DEFCON 31 - Exploiting a Video Camera's Rolling Shutter to Recover Secret Keys from Devices Using Video Footage of Their Power LED](https://www.nassiben.com/video-based-crypta)
 * Speculative execution (timing vulnerability)
     * [Spectre](https://en.wikipedia.org/wiki/Spectre_(security_vulnerability))
+* [Downfall](https://downfall.page/)
+    * > The vulnerability is caused by memory optimization features in Intel processors that unintentionally reveal internal hardware registers to software.
+    * Stealing 128-bit and 256-bit AES keys from another user (linux Kernel)
+    * Computing devices based on Intel Core processors from the 6th Skylake to (including) the 11th Tiger Lake generation are affected
 * [spookjs](https://www.spookjs.com/)
     * Vulnerability that gives access to Google Password manager from javascript
 

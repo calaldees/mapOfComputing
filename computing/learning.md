@@ -1,6 +1,11 @@
 Learning/Training
 =================
 
+* [What’s Wrong With Most Godot Tutorials (including ours)](https://www.youtube.com/watch?v=yQZKXdwyh-Q)
+    * Most courses start from bottom up - this sucks as it has no context
+    * Small partial programs that demonstrate one idea well
+    * Godot is a game engine/framework
+
 Computing tools for training other skills
 
 * [pianojacq.com](https://pianojacq.com/)

@@ -15,6 +15,7 @@ History
 * [[history-of-the-internet]]
 * [[history-of-ide]]
 
+* [Bob Eagars](http://www.bobeager.uk/anecdotes.html) Anecdotes and Stories
 
 * Danm Interesting [Nineteen Seventy Three Long-Form/Podcast](https://www.damninteresting.com/nineteen-seventy-three/) - Chile's audacious 1970s-era plan to network and automate the country's entire economy, hindered by political upheaval and CIA maneuvering
 

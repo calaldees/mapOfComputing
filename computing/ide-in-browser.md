@@ -3,14 +3,23 @@ IDE in browser
 
 Have you're dev environment reproducible and accessible anywhere
 
+
 * Remote IDE
+    * GitHub/[codespaces](https://github.com/features/codespaces) (VSCode in browser)
+        * https://github.com/codespaces
+        * `gh codespace stop`
+        * https://codespaces.new/USERNAME/REPO
+        * when running applications InBrowsers, there are hotkey conflicts VSCode
+            * https://code.visualstudio.com/docs/editor/vscode-web#_keybindings
+            * https://gitlab.com/gitlab-org/gitlab/-/issues/386209
+            * https://github.com/microsoft/vscode/issues/12831#issuecomment-255559791
+            * workaround alt+(number)
     * [gitpod.io](https://gitpod.io)
         * Browser based fully remote dev environment
+        * https://gitpod.io#GITHUB_URL
         * Instant Browser vscode dev environment linked to github/gitlab with container support and public port access
         * [Reflections on software development from anywhere on an iPad](https://ghuntley.com/anywhere/)
             * Comparisons of GitPod/codepsaces + home server setup of OpenVSCode browser IDE from docker
-    * GitHub/[codespaces](https://github.com/features/codespaces)
-        * GitHubs version of GitPod
     * [Recode](https://github.com/recode-sh/cli)
         *  A CLI to create remote development environments in your cloud provider account in seconds 
         *  > ... you can think of it as a desktop version of Gitpod / Coder / GitHub Codespaces less polished and with less features but 100% free, 100% open-source and 100% community-driven 

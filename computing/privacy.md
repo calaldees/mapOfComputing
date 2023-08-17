@@ -4,6 +4,9 @@ Privacy
 > Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.
 <sub>Edward Snowden</sub>
 
+* ['I've Got Nothing to Hide' and Other Misunderstandings of Privacy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565) 2007 Daniel Solove
+    * > Professor Daniel Solove examines the nothing to hide argument. When asked about government surveillance and data mining, many people respond by declaring: "I've got nothing to hide." According to the nothing to hide argument, there is no threat to privacy unless the government uncovers unlawful activity, in which case a person has no legitimate justification to claim that it remain private. The nothing to hide argument and its variants are quite prevalent, and thus are worth addressing. In this essay, Solove critiques the nothing to hide argument and exposes its faulty underpinnings. 
+
 * [Two types of privacy](https://seirdy.one/posts/2022/06/25/two-types-of-privacy/)
     * Tracking Reduction
     * Tracking Evasion

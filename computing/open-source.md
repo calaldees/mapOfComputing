@@ -16,6 +16,8 @@ Open Source
 * [How to pay your rent with your open source project](https://plausible.io/blog/open-source-funding)
     * Detailed breakdown of the real way to earn money from OpenSource projects
 
+* [The Asymmetry of Open Source](https://matt.life/writing/the-asymmetry-of-open-source) A comprehensive guide to funding open source software projects
+
 FLOSS, meaning Free, Liberal, or Open Source Software.
 
 [[software-licences]]

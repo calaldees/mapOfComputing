@@ -4,6 +4,27 @@ AI (Artificial Intelligence)
 * The elephant in the room in many education settings.
 * Mass public misunderstanding
 * TODO this section needs fleshing out MASSIVELY!
+* [LastMile AI](https://lastmileai.dev/workbooks/clj2y933l000mr0avd2ck42s9)
+    * AI Workbooks, like jupyter notebooks. Combine differnt AI's in a single place
+* [kaggle.com](https://www.kaggle.com)
+    * AI Pre Trained Models - Datasets - Workbooks and Tutorials
+* [FakeToxicityPrompts: Automatic Red Teaming](https://interhumanagreement.substack.com/p/faketoxicityprompts-automatic-red)
+    * Modern LLMs are disappointingly easy to trick into toxicity
+* [AI Regulation in the UK](https://www.lexology.com/library/detail.aspx?g=49cf1034-3f1c-48df-95c0-05af3a41602a&utm_source=Lexology+Daily+Newsfeed&utm_medium=HTML+email+-+Body+-+General+section&utm_campaign=Lexology+subscriber+daily+feed&utm_content=Lexology+Daily+Newsfeed+2023-07-06&utm_term=)
+    * 29 March 2023, the UK government published its whitepaper titled “a pro-innovation approach to AI regulation”, (the Whitepaper) which sets out the UK’s proposed regulatory framework for AI.
+    * The principles are as follows:
+        * Safety, security and robustness. AI should function in a robust, secure and safe way throughout its lifecycle and risks should be continually identified, assessed and managed.
+        * Appropriate transparency and explainability. AI should be appropriately transparent and explainable, i.e., it should provide information on how, when and for what purposes AI is being used, while also making it possible for parties to access, interpret and understand its decision-making processes.
+        * Fairness. AI should not undermine the legal rights of individuals or organisations, discriminate unfairly against individuals or create unfair market outcomes.
+        * Accountability and governance. Governance measures should be in place to ensure effective oversight of the supply and use of AI, with clear lines of accountability established across the AI life cycle.
+        * Contestability and redress. Impacted third parties or users of AI should be able to contest an AI decision or outcome that is harmful or creates material risk of harm.
+    * https://publiclawproject.org.uk/content/uploads/2023/06/AI-alternative-white-paper-in-template.pdf  ‘Alternative AI White Paper’ in June 2023, criticising the approach taken
+* [photoprism](https://github.com/photoprism/photoprism)
+    * PhotoPrism® is an AI-Powered Photos App for the Decentralized Web. It makes use of the latest technologies to tag and find pictures automatically without getting in your way. You can run it at home, on a private server, or in the cloud.
+* [Calculating Sunflower Oil Production](https://chat.openai.com/share/f5341665-7f08-4fca-9639-04201363506e)
+    * A disturbing unravelling of ai
+* [MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352) August 2023
+    * 
 
 * [[ai-training]]
 * [[llm]]

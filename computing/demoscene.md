@@ -63,10 +63,14 @@ https://www.flipcode.com/archives/articles.shtml
 Trackers/Mods
 -------------
 
+* [Music Trackers: A Brief History](https://youtu.be/aiILSgNt23E) YouTube 6min
+
 ### Trackers
+* [milkytracker](https://milkytracker.org/) - cross platform 64bit - evolution of ProTracker/FastTracker
+* [ModPlug](https://www.modplug.com/)
 * [renoise](https://www.renoise.com/products/renoise) - a modern DAW tracker
 * [openmpt](https://openmpt.org/)
-* [Schism Tracker](https://schismtracker.org/) - a free and open-source reimplementation of [Impulse Tracker](https://en.wikipedia.org/wiki/Impulse_Tracker)
+* [Schism Tracker](https://schismtracker.org/) - a free and open-source reimplementation of [Impulse Tracker](https://en.wikipedia.org/wiki/Impulse_Tracker) which is turn is an extension of screamtracker (FutureCrew)
 * [FT2 clone](https://16-bits.org/ft2.php) - [The 90s are alive, with a free, modern clone of FastTracker II](https://cdm.link/2018/04/90s-alive-free-modern-clone-fasttracker-ii/)
 
 ### Players
