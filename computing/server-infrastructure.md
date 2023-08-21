@@ -4,6 +4,20 @@ Server Infrastructure
 * [[kubernetes]]
 * [[monitoring]]
 
+* [Structuring your Infrastructure as Code](https://leebriggs.co.uk/blog/2023/08/17/structuring-iac)
+
+Layer |Name |Example Resources
+|-|-|-|
+0 |Billing |AWS Organization/Azure Account/Google Cloud Account
+1 |Privilege |AWS Account/Azure Subscription/Google Cloud Project
+2 |Network |AWS VPC/Google Cloud VPC/Azure Virtual Network
+3 |Permissions |AWS IAM/Azure Managed Identity/Google Cloud Service Account
+4 |Data |AWS RDS/Azure Cosmos DB/Google Cloud SQL
+5 |Compute |AWS EC2/Azure Container Instances/GKE
+6 |Ingress |AWS ELB/Azure Load Balancer/Google Cloud Load Balancer
+7 |Application |Kubernetes Manifests/Azure Functions/ECS Taks/Google Cloud Functions
+
+
 * [Infrastructure overview](https://mangadex.dev/mangadex-v5-infrastructure-overview/)
     * Description of the infra for MangaDex (a free manga reading site)
 

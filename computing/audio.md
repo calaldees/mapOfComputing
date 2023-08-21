@@ -11,6 +11,8 @@ Audio
 
 
 * [[voder]] early speech synthesis
+* [How Surround Sound for Headphones Works](https://hajo.me/blog/2014/12/28/how-surround-sound-for-headphones-works/)
+    * Detailed breakdown of code/engine/processing to give 5.1 audio from headphones
 
 sin
 saw

@@ -18,6 +18,8 @@ Parity
     * Block level snapshot restore
     * Raid-Z, Raid-Z2
     * Adaptive Replacement Cache
+* [raidz expansion feature](https://github.com/openzfs/zfs/pull/15022)
+  * This feature allows disks to be added one at a time to a RAID-Z group, expanding its capacity incrementally.
 
 * [Reed-Solomon error recovery in RAID-6](https://anadoxin.org/blog/error-recovery-in-raid6.html/)
 
