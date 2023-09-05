@@ -21,6 +21,9 @@ Maths
     * Beautiful web/book illustrating mathematical and computing set constructs and terminology.
 * [Map of Mathematics](https://mathmap.quantamagazine.org/map/)
 
+* [None of the Above: Yeah p-values suck. But replacing them with another metric is no solution. The problem lies deeper.](https://elevanth.org/blog/2023/07/17/none-of-the-above/)
+    * > I am not a fan of p-values and null hypothesis significance testing (NHST).
+
 * [Discovering Statistics Using IBM SPSS Statistics](https://www.discoveringstatistics.com/books/dsus/) Andy Field
     * > With an exciting new look, new characters to meet, and its unique combination of humour and step-by-step instruction, this award-winning book is the statistics lifesaver for everyone. From initial theory through to regression, factor analysis and multilevel modelling, Andy Field animates statistics and SPSS software with his famously bizarre examples and activities.
     * > using SPSS to illustrate important statistical material and, through graphics, to make visible important approaches to data analysis. There are many places in the book where I had to laugh, and that’s saying a lot for a book on statistics

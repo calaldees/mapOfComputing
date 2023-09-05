@@ -25,3 +25,8 @@ Ideas
 * [Fold n Fly - Paper aeroplane designs](https://www.foldnfly.com/) #papercraft
 * [DVD Laser Scanner Microscope](https://www.gaudi.ch/GaudiLabs/?page_id=652)
     * homemade laser microscope with off the shelf parts
+* [Youtube-to-Webpage](https://github.com/obra/Youtube2Webpage/)
+    * Take VTT and Youtube Image API and make a static website with links to each line
+    * AWESOME!
+* [animatedknots.com](https://www.animatedknots.com/)
+    * SO COOL!

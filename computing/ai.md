@@ -1,6 +1,9 @@
 AI (Artificial Intelligence)
 ============================
 
+* [The workers at the frontlines of the AI revolution](https://restofworld.org/2023/ai-revolution-outsourced-workers/) 2023
+    * How 4 jobs have been transformed by AI in last year
+
 * The elephant in the room in many education settings.
 * Mass public misunderstanding
 * TODO this section needs fleshing out MASSIVELY!

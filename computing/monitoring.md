@@ -18,3 +18,11 @@ Logs
     * Description of a log encoding scheme with partitions.
     * TODO: read this. Lots of wisdom where
 
+Personal
+--------
+
+* [changedetection.io](https://changedetection.io/)
+    * Setup alerts for changes online
+        * Dates? Price changes?
+    * [github.com/dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+    

@@ -188,6 +188,16 @@ Learning Resources and Simulators
     * 23 Network Simulators for Education with summary table
 
 * [filius-de](https://www-lernsoftware--filius-de.translate.goog/?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc)
+    * [Introduction to the world of FILIUS](https://www.lernsoftware-filius.de/downloads/Introduction_Filius.pdf) 2015 english translation
+
+* [Open-Source Routing and Network Simulation](https://www.brianlinkletter.com/open-source-network-simulators/)
+    * A guy that updates and reviews a lits of network simulators used for education
+    * https://www.brianlinkletter.com/2023/02/network-emulators-and-network-simulators-2023/
+    * https://www.brianlinkletter.com/2023/03/network-simulators-for-high-school-teachers/
+
+* [pt-anywhere](https://pt-anywhere.kmi.open.ac.uk/)
+    * dont host anymore - must self host
+    * Cisco packet trace on web - need to host yourself (pretty narly install)
 
 * [NetworkDirection.net](https://networkdirection.net/) Resources to expand your networking horizons
     * Here you will find IT educational resources, specifically for networking. Whether you are a beginner or you have been in the industry for years, you will find easy to understand videos on a range of topics to suit your skill set. 

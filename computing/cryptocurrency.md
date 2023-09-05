@@ -3,6 +3,8 @@ Cryptocurrency
 
 * [[blockchain]]
 
+* [wikipedia: Legality of cryptocurrency by country or territory](https://en.wikipedia.org/wiki/Legality_of_cryptocurrency_by_country_or_territory)
+
 * [But how does bitcoin actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
 * [decrypt.co](https://decrypt.co/learn) - Great resources to learn the basics of blockchain and cryptocurrencies 
 * [What I Think of Bitcoin](https://www.bridgewater.com/research-and-insights/ray-dalio-what-i-think-of-bitcoin) Jan 2021

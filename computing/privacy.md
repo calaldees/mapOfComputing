@@ -4,6 +4,11 @@ Privacy
 > Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.
 <sub>Edward Snowden</sub>
 
+* [The boiling frog of digital freedom](https://gazoche.xyz/posts/boiling-frog/)
+    * How our tools are going lock us into being unable to create content
+* [The problem of creeping commercial surveillance](https://elnion.com/2022/02/07/the-problem-of-creeping-commercial-surveillance/)
+    * explains how the McDonaldes app rather than a coffee/stamp reward scheme leads to a hunger for more data
+
 * ['I've Got Nothing to Hide' and Other Misunderstandings of Privacy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565) 2007 Daniel Solove
     * > Professor Daniel Solove examines the nothing to hide argument. When asked about government surveillance and data mining, many people respond by declaring: "I've got nothing to hide." According to the nothing to hide argument, there is no threat to privacy unless the government uncovers unlawful activity, in which case a person has no legitimate justification to claim that it remain private. The nothing to hide argument and its variants are quite prevalent, and thus are worth addressing. In this essay, Solove critiques the nothing to hide argument and exposes its faulty underpinnings. 
 

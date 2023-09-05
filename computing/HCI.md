@@ -31,6 +31,10 @@ HCI
 * [Usability Heuristics for User Interface Design](https://www.1984.design/c/discussions/usability-heuristics-for-user-interface-design)
     * 
 
+* [Semantic zoom](https://alexanderobenauer.com/labnotes/038/)
+    * Beautiful examples of UI's that dynamically adjust size
+    * Including a video example idea from 1997? SO COOL!
+
 Hardware
 --------
 
