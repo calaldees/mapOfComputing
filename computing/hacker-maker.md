@@ -30,3 +30,4 @@ Ideas
     * AWESOME!
 * [animatedknots.com](https://www.animatedknots.com/)
     * SO COOL!
+* [Open source screw counting machine](https://github.com/Indystrycc/OpenScrewCounter)

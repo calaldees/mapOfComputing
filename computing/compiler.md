@@ -21,6 +21,8 @@ BNF
 
 Compilers optimise into something that is unrecognizable but performs the same function
 
+* [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500/)
+
 * Let's write a compiler
     * [Let's write a compiler, part 1: Introduction, selecting a language, and doing some planning](https://briancallahan.net/blog/20210814.html)
     * [Let's write a compiler, part 2: A lexer](https://briancallahan.net/blog/20210815.html)
