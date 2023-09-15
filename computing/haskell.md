@@ -12,3 +12,8 @@ Haskell
 
 * [Haskell School of Music](https://www.cs.yale.edu/homes/hudak/Papers/HSoM.pdf)
     * Whole book about functional music creation
+
+* [snake-fury](https://github.com/lsmor/snake-fury)
+    * > Welcome to snake-fury: the Haskell challenge for beginners. This challenge aims to provide a learning path for people willing to learn Haskell further than basic recursion exercises by implementing the snake game in Haskell. Snake-fury's pedagogical approach is based on two legs:
+        * snake-fury isn't a tutorial but a challenge.
+        * snake-fury is focused on learning by refactoring, not by example.

@@ -10,6 +10,7 @@ Privacy
     * How our tools are going lock us into being unable to create content
     * [[wei]]
     * [[c2pa]]
+    * [If You’ve Got a New Car, It’s a Data Privacy Nightmare](https://gizmodo.com/mozilla-new-cars-data-privacy-report-1850805416) Bad news: your car is a spy. Every major car brand's new internet-connected models flunked privacy and security tests conducted by Mozilla
 * [The problem of creeping commercial surveillance](https://elnion.com/2022/02/07/the-problem-of-creeping-commercial-surveillance/)
     * explains how the McDonaldes app rather than a coffee/stamp reward scheme leads to a hunger for more data
 

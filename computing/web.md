@@ -19,6 +19,7 @@ Web
 * future
     * [[wei]]
     * [[c2pa]]
+    * The webpage wont load unless all content has a authenticity chain of creation
 
 Tools
 -----

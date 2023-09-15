@@ -15,23 +15,26 @@ Creativity Visulisation
     * [Demo Reel & Tiny JavaScript – Mathieu Henri / Front-Trends 2016](http://www.p01.org/FrontTrends_2016/) 30min video
         * Love code a demo effect + audio in js
     * [Demo or Die! You're a teen hacker, you want to impress, you demo code](https://www.wired.com/1995/07/democoders/) - description of the demoscene
-    * [flashtro-morton-strikes-back](http://flashtro.com/flashtro-morton-strikes-back/)
-    * [elevated by Rgba & TBC | 4k intro](https://www.youtube.com/watch?v=jB0vBmiTr6o) - [rgba_tbc_elevated_source.zip](https://files.scene.org/view/resources/code/sources/rgba_tbc_elevated_source.zip)
-        * [Escalated](https://www.shadertoy.com/view/MtK3Wc) 1024byte shader similar to Elavated - browser demo
-        * [Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise)
-            * [Coding Challenge #11: 3D Terrain Generation with Perlin ](https://www.youtube.com/watch?v=IKB1hWWedMk) 22min
-    * [Countdown to extinction by MX / ADDiCT](https://demozoo.org/productions/319322/)
-        * 1k windows (like onicopter video in DuneCD game)
-    * [The vanishing of Ashlar by NuSan (PC 4k intro)](https://youtu.be/lAvug7LKiIE)
-    * ["Memories" - 256 byte MSDOS intro](https://youtu.be/Imquk_3oFf4) #dos
-        * Smaller then a single tweet (each character/letter is a byte)
-        * [code + explanation](http://www.sizecoding.org/wiki/Memories)
-    * [Javascript Magic Tunnel](https://js1k.com/2019-x/demo/4293)
-    * [Nightdrive](https://incoherency.co.uk/blog/stories/nightdrive.html) - Night time driving simulation
-        * Not really a demo - but a really chill cool concept
-    * [TiTAN - Overdrive 2 (RGB 50fps) - SEGA Mega Drive - Revision 2017 (1st Place)](https://www.youtube.com/watch?v=gWVmPtr9O0g)
-    * [8088MPH](https://www.youtube.com/watch?v=yHXx3orN35Y) DOS CGA
-    * [BACK TO THE PET](https://www.youtube.com/watch?v=3FFPCuDqi_g) 2022 Commodore PET
+    * [Animations from first principles](https://mathspp.com/blog/animations-from-first-principles-in-5-minutes)
+        * Pyhton Pygame - morph of circle
+    * Examples
+        * [flashtro-morton-strikes-back](http://flashtro.com/flashtro-morton-strikes-back/)
+        * [elevated by Rgba & TBC | 4k intro](https://www.youtube.com/watch?v=jB0vBmiTr6o) - [rgba_tbc_elevated_source.zip](https://files.scene.org/view/resources/code/sources/rgba_tbc_elevated_source.zip)
+            * [Escalated](https://www.shadertoy.com/view/MtK3Wc) 1024byte shader similar to Elavated - browser demo
+            * [Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise)
+                * [Coding Challenge #11: 3D Terrain Generation with Perlin ](https://www.youtube.com/watch?v=IKB1hWWedMk) 22min
+        * [Countdown to extinction by MX / ADDiCT](https://demozoo.org/productions/319322/)
+            * 1k windows (like onicopter video in DuneCD game)
+        * [The vanishing of Ashlar by NuSan (PC 4k intro)](https://youtu.be/lAvug7LKiIE)
+        * ["Memories" - 256 byte MSDOS intro](https://youtu.be/Imquk_3oFf4) #dos
+            * Smaller then a single tweet (each character/letter is a byte)
+            * [code + explanation](http://www.sizecoding.org/wiki/Memories)
+        * [Javascript Magic Tunnel](https://js1k.com/2019-x/demo/4293)
+        * [Nightdrive](https://incoherency.co.uk/blog/stories/nightdrive.html) - Night time driving simulation
+            * Not really a demo - but a really chill cool concept
+        * [TiTAN - Overdrive 2 (RGB 50fps) - SEGA Mega Drive - Revision 2017 (1st Place)](https://www.youtube.com/watch?v=gWVmPtr9O0g)
+        * [8088MPH](https://www.youtube.com/watch?v=yHXx3orN35Y) DOS CGA
+        * [BACK TO THE PET](https://www.youtube.com/watch?v=3FFPCuDqi_g) 2022 Commodore PET
 
 
 
@@ -72,6 +75,8 @@ Trackers/Mods
 * [openmpt](https://openmpt.org/)
 * [Schism Tracker](https://schismtracker.org/) - a free and open-source reimplementation of [Impulse Tracker](https://en.wikipedia.org/wiki/Impulse_Tracker) which is turn is an extension of screamtracker (FutureCrew)
 * [FT2 clone](https://16-bits.org/ft2.php) - [The 90s are alive, with a free, modern clone of FastTracker II](https://cdm.link/2018/04/90s-alive-free-modern-clone-fasttracker-ii/)
+* [Bintracker](https://bintracker.org/) A Chiptune Audio Workstation for the 21st Century
+
 
 ### Players
 

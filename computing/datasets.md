@@ -104,6 +104,7 @@ https://data.cambridgeshireinsight.org.uk/dataset/mill-road-project-traffic-sens
 
 * [Analysis of distances between bus stops](https://www.michalpaszkiewicz.co.uk/blog/busdistributions/index.html) London 2023
 
+* [apps.london.gov.uk/street-trees](https://apps.london.gov.uk/street-trees/) Web app to see all street trees in London
 
 Data formats
 ------------

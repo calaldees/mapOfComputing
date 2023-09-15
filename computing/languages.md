@@ -7,6 +7,9 @@ Languages
 * [[dsl]]
 * [[dynamic-programming]]
 
+* [[static-languages]]
+* [[dynamic-languages]]
+
 * [[no-code]]
 
 
@@ -212,6 +215,8 @@ Performance
 [language-cheatsheets]: language-cheatsheets.md "Language Cheatsheets"
 [dsl]: dsl.md "Domain Specific Languages (DSL)"
 [dynamic-programming]: dynamic-programming.md "Dynamic Programming"
+[static-languages]: static-languages.md "Static Languages"
+[dynamic-languages]: dynamic-languages.md "Dynamic Languages"
 [no-code]: no-code.md "NoCode"
 [visual-programming-languages]: visual-programming-languages.md "Visual Programming Languages"
 [assembly]: assembly.md "Assembly Code"

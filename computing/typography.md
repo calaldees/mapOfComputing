@@ -33,6 +33,7 @@ Fonts
     * Mario's Lab [Rendering like it's 1996 - Bitmap fonts and DOS](https://marioslab.io/posts/rendering-like-its-1996/dos-nostalgia/)
         * Testing graphics throughput on a 486 (touch video memory ONCE as you have limited bandwidth)
     * [Arcade Game Typography](https://readonlymemory.vg/shop/book/arcade-game-typography/)
+    * [ZX Origins](https://damieng.com/typography/zx-origins) - 8x8 mono bitmap fonts
     * [NFG's Arcade Font Engine](https://nfggames.com/games/fontmaker/lister.php)
         * ```python
             def font_loader(filename, sequence='ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789', size=8, font_name='aof2'):
@@ -60,7 +61,7 @@ Fonts
     * [hoard-of-bitfonts](https://github.com/robhagemans/hoard-of-bitfonts/)
         * Black and white fonts in text files for retro computers
     * [opengameart.org pixel font pack](https://opengameart.org/content/bitmap-font-pack)
-* TrueType
+* TrueType (only black and white flat)
     * [Lexend](https://www.lexend.com/)
         * [github](https://github.com/ThomasJockin/lexend)
         * See [[Accessibility]]
@@ -88,7 +89,8 @@ Fonts
         * AI generated handwriting
 * Exotic
     * [Nabla: Isometric font](https://nabla.typearture.com/)
-
+* Color fonts
+    * [Google Color Fonts](https://fonts.google.com/knowledge/introducing_type/introducing_color_fonts)
 
 Text is Hard
 ------------
