@@ -21,6 +21,7 @@ See [[model]]
 * Fluid
     * [WebGL-Fluid-Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
     * [WaterLily.jl](https://github.com/weymouth/WaterLily.jl)
+    * [Coding Adventure: Simulating Fluids](https://www.youtube.com/watch?v=rSKMYc1CQHE)
 * Fire
     * [Far Cry: How the Fire Burns and Spreads](https://jflevesque.com/2012/12/06/far-cry-how-the-fire-burns-and-spreads/) 2012
 * Traffic

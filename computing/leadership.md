@@ -1,6 +1,9 @@
 Leadership
 ==========
 
+* [The Common-Knowledge Effect](https://www.nngroup.com/articles/common-knowledge-effect/)
+    * > Definition: The common-knowledge effect is a decision-making bias where teams overemphasize the information most team members understand instead of pursuing and incorporating the unique knowledge of team members.
+
 Most people become leaders after being great engineers. Trouble is that great engineers mya not have good leadership skills.
 Many leaders are inexperienced and untrained.
 

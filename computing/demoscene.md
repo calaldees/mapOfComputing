@@ -3,6 +3,9 @@ Demoscene
 
 Copied from computingAcrossCurriculum.md
 
+* [What is the Demoscene?](https://onthearts.com/p/what-is-the-demoscene) An Interview with Filipe Cruz on the Influential but Obscure Art Form
+    * [demoparty.net](https://www.demoparty.net/) - List of past and future events on a map
+
 Creativity Visulisation
 
 * [Demoscene](https://en.wikipedia.org/wiki/Demoscene)
@@ -38,7 +41,8 @@ Creativity Visulisation
 
 
 
-
+* [What is Executable Graphics?](https://executable.graphics/about.html)
+    * > 4K' here refers to the filesize, not the resolution
 * [Teach Yourself Demoscene in 14 Days](https://github.com/psenough/teach_yourself_demoscene_in_14_days)
 
 https://www.flipcode.com/archives/articles.shtml
@@ -76,7 +80,8 @@ Trackers/Mods
 * [Schism Tracker](https://schismtracker.org/) - a free and open-source reimplementation of [Impulse Tracker](https://en.wikipedia.org/wiki/Impulse_Tracker) which is turn is an extension of screamtracker (FutureCrew)
 * [FT2 clone](https://16-bits.org/ft2.php) - [The 90s are alive, with a free, modern clone of FastTracker II](https://cdm.link/2018/04/90s-alive-free-modern-clone-fasttracker-ii/)
 * [Bintracker](https://bintracker.org/) A Chiptune Audio Workstation for the 21st Century
-
+* [furnace](https://github.com/tildearrow/furnace) -  a multi-system chiptune tracker compatible with DefleMask modules
+    * [ [Sega Genesis cover] Scorpik - Fountain of Sighs](https://www.youtube.com/watch?v=TMiGqe_l8Zo)
 
 ### Players
 

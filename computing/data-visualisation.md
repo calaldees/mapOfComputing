@@ -26,6 +26,9 @@ Data Visualisation
     * [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
     * [xkcd Visualisations](http://www.vislives.com/2011/10/xkcd-visualizations.html)
     * [visualcapitalist.com](https://www.visualcapitalist.com/)
+        * https://www.visualcapitalist.com/most-viewed-youtube-videos/
+        * https://www.visualcapitalist.com/every-song-with-over-1-billion-spotify-streams/
+        * https://www.visualcapitalist.com/music-industry-revenues-by-format/
     * [Bruises — The Data We Don’t See](https://medium.com/@giorgialupi/bruises-the-data-we-dont-see-1fdec00d0036)
         * Artistic humanisation of data though charts and music through a child's illness and feelings
     * [Why scientists need to be better at data visualization](https://www.knowablemagazine.org/article/mind/2019/science-data-visualization)

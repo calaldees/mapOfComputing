@@ -2,6 +2,7 @@ Visual Programming Languages
 ============================
 
 * [Learnable Programming](http://worrydream.com/#!/LearnableProgramming) - Designing a programming system for understanding programs
+    * http://worrydream.com/LearnableProgramming/
 
 * [Rethinking Visual Programming with Go](https://divan.dev/posts/visual_programming_go/) #golang [[golang]]
     * Great description of conventional code editing is "caveman in a dark cave with a tourch" analogy
@@ -21,8 +22,9 @@ Visual Programming Languages
 
 
 * [VPL: Visual Programming Language](https://en.wikipedia.org/wiki/Visual_programming_language)
-    * [Hacker News folk wisdom on visual programming](https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/)
-        * Comments and commentary
+
+* [Hacker News folk wisdom on visual programming](https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/)
+    * Comments and commentary
 
 * [Learnable Programming](http://worrydream.com/#!/LearnableProgramming) Bret Victor / September 2012
     * Designing a programming system for understanding programs

@@ -14,6 +14,7 @@ Game
 * [[game-file-formats]]
 * [[game-business]]
 * [[demake]]
+* [[pinball]]
 
 https://github.com/scottrippey/xquestjs
 http://scottrippey.github.io/xquestjs/
@@ -97,6 +98,7 @@ Old architecture stories
 [game-file-formats]: game-file-formats.md "Game file formats"
 [game-business]: game-business.md "Game Business"
 [demake]: demake.md "De-make"
+[pinball]: pinball.md "Pinball"
 [simulation]: simulation.md "Simulation"
 [pico8]: pico8.md "Pico8"
 [assembly]: assembly.md "Assembly Code"

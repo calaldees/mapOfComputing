@@ -60,7 +60,8 @@ Sharing build cache
 
 * [The smallest Docker image to serve static websites](https://lipanski.com/posts/smallest-docker-image-static-website)
     * `thttpd` 187kb - built with alpine but uses the `scratch` image with no OS installed
-
+* [Working on Multiple Web Projects with Docker Compose and Traefik](https://georgek.github.io/blog/posts/multiple-web-projects-traefik/)
+    * Using a domain trafik that points to 127.0.0.1 and having name resolution - Kind of neat and simple docker-compose.override
 
 
 ### Docker Commandline Helpers
@@ -81,6 +82,7 @@ Podman
 * No Root level daemon
 
 * [Migrating from Docker to Podman](https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman/)
+* [Quadlets might make me finally stop using docker-compose](https://major.io/p/quadlets-replace-docker-compose/)
 
 * [Will Nix Overtake Docker?](https://blog.replit.com/nix-vs-docker)
     * repl.it is moving from a single 30gb mega- container to a `nix` package pick and mix approach

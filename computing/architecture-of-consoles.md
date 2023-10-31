@@ -15,6 +15,8 @@ Architecture of Games Consoles
 [SegaVR](https://gamehistory.org/segavr/) 1993 Megadrive - emulated #reverse-engineering from source
 
 * Micro Mages - [How we fit an NES game into 40 Kilobytes](https://www.youtube.com/watch?v=ZWQ0591PAxM)
+    * [Sprite Recycling in Micro Mages](https://www.kickstarter.com/projects/morphcat-games/triple-jump-a-platformer-multi-cartridge-for-the-nes/posts/3913486)
+    * [Water surface simulation on the NES](https://www.kickstarter.com/projects/morphcat-games/triple-jump-a-platformer-multi-cartridge-for-the-nes/posts/3918838)
 * [NES Scrolling Basics featuring Super Mario Bros. - Behind the Code](https://www.youtube.com/watch?v=3uzcN9PHZZs)
     * Technical video about the registers used for NES scrolling and why it can only scroll vertically or horizontally
 

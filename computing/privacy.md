@@ -6,6 +6,9 @@ Privacy
 
 > cryptography is pointless, you must use your digital identity to speak
 
+* [Prediction: Bias - Predictive Policing Software Terrible At Predicting Crimes](https://themarkup.org/prediction-bias/2023/10/02/predictive-policing-software-terrible-at-predicting-crimes)
+* [TechScape: How police use location and search data to find suspects – and not always the right ones](https://www.theguardian.com/technology/2023/oct/03/techscape-geofence-warrants)
+
 * [The boiling frog of digital freedom](https://gazoche.xyz/posts/boiling-frog/)
     * How our tools are going lock us into being unable to create content
     * [[wei]]
@@ -13,6 +16,9 @@ Privacy
     * [If You’ve Got a New Car, It’s a Data Privacy Nightmare](https://gizmodo.com/mozilla-new-cars-data-privacy-report-1850805416) Bad news: your car is a spy. Every major car brand's new internet-connected models flunked privacy and security tests conducted by Mozilla
 * [The problem of creeping commercial surveillance](https://elnion.com/2022/02/07/the-problem-of-creeping-commercial-surveillance/)
     * explains how the McDonaldes app rather than a coffee/stamp reward scheme leads to a hunger for more data
+
+* [Google Chrome just rolled out a new way to track you and serve ads. Here’s what you need to know](https://theconversation.com/google-chrome-just-rolled-out-a-new-way-to-track-you-and-serve-ads-heres-what-you-need-to-know-213150)
+    * Privacy sandbox - the sites you visit profiled by google and the profile is sent to adversisers
 
 * ['I've Got Nothing to Hide' and Other Misunderstandings of Privacy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565) 2007 Daniel Solove
     * > Professor Daniel Solove examines the nothing to hide argument. When asked about government surveillance and data mining, many people respond by declaring: "I've got nothing to hide." According to the nothing to hide argument, there is no threat to privacy unless the government uncovers unlawful activity, in which case a person has no legitimate justification to claim that it remain private. The nothing to hide argument and its variants are quite prevalent, and thus are worth addressing. In this essay, Solove critiques the nothing to hide argument and exposes its faulty underpinnings. 

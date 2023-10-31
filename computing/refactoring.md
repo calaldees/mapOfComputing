@@ -1,6 +1,9 @@
 Refactoring
 ===========
 
+* [Refactoring has a price. Not refactoring has a cost. Either way, you pay.](https://www.germanvelasco.com/blog/refactoring-is-a-habit)
+    * Software just costs money
+
 * [[testing]] [[automated-testing]]
 
 * See [[functional]] for Dr Software

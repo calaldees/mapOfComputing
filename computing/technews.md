@@ -6,6 +6,7 @@ Tech News
         * How HackerNews ranks posts and are upvoted to the main page
     * [Lindy Hacker News](https://hn.lindylearn.io/)
         * [Lindy_effect](https://en.wikipedia.org/wiki/Lindy_effect)
+    * [AI To summarise hacernews pages and the comments](https://hackyournews.com/)
 * [Lobsters](https://lobste.rs/) is a computing-focused community centered around link aggregation and discussion
 * [quastor.org](https://www.quastor.org/)
     * Become a better developer in 5 minutes a day

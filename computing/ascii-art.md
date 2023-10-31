@@ -10,6 +10,7 @@ Ascii Art
         * Replace old #ClojureScript implementation with [[web-assembly]] and [[rust]] + #solid.js for client updates
 https://github.com/bejd/clad-ascii
 http://www.asciimation.co.nz/
+https://16colo.rs/
 
 * [Explaining Code using ASCII Art](https://blog.regehr.org/archives/1653)
     * see [[diagrams]]

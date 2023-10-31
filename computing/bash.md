@@ -16,6 +16,7 @@ Born Again Shell
 * [.bashrc PS1 Generator](http://bashrcgenerator.com/)
 
 pipe write
+* Note: pipe `|` is multiprocess!!! - each part is a differnt process! This is really performant!
 cat
 * [NetCat](https://blog.ikuamike.io/posts/2021/netcat/)
 * [[grep]]

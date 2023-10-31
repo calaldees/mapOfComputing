@@ -66,6 +66,11 @@ Technologies
     * [DeckDown](http://deckdown.org/)
     * [fusuma](https://hiroppy.github.io/fusuma/) - [github/fusuma](https://github.com/hiroppy/fusuma)
     * [johnloy/markdown-for-slide-decks.md](https://gist.github.com/johnloy/27dd124ad40e210e91c70dd1c24ac8c8)
+    * [remarkjs](https://remarkjs.com)
+        * [github.com/gnab/remark](https://github.com/gnab/remark)
+        * Just pop a JS cdn in html and instant presentation!
+        * P == presenter mode
+        * `---` for a new slide
 * Books
     * [bookdown.org](https://bookdown.org/)
         * [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
@@ -158,6 +163,9 @@ Editors
             * [extension](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
                 * added new preview mode
                 * sometimes unstable on large documents?
+            * [syntax](https://github.com/shd101wyy/markdown-preview-enhanced/blob/master/docs/markdown-basics.md)
+                * Superscript, line number, CriticMarks Admonition
+                * `enableExtendedTableSyntax` in extension settings
             * Mermaid
             * flowchart.js
             * Missing
@@ -177,7 +185,18 @@ Editors
                     ```
                 * partial line numbers from file
                 * can execute commands and include the output
-        
+* [mkdocs](https://squidfunk.github.io/mkdocs-material/)
+    * > Write your documentation in Markdown and create a professional static site in minutes – searchable, customizable, in 60+ languages, for all devices.
+    * This looks so beautiful!
+
+* admonition
+    * note, info, question, tip, warning, danger, bug, example
+
+!!! warning    This is the admonition title
+    This is the admonition body
+
+Some after space
+
 
 Flavors
 -------

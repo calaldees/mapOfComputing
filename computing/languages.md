@@ -113,6 +113,7 @@ Languages
 
 * [Here’s what people in tech had to say about JavaScript when it debuted in 1995](https://medium.com/dailyjs/heres-what-people-in-tech-had-to-say-about-javascript-when-it-debuted-in-1995-a4b81dc05b71)
 * [PYPL PopularitY of Programming Language](http://pypl.github.io/PYPL.html)
+* [The Top Programming Languages 2023: Python and SQL are on top, but old languages shouldn’t be forgotten](https://spectrum.ieee.org/the-top-programming-languages-2023) 29 Aug 2023 Stephen Cass
 
 Static languages
 ----------------
