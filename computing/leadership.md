@@ -52,3 +52,6 @@ Behaviours to inspire in employees
 * [Valve_NewEmployeeHandbook.pdf](https://cdn.cloudflare.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf) 2012
     * No roles - no managers - employ bright people to solve problems - no emails of progress
     * No external funding (ever) - own their own ip
+
+* [Your Small Imprecise Ask Is a Big Waste of Their Time](https://staysaasy.com/startups/2023/11/10/imprecise-asks.html)
+    * Leaders that are not clear about what to deliver face their teams spending disproportionate time fulfilling the request.

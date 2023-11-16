@@ -8,6 +8,9 @@ History of Graphics
 
 * [[graphics-evolution]]
 * [[cga]]
+* [RECOIL - Retro Computer Image Library](https://recoil.sourceforge.net/)
+    * Plugins/integrations for Windows, Linux(Gnome)  for previewing know retro image formats
+    * [Rediscovering Compuserve RLE Graphics](http://brutmanlabs.org/RLE/RLE_Graphics.html) black and white format from 1987
 
 * [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://www.jagregory.com/abrash-black-book/) 1997 3D graphics from scratch in DOS (Quake)
 

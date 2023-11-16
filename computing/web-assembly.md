@@ -2,12 +2,23 @@ Web Assembly
 ============
 
 WebASMmbly
+WasmMVP (first implemenatation) -> WasmGC
 
 * [[wasix]]
 * [[containerisation-WASM]]
 
 C applications can be compiled to webassembly target.
 The future!
+
+* V8 Blog: WasmGC [A new way to bring garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting) 2023
+    Escape analysis to move heap allocations to locals.
+    Devirtualization to turn indirect calls into direct ones (that can then be inlined, potentially).
+    More powerful global dead code elimination.
+    Whole-program type-aware content flow analysis (GUFA).
+    Cast optimizations such as removing redundant casts and moving them to earlier locations.
+    Type pruning.
+    Type merging.
+    Type refining (for locals, globals, fields, and signatures).
 
 * [CheerpX](https://leaningtech.com/pages/cheerpx.html)
     * [CheerpX -> repl](https://repl.leaningtech.com/)

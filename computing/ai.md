@@ -4,6 +4,10 @@ AI (Artificial Intelligence)
 [[chatgtp]]
 [[tensorflow]]
 
+* The future called ... it said most jobs are now obsolete. AI That can perform tasks by interpreting a computer screen
+    * https://www.loom.com/share/9458bcbf79784162aa62ffb8dd66201b
+    * https://github.com/ishan0102/vimGPT
+
 * [The ChatGPT Cheat Sheet (v3)](https://maxrascher.gumroad.com/l/cheatsheetv3)
 
 * [The workers at the frontlines of the AI revolution](https://restofworld.org/2023/ai-revolution-outsourced-workers/) 2023

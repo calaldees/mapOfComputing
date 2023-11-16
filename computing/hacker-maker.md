@@ -34,3 +34,5 @@ Ideas
 * [animatedknots.com](https://www.animatedknots.com/)
     * SO COOL!
 * [Open source screw counting machine](https://github.com/Indystrycc/OpenScrewCounter)
+* [MiSTer](https://github.com/MiSTer-devel/MiSTerLaggy_MiSTer) - A display latency measurement tool
+    * Open source 3d printing for camera + usb-c + software to measure latency of screens

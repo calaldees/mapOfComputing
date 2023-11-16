@@ -1,6 +1,26 @@
 Programming
 ===========
 
+* [Large Language Models and The End of Programming - CS50 Tech Talk with Dr. Matt Welsh](https://youtu.be/JhCl-GeT4jw?si=aVLFVyg2zaTihslA&t=180) YouTube 1hour
+    * > We've been trying to make programming easier for 50 years - It's not got easier - Humans suck at this
+    * Conways Game of life in -> Fortran 1957 -> Basic 1964 -> APL 1966 (special keyboard) -> Rust 2010 (State of the art) (it's still HARD!)
+    * Nobody can write an algorithm for "Summarise a Podcast"
+    * Instructing the model is similar to coding - trial some things
+    * We are not at a point where we can give language instruction and understand them ... programming is dead
+    * Programmer without co-pilot in 2020 (caveman) -> 2021 CoPilot is a gamechanger
+    * Breaking off to StackOverflow and finding the best solution get's you out of the zone of solving your problem
+    * https://allpoetry.com/poem/14374597-The-Homework-Machine-by-Shel-Silverstein
+    * Average professional programmer outputs 100 lines of code a day and (for everything - costs $1200) - GTP tokens are 100 times cheaper
+    * Robot makes mistakes - but they make them VERY quickly
+    * No need to have abstractions (and refining these) or intermediates.
+    * How do we get the computer to do what we want it to do - how do we prompt/use the models? refine them?
+        * "Let's think step by step" was a magic phrase for a model prompt - why? - we don't know - teaching the models is going to be a new discipline
+    * New computational architecture
+        * https://www.fixie.ai/ (build apps with ai)
+            * ai.jsx (to map plain english/react to link to llm) - composing operations is natural thing
+            * voice as communications (not typing)
+    * Expands "Programming" to the entire population
+
 * [[languages]]
 * [[frameworks]]
 * [[competitions]]

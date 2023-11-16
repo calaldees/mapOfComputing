@@ -44,6 +44,9 @@ Creativity Visulisation
 * [What is Executable Graphics?](https://executable.graphics/about.html)
     * > 4K' here refers to the filesize, not the resolution
 * [Teach Yourself Demoscene in 14 Days](https://github.com/psenough/teach_yourself_demoscene_in_14_days)
+* [Atari Video Music (Model C240)](https://en.wikipedia.org/wiki/Atari_Video_Music)
+    * the earliest commercial electronic music visualizer released. released in 1977
+    * The system creates an animated visual display that responds to musical input from a Hi-Fi stereo system
 
 https://www.flipcode.com/archives/articles.shtml
 
