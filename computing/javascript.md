@@ -31,7 +31,12 @@ http://youmightnotneedjquery.com/
 * [Using ES Modules (ESM) in Node.js: A Practical Guide (Part 1)](https://gils-blog.tayar.org/posts/using-jsm-esm-in-nodejs-a-practical-guide-part-1/)
     * How to use ES2015+ modules
 
-
+* [khalidx/node-typescript-esm.md](https://gist.github.com/khalidx/1c670478427cc0691bda00a80208c8cc)
+    * The experience of using Node.JS with TypeScript, ts-node, and ESM is horrible.
+    * There are countless guides of how to integrate them, but none of them seem to work.
+    * Here's what worked for me.
+    * Just add the following files and run `npm run dev`. You'll be good to go!
+    * `package.json`
 
 * [ES2015+ cheatsheet](https://devhints.io/es6)
 * [10 New JavaScript Features in ES2020 That You Should Know](https://www.freecodecamp.org/news/javascript-new-features-es2020/)

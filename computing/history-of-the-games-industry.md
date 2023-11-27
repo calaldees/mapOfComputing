@@ -1,4 +1,7 @@
 
+* [First is the Worst: Nintendo's Color TV Game 6 & 15](https://nicole.express/2023/not-another-color-post-i-swear.html)
+    * 1977 Nintendos first home system for CRT's
+
 * [HISTORY OF VIDEO GAMES (1940's - 2010's)](https://ultimatehistoryvideogames.jimdofree.com/)
     * List of "Firsts" in videogames - massive list!
 

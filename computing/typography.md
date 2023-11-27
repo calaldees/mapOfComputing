@@ -60,6 +60,8 @@ Fonts
         * My collection of bitmap fonts pulled from various demoscene archives over the years
     * [hoard-of-bitfonts](https://github.com/robhagemans/hoard-of-bitfonts/)
         * Black and white fonts in text files for retro computers
+    * [Raster CRT Typography (According to DEC)](https://www.masswerk.at/nowgobang/2019/dec-crt-typography)
+        * html5 canvas simulator for raster fonts on CRT
     * [opengameart.org pixel font pack](https://opengameart.org/content/bitmap-font-pack)
 * TrueType (only black and white flat)
     * [Lexend](https://www.lexend.com/)
@@ -80,7 +82,10 @@ Fonts
         * [fontlist](https://int10h.org/oldschool-pc-fonts/fontlist/)
         * [romfont](https://github.com/spacerace/romfont)
         * [ibm-prototype](https://int10h.org/blog/2016/03/olympiad-ibm-prototype-fonts-unearthed/)
+    * [rewtnull/amigafonts](https://github.com/rewtnull/amigafonts) - Faithfully remade multi platform Amiga fonts in Amiga aspect 
 * Custom
+    * [Making a font](https://kokorobot.ca/site/making_a_font.html)
+        * for comicbooks
     * [font based on my handwriting](https://sachachua.com/blog/2020/06/pythonfontforgeorg-i-made-a-font-based-on-my-handwriting/)
     * [Creating a handwritten TrueType font in Linux](https://gordonlesti.com/creating-a-handwritten-truetype-font-in-linux/)
         * example and instructions

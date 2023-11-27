@@ -3,6 +3,9 @@ Vector Graphics
 
 * [[svg]]
 
+* [visioncortex/vtracer](https://github.com/visioncortex/vtracer) -  Raster to Vector Graphics Converter
+    *  https://www.visioncortex.org/vtracer/
+
 * [tinyVG](https://tinyvg.tech/) - An alternative binary encoded vector graphics format.
     * A tiny binary vector graphics format that is 50% to 20% of the size of SVG and WAY less complex
 
