@@ -63,6 +63,7 @@ Languages
 
 * [[assembly]]
 * [[c]]
+* [[c++]]
 * [[nim]]
 * [[rust]]
 * [[fstar]]
@@ -101,6 +102,9 @@ Languages
     * [Castel Game Engine](https://castle-engine.io/why_pascal) Written in Pascal!? [[game-engines]]
 * https://www.hylo-lang.org/
     * Hylo (formely Val) is a programming language that leverages mutable value semantics and generic programming for high-level systems programming.
+* [html-lang](https://html-lang.org/)
+    * Some crazy person used html to make a language with a js executor
+    * Could be interesting as a learning exercise as the dom is the abstract syntax tree?
 
 * [[language-cheatsheets]]
 * [[formal-specification]]
@@ -222,6 +226,7 @@ Performance
 [visual-programming-languages]: visual-programming-languages.md "Visual Programming Languages"
 [assembly]: assembly.md "Assembly Code"
 [c]: c.md "C"
+[c++]: c++.md "c++"
 [nim]: nim.md "NIM"
 [rust]: rust.md "Rust"
 [fstar]: fstar.md "F*"

@@ -7,6 +7,13 @@ CPU
     * [[kernel]]
     * [[logical-organization]]
 
+* [The Virtues Of The 8-Bit Era : Eight Iconic Processor Designs](https://thechipletter.substack.com/p/the-virtues-of-the-8-bit-era-eight) - Why do the 8-bit designs of the 1970s generate so much enthusiasm?
+    * Simplicity
+    * Documentation
+    * Close to the metal
+    * Intel 8008
+    * Motarola 68000
+    * Zilog Z80
 * [Intel 80386, a revolutionary CPU](https://www.xtof.info/intel80386.html)
     * 32-bit memory management and protected mode
 

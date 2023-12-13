@@ -107,7 +107,7 @@ Tools
 
 nmap
 dig
-traceroute
+[[traceroute]]
 [bandwhich - Terminal bandwidth utilization tool](https://github.com/imsnif/bandwhich)
 
 * [SonoBus](https://sonobus.net/)
@@ -331,6 +331,7 @@ Unsorted
 [websockets]: websockets.md "WebSockets"
 [http]: http.md "HTTP"
 [wake-on-LAN]: wake-on-LAN.md "Wake on LAN"
+[traceroute]: traceroute.md "traceroute"
 [daw]: daw.md "daw"
 [distributed-filesystems]: distributed-filesystems.md "distributed-filesystems"
 [maps]: maps.md "Maps"

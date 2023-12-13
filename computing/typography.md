@@ -1,6 +1,8 @@
 Typography
 ==========
 
+* [User Interface Typography](https://imperavi.com/books/ui-typography/)
+    * > This book is about how to do good user interface typography, from basic things and principles to building layout and various design elements. The book has hundreds of illustrations that explain every nuance and principle. 
 * [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
     * > For too long typographic style and its accompanying attention to detail have been overlooked by website designers, particularly in body copy. In years gone by this could have been put down to the technology, but now the web has caught up. The advent of much improved browsers, text rendering and high resolution screens, combine to negate technology as an excuse.
 * [Font size is useless; let’s fix it](https://tonsky.me/blog/font-size/)

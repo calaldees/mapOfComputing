@@ -5,7 +5,7 @@ Music
 * [muted.io](https://muted.io/)
     * A magical collection of interactive music theory tools & visual reference pages for musicians and music producers
     * [major  and minor scales](https://muted.io/major-minor-scales/)
-
+* [Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
 
 ABC Notation
 ------------

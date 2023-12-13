@@ -5,6 +5,14 @@ compiler
 * [[assembly]]
 * [Counterexamples in Type Systems](https://counterexamples.org/)
 
+* [Write Your Own Retro Compiler](http://t3x.org/t3x/0/book.html) 2023 Free eBook
+    * Lexical analysis
+    * Syntax analysis
+    * Code generation
+    * Simple optimizations
+    * The BDOS interface
+    * The run time library 
+
 * [Compiler Explorer: Matt Godbolt](https://godbolt.org/) - Web based - See C code and compiled ASM (x86/Arm/riskV)
     * It highlights with colors what parts of the [[c]] code is turned into the ASM bits [[assembly]]
 * [create-your-own-compiler](https://citw.dev/tutorial/create-your-own-compiler)

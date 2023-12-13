@@ -13,6 +13,7 @@ Operating Systems
 * other
     * [[experimental-operating-systems]]
     * [[web-operating-systems]]
+    * [[real-time-os]]
 * [[history-of-operating-systems]]
     * dos and amigaos
 * Abstraction layers
@@ -67,6 +68,7 @@ Operating Systems
 [windows]: windows.md "Windows"
 [experimental-operating-systems]: experimental-operating-systems.md "experimental-operating-systems"
 [web-operating-systems]: web-operating-systems.md "web-operating-systems"
+[real-time-os]: real-time-os.md "real-time-os"
 [history-of-operating-systems]: history-of-operating-systems.md "History of Operating Systems"
 [virtualisation]: virtualisation.md "Virtualisation"
 [containerisation]: containerisation.md "Containerisation"

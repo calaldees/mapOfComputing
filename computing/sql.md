@@ -12,6 +12,7 @@ SQL
         * Write SQL and compile the statements to typesafe Golang
 
 * [sqlite.org/fiddle](https://sqlite.org/fiddle/)
+* SQLite[JSONB has landed](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97) - json is kept in an internal binary format for performnce
 
 * [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/)
     * 13 different conceptual understandings of a JOIN in sql

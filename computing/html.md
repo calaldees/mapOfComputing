@@ -16,3 +16,6 @@
 * [The HTML <video> element needs to go back on the drawing board](https://www.ctrl.blog/entry/html-responsive-video.html) 2021
     * video element is not powerful enough for adaptive streaming
     * We need something similar to img srcset for video
+
+* [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
+    * Modern html removes the need to do many common webpage functionalities as JS
