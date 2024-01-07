@@ -22,6 +22,7 @@ Ideas
 
 ---
 
+* [graphwords.com](https://graphwords.com/) graph thesaurus
 * [Fold n Fly - Paper aeroplane designs](https://www.foldnfly.com/) #papercraft
 * [A4 duplex - Grids/Patterns/Templates/Calligraphy/Hex](https://incompetech.com/graphpaper/)
 * [Everyday Uses for PVC Water Pipe](https://tomtilley.net/projects/pvc/)

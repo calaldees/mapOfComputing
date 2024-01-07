@@ -3,6 +3,12 @@ Code Quality
 
 TODO: port loads of bits over from calaldees/blog?
 
+* IEEE Software [Developer Productivity for Humans, Part 7: Software Quality](https://ieeexplore.ieee.org/document/10372494)
+    * Process Quality
+    * Code Quality
+    * System Quality
+    * Product Quality
+
 * [Boring Python: code quality](https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/)
     * This covers most of my points
 

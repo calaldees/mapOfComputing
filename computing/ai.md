@@ -192,6 +192,12 @@ Images from Text
 * [[ai-text-to]] #stable-diffusion
 * [Text2LIVE:](https://text2live.github.io/): Text-Driven Layered Image and Video Editing
 
+Image - compelte
+----------------
+
+* [Splatter Image: Ultra-Fast Single-View 3D Reconstruction](https://szymanowiczs.github.io/splatter-image)
+    * Rotating 2d images with prediction!
+
 Services
 --------
 

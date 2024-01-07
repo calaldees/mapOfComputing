@@ -8,6 +8,7 @@ Architecture of Games Consoles
     * [PS1](https://www.copetti.org/writings/consoles/playstation/)
     * [XBox360](https://www.copetti.org/writings/consoles/xbox-360/)
         * AMAZINGLY DETAILED! - The security stories are great!
+    * [GameBoy GameBoyColor](https://www.copetti.org/writings/consoles/game-boy/)
 
 * [Scan of the Month](https://scanofthemonth.com/)
     * CT Scans of Gameboy consoles

@@ -10,6 +10,8 @@ WasmMVP (first implemenatation) -> WasmGC
 C applications can be compiled to webassembly target.
 The future!
 
+* [Understanding Every Byte in a WASM Module](https://danielmangum.com/posts/every-byte-wasm-module/)
+    * Compile `a+b` in `C` and see what the code is compiled
 * V8 Blog: WasmGC [A new way to bring garbage collected programming languages efficiently to WebAssembly](https://v8.dev/blog/wasm-gc-porting) 2023
     Escape analysis to move heap allocations to locals.
     Devirtualization to turn indirect calls into direct ones (that can then be inlined, potentially).

@@ -59,6 +59,7 @@ Algorithms
     * Digital Signatures
 * [The Most Important Algorithms](https://www3.risc.jku.at/people/ckoutsch/stuff/e_algorithms.html)
     * [A* search algorithm](https://isaaccomputerscience.org/concepts/dsa_search_a_star?examBoard=all&stage=all&topic=pathfinding)
+        * [A* Tricks for Videogame Path Finding](https://timmastny.com/blog/a-star-tricks-for-videogame-path-finding/)
     * Beam Search
     * Binary search
     * Branch and bound

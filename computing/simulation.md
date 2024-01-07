@@ -24,6 +24,7 @@ See [[model]]
     * [Coding Adventure: Simulating Fluids](https://www.youtube.com/watch?v=rSKMYc1CQHE)
 * Fire
     * [Far Cry: How the Fire Burns and Spreads](https://jflevesque.com/2012/12/06/far-cry-how-the-fire-burns-and-spreads/) 2012
+    * GPU spin[Simulating Fluids, Fire, and Smoke in Real-Time](https://andrewkchan.dev/posts/fire.html) - Notes on the math, algorithms, and methods involved in simulating fluids like fire and smoke in real-time.
 * Traffic
     * [A/B Street](https://github.com/dabreegster/abstreet)
     * [traffic-simulation.de](http://www.traffic-simulation.de)

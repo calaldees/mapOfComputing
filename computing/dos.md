@@ -17,3 +17,7 @@ Used until 1995
 * [DOjS](https://github.com/SuperIlu/DOjS) -  A DOS JavaScript Canvas with sound 
 * [Interesting DOS programs](https://dosprograms.info.tt/)
 * [](http://www.doshaven.eu/)
+* WebServer - FreeDOS supports TCP
+    * [How to: Run a DOS-based Web Server (seriously)](https://lunduke.locals.com/post/5022504/how-to-run-a-dos-based-web-server-seriously)
+    * [DOS on Dope: The last MVC web framework you'll ever need](https://secretgeek.net/dod_intro)
+    * Joke web framework built on DOS batch scripts

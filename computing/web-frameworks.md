@@ -6,6 +6,9 @@ Web Frameworks
 Server Frameworks
 -----------------
 
+* [DOS on Dope: The last MVC web framework you'll ever need](https://secretgeek.net/dod_intro)
+    * Joke web framework built on DOS batch scripts
+
 Client Frameworks
 -----------------
 

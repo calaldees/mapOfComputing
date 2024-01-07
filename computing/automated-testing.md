@@ -3,6 +3,10 @@ Automated Testing
 
 Should we be moving away from testing and more to [[monitoring]]?
 
+* [Thoughts on Testing](https://www.brandons.me/blog/thoughts-on-testing)
+    * Maybe we should not be writing so many tests - which are the tests that have value
+    * Test business logic
+    * Mocking is often complex and fragile
 
 * [[testing]]
 

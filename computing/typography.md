@@ -66,12 +66,16 @@ Fonts
         * html5 canvas simulator for raster fonts on CRT
     * [opengameart.org pixel font pack](https://opengameart.org/content/bitmap-font-pack)
 * TrueType (only black and white flat)
-    * [Lexend](https://www.lexend.com/)
-        * [github](https://github.com/ThomasJockin/lexend)
-        * See [[Accessibility]]
-    * [evangelion](https://fontsinuse.com/uses/28760/neon-genesis-evangelion)
-    * [Helvetica: feature-length documentary](https://www.hustwit.com/helvetica)
-    * [Inter](https://rsms.me/inter/) - Inter is a typeface carefully crafted & designed for computer screens
+    * Rendering
+        * [Writing a TrueType font renderer](https://axleos.com/writing-a-truetype-font-renderer/)
+            * Amazing breakdown of the process and querks
+    * Fonts
+        * [Lexend](https://www.lexend.com/)
+            * [github](https://github.com/ThomasJockin/lexend)
+            * See [[Accessibility]]
+        * [evangelion](https://fontsinuse.com/uses/28760/neon-genesis-evangelion)
+        * [Helvetica: feature-length documentary](https://www.hustwit.com/helvetica)
+        * [Inter](https://rsms.me/inter/) - Inter is a typeface carefully crafted & designed for computer screens
 * Uniwidth/Multiplex/Duplexed/Equal-width
     * [Uniwidth typefaces for interface design](https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7)
 * Monospace
@@ -80,6 +84,8 @@ Fonts
         * If you spend all day looking at code, letters, and characters—why not make it fun?
     * [Dev Fonts](https://devfonts.gafi.dev/) - free monospace font comparison
     * [comic-mono](https://dtinth.github.io/comic-mono-font/)
+    * [Typography in 8 bits: System fonts](https://damieng.com/blog/2011/02/20/typography-in-8-bits-system-fonts/)
+        * Spectrum, c64, amstrad, apple2, atari 400/800, bbc, msx
     * [oldschool-pc-fonts](https://int10h.org/oldschool-pc-fonts/readme/)
         * [fontlist](https://int10h.org/oldschool-pc-fonts/fontlist/)
         * [romfont](https://github.com/spacerace/romfont)

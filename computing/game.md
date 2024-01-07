@@ -34,7 +34,11 @@ https://classicreload.com/dos-scorched-planet.html
     * [Arcade Database](http://adb.arcadeitalia.net)
         * MAME is one of the most important projects of all time - emulate every know computer in every known configuration
 
-[Elite BBC Micro - Code breakdown/documentation](https://www.bbcelite.com/)
+* Elite
+    * [Elite BBC Micro - Code breakdown/documentation](https://www.bbcelite.com/)
+    * Fully documented source code for Elite on the BBC Micro and NES
+* Lemmings
+    * [The Complete History of Lemmings](http://www.javalemmings.com/DMA/Lem_1.htm)
 
 https://www.polygon.com/2020/1/13/21064100/vvvvvv-source-code-game-development-terry-cavanagh-release
 
