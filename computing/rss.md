@@ -1,6 +1,10 @@
 rss
 ===
 
+* [RSS is still pretty great](https://www.pcloadletter.dev/blog/rss/)
+    * pros and fair criticisms of RSS
+    * It's not trackable - good! less adds.
+    * It's not ment to be responsive.
 * [Turn to RSS Feeds (and Local/Native RSS Readers) to Regain Control of the World Wide Web](http://techrights.org/2021/02/06/rss-feeds-www/)
 * [Generate RSS feeds with grep(1), sed(1), and awk(1)](https://www.romanzolotarev.com/rssg.html)
     * Take an html file and make an rss.xml file with regex, simple example

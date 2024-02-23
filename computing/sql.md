@@ -13,6 +13,8 @@ SQL
 
 * [sqlite.org/fiddle](https://sqlite.org/fiddle/)
 * SQLite[JSONB has landed](https://sqlite.org/forum/forumpost/fa6f64e3dc1a5d97) - json is kept in an internal binary format for performnce
+* [sqlite-web](https://github.com/coleifer/sqlite-web)
+    * `pip install sqlite-web` `sqlite_web /path/to/database.db` `open https://localhost:8080`
 
 * [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/)
     * 13 different conceptual understandings of a JOIN in sql

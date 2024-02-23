@@ -17,6 +17,8 @@ Creativity
     * [[digital-art]]
     * [[ascii-art]]
 
+* [[wearable]]
+
 * meetup.com
     * [London Creative Coding](https://www.meetup.com/london-creative-coding/)
     * [London Algorithmic Art](https://www.meetup.com/Algorithmic-Art/)
@@ -64,6 +66,12 @@ Creativity
 
 * [The Making of "Stunt Island"](https://fabiensanglard.net/stunt_island/)
     * One of the most innovative [[game-design]] of all time
+
+* [futureme.org](https://www.futureme.org/)
+    * Write a letter to your future self
+    * Write. Pick a receiving date. Send. Verify. That’s it 😊
+    * Your letter is safe with us - we’ve sent over 20 million letters in 20 years!
+
 
 Hacking/Making/Building Culture
 -------------------------------
@@ -117,6 +125,7 @@ Not really computer related, but immensely creative
 [demoscene]: demoscene.md "Demoscene"
 [digital-art]: digital-art.md "Digital Art"
 [ascii-art]: ascii-art.md "ascii-art"
+[wearable]: wearable.md "Wearable"
 [history-of-media]: history-of-media.md "History of Media"
 [game-design]: game-design.md "Game Design"
 [hacker-maker]: hacker-maker.md "Hacker Maker Builder Culture"

@@ -14,3 +14,6 @@
 
 * [Shareware Heroes: The renegades who redefined gaming at the dawn of the internet](https://sharewareheroes.com/)
     * Book (and retro site)
+
+* [The Making Of Gunstar Heroes, Treasure's Mega Drive Masterpiece](https://www.timeextension.com/features/the-making-of-gunstar-heroes-treasures-mega-drive-masterpiece)
+    * Book [Legends of 16-Bit Game Development](https://rasterscroll.com/product/legends/) A History of Treasure and the Sega Mega Drive / Genesis by John Harrison

@@ -21,3 +21,10 @@ Used until 1995
     * [How to: Run a DOS-based Web Server (seriously)](https://lunduke.locals.com/post/5022504/how-to-run-a-dos-based-web-server-seriously)
     * [DOS on Dope: The last MVC web framework you'll ever need](https://secretgeek.net/dod_intro)
     * Joke web framework built on DOS batch scripts
+
+* [From 0 to 1 MB in DOS](https://blogsystem5.substack.com/p/from-0-to-1-mb-in-dos)
+    * > A tour on how DOS was able to use most of the 1 MB address space of the 8086
+    * Great explantation with diagrams of XMS, EMS, UMB
+* [Beyond the 1 MB barrier in DOS](https://blogsystem5.substack.com/p/beyond-the-1-mb-barrier-in-dos)
+    * Unreal mode, LOADALL (undocumented op-code), DJGPP
+    * really detailed with assembly examples

@@ -7,6 +7,7 @@ Obey `robots.txt`!!
 * [Web Scraping 101 with Python](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
     * 5 Alternatives methods to scrape in python
     * Headless browsers, Requests, Beautiful Soup, RoboBrowser, Scrapy, Grequests (parallel), XPath
+* [Web Scraping in Python - The Complete Guide](https://proxiesapi.com/articles/web-scraping-in-python-the-complete-guide)
 * [browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting)
     * >  Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web? 
 * [So you want to Scrape like the Big Boys? 🚀](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/)

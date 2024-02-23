@@ -84,6 +84,7 @@ Authenticator app OTP
 
 * [Keytap2 - acoustic keyboard eavesdropping based on language n-gram frequencies](https://github.com/ggerganov/kbd-audio/discussions/31)
     * Audio recording of someone using a computer keyboard in an attempt to decipher from audio alone what keys have been pressed
+* [Your fingerprints can be recreated from the sounds made when you swipe on a touchscreen — Chinese and US researchers show new side channel can reproduce fingerprints to enable attacks](https://www.tomshardware.com/tech-industry/cyber-security/your-fingerprints-can-be-recreated-from-the-sounds-made-when-you-swipe-on-a-touchscreen-researchers-new-side-channel-attack-can-reproduce-partial-fingerprints-to-enable-attacks)
 * [AIR-FI: Generating Covert Wi-Fi Signals from Air-Gapped Computers](https://arxiv.org/abs/2012.06884)
 * [Timing Analysis of Keystrokes and Timing Attacks on SSH](https://people.eecs.berkeley.edu/~daw/papers/ssh-use01.pdf)
     * > in inter-active mode,every individual keystroke that a user types is sent to the remote machine in a separate IP packet immediately after the key is pressed, which leaks the inter-keystroke timing information of users’ typing.

@@ -32,7 +32,7 @@ Maths
     * Hello, my name is Matt Parker and I’m a mathematician and stand-up comedian. I’m one-third of Festival of the Spoken Nerd, I write for newspapers (The Guardian and the Telegraph) as well as presenting TV and radio programs (BBC, Channel 4, Discovery). But I seem to be most famous for my work on the [Numberphile youtube channel](https://www.youtube.com/user/numberphile).
     * [The Golden Ratio (why it is so irrational) - Numberphile](https://www.youtube.com/watch?v=sj8Sg8qnjOg) 15min
 * [Coding the Matrix](https://codingthematrix.com/) - Linear Algebra Through Computer Science Applications
-    * eBook - free
+    * book needs purchase ...
     * Perspective rectification
     * Search Audio - Search Subimage
     * Lossy Compression
@@ -40,6 +40,8 @@ Maths
     * 2D transforms (rotation) -> camera in 3d space
     * Minimum spanning tree
 * [linear-algebra](https://betterexplained.com/articles/linear-algebra-guide/)
+* [Visual calculus](https://en.wikipedia.org/wiki/Visual_calculus)
+    * Visual representations of areas of triangles to visualise calculus
 * [Dave's Short Course on Complex Numbers](https://www2.clarku.edu/faculty/djoyce/complex/)
 * [Kenneth Kuttler](https://klkuttler.com/) books
     * > personal website of Dr. Kenneth Kuttler. You can download these books as a PDF, or read them online without downloading

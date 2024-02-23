@@ -1,6 +1,10 @@
 Career Guidance
 ===============
 
+* [Want a Coding Job? NEVER Do This!](https://www.youtube.com/watch?v=AFP-mzzwJlY) Youtube 4min
+    * Good basics
+    * Have projects
+    * Network
 * [No CS Degree](https://www.nocsdegree.com/) Inspiring interviews with successful self-taught and bootcamp developers 
 * [Do I Need to Go to University?](http://colah.github.io/posts/2020-05-University/)
 * [Completing a Part-Time Master's in Computer Science While Working](https://alexanderell.is/posts/mscs/)

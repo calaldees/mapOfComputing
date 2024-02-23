@@ -9,6 +9,9 @@ Documentation
         * explanation - understanding oriented
 
 * [How to Write a Great README](https://www.appsmith.com/blog/write-a-great-readme)
+* [My favourite Git commit](https://dhwthompson.com/2019/my-favourite-git-commit)
+    * A set documenting git commit message. Beautiful white space bug.
+    * Contains what, why, how.
 * [Should you add screenshots to documentation?](https://thisisimportant.net/posts/screenshots-in-documentation/)
 * [Clean Code]() Robert C Martin #cleancode
     * NO COMMENTS IN CODE!

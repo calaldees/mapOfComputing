@@ -3,6 +3,9 @@ Retro Storage
 
 * [[floppy-disk]]
 
+* [DiskClick](https://deervo.itch.io/diskclick)
+    * Simulation of old hard disk sounds
+
 * [Tape Storage for a Breadboard Computer - KCS Part 1 - The Curious Place 001](https://www.youtube.com/watch?v=6m7vDhscGzU)
     * Decoding Kansas City Audio (or BYTE) audio tape to binary with circits.
     * BYTE Magazine 1976 (with Bill gates on the panel!)

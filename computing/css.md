@@ -12,6 +12,7 @@ CSS
 
 * [Media Queries, Responsive Design? Help me!](https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/) Everything You Want To Know About Media Queries and Responsive Design
 
+* [12 Modern CSS One-Line Upgrades](https://moderncss.dev/12-modern-css-one-line-upgrades/) 2024
 
 Variables in CSS (see book for example)
 

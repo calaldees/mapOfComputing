@@ -17,6 +17,8 @@ Born Again Shell
 
 pipe write
 * Note: pipe `|` is multiprocess!!! - each part is a differnt process! This is really performant!
+* [Useful Uses of cat](https://two-wrongs.com/useful-uses-of-cat)
+  * Argument for always using `cat` to open files - each command does one job
 cat
 * [NetCat](https://blog.ikuamike.io/posts/2021/netcat/)
 * [[grep]]

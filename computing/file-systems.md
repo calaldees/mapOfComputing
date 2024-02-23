@@ -10,6 +10,10 @@ EXT4
 * [Understanding Google’s File System](https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html) 2020
   * 64mb chunks in cloud
 
+* [Projected File System](https://scorpiosoftware.net/2024/02/20/projected-file-system/)
+  * Linux already exposes most devices as part of the file system
+  * In Windows 10+ it is possible to make application data visible as files
+    * C++ headers and examples
 
 Parity
 

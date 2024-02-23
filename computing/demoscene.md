@@ -26,18 +26,23 @@ Creativity Visulisation
             * [Escalated](https://www.shadertoy.com/view/MtK3Wc) 1024byte shader similar to Elavated - browser demo
             * [Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise)
                 * [Coding Challenge #11: 3D Terrain Generation with Perlin ](https://www.youtube.com/watch?v=IKB1hWWedMk) 22min
+        * Sheep and The Flower [How we made an animated movie in 8kB](https://www.ctrl-alt-test.fr/2024/how-we-made-an-animated-movie-in-8kb/) Razor April 2023
+            * Storytelling with cazy limitations
+            * Explains raycasting, 4ksynth
         * [Countdown to extinction by MX / ADDiCT](https://demozoo.org/productions/319322/)
             * 1k windows (like onicopter video in DuneCD game)
         * [The vanishing of Ashlar by NuSan (PC 4k intro)](https://youtu.be/lAvug7LKiIE)
         * ["Memories" - 256 byte MSDOS intro](https://youtu.be/Imquk_3oFf4) #dos
             * Smaller then a single tweet (each character/letter is a byte)
             * [code + explanation](http://www.sizecoding.org/wiki/Memories)
+        * [BitwiseLiminal](https://killedbyapixel.github.io/TinyCode/256B/BitwiseLiminal/) 256byte javascript - raytracer with VHS distortion effects
         * [Javascript Magic Tunnel](https://js1k.com/2019-x/demo/4293)
         * [Nightdrive](https://incoherency.co.uk/blog/stories/nightdrive.html) - Night time driving simulation
             * Not really a demo - but a really chill cool concept
         * [TiTAN - Overdrive 2 (RGB 50fps) - SEGA Mega Drive - Revision 2017 (1st Place)](https://www.youtube.com/watch?v=gWVmPtr9O0g)
         * [8088MPH](https://www.youtube.com/watch?v=yHXx3orN35Y) DOS CGA
         * [BACK TO THE PET](https://www.youtube.com/watch?v=3FFPCuDqi_g) 2022 Commodore PET
+        * [Demoscene & Video Game Music Streaming Radio Links](https://mw.rat.bz/davgmsrl/)
 
 
 

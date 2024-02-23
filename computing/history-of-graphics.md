@@ -16,7 +16,9 @@ History of Graphics
 
 * [ZX Spectrum | Ghetto Graphics & Colour Clash](https://www.youtube.com/watch?v=iemMlbIY1SI)
     * How colour clash happens
-
+* [Graphical Effects on the Mega Drive](https://rasterscroll.com/mdgraphics/graphical-effects/)
+    * How all the amazing tricks were done
+        * Transparency, rotation, pallet tricks
 * [Building a PS1 style retro 3D renderer](https://www.david-colson.com/2021/11/30/ps1-style-renderer.html)
     * Videos and descriptions of perspective correction and other graphics effects
 

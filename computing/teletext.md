@@ -12,3 +12,6 @@ TeleText
 * Better quality VHS rips (video - not teletext)
     * https://github.com/oyvindln/vhs-decode
         * https://hackaday.com/2022/12/13/vhs-decode-project-could-help-archival-efforts/
+
+* [Teletext on a BBC computer in 2024](https://linuxjedi.co.uk/2024/01/25/teletext-on-a-bbc-computer-in-2024/)
+    * Using a raspberry pi to recreate RF teletext signal and view it on a bbc

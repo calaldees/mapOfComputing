@@ -24,6 +24,7 @@ Algorithms
         * geometric
             * Line clipping
             * contour lines
+            * [[collision-detection]]
         * doomsday algorithm Day of the week - conway
         * Dijstra shortest path
         * [[dynamic-programming]]
@@ -200,6 +201,7 @@ Simple things that are actually hard
 [Parity]: parity.md "Parity"
 [error-correction]: error-correction.md "Error"
 [Hash]: hash.md "Hash"
+[collision-detection]: collision-detection.md "Collision Detection"
 [dynamic-programming]: dynamic-programming.md "Dynamic Programming"
 [levenshtein-distance]: levenshtein-distance.md "Levenshtein distance"
 [polygon]: polygon.md "Polygon"

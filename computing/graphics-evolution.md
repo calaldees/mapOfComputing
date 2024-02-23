@@ -46,7 +46,7 @@ The process of taking chunks from data from one memory location and copying it t
 * [Designing 2D graphics in the Japanese industry](https://vgdensetsu.tumblr.com/post/179656817318/designing-2d-graphics-in-japan-from-the-late-70s)
     * western world used core tools - japan used home grown tech
     * historical look at tools and artwork
-
+    * [When graphic designers from Taito, SNK and other companies used a joystick to draw dot by dot.](https://videogamesdensetsu.tumblr.com/post/160230210495/when-graphic-designers-from-taito-snk-and-other)
 
 Part 2 - 3D Graphics as pixels
 ------------------------------

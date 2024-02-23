@@ -28,26 +28,28 @@ Social Media
             * Antibiotics - reduction of immune system
             * Television - socialising, loss of literacy
         4. Which people and what institutions might be most seriously harmed by a technological solution
-        * Luddites 1811->1818 England
-            * Skilled manual workers in garment industry - saw what it would do to their children - so they smashed industrial machinery - killed and imprisoned
-        * Winners and looser - Bill Gates - Computers will not be harmful to anyone - losers should be unaware they are losers
-        * Teachers loose to computers - 100 million dollars project to connect schools to internet
+            * Luddites 1811->1818 England
+                * Skilled manual workers in garment industry - saw what it would do to their children - so they smashed industrial machinery - killed and imprisoned
+            * Winners and looser - Bill Gates - Computers will not be harmful to anyone - losers should be unaware they are losers
+            * Teachers loose to computers - 100 million dollars project to connect schools to internet
         5. What changes in language are being promoted due to technology
             * Community? tollerance?
         6. What sort of people or institutions acquire power from technical change?
             * Telivision gives power to some - media entrepreneurs are infested in maximising the profits of new media and don't give much thoughts thoughts to the cultural change
         7. What alternative uses might be made of the technology
         8. Where and how will our citizens going to learn how to challenge media - assigned to our schools - irresponsibly
-        * What's going to happen to people that oppose this progress
-            * Negotiate with this new world - use the tech that solves a problem
-            * Can we maximises the advantages while minimising the disadvantages
-        * 1:08:00 even if schools teach absolutely no computers, young people will still know how to use them
-        * What's distracting us from solving problems is the mantra "If only we had more information"
-            * Humanity always had information scarcity
-            * We have never suffered from information overload before
+            * What's going to happen to people that oppose this progress
+                * Negotiate with this new world - use the tech that solves a problem
+                * Can we maximises the advantages while minimising the disadvantages
+            * 1:08:00 even if schools teach absolutely no computers, young people will still know how to use them
+            * What's distracting us from solving problems is the mantra "If only we had more information"
+                * Humanity always had information scarcity
+                * We have never suffered from information overload before
 * [You Are the Product](https://www.lrb.co.uk/the-paper/v39/n16/john-lanchester/you-are-the-product) John Lanchester 2017
     * To read
-* [Solomon Islands set to ban Facebook in the name of 'national unity'](https://www.abc.net.au/news/2020-11-23/solomon-islands-set-to-ban-facebook-for-sake-of-national-unity/12910786)
+* [Solomon Islands set to ban Facebook in the name of 'national unity'](https://www.abc.net.au/news/2020-11-23/solomon-islands-set-to-ban-facebook-for-sake-of-national-unity/12910786) 2020
+* [Fighting the smartphone ‘invasion’: the French village that voted to ban scrolling in public](https://www.theguardian.com/world/2024/feb/10/fighting-the-smartphone-invasion-the-french-village-that-voted-to-ban-scrolling-in-public)
+* [Florida House of Representatives approves bill to ban social media for kids under 16](https://abcnews.go.com/GMA/Family/florida-house-representatives-approves-bill-ban-social-media/story?id=106672586) 2024
 * [We can have democracy or we can have Facebook, but we can't have both](https://the.ink/p/we-can-have-democracy-or-we-can-have) - A conversation with Matt Stoller about the new antitrust case and the real reason you should care about corporate monopolies
 * [Emotional headlines have an impact regardless of the credibility of the source](https://www.hu-berlin.de/en/press-portal/nachrichten-en/december-2020/
     nr-201221)

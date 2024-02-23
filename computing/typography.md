@@ -37,6 +37,7 @@ Fonts
     * [Arcade Game Typography](https://readonlymemory.vg/shop/book/arcade-game-typography/)
     * [ZX Origins](https://damieng.com/typography/zx-origins) - 8x8 mono bitmap fonts
     * [NFG's Arcade Font Engine](https://nfggames.com/games/fontmaker/lister.php)
+        * https://github.com/calaldees/TeachProgramming/blob/12614dd3905ea15d45d1ce9d7cf58f5423a29b2d/teachprogramming/static/projects/game/pygame_zoomer.py#L100
         * ```python
             def font_loader(filename, sequence='ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789', size=8, font_name='aof2'):
                 """
@@ -58,6 +59,7 @@ Fonts
                     for i, character in enumerate(sequence)
                 })
           ```
+        * TODO: Add support for wraparound black and white fonts. See TeachProgramming enhancement
     * [BitmapFonts](https://github.com/ianhan/BitmapFonts/blob/main/README.md)
         * My collection of bitmap fonts pulled from various demoscene archives over the years
     * [hoard-of-bitfonts](https://github.com/robhagemans/hoard-of-bitfonts/)
@@ -65,6 +67,8 @@ Fonts
     * [Raster CRT Typography (According to DEC)](https://www.masswerk.at/nowgobang/2019/dec-crt-typography)
         * html5 canvas simulator for raster fonts on CRT
     * [opengameart.org pixel font pack](https://opengameart.org/content/bitmap-font-pack)
+    * [Game Font Forensics](https://int10h.org/blog/2024/02/game-font-forensics/)
+        * Comparing fonts on the Apple2 and IBM-PC
 * TrueType (only black and white flat)
     * Rendering
         * [Writing a TrueType font renderer](https://axleos.com/writing-a-truetype-font-renderer/)
@@ -104,6 +108,9 @@ Fonts
     * [Nabla: Isometric font](https://nabla.typearture.com/)
 * Color fonts
     * [Google Color Fonts](https://fonts.google.com/knowledge/introducing_type/introducing_color_fonts)
+* [Variable Fonts](https://v-fonts.com/)
+    * Fonts with variables!
+    *  v0.2 A simple resource for finding and trying variable fonts 
 
 Text is Hard
 ------------
