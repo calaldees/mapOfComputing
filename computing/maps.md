@@ -58,6 +58,8 @@ Links to working with map data
 * [darkhotels.co](https://darkhotels.co/)
     * Hotels and light pollution on a map - for stargaing
 
+* [2024: announcing the year of the OpenStreetMap vector maps](https://blog.openstreetmap.org/2024/02/11/2024-announcing-the-year-of-the-openstreetmap-vector-maps/)
+
 Old cartography
 ===============
 

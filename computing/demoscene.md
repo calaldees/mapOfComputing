@@ -60,6 +60,10 @@ https://www.flipcode.com/archives/articles.shtml
 * [observablehq.com](https://observablehq.com/)
     * [_Observable_ & creative coding](https://observablehq.com/@makio135/creative-coding)
 
+* KilledByAPixel
+    * Tiny JS - few characters/tweet
+    * [fluid?](https://www.dwitter.net/d/29536)
+    * [parallax terrain?](https://www.dwitter.net/d/29550)
 
 * [Decoding A City In A Bottle](https://observablehq.com/@darabos/decoding-a-city-in-a-bottle)
     * [A City in a Bottle 🌆](https://twitter.com/KilledByAPixel/status/1517294627996545024)

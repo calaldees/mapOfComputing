@@ -13,6 +13,8 @@ compiler
     * The BDOS interface
     * The run time library 
 
+* [How is a binary executable organized? Let's explore it!](https://jvns.ca/blog/2014/09/06/how-to-read-an-executable/)
+    * Exploring how "Hello World" in C becomes a binary
 * [Compiler Explorer: Matt Godbolt](https://godbolt.org/) - Web based - See C code and compiled ASM (x86/Arm/riskV)
     * It highlights with colors what parts of the [[c]] code is turned into the ASM bits [[assembly]]
 * [create-your-own-compiler](https://citw.dev/tutorial/create-your-own-compiler)

@@ -12,3 +12,7 @@ Dithering and color reduction
 * [Coding Challenge #90: Floyd-Steinberg Dithering](https://www.youtube.com/watch?v=0L2n8Tg2FwI) video 28min
 
 * [Pixel Accurate Atkinson Dithering for Images in HTML](https://sheep.horse/2022/12/pixel_accurate_atkinson_dithering_for_images_in_ht.html)
+
+* Coding Train [Coding Challenge 181: Weighted Voronoi Stippling](https://www.youtube.com/watch?v=Bxdt6T_1qgc) 30min YouTube
+    * Using positioned circles with different radius's to simulate darkness and lightness (kind of like dithering)
+    * 

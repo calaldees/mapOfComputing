@@ -10,6 +10,7 @@ History of the Internet
     * > This page provides a single entry point to all the posts in the story of how the world got online.
     * ARPANET and internetworking
 * [[web-rings]]
+* [The Evolution of Netscape Navigator: Browser to Internet Suite to Desktop](https://archive.nytimes.com/www.nytimes.com/library/cyber/week/030697netscape.html) 1997
 
 * [webfoundation.org: History of the Web](https://webfoundation.org/about/vision/history-of-the-web/)
 * [WebDevelopmentHistory.com](https://webdevelopmenthistory.com/)

@@ -5,6 +5,10 @@ What is a hash
 
 Where is it used
 
+* [Hash functions: An empirical comparison](https://www.strchr.com/hash_functions)
+    * hash's for hashmaps do not need to be cryptographically secure and can be simpler and faster.
+    * This article show comparison of loads of simple small hash functions and their performance with collisions and similar input data
+
 Why
 
 * https://www.quora.com/What-is-the-simplest-example-of-a-hash-function

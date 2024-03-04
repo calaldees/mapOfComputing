@@ -16,6 +16,8 @@ Privacy
     * [If You’ve Got a New Car, It’s a Data Privacy Nightmare](https://gizmodo.com/mozilla-new-cars-data-privacy-report-1850805416) Bad news: your car is a spy. Every major car brand's new internet-connected models flunked privacy and security tests conducted by Mozilla
 * [The problem of creeping commercial surveillance](https://elnion.com/2022/02/07/the-problem-of-creeping-commercial-surveillance/)
     * explains how the McDonaldes app rather than a coffee/stamp reward scheme leads to a hunger for more data
+* ['Facial recognition' error message on vending machine sparks concern at University of Waterloo](https://kitchener.ctvnews.ca/facial-recognition-error-message-on-vending-machine-sparks-concern-at-university-of-waterloo-1.6779835)
+    * Vending machines that monitor gender, ethnicity and footfall
 
 * [Google Chrome just rolled out a new way to track you and serve ads. Here’s what you need to know](https://theconversation.com/google-chrome-just-rolled-out-a-new-way-to-track-you-and-serve-ads-heres-what-you-need-to-know-213150)
     * Privacy sandbox - the sites you visit profiled by google and the profile is sent to adversisers

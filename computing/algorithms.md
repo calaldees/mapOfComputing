@@ -13,8 +13,7 @@ Algorithms
             * quick sort
         * [[nagles]]
         * Clock synchronisation
-        * Fouier transform
-            * [But what is the Fourier Transform? A visual introduction.](https://www.youtube.com/watch?v=spUNpyF58BY) 20min YouTube
+        * [[fourier]] transform
         * [[Compression]]
             * Huffman
         * [[Parity]] (reconstruction) Hammering?
@@ -72,7 +71,7 @@ Algorithms
     * Dynamic programming
     * Euclidean algorithm
     * Expectation-maximization algorithm (EM-Training)
-    * Fast Fourier transform [[fft]]
+    * Fast [[fourier]] transform [[fft]]
     * Gradient descent
     * Hashing
     * ... more
@@ -197,6 +196,7 @@ Simple things that are actually hard
 [solutions]: solutions.md "Solutions"
 [Sorting]: sorting.md "Sorting"
 [nagles]: nagles.md "Nagles"
+[fourier]: fourier.md "Fourier Transforms"
 [Compression]: compression.md "Compression"
 [Parity]: parity.md "Parity"
 [error-correction]: error-correction.md "Error"

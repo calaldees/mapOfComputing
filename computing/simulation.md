@@ -22,6 +22,8 @@ See [[model]]
     * [WebGL-Fluid-Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
     * [WaterLily.jl](https://github.com/weymouth/WaterLily.jl)
     * [Coding Adventure: Simulating Fluids](https://www.youtube.com/watch?v=rSKMYc1CQHE)
+    * [Airfoil](https://ciechanow.ski/airfoil/)
+        * Visual description of how an Airfoil works!
 * Fire
     * [Far Cry: How the Fire Burns and Spreads](https://jflevesque.com/2012/12/06/far-cry-how-the-fire-burns-and-spreads/) 2012
     * GPU spin[Simulating Fluids, Fire, and Smoke in Real-Time](https://andrewkchan.dev/posts/fire.html) - Notes on the math, algorithms, and methods involved in simulating fluids like fire and smoke in real-time.

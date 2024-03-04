@@ -17,6 +17,9 @@ GIT
     * Contains what, why, how.
     * (I put this link in [[documentation]])
 
+* [Git Tips and Tricks](https://blog.gitbutler.com/git-tips-and-tricks/)
+    * Series covering all the important bits of Git
+
 Version control!!
 
 commit
