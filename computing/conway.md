@@ -3,6 +3,10 @@ Conways Game of Life
 
 Emergent behaviour from simple rules
 
+* [Life Universe](https://oimo.io/works/life/)
+    * Browser based infinitely zoomable runnable game of life that is running itself
+    * [GitHub](https://github.com/saharan/works/tree/main/life)
+
 * [Conway's game of life](http://www.conwaylife.com/)
 * [The Recursive Universe](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/)
 * [Conway basic patterns](http://pi.math.cornell.edu/~lipa/mec/lesson6.html)

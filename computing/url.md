@@ -15,3 +15,7 @@ protocol, hostname, path, qyery string
     * json -> compress -> base64
     * get undo/redo for free (browser history - need to bind keys)
     * shareable urls with state
+
+
+* [Parsing URLs in Python](https://tkte.ch/articles/2024/03/15/parsing-urls-in-python.html)
+    * [whatwg url spec](https://url.spec.whatwg.org/)

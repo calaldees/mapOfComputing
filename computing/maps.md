@@ -3,6 +3,7 @@ Maps
 
 Links to working with map data
 * [FlightRadar24](https://www.flightradar24.com/) - All the commercial planes in the world
+* [GPS jamming map](https://www.flightradar24.com/data/gps-jamming)
 * [app.electricitymap.org](https://app.electricitymap.org/map)
     * Electricity usage per country
 * [city-roads](https://anvaka.github.io/city-roads/)

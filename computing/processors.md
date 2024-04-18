@@ -23,7 +23,7 @@ RISC-V
 * @kenshirriff [twitter](https://twitter.com/kenshirriff/status/1609974005519290369?t=Wg8lpzILXxAjOdmQcUn2ww&s=19)
     * > The Intel 8086 processor was introduced in 1978, ancestor of the x86 architecture. The 8086 was the first microprocessor with prefetch, reading instructions from memory in advance for more speed. By reverse-engineering the chip under a microscope, I can explain how this works.
     * [The microcode and hardware in the 8086 processor that perform string operations](https://www.righto.com/2023/04/8086-microcode-string-operations.html)
-
+* [The Intel 8088 processor's instruction prefetch circuitry: a look inside](https://www.righto.com/2024/03/8088-prefetch-circuitry.html)
 
 * [Booting modern Intel CPUs](https://mjg59.dreamwidth.org/66109.html)
 

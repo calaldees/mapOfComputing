@@ -24,6 +24,7 @@ Data Formats
 
 * [jsonnet.org](https://jsonnet.org/) - template system for json/yaml/ini
 
+* [Open Data Description Language (OpenDDL)](https://openddl.org/)
 
 MIME Types
 ----------

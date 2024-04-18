@@ -118,6 +118,8 @@ Editors
 -------
 
 * Desktop App
+    * [Marker](https://marker.pages.dev/)
+        * > A Secure Visual Markdown Editor That is Fully Yours. Marker is an open-source, user-friendly UI for writing & editing markdown files. Everything you create lives in your filesystem.
     * [RMarkdown](https://rmarkdown.rstudio.com/) - [Introduction Video](https://player.vimeo.com/video/178485416) 1min
     * [typora](https://typora.io/) - A truly minimal markdown editor
         * [Draw Diagrams With Markdown](https://support.typora.io/Draw-Diagrams-With-Markdown/) - Mermaid and FlowchartJS

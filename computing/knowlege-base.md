@@ -8,3 +8,4 @@ Knowledge Base
 * [Obsidian]()
     * [Writing Down What I Do — In Obsidian](https://v5.chriskrycho.com/journal/writing-down-what-i-do-in-obsidian/)
         * Tasks and TODO - history and goals
+* [knowledge](https://github.com/raphaelsty/knowledge)  Open-source personal bookmarks search engine 

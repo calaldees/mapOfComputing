@@ -1,6 +1,10 @@
 Visual Programming Languages
 ============================
 
+
+* [PyFlow](https://wonderworks-software.github.io/PyFlow/)
+    * Like blueprints, but for python
+
 * [Learnable Programming](http://worrydream.com/#!/LearnableProgramming) - Designing a programming system for understanding programs
     * http://worrydream.com/LearnableProgramming/
 
