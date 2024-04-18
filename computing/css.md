@@ -1,6 +1,8 @@
 CSS
 ===
 
+* [ [blog] Old CSS, new CSS ](https://eev.ee/blog/2020/02/01/old-css-new-css/)
+    * Great history of CSS and current new features and the problems they solve
 * [My First CSS - What I Wish I Knew About CSS When Starting Out As A Frontender](https://engineering.kablamo.com.au/posts/2021/my-first-css)
 * [Old CSS, new CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/)
 * [3D Book Image CSS Generator](https://3d-book-css.netlify.app/)

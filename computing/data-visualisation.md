@@ -35,6 +35,8 @@ Data Visualisation
     * [Unusual maps](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002yI)
         * Not directly Computing; but huge variety of interesting visualisations
     * [Vega-Lite](https://vega.github.io/vega-lite/) - Vega-Lite – A Grammar of Interactive Graphics
+    * [ripl](https://github.com/andrewcourtice/ripl)
+        * > Ripl provides a unified (javascript) API for 2D graphics rendering (SVG, Canvas) in the browser with a focus towards high performance and interactive data visualization. 
 * Physical Visualisation
     * [Example of how many earths can fit in the sun](https://www.reddit.com/r/pics/comments/9g5fio/example_of_how_many_earths_can_fit_in_the_sun/?st=JM4IZ1M6&sh=56c0264e)
 
