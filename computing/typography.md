@@ -110,6 +110,8 @@ Fonts
         * AI generated handwriting
 * Exotic
     * [Nabla: Isometric font](https://nabla.typearture.com/)
+    * [Teranoptia](https://www.tunera.xyz/fonts/teranoptia/)
+        * build monsters with fonts (no letters, just using font as a glyph)
 * Color fonts
     * [Google Color Fonts](https://fonts.google.com/knowledge/introducing_type/introducing_color_fonts)
 * [Variable Fonts](https://v-fonts.com/)

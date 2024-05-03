@@ -246,6 +246,8 @@ Unsorted
     * > ... obtained court documents that show Facebook gave police a teenager’s private chats about her abortion. Cops then used those chats to seize her phone and computer
 * [iOS Privacy: Instagram and Facebook can track anything you do on any website in their in-app browser](https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser)
 
+* [It's crazy how much Transport for London can learn about us from our mobile data](https://takes.jamesomalley.co.uk/p/its-crazy-how-much-transport-for)
+
 Censorship
 ----------
 

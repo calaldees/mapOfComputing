@@ -16,6 +16,12 @@ CSS
 
 * [12 Modern CSS One-Line Upgrades](https://moderncss.dev/12-modern-css-one-line-upgrades/) 2024
 
+* [a single div](https://github.com/lynnandtonic/a-single-div)
+    * CSS drawings with only one HTML element. 
+    * > This is a fun, little project to see how much can be accomplished with CSS. Every drawing consists of a single HTML element (in this case, the beloved div).
+    * (What hackery is this!)
+
+
 Variables in CSS (see book for example)
 
 HTML1 - Web1.0

@@ -5,6 +5,8 @@ AI (Artificial Intelligence)
 * [[tensorflow]]
 * [[ai-training]]
 * [[ai-code]]
+* [[ai-animation]]
+* [[ai-vision]]
 
 * The future called ... it said most jobs are now obsolete. AI That can perform tasks by interpreting a computer screen
     * https://www.loom.com/share/9458bcbf79784162aa62ffb8dd66201b
@@ -299,6 +301,8 @@ Unsorted
 [tensorflow]: tensorflow.md "TensorFlow"
 [ai-training]: ai-training.md "AI Training"
 [ai-code]: ai-code.md "Ai Code"
+[ai-animation]: ai-animation.md "AI Animation"
+[ai-vision]: ai-vision.md "ai-vision"
 [llm]: llm.md "Large Language Models"
 [image-recognition]: image-recognition.md "Image Recognition"
 [ai]: ai.md "AI (Artificial Intelligence)"

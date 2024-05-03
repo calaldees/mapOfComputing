@@ -445,6 +445,9 @@ Other text systems
 Unsorted
 --------
 
+* [Podlite](https://podlite.org/)
+    * Something similar to Markdown?
+    * [live](https://pod6.in/)
 * [Plain text. With lines.](http://akkartik.name/lines.html) #plaintext
     * markdown with drawing lines in a code block
 * [Typograms](https://code.sgo.to/typograms/) (typographic diagrams) 
