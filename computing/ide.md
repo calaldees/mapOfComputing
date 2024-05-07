@@ -39,7 +39,7 @@ alt + up/down (move lines)
 
 ctrl + l (select line)
 
-MultiCursor Editing
+MultiCursor Editing (vscode ctrl+F2)
 alt + click (add cursor)
 ctrl + alt + up/down
 ctrl + shift + L   or  crtl + f2 (multicursor rename)

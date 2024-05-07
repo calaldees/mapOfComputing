@@ -3,6 +3,11 @@ Monitoring
 
 https://serhack.me/articles/monitoring-infrastructure-grafana-influxdb-connectd/
 
+* [Graphana](https://grafana.com/)
+    * live graph dashboard viability
+    * [Monitoring energy usage with smart plugs, Prometheus and Grafana](https://ounapuu.ee/posts/2024/05/02/smartplugs/)
+
+
 Open Telematry - why are logs not enough
 
 * [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right!

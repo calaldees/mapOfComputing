@@ -6,6 +6,10 @@ Legal
 * [[privacy]]
 * [[gdpr]]
 
+* [The Internet Archive's last-ditch effort to save itself](https://lunduke.locals.com/post/5556650/the-internet-archives-last-ditch-effort-to-save-itself) 2024
+    * > A lost lawsuit, a flimsy appeal, and misleading public statements... things aren't looking good for the Internet's archivist.
+    * Internet archive wants to serve copyright content and pay for access, this is not a good sign.
+
 * [Cant use Droid](https://www.team-bhp.com/forum/shifting-gears/227923-google-sues-me-using-word-droid-my-company-name-orpheusdroid.html)
 * [Hello! You've Been Referred Here Because You're Wrong About Section 230 Of The Communications Decency Act](https://www.techdirt.com/articles/20200531/23325444617/hello-youve-been-referred-here-because-youre-wrong-about-section-230-communications-decency-act.shtml)
 * Redit r/linux: [Copyright notice from ISP for pirating... Linux? Is this some sort of joke?](https://www.reddit.com/r/linux/comments/nkztyv/copyright_notice_from_isp_for_pirating_linux_is/)

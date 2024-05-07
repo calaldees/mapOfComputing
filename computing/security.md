@@ -185,7 +185,8 @@ Cautionary tails of actual hacks
 * [Hackers Break Into Thousands of Security Cameras, Exposing Tesla, Jails, Hospitals](https://www.bnnbloomberg.ca/hackers-break-into-thousands-of-security-cameras-exposing-tesla-jails-hospitals-1.1574681)
 * [What Is A Coder's Worst Nightmare?](https://www.forbes.com/sites/quora/2014/12/05/what-is-a-coders-worst-nightmare/)
     * Poisoned compiler
-
+* [Open Source Security (OpenSSF) and OpenJS Foundations Issue Alert for Social Engineering Takeovers of Open Source Projects](https://openssf.org/blog/2024/04/15/open-source-security-openssf-and-openjs-foundations-issue-alert-for-social-engineering-takeovers-of-open-source-projects/)
+    * After XZ backdoor 2024 - more awareness of open source injection
 
 * [Super Mario All-Stars + Super Mario World by SethBling, IsoFrieze in 11:55 - SGDQ 2022](https://www.youtube.com/watch?v=FlkWSqA4VFU) YouTube
     * Remote code execution

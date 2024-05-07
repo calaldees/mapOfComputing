@@ -3,6 +3,9 @@ SVG
 
 constuct svg by hand
 
+* [svgviewer.dev](https://www.svgviewer.dev/)
+    * online svg code editor and preview and export
+
 https://yqnn.github.io/svg-path-editor/
 
 * [Understanding SVG Paths](https://www.nan.fyi/svg-paths)

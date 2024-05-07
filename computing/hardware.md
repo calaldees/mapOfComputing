@@ -65,7 +65,8 @@ Open Hardware
     * Open laptops, phones, watch, other
 * [EOMA68 Laptop](https://www.linux-magazine.com/Online/Features/A-Free-Laptop-Project)
     * 3d printed open laptop
-* 
+* [Blot](https://github.com/hackclub/blot)
+    * Open source plotter hardware
 
 Theory
 ------

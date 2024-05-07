@@ -18,6 +18,9 @@ AI (Artificial Intelligence)
     * How 4 jobs have been transformed by AI in last year
 
 * [Decomposing Language Models Into Understandable Components](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components)
+* [How Do Machines ‘Grok’ Data?](https://www.quantamagazine.org/how-do-machines-grok-data-20240412/)
+    * > For all their brilliance, artificial neural networks remain as inscrutable as ever. As these networks get bigger, their abilities explode, but deciphering their inner workings has always been near impossible. Researchers are constantly looking for any insights they can find into these models.
+
 
 * The elephant in the room in many education settings.
 * Mass public misunderstanding
