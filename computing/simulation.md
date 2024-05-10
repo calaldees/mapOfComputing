@@ -15,10 +15,13 @@ See [[model]]
 * Artificial Life
     * [alien-project.org](https://alien-project.org/)
     * conway
+    * [Clusters](https://ventrella.com/Clusters/) - A particle microworld with ambiguous entities
+        * Also works with Leep Motion
 * Climate
     * [climateinteractive](https://en-roads.climateinteractive.org/scenario.html)
     * [Joseph Cook](https://news.microsoft.com/en-gb/2018/12/11/uk-scientist-handed-microsoft-grant-to-launch-unique-study-into-how-climate-change-is-affecting-the-arctic/) (from Margate) Predictive model on how glaciers melt from drones (not satellites)
 * Fluid
+    * [fluid in WASM and WebGl](https://aestuans.github.io/blob/)
     * [WebGL-Fluid-Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
     * [WaterLily.jl](https://github.com/weymouth/WaterLily.jl)
     * [Coding Adventure: Simulating Fluids](https://www.youtube.com/watch?v=rSKMYc1CQHE)
