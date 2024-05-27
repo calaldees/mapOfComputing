@@ -92,6 +92,11 @@ CSMACD
 
 Internet categorys
 
+Low Power
+---------
+
+* [Thread - the tech we can't use or teach](https://overengineer.dev/blog/2024/05/10/thread/)
+    * Thread is an IPv6 compatable low power protocol. It's built into AppleHomeHub but the licencing prohibits any hobby/education use
 
 WiFi
 ----

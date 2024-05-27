@@ -45,6 +45,11 @@ Algorithms
                 * > C++ library of data structures and algorithms for geometry processing, with a particular focus on surface meshes.
         * [[graphics]]
             * [[line-drawing]]
+            * Filling polygons
+        * Streams
+            * Estimate distinct entries
+                * [Computer Scientists Invent an Efficient New Way to Count](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/)
+                * 
 
 * [Nine algorithms that changed the future: the ingenious ideas that drive today's computers]() MacCormick, John 2011
     * Ingenious ideas that drive today's computers
