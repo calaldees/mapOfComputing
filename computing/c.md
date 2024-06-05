@@ -18,3 +18,5 @@ C
     * The C language leads a double life: as an application program-ming language of yesteryear, perpetuated by circumstance,
     * and as a systems programming language which remains a weapon of choice decades after its creation. 
     * This essay is a C programmer’s reaction to the call to abandon ship.
+* ["No way to prevent this" say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-4323/)
+    * Memory security problems happen in C. Other languages are fine. Come on C programmers, admit that the language is the issue!

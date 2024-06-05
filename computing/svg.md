@@ -29,3 +29,6 @@ edit color
 Use inkscape
 
 link to inline svg in a markdown document
+
+* [Protecting your email address via SVG instead of JS](https://rouninmedia.github.io/protecting-your-email-address-via-svg-instead-of-js/)
+    * SVG is badass! Amazing solution - because svg is xml tags
