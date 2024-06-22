@@ -13,6 +13,9 @@ Graphics
 * [[raytracing]]
 * [[pallet-cycling]]
 
+* [Scratchapixel 4.0](https://www.scratchapixel.com/) Computer Graphics Lessons and Books (free)
+    * > Teaching computer graphics programming to regular folks. Original content written by professionals with years of field experience. We dive straight into code, dissect equations, avoid fancy jargon and external libraries. Explained in plain English. Free.
+
 * [Meta Uses Khronos Open Standards in New Intermediate Graphics Library](https://www.khronos.org/blog/meta-uses-khronos-open-standards-in-new-intermediate-graphics-library)
 
 * [Beginning FPGA Graphics](https://projectf.io/posts/fpga-graphics/)

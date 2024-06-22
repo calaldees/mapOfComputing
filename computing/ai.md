@@ -8,6 +8,8 @@ AI (Artificial Intelligence)
 * [[ai-animation]]
 * [[ai-vision]]
 
+* TODO [AI:Apple-Intelligence](https://www.interconnects.ai/p/apple-intelligence) - Apples approach to AI
+
 * The future called ... it said most jobs are now obsolete. AI That can perform tasks by interpreting a computer screen
     * https://www.loom.com/share/9458bcbf79784162aa62ffb8dd66201b
     * https://github.com/ishan0102/vimGPT
