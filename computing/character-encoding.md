@@ -12,6 +12,9 @@ echo -e [\\t]
 ascii
 -----
 
+* [The Elegance of the ASCII Table](https://danq.me/2024/07/21/ascii/)
+    * in binary it makes a lot of sense
+
 * [[ascii-art]]
 
 

@@ -6,6 +6,9 @@ Audio
 * [[compression-audio]]
 * [Amiga Music Preservation](http://amp.dascene.net/home.php)
 
+* [The Linux audio stack demystified](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
+    * starts with explaining simple audio terminology and explains the architecture of jack, pulse, pipewire
+
 * [bespokesynth.com](https://www.bespokesynth.com/)
     * Chain modular audio components together in a GUI to create cool sounds. Very visual
     * Open source Windows, Mac, Linux

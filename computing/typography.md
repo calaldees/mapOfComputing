@@ -17,6 +17,7 @@ Typography
 * [Bunny Fonts](https://fonts.bunny.net/about)
     * GDPR open drop in replacement for google fonts
 
+
 ### Fonts for coding
 
 * [Input - Fonts for code](https://input.djr.com/preview/)
@@ -131,6 +132,14 @@ Security with fonts
 * [Fonts are still a Helvetica of a Problem](https://www.canva.dev/blog/engineering/fonts-are-still-a-helvetica-of-a-problem/) - CVEs in three strange places and the unique problem of safely processing and handling fonts.
     * Lots of formats - lots of attack area - examples of POC of [[security]] vulnerabilities
     * Postscript, OpenType, TrueType, SVG. So many formats
+
+Font editors
+------------
+* [FontForge](https://www.online-tech-tips.com/how-to-create-your-own-fonts-and-edit-truetype-fonts/)
+    * Bitmaps to fonts?
+* [FontLab](https://www.fontlab.com/font-editor/bitfonter/)
+    * A $999 service for fonts?
+
 
 Physical Typography
 ===================

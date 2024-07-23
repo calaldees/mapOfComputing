@@ -1,6 +1,12 @@
 Software Industry
 =================
 
+* [Panic! at the Job Market](https://matt.sh/panic-at-the-job-market)
+    * Amazing takedown of hiring practice and workplace bullshit - calling it out!
+    * work culture is eventually on an axis of Progress vs Kindness
+    * company structure and pay
+    * Product owners - it's absurd to think that the people that build the thing don't know what they are building. Loads of jobs leaeching off the power of engineers
+
 https://huyenchip.com/2020/01/18/tech-workers-19k-compensation-details.html
 
 * [Making is Show Business now](https://alexdanco.com/2020/10/08/making-is-show-business-now/)

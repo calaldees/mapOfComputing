@@ -1,6 +1,8 @@
 SMTP - Simple Mail Transfer Protocol
 ====
 
+* [https://fakemail.stream - A fake SMTP server for software integration testing](https://github.com/aled/fakemail)
+
 * Explained from first principles [Email](https://explained-from-first-principles.com/email/)
 * [Mox](https://github.com/mjl-/mox) -  modern full-featured open source secure mail server for low-maintenance self-hosted email 
     * > Mox aims to make "running a mail server" easy and nearly effortless. Excellent quality mail server software exists, but getting a working setup typically requires you configure half a dozen services (SMTP, IMAP, SPF/DKIM/DMARC, spam filtering). That seems to lead to people no longer running their own mail servers, instead switching to one of the few centralized email providers. 
