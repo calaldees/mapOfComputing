@@ -1,6 +1,12 @@
 Performance Profiling
 =====================
 
+* [Flame Graphs](https://www.brendangregg.com/flamegraphs.html)
+    * > Flame graphs are a visualization of hierarchical data, created to visualize stack traces of profiled software so that the most frequent code-paths to be identified quickly and accurately.
+    * [pyspy](https://github.com/benfred/py-spy?tab=readme-ov-file#how-do-i-run-py-spy-in-docker)
+    * https://roman.pt/posts/python-performance-profiling/
+    * Pyspy live https://www.youtube.com/watch?v=p8s2fzqA07s
+
 * Instrumentation
     * TODO define
 

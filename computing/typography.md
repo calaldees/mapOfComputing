@@ -88,6 +88,8 @@ Fonts
 * Uniwidth/Multiplex/Duplexed/Equal-width
     * [Uniwidth typefaces for interface design](https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7)
 * Monospace
+    * [the-monospace-web](https://owickstrom.github.io/the-monospace-web/)
+        * Using fixed with fonts for layout - web - from markdown
     * [Coding with Character](https://realdougwilson.com/writing/coding-with-character)
         * Monospace fonts for coding with personality
         * If you spend all day looking at code, letters, and characters—why not make it fun?

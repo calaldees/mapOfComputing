@@ -1,6 +1,8 @@
 Datasets
 --------
 
+* [Free Public API's](https://www.freepublicapis.com/) 233 for students and developers
+
 * [Simple data pipeline powertools: sqlite, pandas, gnuplot and friends](https://csvbase.com/blog/5) 
     * Open [[data]] is also an open [[api]]
     * Amazing use of curl | gunzip | sql | query

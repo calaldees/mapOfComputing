@@ -3,6 +3,8 @@ Synth
 
 * [Making A Synth With Python — Controllers](https://python.plainenglish.io/build-your-own-python-synthesizer-part-3-162796b7d351)
     * PyAudio + midi = synth!
+* [PySynth](https://github.com/mdoege/PySynth) Old
+    * turn ABC notation or MIDI files into a WAV
 
 * https://gto76.github.io/python-cheatsheet/#synthesizer
 ```python

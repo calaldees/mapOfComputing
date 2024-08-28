@@ -29,6 +29,7 @@ Links to working with map data
 * from [[datasets]]
     * Live Realtime
         * [Lightening Maps](https://www.lightningmaps.org/)
+            * [blitzortung.org](https://www.blitzortung.org/en/live_lightning_maps.php?map=12) - a better web client that lightening maps?
         * [Windy.com](https://www.windy.com/)
         * [earth.nullschool.net](https://earth.nullschool.net/)
             * [source](https://github.com/cambecc/earth)

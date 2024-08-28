@@ -4,7 +4,9 @@ MacOS
 [](hackintoshpro.com/macos-mojave-vmware)
 [How to Run macOS on Windows 10 in a Virtual Machine](https://www.makeuseof.com/tag/macos-windows-10-virtual-machine/)
 
-[OSX in Ubuntu](https://github.com/popey/sosumi-snap)
+* [OSX in Ubuntu](https://github.com/popey/sosumi-snap)
+* [Docker-OSX](https://github.com/sickcodes/Docker-OSX) in a container
+    * With X11 to enable graphical integration!
 
 Finder
 cmd + shift + . (show hidden files)

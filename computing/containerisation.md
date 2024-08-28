@@ -27,8 +27,7 @@ https://github.com/p8952/bocker
 
 `--squash`
 
-https://dockersl.im/
-https://github.com/docker-slim/
+https://github.com/slimtoolkit/slim
 brew install docker-slim
 
 https://ubuntu.com/blog/we-reduced-our-docker-images-by-60-with-no-install-recommends

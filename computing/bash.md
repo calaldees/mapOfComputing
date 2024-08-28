@@ -3,6 +3,9 @@ bash
 
 Born Again Shell
 
+* https://github.com/onceupon/Bash-Oneliner
+  * The omni document for all bash!
+
 * Alias's
   * https://github.com/gto76/standard-aliases
 

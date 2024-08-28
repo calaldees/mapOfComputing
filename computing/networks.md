@@ -1,6 +1,10 @@
 Networks
 ========
 
+* ["just disconnect the internet" argument](https://computer.rip/2024-07-31-just-disconnect-the-internet.html) 2024
+    * It cant be done - we are connected. Threat vectors still exists in air gaps. 
+    
+
 * [[internet]]
 * [[slow-network]]
 * [High Performance Browser Networking](https://hpbn.co/) - eBook

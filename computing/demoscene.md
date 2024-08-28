@@ -23,7 +23,8 @@ Creativity Visulisation
     * [Animations from first principles](https://mathspp.com/blog/animations-from-first-principles-in-5-minutes)
         * Pyhton Pygame - morph of circle
     * Examples
-        * [flashtro-morton-strikes-back](http://flashtro.com/flashtro-morton-strikes-back/)
+        * [flashtro](http://flashtro.com/)
+            * [morton-strikes-back](http://flashtro.com/flashtro-morton-strikes-back/)
         * [elevated by Rgba & TBC | 4k intro](https://www.youtube.com/watch?v=jB0vBmiTr6o) - [rgba_tbc_elevated_source.zip](https://files.scene.org/view/resources/code/sources/rgba_tbc_elevated_source.zip)
             * [Escalated](https://www.shadertoy.com/view/MtK3Wc) 1024byte shader similar to Elavated - browser demo
             * [Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise)

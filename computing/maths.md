@@ -7,6 +7,8 @@ Maths
 
 * [[statistics]]
 * [[prime-numbers]]
+* [galois_theory](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
+    * Number space translation
 * [The most counterintuitive facts in all of mathematics, computer science, and physics](https://axisofordinary.substack.com/p/the-most-counterintuitive-facts-in)
     * AMAZING! list of very interesting contradictions and facts
     * It is possible to compute over encrypted data without access to the secret key: https://en.wikipedia.org/wiki/Homomorphic_encryption
@@ -17,6 +19,11 @@ Maths
     * Algebra: solving equations involving unknowns.
     * This text is roughly half computational and half conceptual in nature. 
     * Most engineering problems, no matter how complicated, can be reduced to linear algebra
+* [Introduction to Linear Algebra](https://www.freetext.org/Introduction_to_Linear_Algebra/)
+    * Vectors
+    * Matrices
+    * Linear Transformations
+    * Vector Spaces
 * [Category Theory Illustrated](https://github.com/boris-marinov/category-theory-illustrated)
     * Beautiful web/book illustrating mathematical and computing set constructs and terminology.
     * [Category THeory Illustrated: sets](https://abuseofnotation.github.io/category-theory-illustrated/01_set/)

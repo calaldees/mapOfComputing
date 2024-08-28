@@ -122,3 +122,9 @@ Not really social-media .. more data business
 * [Tinder just permabanned me or the problem with big tech](https://paulefou.com/blog/tinder-permaban)
     * Big tech can just disable accounts algorithmicly - false posetives dont matter - you cant ask them for "why" because they don't even know - there is no way to recover
 
+---
+
+Tools
+
+Read twitter without login https://nitter.poast.org
+Read twitter posts on a single page - https://unrollnow.com/

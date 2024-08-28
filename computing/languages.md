@@ -20,6 +20,7 @@ Languages
 * [Evaluating Programming Languages](https://cs.lmu.edu/~ray/notes/evaluatingprogramminglanguages/)
     * > So, if you ever get into an argument about programming languages, what should you say?
     * Criteria for Evaluation • Popularity • Understanding Evaluation Tradeoffs
+* [Energy Usage per language](https://www.researchgate.net/figure/Normalized-global-results-for-Energy-Time-and-Memory_tbl2_320436353)
 * [rosettacode.org](http://rosettacode.org)
     * Rosetta Code is a programming chrestomathy site. The idea is to present solutions to the same task in as many different languages as possible, to demonstrate how languages are similar and different, and to aid a person with a grounding in one approach to a problem in learning another.
 
@@ -226,7 +227,7 @@ Performance
 [visual-programming-languages]: visual-programming-languages.md "Visual Programming Languages"
 [assembly]: assembly.md "Assembly Code"
 [c]: c.md "C"
-[c++]: c++.md "c++"
+[c++]: c%2B%2B.md "c++"
 [nim]: nim.md "NIM"
 [rust]: rust.md "Rust"
 [fstar]: fstar.md "F*"
