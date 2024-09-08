@@ -88,10 +88,11 @@ Trackers/Mods
 * [Music Trackers: A Brief History](https://youtu.be/aiILSgNt23E) YouTube 6min
 
 ### Trackers
+* [openmpt](https://openmpt.org/)
+* [WaveTracker](https://wavetracker.org/) 2024
 * [milkytracker](https://milkytracker.org/) - cross platform 64bit - evolution of ProTracker/FastTracker
 * [ModPlug](https://www.modplug.com/)
 * [renoise](https://www.renoise.com/products/renoise) - a modern DAW tracker
-* [openmpt](https://openmpt.org/)
 * [Schism Tracker](https://schismtracker.org/) - a free and open-source reimplementation of [Impulse Tracker](https://en.wikipedia.org/wiki/Impulse_Tracker) which is turn is an extension of screamtracker (FutureCrew)
 * [FT2 clone](https://16-bits.org/ft2.php) - [The 90s are alive, with a free, modern clone of FastTracker II](https://cdm.link/2018/04/90s-alive-free-modern-clone-fasttracker-ii/)
 * [Bintracker](https://bintracker.org/) A Chiptune Audio Workstation for the 21st Century
@@ -104,7 +105,7 @@ Trackers/Mods
 * [WebXmp](https://www.wothke.ch/webxmp/) - Experimental JavaScript/HTML5 version of xmp. (Xmp is a module player that plays over 90 mainstream and obscure module formats from Amiga, Atari, Acorn, Apple IIgs and PC, including Protracker (MOD), Scream Tracker 3 (S3M), Fast Tracker II (XM) and Impulse Tracker (IT) files.)
 * [scriptracker](http://scriptracker.cheerful.nl/)
 
-### Tracks
+### Example Tracks (4 channel)
 * [Space Debris](https://markuskaarlonen.com/space-debris)
     * YouTube Impulse Tracker [Captain / Image - Space debris](https://www.youtube.com/watch?v=Hkw7l8IgM4g)
     * [HN: Space Debris is an Amiga mod I composed back in 1991 (markuskaarlonen.com)](https://news.ycombinator.com/item?id=29611316)

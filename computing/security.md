@@ -204,11 +204,14 @@ Cloud
 
 * [EarSpy: Spying on Phone Calls via Ear Speaker Vibrations Captured by Accelerometer](https://www.securityweek.com/earspy-spying-phone-calls-ear-speaker-vibrations-captured-accelerometer)
 
+* [Time-memory Trade-offs Sound the Death Knell for GPRS and GSM](https://www.iacr.org/cryptodb/data/paper.php?pubkey=34281)
+    * > Passive listener ... decrypt any 2-hour call with probability 0.43, in 14 min.
 
 Fonts
 -----
 
 * [[typography]]
+    * Fonts are a security threat! They run on everything!
     * Duplicate: [Fonts are still a Helvetica of a Problem](https://www.canva.dev/blog/engineering/fonts-are-still-a-helvetica-of-a-problem/)
 
 
