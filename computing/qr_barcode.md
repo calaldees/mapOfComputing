@@ -19,3 +19,5 @@ https://github.com/GothAck/HP-WebOS-Hack-Weekend/blob/master/server/public/javas
 
 
 * [Everything is an input device (fun with barcodes)](https://media.ccc.de/v/mch2022-254-everything-is-an-input-device-fun-with-barcodes-) Video 30min
+
+* [QRFrame](https://github.com/zhengkyl/qrframe) - JS code-based qr code generator

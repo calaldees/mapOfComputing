@@ -24,3 +24,5 @@ samples_f   = it.chain.from_iterable(get_samples(n) for n in f'{P1},{P1},{P2}'.s
 samples_i   = array.array('h', (int(f * 30000) for f in samples_f))
 simpleaudio.play_buffer(samples_i, 1, 2, F)
 ```
+
+* [Twenty Years of FM Synthesis inside Ableton Live](https://roberthenke.com/technology/operator.html)

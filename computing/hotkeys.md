@@ -84,6 +84,8 @@ ide (see ide.md)
 Terminal
 --------
 
+* [[terminal]]
+
 ctrl + shift + d - split pane
 alt + (arrows) - select pane
 ctrl + shift + enter - zoom pane

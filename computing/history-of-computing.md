@@ -21,7 +21,8 @@ History of Computing
 
 * [How did Dennis Ritchie produce his PhD thesis? A typographical mystery (2022) (princeton.edu)](https://news.ycombinator.com/item?id=35177110) [pdf](https://www.cs.princeton.edu/~bwk/dmr/doceng22.pdf)
     * how the creator of C and the creator of unix created a PhD thesis, that was never accepted, about the foundations of computation (e.g. nested loops and function calls) with ridiculously primitive tooling. A mystery! and a piece of history!
-
+* [What Happened to the Japanese PC Platforms?](https://www.mistys-internet.website/blog/blog/2024/09/21/what-happened-to-the-japanese-pc-platforms/)
+    * PC-98 had x86 and a special port of windows, so just faded out and transitioned to normal PCs
 
 * [The story of the first "computer bug"... is a pile of lies.](https://lunduke.substack.com/p/the-story-of-the-first-computer-bug)
     * _Bug_ was a term for engineering defects in the 1800's (used by Edison, and other before)

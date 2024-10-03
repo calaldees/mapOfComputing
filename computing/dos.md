@@ -28,3 +28,6 @@ Used until 1995
 * [Beyond the 1 MB barrier in DOS](https://blogsystem5.substack.com/p/beyond-the-1-mb-barrier-in-dos)
     * Unreal mode, LOADALL (undocumented op-code), DJGPP
     * really detailed with assembly examples
+
+
+* [A "hello world" program in machine code on DOS](https://www.uninformativ.de/blog/postings/2024-09-29/0/POSTING-en.html)

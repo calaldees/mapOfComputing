@@ -8,6 +8,9 @@ Terminal
 
 * [[bash]]
 
+* [Terminal colours are tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)
+  * Getting colors correct in terminals is tricky
+
 Terminal
 --------
 

@@ -29,4 +29,7 @@ Criticism
 ----------
 
 * [Ask HN: Do you think Agile/Scrum is beneficial for software delivery?](https://news.ycombinator.com/item?id=26345235)
-    * 
+* [Why Scrum is Stressing You Out](https://rethinkingsoftware.substack.com/p/why-scrum-is-stressing-you-out)
+    * No "summer holiday" reset
+    * 3. Sprints Neglect Key Supporting Activities
+

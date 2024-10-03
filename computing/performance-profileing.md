@@ -10,6 +10,9 @@ Performance Profiling
 * Instrumentation
     * TODO define
 
+* [Tracy Profiler](https://github.com/wolfpld/tracy)
+    * > A real time, nanosecond resolution, remote telemetry, hybrid frame and sampling profiler for games and other applications.
+
 * [All my favorite tracing tools: eBPF, QEMU, Perfetto, new ones I built and more](https://thume.ca/2023/12/02/tracing-methods/)
     * Aewsome animated gifs and real examples
 

@@ -27,7 +27,8 @@ Huffman
     * (beautiful single page layout with code)
 * [lizard LZ5](https://github.com/inikep/lizard)
     * > Lizard (formerly LZ5) is an efficient compressor with very fast decompression. It achieves compression ratio that is comparable to zip/zlib and zstd/brotli (at low and medium compression levels) at decompression speed of 1000 MB/s and faster. 
-
+* [Dissecting the GZIP format](https://www.infinitepartitions.com/art001.html)
+    * The DEFLATE algorithm uses a combination of LZ77, Huffman codes and run-length-encoding; 
 
 New techniques
 --------------

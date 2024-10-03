@@ -1,6 +1,8 @@
 Error
 =====
 
+* https://unrollnow.com/status/1835721135847248020
+    * > Every 8 microseconds, your computer's memory has a hiccup. The charge on DRAM cells weakens at a predictable rate, increasing with temperature. If your memory controller didn't do anything about it, in roughly 64 milliseconds, the entire contents of your RAM would be gone! To prevent this, the memory controller charges up, sends a blast of power to the cells, and then resumes normal operation. This hiccup is referred to as the "refresh cycle time" or tRFC in the DDR standard.
 
 Detection
 ---------

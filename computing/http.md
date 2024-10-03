@@ -26,6 +26,16 @@ GET / HTTP/1.1
 Host: developer.mozilla.org
 ```
 
+Dict
+----
+https://shkspr.mobi/blog/2024/09/http-ftp-and-dict/
+curl dict://dict.org/d:Internet:jargon
+You can even use it for simple translation tasks. For example, to translate English to Japanese:
+curl dict://dict.org/d:Internet:fd-eng-jpn
+telnet dict.org dict
+Type the command HELP
+https://dikt.tv/servers
+
 * [hurlit.com](https://www.hurlit.com/) - webservice to make http requests
 
 tracert calaldees.uk

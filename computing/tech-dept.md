@@ -3,6 +3,9 @@ Tech Dept
 
 * [[refactoring]]
 
+* [A Taxonomy of Tech Debt](https://technology.riotgames.com/news/taxonomy-tech-debt)
+    * Impact - Fix Costs - Contagion
+
 * [Tech debt metaphor maximalism](https://apenwarr.ca/log/?m=202306)
     * Good examples of teach debt and why it's good
 
