@@ -7,6 +7,11 @@ AI (Artificial Intelligence)
 * [[ai-code]]
 * [[ai-animation]]
 * [[ai-vision]]
+* [[ai-image]] processing
+
+* Rob people of the opportunity to get good
+* Once AI is in place  in organizations - it is shadow upgradable - a/b testing +++
+* AI destroys capitalism and the model of 'Work' - Poletics are not able to comprehend this.
 
 * TODO [AI:Apple-Intelligence](https://www.interconnects.ai/p/apple-intelligence) - Apples approach to AI
 
@@ -308,6 +313,7 @@ Unsorted
 [ai-code]: ai-code.md "Ai Code"
 [ai-animation]: ai-animation.md "AI Animation"
 [ai-vision]: ai-vision.md "ai-vision"
+[ai-image]: ai-image.md "AI Image Processing"
 [llm]: llm.md "Large Language Models"
 [image-recognition]: image-recognition.md "Image Recognition"
 [ai]: ai.md "AI (Artificial Intelligence)"

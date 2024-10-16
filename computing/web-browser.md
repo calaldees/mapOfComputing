@@ -3,6 +3,8 @@ Browser
 
 Web browser is basically an OS at this point
 
+* [Web Browser Engineering](https://browser.engineering/index.html)
+    * > Web browsers are ubiquitous, but how do they work? This book explains, building a basic but complete web browser, from networking to JavaScript, in a couple thousand lines of Python.
 * [Chrome Platform Status: Release Timeline](https://www.chromestatus.com/features/schedule)
 
 HUGE API

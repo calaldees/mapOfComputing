@@ -6,6 +6,13 @@ Color
     * Color is complicated - excelent example of inperpolations
     * rgbmiss's out 1/3 of all colors a screen can display
 
+* Transforming colors with matrices
+    * [Transforming colors with matrices](https://lisyarus.github.io/blog/posts/transforming-colors-with-matrices.html)
+        * [Matrix Operations for Image Processing - Paul Haeberli Nov 1993](https://stackoverflow.com/a/8510751/3356840)
+        * http://www.graficaobscura.com/matrix/index.html
+        * My Python one: https://github.com/calaldees/libs/blob/9a7dbeea6d34240e13e9d684a8388519bb00885c/python3/calaldees/color.py#L75
+
+
 * [Practical Color Theory for People Who Code](http://tallys.github.io/color-theory/)
 * [A Pixel's Color](https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md)
     * Color is complicated. Deep dive into color representation
@@ -20,7 +27,7 @@ Color
     * Human perception of color is very fluid
 * [Exploring the Basic Concepts of HDR: Dynamic Range, Gamma Curves, and Wide Color Gamut](https://sid.onlinelibrary.wiley.com/doi/full/10.1002/msid.1060)
 
-* [The 12-bit rainbow palette](https://iamkate.com/data/12-bit-rainbow/) [[data-visualisation]]]
+* [The 12-bit rainbow palette](https://iamkate.com/data/12-bit-rainbow/) [[data-visualisation]]
     * >  I designed the 12-bit rainbow palette for use in my data visualisations. It consists of twelve colours chosen with consideration for how we perceive hue, chroma, and luminance:
     * hex 817 a35 c66 e94 ed0 9d5 4d8 2cb 0bc 09c 36b 639
 

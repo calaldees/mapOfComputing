@@ -32,4 +32,6 @@ Criticism
 * [Why Scrum is Stressing You Out](https://rethinkingsoftware.substack.com/p/why-scrum-is-stressing-you-out)
     * No "summer holiday" reset
     * 3. Sprints Neglect Key Supporting Activities
-
+* [Scrum's "Product Owner" Problem](https://rethinkingsoftware.substack.com/p/scrums-product-owner-problem)
+    * Analogy: Product owners are in the kitchen of the restaurant saying what dishs need to wash and what ingredients to buy. This should be left to the Engineers/Chefs.
+    * Engineers are not just contrustion workers. They should not be asking "What do I do next" they should be asking "What can't users do" "What is problematic" "What us being used"

@@ -422,6 +422,9 @@ Diagram Extensions Examples
             * https://shd101wyy.github.io/markdown-preview-enhanced/#/file-imports?id=import-certain-lines
             * These use an underlying Markdown Library called MUME for rendering
             * I need to do more research into how this could be done on the commandline and CI
+* [Tenno](https://tenno.app/)
+    * 'cell like' spreadsheet cells support in markdown to make graphs.
+    * Looks really cool!
 
 
 Guides

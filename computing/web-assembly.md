@@ -1,6 +1,9 @@
 Web Assembly
 ============
 
+* [Wasm is the new CGI](https://roborooter.com/post/wasm-is-the-new-cgi/) 2024
+    * WASM will take over the world
+
 WebASMmbly
 WasmMVP (first implemenatation) -> WasmGC
 
