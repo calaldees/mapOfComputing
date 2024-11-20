@@ -20,6 +20,8 @@ https://github.com/scottrippey/xquestjs
 http://scottrippey.github.io/xquestjs/
 http://www.swallowtail.org/xquest/
 
+* [I made a multiplayer game from scratch because no one is hiring junior devs. ](https://www.youtube.com/watch?v=LBbVEqTPlzI)
+    * A video of making an entire game
 
 https://classicreload.com/dos-scorched-planet.html
 

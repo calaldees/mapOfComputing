@@ -168,6 +168,10 @@ MergeSort
 RadixSort
 InsertionSort
 
+Kind of realted
+* [The Skyline algorithm for packing 2D rectangles](https://jvernay.fr/en/blog/skyline-2d-packer/implementation/)
+    * Packing rectangles efficiently (like tetris)
+
 Search
 ------
 

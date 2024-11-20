@@ -1,6 +1,8 @@
 Animation
 =========
 
+* [Let's talk about Animation Quality](https://theorangeduck.com/page/animation-quality)
+    * Sample resolution in 3d motion capture
 
 With Code
 ---------

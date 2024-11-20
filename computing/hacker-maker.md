@@ -10,6 +10,8 @@ Hacker Maker Builder Culture
     * Worlds cheapest high framerate camera
 * [IBM open sources $300* fully-functional LEGO®microscope design](https://ibm-research.medium.com/ibm-open-sources-300-fully-functional-lego-microscope-design-248a6cdc81bf)
 
+* [makeityourself.org](https://makeityourself.org/)
+    * > Make it Yourself is a digital book that showcases this incredible talent, bringing together over 1000 useful DIY projects to demonstrate just what is possible when you make things yourself.
 
 Ideas
 -----

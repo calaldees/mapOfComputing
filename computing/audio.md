@@ -13,6 +13,8 @@ Audio
     * Chain modular audio components together in a GUI to create cool sounds. Very visual
     * Open source Windows, Mac, Linux
 
+* [Dynamics: What’s Changed?](https://www.sonible.com/blog/dynamics-changes/)
+    * Audio deep dive about modern mixing
 
 * [[voder]] early speech synthesis
 * [How Surround Sound for Headphones Works](https://hajo.me/blog/2014/12/28/how-surround-sound-for-headphones-works/)

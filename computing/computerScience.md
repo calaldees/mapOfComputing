@@ -12,6 +12,21 @@ Computer Science is a subset of the discipline of Computing
 
 * [[theory]]
 
+* [The only computer science book worth reading twice?](https://simondobson.org/2010/05/14/cs-book-worth-reading-twice/)
+    * Structure and interpretation of computer programs by Hal Abelson and Jerry Sussman (MIT Press. 1984. ISBN 0-262-01077-1), also known as SICP
+        * lambda-abstraction and higher-order computation
+        * complex data structures, including structures with embedded computational content
+        * modularity and mutability
+        * streams
+        * lazy evaluation
+        * interpreter and compiler construction
+        * storage management, garbage collection and virtual memory
+        * machine code
+        * domain-specific languages
+    * All in `scheme`!
+    * Amazing to have a book that spans all the layers of abstraction beyond the primitive procedural languages at the time.
+
+
 
 * [EWD 1041](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD10xx/EWD1041.html) prof. dr. Edsger W. Dijkstra 1989
     * CS Education sucks

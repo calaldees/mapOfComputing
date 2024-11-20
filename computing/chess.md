@@ -1,6 +1,20 @@
 Chess
 =====
 
+* [Programming a Computer for Playing Chess](https://vision.unipv.it/IA1/ProgrammingaComputerforPlayingChess.pdf) Clade Shannon 1949 !!!!
+    * > This paper is concerned with the problem of constructing a computing routine or "program" for a modern general purpose computer which will enable it to play chess. Although perhaps of no practical importance, the question is of theoretical interest, and it is hoped that a satisfactory solution of this problem will act as a wedge in attacking other problems of a similar nature and of greater significance. Some possibilities in this direction are: -
+        * (1)Machines for designing filters, equalizers, etc.
+        * (2)Machines for designing relay and switching circuits.
+        * (3)Machines which will handle routing of telephone calls based on the individual circumstances rather than by fixed patterns.
+        * (4)Machines for performing symbolic (non-numerical) mathematical operations.
+        * (5)Machines capable of translating from one language to another.
+        * (6)Machines for making strategic decisions in simplified military operations.
+        * (7)Machines capable of orchestrating a melody.
+        * (8)Machines capable of logical deduction.
+    * Shannon is a god-damn visionary!
+
+* [How to Build a Chess Engine and Fail](https://obrhubr.org/chess-engine)
+
 * [[ai]]
 * [10 Positions Chess Engines Just Don't Understand‎](https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand)
 * [ChessCoach](https://chrisbutner.github.io/ChessCoach/)

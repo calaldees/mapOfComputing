@@ -8,10 +8,18 @@ AI (Artificial Intelligence)
 * [[ai-animation]]
 * [[ai-vision]]
 * [[ai-image]] processing
+* [[ai-translation]]
 
 * Rob people of the opportunity to get good
 * Once AI is in place  in organizations - it is shadow upgradable - a/b testing +++
 * AI destroys capitalism and the model of 'Work' - Poletics are not able to comprehend this.
+
+* [What Shapes Do Matrix Multiplications Like? [medium]](https://www.thonking.ai/p/what-shapes-do-matrix-multiplications)
+    * Larger matrix's take less space and become better? what?
+    * Look at the maths
+
+* [What Shapes Do Matrix Multiplications Like? [medium]](https://www.thonking.ai/p/what-shapes-do-matrix-multiplications)
+    * Maths breakdown of computer and ram for tensor operations
 
 * TODO [AI:Apple-Intelligence](https://www.interconnects.ai/p/apple-intelligence) - Apples approach to AI
 
@@ -314,6 +322,7 @@ Unsorted
 [ai-animation]: ai-animation.md "AI Animation"
 [ai-vision]: ai-vision.md "ai-vision"
 [ai-image]: ai-image.md "AI Image Processing"
+[ai-translation]: ai-translation.md "AI Translation"
 [llm]: llm.md "Large Language Models"
 [image-recognition]: image-recognition.md "Image Recognition"
 [ai]: ai.md "AI (Artificial Intelligence)"

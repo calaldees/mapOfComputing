@@ -15,7 +15,7 @@ RISC-V
     * Half Precision Floating Point
 
 * [A bit of Z80 history](https://mitsi.com/2021/12/21/a-bit-of-z80-history/)
-
+* [The costs of the i386 to x86-64 upgrade](https://blogsystem5.substack.com/p/x86-64-programming-models)
 * [Hot Chips 34 – Intel’s Meteor Lake Chiplets, Compared to AMD’s](https://chipsandcheese.com/2022/09/10/hot-chips-34-intels-meteor-lake-chiplets-compared-to-amds/) 2022
     * Breakdown of Intel and AMD processor architectures with diagrams
 

@@ -1,6 +1,9 @@
 Documentation
 =============
 
+* [What docs as code really means](https://passo.uno/what-docs-as-code-means/)
+    * The use of documentation should be measured - it is a product output and has impact
+
 * [The grand unifying theory of documentation](https://documentation.divio.com)
     *  there isn’t one thing called documentation, there are four.
         * tutorials - learning oriented

@@ -1,6 +1,9 @@
 Logical Organization
 ====================
 
+* [](https://www.nandgame.com/)
+    * > The game consists of a series of levels. In each level, you are tasked with building a component that behaves according to a specification. This component can then be used as a building block in the next level. 
+
 * [[transistor]]
 * [BitMap Logic Simulator](https://charperbonaroo.github.io/bls/)
     * Create AND, OR, NOT gates as bitmaps

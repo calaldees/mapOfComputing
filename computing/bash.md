@@ -13,7 +13,7 @@ Born Again Shell
   * A game to learn the basics of
 
 * [bash CheatSheet](https://devhints.io/bash)
-
+* [How to Make a Bash Script Continue to Run After an Error](https://www.squash.io/ensuring-bash-scripts-continue-after-error-in-linux/)
 * [explainshell](https://explainshell.com/)
 * [set -euo pipefail](https://wizardzines.com/comics/bash-errors/)
 * [.bashrc PS1 Generator](http://bashrcgenerator.com/)

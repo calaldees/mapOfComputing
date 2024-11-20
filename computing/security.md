@@ -138,6 +138,9 @@ Global Radio Login Gigya - 'Hacked by' alert
 
 * [Stealing Your Private YouTube Videos, One Frame at a Time](https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/)
 
+* [Hacking cars in JavaScript (Running replay attacks in the browser with the HackRF)](https://charliegerard.dev/blog/replay-attacks-javascript-hackrf/)
+    * Javascript to hack car key fobs
+    * Block the key and simultaneously replay codes the car.
 
 * [Project Zero](https://googleprojectzero.blogspot.com/) - News and updates from the Project Zero team at Google
     * [The State of State Machines ](https://googleprojectzero.blogspot.com/2021/01/the-state-of-state-machines.html)
@@ -169,6 +172,9 @@ Global Radio Login Gigya - 'Hacked by' alert
 
 * [But You Told Me You Were Safe: Attacking the Mozilla Firefox Renderer (Part 1)](https://www.zerodayinitiative.com/blog/2022/8/17/but-you-told-me-you-were-safe-attacking-the-mozilla-firefox-renderer-part-1)
     * From javascript, corrupting the array.prototype to get the module object and binary access to the deterministic JIT compiler to then exploit kernel32.dll on windows. This is MAD!
+* [One weird trick to get the whole planet to send abuse complaints to your best friend(s)](https://delroth.net/posts/spoofed-mass-scan-abuse/)
+    * Attackers spoof packets to make your server get complaints until it's blacklisted.
+    * Very cunning Tor router shutdown, but could be used for any any service. Use the internet police to shut down the servers you don't want. Genius!
 
 Fuzzing #fuzzing
 -------

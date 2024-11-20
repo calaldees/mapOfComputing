@@ -27,3 +27,5 @@ https://blog.logrocket.com/5-reasons-you-shouldnt-be-using-graphql-61c7846e7ed3/
 https://productionreadygraphql.com/blog/2020-05-21-graphql-to-sql
 
 * Relay: [GraphQL Cursor Connections Specification](https://relay.dev/graphql/connections.htm)
+* https://relay.dev/docs/guides/graphql-server-specification/
+* https://productionreadygraphql.com/2020-08-01-guide-to-graphql-errors

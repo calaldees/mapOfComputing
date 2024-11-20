@@ -16,3 +16,5 @@ Dithering and color reduction
 * Coding Train [Coding Challenge 181: Weighted Voronoi Stippling](https://www.youtube.com/watch?v=Bxdt6T_1qgc) 30min YouTube
     * Using positioned circles with different radius's to simulate darkness and lightness (kind of like dithering)
     * 
+
+* [Stable Dither for video](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)

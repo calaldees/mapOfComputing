@@ -16,6 +16,7 @@ javascript (ECMAScript)
     * .time .timeLog .timeEnd
     * .trace()
 * [CSS-Tricks - Web Javascript Snippets](https://css-tricks.com/snippets/javascript/)
+* [Why I’m skeptical of rewriting JavaScript tools in “faster” languages](https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/)
 
 http://vanilla-js.com/
 https://htmldom.dev/

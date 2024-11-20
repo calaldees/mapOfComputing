@@ -1,6 +1,12 @@
 Job Applications and Interviews
 ===============================
 
+* [Why is it so hard to find a job now? Enter Ghost Jobs](https://arxiv.org/abs/2410.21771)
+    * 21% of all jobs are jobs that employers are not intending to fill.
+    * The cost of posting a job is 'cheap'
+    * Employers keep the application open in case they get a good candidate
+    * This causes job fatigue and distorts the statistics of number of available jobs
+
 
 * [hired.com](https://hired.com/employers/resources?cookie_consent=true&set_locale=en-GB&category=Report)
     * Reports about the state of the industry - updated yearly
