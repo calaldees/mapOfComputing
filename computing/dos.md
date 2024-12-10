@@ -28,6 +28,9 @@ Used until 1995
 * [Beyond the 1 MB barrier in DOS](https://blogsystem5.substack.com/p/beyond-the-1-mb-barrier-in-dos)
     * Unreal mode, LOADALL (undocumented op-code), DJGPP
     * really detailed with assembly examples
+* [Revisiting the DOS memory models](https://blogsystem5.substack.com/p/dos-memory-models)
+    * How BorlandC++ compiled code
+    * Code and data in 64k (com model), far pointers or near pointers to save space and instructions
 
 
 * [A "hello world" program in machine code on DOS](https://www.uninformativ.de/blog/postings/2024-09-29/0/POSTING-en.html)

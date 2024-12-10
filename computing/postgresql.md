@@ -1,6 +1,9 @@
 PostgreSQL
 ==========
 
+* [Postgres for Everything (e/postgres)](https://github.com/Olshansk/postgres_for_everything)
+    * Redis, MQTT, Graph, Document. Do them all in postgres
+
 * [PostgreSQL beginner guide](https://knowledgepill.it/posts/postgresql-basics-guide/) - connecting, remote access, psql CLI and troubleshooting connection
 * [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html) - for database administrators and system developers
 * [Understanding database Indexes in PostgreSQL](https://blog.mastermind.dev/indexes-in-postgresql) - A deep dive into indexes

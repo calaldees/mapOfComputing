@@ -53,8 +53,20 @@ Sharing build cache
         * `--cache-from` for manually pushing build image. There must be a better way ...
 * [Docker build cache sharing on multi-hosts with BuildKit and buildx](https://medium.com/titansoft-engineering/docker-build-cache-sharing-on-multi-hosts-with-buildkit-and-buildx-eb8f7005918e)
     * [docker/buildx](https://github.com/docker/buildx)
-  
-  
+        * [Registry cache](https://docs.docker.com/build/cache/backends/registry/)
+        * [GitHub Actions cache](https://docs.docker.com/build/cache/backends/gha/)
+    * ```bash
+        IMAGE_TAG=<IMAGE_REPO>:<CI_COMMIT_HASH>
+        CACHE_TAG=<CACHE_REPO>:<CI_PROJECT_ID>-<CI_BRANCH_NAME>
+        docker buildx build \
+            -t $IMAGE_TAG \
+            -f ./Dockerfile \
+            --cache-from=type=registry,ref=$CACHE_TAG \
+            --cache-to=type=registry,ref=$CACHE_TAG,mode=max \
+            --push \
+            --progress=plain \
+            .
+        ```
 
 * [SubUser](https://subuser.org/)
     * Using docker containers to run applications with only dir level access

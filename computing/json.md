@@ -7,6 +7,8 @@ JSON
 * [json-schema](https://json-schema.org/)
 * [jsoniq](https://www.jsoniq.org/)
     * A query language for json!
+* [jq](https://jqlang.github.io/jq/) - command-line JSON processor
+    * [Guide to Linux jq Command for JSON Processing](https://www.baeldung.com/linux/jq-command-json)
 
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) example [[api]]
     * https://jsonplaceholder.typicode.com/users

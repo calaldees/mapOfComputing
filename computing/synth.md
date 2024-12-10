@@ -26,3 +26,5 @@ simpleaudio.play_buffer(samples_i, 1, 2, F)
 ```
 
 * [Twenty Years of FM Synthesis inside Ableton Live](https://roberthenke.com/technology/operator.html)
+* [They don’t make them like that any more: the Yamaha DX7 keyboard](https://kevinboone.me/dx7.html)
+    * Algorithum
