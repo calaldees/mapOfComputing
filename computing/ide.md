@@ -10,6 +10,8 @@ Integrated Development Environment (IDE)
 * Notpad++
 * emacs
 * vim
+    * Macros are records of operations/keypress's. Every interaction can be scripted
+        * Some madlad created 'Bad Apple' in just vim queries [v](https://eieio.games/blog/bad-apple-with-regex-in-vim/)
 * PyCharm
 
 * [[history-of-ide]]

@@ -35,6 +35,7 @@ https://github.com/VGraupera/1on1-questions
 * [Thoughts on OKRs](https://joeblu.com/blog/2022_05_okrs/) Joe Blubaugh 2022
     * Why they fail
     * Leadership don't take long enough to do them - there is no consequence for failure
+* [Hitting OKRs vs Doing Your Job](https://jessitron.com/2025/01/05/hitting-okrs-vs-doing-your-job/)
 
 * [Conway's Law](https://martinfowler.com/bliki/ConwaysLaw.html) Martin Fowler 2022
     * > Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure. 

@@ -35,3 +35,6 @@ Criticism
 * [Scrum's "Product Owner" Problem](https://rethinkingsoftware.substack.com/p/scrums-product-owner-problem)
     * Analogy: Product owners are in the kitchen of the restaurant saying what dishs need to wash and what ingredients to buy. This should be left to the Engineers/Chefs.
     * Engineers are not just contrustion workers. They should not be asking "What do I do next" they should be asking "What can't users do" "What is problematic" "What us being used"
+
+* [hacker news comment](https://news.ycombinator.com/item?id=42460258)
+    * > Scrum, which means letting a clueless "scrum master" and "product owner" change directions twice a week so they can pretend to be working.

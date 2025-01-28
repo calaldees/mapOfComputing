@@ -4,6 +4,7 @@ Maps
 Links to working with map data
 * [FlightRadar24](https://www.flightradar24.com/) - All the commercial planes in the world
 * [GPS jamming map](https://www.flightradar24.com/data/gps-jamming)
+* [oldmapsonline.org](https://www.oldmapsonline.org/) World History Atlas
 * [app.electricitymap.org](https://app.electricitymap.org/map)
     * Electricity usage per country
 * [city-roads](https://anvaka.github.io/city-roads/)
@@ -39,6 +40,7 @@ Links to working with map data
 * [OpenHistoricalMap](https://www.openhistoricalmap.org/)
 
 * [Map of Starlink Coverage](https://www.google.com/maps/d/u/0/viewer?mid=1H1x8jZs8vfjy60TvKgpbYs_grargieVw&ll=44.25360346049032%2C-101.80770101330125&z=4)
+* [atlasof.space](https://atlasof.space/)
 * [Is the mcdonald’sice cream machine broken?](https://mcbroken.com/) [[creativity]]
     * Amazing #reverse-engineering of Mcdonalds order API to check if IceCream is served. Live maps of broken ice cream machines
     * [The REAL Reason McDonalds Ice Cream Machines Are Always Broken](https://www.youtube.com/watch?v=SrDEtSlqJC4)

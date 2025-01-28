@@ -38,7 +38,8 @@ https://classicreload.com/dos-scorched-planet.html
 
 * Elite
     * [Elite BBC Micro - Code breakdown/documentation](https://www.bbcelite.com/)
-    * Fully documented source code for Elite on the BBC Micro and NES
+        * Fully documented source code for Elite on the BBC Micro and NES
+    * [elite-source-code-commodore-64](https://github.com/markmoxon/elite-source-code-commodore-64)  Fully documented and annotated source code for Elite on the Commodore 64 
 * Lemmings
     * [The Complete History of Lemmings](http://www.javalemmings.com/DMA/Lem_1.htm)
 

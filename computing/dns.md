@@ -7,6 +7,10 @@ dig
 whois
 ```
 
+* [The secret life of DNS packets: investigating complex networks](https://stripe.com/blog/secret-life-of-dns)
+    * Case study of debugging spikes in reverse dns requests at stripe.com
+    * Cool they found it rate limiting to 1024 requests a second which was causing more panic and retries
+    * Use of `tcpdump` (more needed)
 * [Please do not put IP addresses into DNS MX records](https://blog.hboeck.de/archives/904-Please-do-not-put-IP-addresses-into-DNS-MX-records.html)
     * DNS server request / lookup? 
 

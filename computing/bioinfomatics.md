@@ -35,3 +35,9 @@ https://mpeg-g.org/
 * [Algorithm discovers how six simple molecules could evolve into life’s building blocks](https://www.chemistryworld.com/news/algorithm-discovers-how-six-simple-molecules-could-evolve-into-lifes-building-blocks/4012505.article)
 
 * [What is the “protein folding problem”? A brief explanation](https://rootsofprogress.org/alphafold-protein-folding-explainer)
+
+* [Mirror Bacteria Research Poses Significant Risks, Dozens of Scientists Warn](https://www.the-scientist.com/mirror-bacteria-research-poses-significant-risks-dozens-of-scientists-warn-72419) - Synthetic biologists make artificial cells, but one particular kind isn’t worth the risk.
+    * > As synthetic biologists, we have spent the last few decades in awe of the breakthroughs in the field. In the last fifteen years, synthetic biologists have stored books, images, and even videos in DNA, developed the ability to modify and engineer genes with remarkable accuracy, and even created an organism with chromosome designed using a computer and synthesized in the lab.1-5
+    * > These advances have allowed us to develop effective drugs against diseases like malaria, innovate lightweight, biodegradable, and high-strength materials such as artificial spider silk, and bolster our understanding of how life forms.6-8 In many cases, these breakthroughs were unforeseen and would not have happened if scientists could not conduct their research freely.
+    * [bacteria-based self-healing concrete](https://www.sciencedirect.com/science/article/abs/pii/S2352710222000511)
+    * Mirror bacteria would not consume sugars and protines that exist in the world. They could act on the raw components that the rest of life uses. There is no immune response that any life on earth could counter.

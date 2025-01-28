@@ -4,11 +4,13 @@ Raytracing
 * [[algorithms]]
 * [[raytracing-bbcmicro]]
 
+* [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html) 2024 Book
+
 * [Wolf256](https://demozoo.org/productions/319270/)
     * https://twitter.com/KilledByAPixel/status/1627003658125692928 https://jsfiddle.net/605e1wuf/
     * `<canvas id=c><svg onload="setInterval('d=w=j=c.width|=onmousemove=e=>R-=M-(M=e.x/29);S=Math.sin;for(a=S(R),b=S(R+11);j;d+=.1)S(X+(A=j/w*d-d/2)*b-d*a|Z-A*a-d*b)>.4||c.getContext`2d`.fillRect(--j,55-99/d,2/d,w/d,d=(1-1/d/d)/1e4,X-=d*a,Z-=d*b)',T=X=Z=R=M=9)">`
         * Entire raytrace 3d wolfenstein clone with collision detection for movement. JS 256 characters. ASTOUNDING!
-        
+    * https://github.com/KilledByAPixel/TinyCode
 
 
 * [The Super-est SuperFX: An unmodified SNES, revved up with ray tracing](https://arstechnica.com/gaming/2020/12/the-super-est-superfx-an-unmodified-snes-revved-up-with-ray-tracing/)

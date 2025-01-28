@@ -103,6 +103,8 @@ Authenticator app OTP
     * > The vulnerability is caused by memory optimization features in Intel processors that unintentionally reveal internal hardware registers to software.
     * Stealing 128-bit and 256-bit AES keys from another user (linux Kernel)
     * Computing devices based on Intel Core processors from the 6th Skylake to (including) the 11th Tiger Lake generation are affected
+* [Breach](https://www.breachattack.com/) - SSL, GONE IN 30 SECONDS
+    * If an attacker can control the length of the payload of a CSRF token, statistical anayly of gzip/https can be done to work out the HTTP headers of HTTPS content. Cookies/keys can be present in headers
 * [spookjs](https://www.spookjs.com/)
     * Vulnerability that gives access to Google Password manager from javascript
 

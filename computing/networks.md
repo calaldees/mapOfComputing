@@ -78,6 +78,7 @@ https://thesquareplanet.com/blog/how-the-internet-works/
         - ADSL modem (analogue to digital conversion)
         - Internet Gateway (bridges your local network to a wider network - the outside world)
         - Web server (Linux operating system)
+            * web based admin panel
     * It is not technically a "Router" as it does not have a routing table or perform route negotiation.
     * But people call it a router as it fits the concept of "passing something on to something else".
 
@@ -250,6 +251,7 @@ Routing Protocols
 * YouTube [What is a ROUTER? // FREE CCNA // EP 2](https://www.youtube.com/watch?v=p9ScLm9S3B4) NetworkChuck 2020 22min YouTube
     * Layer 2 and Layer 3 ARP example with gateway and DNS
 * YouTube [How RIP Works | Network Fundamentals Part 20](https://www.youtube.com/watch?v=aNV4rVLa_sc)
+* [Does the Internet Route Around Damage? - Baltic Sea Cable Cuts](https://labs.ripe.net/author/emileaben/does-the-internet-route-around-damage-baltic-sea-cable-cuts/)
 
 HELLO protocol?
 

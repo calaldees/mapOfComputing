@@ -12,6 +12,7 @@ History of Computing
 * [bitsavers.org](https://bitsavers.org/)
     * Magazines, software, communications archive of documents
     * > rsync is the preferred method for cloning and syncing with the archive. This site has no javascript, data bases or any of that Web 2.0 stuff You can clone the entire archive with `rsync -av rsync://bitsavers.org:/bitsavers/ bitsavers/` As of Nov, 2022, the entire archive is around 880gb
+* [The 7 Most Influential Papers in Computer Science History](https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/)
 
 * [Advent of Computing](https://podcasts.apple.com/us/podcast/advent-of-computing/id1459202600)
     * Podcast - Early IBM and Jupiter Ace

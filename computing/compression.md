@@ -4,6 +4,11 @@ Compression
 * [[compression-image]]
 * [[compression-audio]]
 
+* [Taking a Look at Compression Algorithms](https://cefboud.github.io/posts/compression/) 2025
+    * Techniques
+        Run-Length Encoding (RLE), Lempel-Ziv (LZ), Huffman Coding
+    * Formats
+        * Gzip, Snappy, LZ4, ZSTD
 
 RLE
 ---

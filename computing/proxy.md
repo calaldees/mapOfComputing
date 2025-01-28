@@ -6,3 +6,6 @@ Proxy
 * Dante
     * https://github.com/calaldees/blog/blob/master/tech/dante.md
     * Copy this from blog .. if feels like it does not belong there
+
+* mitmproxy capture traffic
+* [mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic

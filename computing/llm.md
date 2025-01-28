@@ -1,6 +1,8 @@
 Large Language Models
 =====================
 
+* [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223)
+
 * [Numbers every LLM Developer should know](https://github.com/ray-project/llm-numbers)
     * Cost breakdowns
 * [Welcome to LLM University!](https://docs.cohere.com/docs/llmu)

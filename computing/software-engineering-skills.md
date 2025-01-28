@@ -4,6 +4,7 @@ Software Engineer Skills
 * [[developers]]
 * [[program-design]]
 * [[design-patterns]]
+* [[career-framework]]
 
 ## Tooling
 
@@ -48,6 +49,7 @@ Software Engineer Skills
 [developers]: developers.md "Developers"
 [program-design]: program-design.md "Program Design"
 [design-patterns]: design-patterns.md "Design patterns"
+[career-framework]: career-framework.md "Career Framework"
 [package-manager]: package-manager.md "Package Manager"
 [version-control]: version-control.md "Version Control"
 [git]: git.md "GIT"

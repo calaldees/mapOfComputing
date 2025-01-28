@@ -73,9 +73,9 @@ https://www.flipcode.com/archives/articles.shtml
 ```html
 <canvas style="width:99%" id="c" onclick="setInterval('for(c.width=w=99,++t,i=6e3;i--;c.getContext`2d`.fillRect(i%w,i/w|0,1-d*Z/w+s,1))for(a=i%w/50-1,s=b=1-i/4e3,X=t,Y=Z=d=1;++Z<w&amp;(Y<6-(32<Z&amp;27<X%w&amp;&amp;X/9^Z/8)*8%46||d|(s=(X&amp;Y&amp;Z)%3/Z,a=b=1,d=Z/w));Y-=b)X+=a',t=9)" width="99">
 ```
-
 * [dwitter.net](https://www.dwitter.net/)
     * a challenge to see what awesomeness you can create when limited to only 140 characters of javascript and a canvas. Give it a go! 
+* [TinyCode/games/Wolf256](https://github.com/KilledByAPixel/TinyCode/blob/master/games/Wolf256/index.html)
 
 * [Mini Sand](https://xem.github.io/miniSand/)
     * A 2D sand simulator in 425 bytes. 
@@ -117,6 +117,9 @@ Trackers/Mods
 * [elysium (ELYSIUM.MOD)](https://modarchive.org/index.php?request=view_by_moduleid&query=40475) [Sanity - Elysium - Amiga Demo (HD 50fps)](https://www.youtube.com/watch?v=MHH1zu_ZAec)
 * [Desert-Dream-2 (desert2.mod)](https://modarchive.org/index.php?request=view_by_moduleid&query=37611) [Kefrens - Desert Dream - Amiga Demo (HD 50fps)](https://www.youtube.com/watch?v=jziQBWQxvok)
 * [physical_presence.mod](https://modarchive.org/index.php?request=view_by_moduleid&query=104644)
+
+* [Megasong](https://soundcloud.com/serpentbrs/synergetique-megasong-1) Project is a demoscene music project co-op long
+    * [nectarine](https://scenestream.net/demovibes/song/43487/)
 
 Other
 =====

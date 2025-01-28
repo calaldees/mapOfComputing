@@ -27,7 +27,8 @@ https://github.com/morris/vanilla-todo
 
 http://youmightnotneedjquery.com/
 * [replace-jquery](https://github.com/sachinchoolur/replace-jquery)
-  * Automatically finds jQuery methods from existing projects and generates vanilla js alternatives. 
+  * Automatically finds jQuery methods from existing projects and generates vanilla js alternatives.
+* [cash](https://github.com/fabiospampinato/cash) -  An absurdly small jQuery alternative for modern browsers.
 
 * [Using ES Modules (ESM) in Node.js: A Practical Guide (Part 1)](https://gils-blog.tayar.org/posts/using-jsm-esm-in-nodejs-a-practical-guide-part-1/)
     * How to use ES2015+ modules
