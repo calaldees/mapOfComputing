@@ -11,6 +11,7 @@ GIT
 * Aspiring pros use _commandline_ `status`, `push`, `pull`, `commit`, `add`
 
 * [Git Tutorial – All You Need to Get Started](https://codesweetly.com/how-to-use-git)
+* [Beej's Guide to Git](https://beej.us/guide/bggit/)
 
 * [My favourite Git commit](https://dhwthompson.com/2019/my-favourite-git-commit)
     * A set documenting git commit message. Beautiful white space bug.

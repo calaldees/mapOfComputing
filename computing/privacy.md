@@ -6,6 +6,11 @@ Privacy
 
 > cryptography is pointless, you must use your digital identity to speak
 
+* [Everyone knows your location: tracking myself down through in-app ads](https://timsh.org/tracking-myself-down-through-in-app-ads/)
+    * Breakown of how data is collected from apps and how it's aggregated over a range of services to disclose your location.
+    * Sadly (or thankfully) common everyday people can't get this data, it costs £100,000 for large dumps, but larger organizations can do this to individuals.
+    * [HN comments 1000's](https://news.ycombinator.com/item?id=42909921)
+
 * [Prediction: Bias - Predictive Policing Software Terrible At Predicting Crimes](https://themarkup.org/prediction-bias/2023/10/02/predictive-policing-software-terrible-at-predicting-crimes)
 * [TechScape: How police use location and search data to find suspects – and not always the right ones](https://www.theguardian.com/technology/2023/oct/03/techscape-geofence-warrants)
 

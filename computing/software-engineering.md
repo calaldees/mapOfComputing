@@ -99,6 +99,7 @@ I was looking at case studies for [[telematry]] and was thinking of practical us
     * developers should be given more responsibility and regarded as permanent assets to the company.
     * If you’re in a management position, you need to realize that development is mainly decision making, which of course only works if you’re given the necessary autonomy to make those decisions.
 
+* [Software development topics I've changed my mind on after 10 years in the industry](https://chriskiehl.com/article/thoughts-after-10-years)
 * [What I’ve Learned in 45 Years in the Software Industry](https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/)
 * ["What if it changes?"](https://chriskiehl.com/article/the-tyranny-of-what-if-it-changes)
     * You can justify any complexity by 'speculation about change'.

@@ -74,6 +74,9 @@ https://news.ycombinator.com/item?id=27313034
     * The fastest FizzBuzz implementation
     * Loads of system level programming and kernel features (`write` string is slow) #performance [[performance-profileing]]
 
+* [The fizzbuzz that did not get me the job](https://kranga.notion.site/The-fizzbuzz-that-did-not-get-me-the-job-180e7c22ef3b80c3a386f7f8de720ac7)
+    * Mad complexity of checking strings input for fizzbuzz. Using Typescript and adding special cases. Still did not get the job.
+
 Competitions
 ------------
 

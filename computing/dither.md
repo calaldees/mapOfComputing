@@ -18,3 +18,6 @@ Dithering and color reduction
     * 
 
 * [Stable Dither for video](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)
+
+* [The Art of Dithering and Retro Shading for the Web](https://blog.maximeheckel.com/posts/the-art-of-dithering-and-retro-shading-web/)
+    * Dithering with shaders. All the code. Super detailed

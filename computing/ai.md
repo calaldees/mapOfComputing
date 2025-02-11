@@ -14,6 +14,8 @@ AI (Artificial Intelligence)
 * Once AI is in place  in organizations - it is shadow upgradable - a/b testing +++
 * AI destroys capitalism and the model of 'Work' - Poletics are not able to comprehend this.
 
+* [Ai lectures - Matrix transformers in a google sheet](https://www.byhand.ai/p/transformer-spreadsheet)
+
 * [What Shapes Do Matrix Multiplications Like? [medium]](https://www.thonking.ai/p/what-shapes-do-matrix-multiplications)
     * Larger matrix's take less space and become better? what?
     * Look at the maths

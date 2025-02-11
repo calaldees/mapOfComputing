@@ -25,6 +25,7 @@ See [[model]]
     * [WebGL-Fluid-Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
     * [WaterLily.jl](https://github.com/weymouth/WaterLily.jl)
     * [Coding Adventure: Simulating Fluids](https://www.youtube.com/watch?v=rSKMYc1CQHE)
+    * [Simulating water over terrain](https://lisyarus.github.io/blog/posts/simulating-water-over-terrain.html)
     * [Airfoil](https://ciechanow.ski/airfoil/)
         * Visual description of how an Airfoil works!
 * Fire

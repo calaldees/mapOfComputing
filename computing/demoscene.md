@@ -104,6 +104,9 @@ Trackers/Mods
 #### Web
 * [WebXmp](https://www.wothke.ch/webxmp/) - Experimental JavaScript/HTML5 version of xmp. (Xmp is a module player that plays over 90 mainstream and obscure module formats from Amiga, Atari, Acorn, Apple IIgs and PC, including Protracker (MOD), Scream Tracker 3 (S3M), Fast Tracker II (XM) and Impulse Tracker (IT) files.)
 * [scriptracker](http://scriptracker.cheerful.nl/)
+* [Dittytoy: dance_to_the_rhythm.mod](https://dittytoy.net/ditty/e910e130a3)
+    * minimal javascript mod track in 250 lines of code
+    * Ditty is a javascript code sound generator online framework thing - here is [Simple FM Synth](https://dittytoy.net/ditty/886f5770b2) with two oscillators in JS
 
 ### Example Tracks (4 channel)
 * [Space Debris](https://markuskaarlonen.com/space-debris)

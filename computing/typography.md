@@ -122,6 +122,11 @@ Fonts
 * [Variable Fonts](https://v-fonts.com/)
     * Fonts with variables!
     *  v0.2 A simple resource for finding and trying variable fonts 
+* [](https://x.com/poetengineer__/status/1887601659980767275)
+    * > at its core, the project plays around with 2 ideas:
+       > 1. categorical sameness: how a single letter stays recognizable across different typefaces
+       > 2. stylistic sameness: how different letters from one typeface maintain a coherent aesthetic
+    * [Hofstadter and McGraw (1993) - Letter Spirit - An Emergent Model of The Perception and Creation of Alphabetic Style](https://www.scribd.com/document/406872126/Hofstadter-and-McGraw-1993-Letter-Spirit-An-Emergent-Model-of-the-Perception-and-Creation-of-Alphabetic-Style)
 
 Text is Hard
 ------------

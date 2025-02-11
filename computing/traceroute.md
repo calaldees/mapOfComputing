@@ -5,3 +5,5 @@ traceroute
 * [Trippy](https://trippy.cli.rs/)
     * Trippy combines the functionality of traceroute and ping and is designed to assist with the analysis of networking issues.
     * All in a text terminal! With a map!
+* [mtr](https://www.bitwizard.nl/mtr/)
+    * > mtr combines the functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool. 

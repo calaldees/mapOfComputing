@@ -8,6 +8,8 @@ Audio
 
 * [The Linux audio stack demystified](https://blog.rtrace.io/posts/the-linux-audio-stack-demystified/)
     * starts with explaining simple audio terminology and explains the architecture of jack, pulse, pipewire
+* [FreeBSD and hi-fi audio setup: bit-perfect, equalizer, real-time](https://m4c.pl/blog/freebsd-audio-setup-bitperfect-equalizer-realtime/)
+    * > A complete guide to configuring FreeBSD as an audiophile audio server: setting up system and audio subsystem parameters, real-time operation, bit-perfect signal processing, and the best methods for enabling and parameterising the system graphic equalizer (equalizer) and high-quality audio equalization with FFmpeg filters. Linux users will also find useful information, especially in the context of configuring and personalising the MPD player and filters.
 
 * [bespokesynth.com](https://www.bespokesynth.com/)
     * Chain modular audio components together in a GUI to create cool sounds. Very visual
