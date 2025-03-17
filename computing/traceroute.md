@@ -7,3 +7,7 @@ traceroute
     * All in a text terminal! With a map!
 * [mtr](https://www.bitwizard.nl/mtr/)
     * > mtr combines the functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool. 
+
+
+* [Nping](https://github.com/hanshuaikang/Nping)
+    * Terminal graphs of latency for n * concurrent pings

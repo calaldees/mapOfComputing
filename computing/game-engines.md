@@ -5,7 +5,9 @@ Game engines
 * [godotengine.org](https://godotengine.org/) - open source engine (pro linux)
     * [Developing Games on Linux: An Interview with Little Red Dog Games](https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with)
 * The open source, real-time, 3D engine [o3de.org](https://o3de.org/)
-* [Hue Jumper](http://frankforce.com/?p=7427)
+* [Frank Force Games: killedbyapixel](https://killedbyapixel.itch.io/)
+    * The JS ledgend! .. outrun in 13k!
+    * [Hue Jumper](http://frankforce.com/?p=7427)
 * [VoxelSpace](https://github.com/s-macke/VoxelSpace)
     * [[voxel]]
 * [playfuljs.com](http://www.playfuljs.com/)

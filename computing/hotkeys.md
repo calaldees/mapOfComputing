@@ -1,8 +1,8 @@
 Hotkeys
 =======
 
-* Double click (word)
-* Triple click (line)
+* Double click (word highlight)
+* Triple click (line highlight)
 
 Difference between submit/enter and newline/enter
 shift + enter
@@ -13,6 +13,9 @@ Stick/learn the defaults where possible
 
 https://stackoverflow.com/a/58307271/3356840
 ALT + 0 0 9 == TAB (in windows)
+
+* [macOS Tips & Tricks](https://saurabhs.org/macos-tips)
+    * Amazing list of hotkeys - the gui has been really well designed
 
 Universal
 ---------
@@ -39,6 +42,7 @@ shift (augments or inverts)
 * copy/paste
     * ctrl + c
     * ctrl + v
+    * ctrl + shift + v (paste without formatting)
 * find/replace
     * ctrl + f (ctrl+shift+f in code editor for all files)
     * ctrl + h

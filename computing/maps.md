@@ -64,6 +64,11 @@ Links to working with map data
 
 * [2024: announcing the year of the OpenStreetMap vector maps](https://blog.openstreetmap.org/2024/02/11/2024-announcing-the-year-of-the-openstreetmap-vector-maps/)
 
+* [MapTCHA, the open source CAPTCHA that improves OpenStreetMap](https://fosdem.org/2025/schedule/event/fosdem-2025-5879-maptcha-the-open-source-captcha-that-improves-openstreetmap/)
+
+* [Space -> Time](https://maps.vvolhejn.com/) - maps of a few cities
+    * > This is a map that can show time instead of space. Distances in the map reflect travel times: points that are close but take a long time to travel between (by car) get pushed away from each other, and vice versa.
+
 Old cartography
 ===============
 

@@ -17,3 +17,6 @@ Comments that describe WHY something is like it is, are very valuable
         * Some of the examples in clean code are unmaintainable garbage
     * ["Clean" Code, Horrible Performance](https://www.computerenhance.com/p/clean-code-horrible-performance)
         * Comparison of runtime performance of #cleancode
+    * [aposd-vs-clean-code](https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md)
+        * John Ousterhout vs Bob Martin - full interview transcript
+        * "A Philosophy of Software Design" (hereafter "APOSD") + classic book Clean Code

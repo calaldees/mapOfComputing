@@ -7,6 +7,11 @@ Leadership
 Most people become leaders after being great engineers. Trouble is that great engineers mya not have good leadership skills.
 Many leaders are inexperienced and untrained.
 
+* [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md) 2025 By Zach Goldberg
+    * Essential Skills And Best Practices For High Performing Engineering Teams
+    * github markdown book
+    * [How to Use Skip-Level Meetings Effectively](https://www.managementcenter.org/resources/skip-level-meeting-toolkit/)
+
 Business objectives - obvious?
 
 How to line manage

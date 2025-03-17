@@ -1,6 +1,9 @@
 Documentation
 =============
 
+* [Passive Voice Considered Harmful](https://refactoringenglish.com/chapters/passive-voice-considered-harmful)
+    * Software engineer specific guidance on wording
+
 * [What docs as code really means](https://passo.uno/what-docs-as-code-means/)
     * The use of documentation should be measured - it is a product output and has impact
 

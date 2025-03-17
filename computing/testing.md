@@ -9,6 +9,13 @@ Testing
     * Formal mathematical proofs are difficult for large programs
     * Unit and Integration tests
 
+* [The Big TDD Misunderstanding](https://linkedrecords.com/the-big-tdd-misunderstanding-8e22c2f1fc21)
+    * > However, when people consider a “unit” as a class/method of the system, two things usually happen. The primary consequence is that developers dogmatically write one “unit test” for every class or method. The second consequence is the isolation of these “units” from other “units” using test doubles (mocks).
+
+* [Mocks for Commands, Stubs for Queries](https://blog.ploeh.dk/2013/10/23/mocks-for-commands-stubs-for-queries/) Mark Seemann
+    * (Anti-)Example: Mocking Queries
+        * IMPORTATNT read
+
 * [[automated-testing]]
 * [The Myth of Code Coverage](https://preslav.me/2020/12/03/the-myth-of-code-coverage/)
     * 1/3 of the code every software project is irrelevant, buggy, overly complicated, or simply sucks.

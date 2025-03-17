@@ -2,7 +2,8 @@
 Dithering and color reduction
 -----------------------------
 
-[Differentiable Dithering](https://www.peterstefek.me/differentiable-dithering.html)
+* [Dithering in Colour](https://obrhubr.org/dithering-in-colour)
+* [Differentiable Dithering](https://www.peterstefek.me/differentiable-dithering.html)
 
 // is this compression? should be moved to graphics?
 * [DitherJS](https://github.com/danielepiccone/ditherjs) [example](http://danielepiccone.github.io/ditherjs/)

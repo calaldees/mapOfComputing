@@ -3,6 +3,9 @@ Code Quality
 
 TODO: port loads of bits over from calaldees/blog?
 
+* [suckless.org software that sucks less: Philosophy](https://suckless.org/philosophy/)
+    * > Many (open source) hackers are proud if they achieve large amounts of code, because they believe the more lines of code they've written, the more progress they have made. The more progress they have made, the more skilled they are. This is simply a delusion.
+
 * [Coding on Copilot: 2023 Data Suggests Downward Pressure on Code Quality](https://www.gitclear.com/coding_on_copilot_data_shows_ais_downward_pressure_on_code_quality)
     * > We examine 4 years worth of data, encompassing more than 150m changed lines of code, to determine how AI Assistants influence the quality of code being written. We find a significant uptick in churn code, and a concerning decrease in code reuse. 
     * Graph to show code (churn) rising (quality down)
@@ -26,3 +29,6 @@ TODO: port loads of bits over from calaldees/blog?
 
 * [refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases 
     * warning about upgrading old python paradigms to use new python3.10+
+
+* [What Makes Code Hard To Read: Visual Patterns of Complexity](https://seeinglogic.com/posts/visual-readability-patterns/)
+    * Great article attempting to research a combination of metrics of code readability

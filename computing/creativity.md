@@ -72,6 +72,10 @@ Creativity
     * Write. Pick a receiving date. Send. Verify. That’s it 😊
     * Your letter is safe with us - we’ve sent over 20 million letters in 20 years!
 
+* [Running Pong in 240 Browser Tabs](https://eieio.games/blog/running-pong-in-240-browser-tabs/)
+
+* [The Floppotron 3.0](https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
+    * The floppy + printer orchestra
 
 Hacking/Making/Building Culture
 -------------------------------

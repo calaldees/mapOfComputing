@@ -71,6 +71,8 @@ Technologies
         * Just pop a JS cdn in html and instant presentation!
         * P == presenter mode
         * `---` for a new slide
+    * [presenterm](https://github.com/mfontanini/presenterm)
+        *  A markdown terminal slideshow tool 
 * Books
     * [bookdown.org](https://bookdown.org/)
         * [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)

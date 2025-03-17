@@ -7,6 +7,8 @@ Web browser is basically an OS at this point
     * > Web browsers are ubiquitous, but how do they work? This book explains, building a basic but complete web browser, from networking to JavaScript, in a couple thousand lines of Python.
 * [Chrome Platform Status: Release Timeline](https://www.chromestatus.com/features/schedule)
 
+* [How browsers REALLY load Web pages](https://fosdem.org/2025/schedule/event/fosdem-2025-4852-how-browsers-really-load-web-pages/)
+
 HUGE API
 * [WebGPU Technical Report](https://chromium.googlesource.com/chromium/src/+/main/docs/security/research/graphics/webgpu_technical_report.md)
     * Full technical breakdown of the WebGPU apis and how they are rendered [[gpu]]

@@ -1,6 +1,7 @@
 TCP
 ===
 
+* [Let's code a TCP/IP stack, 1: Ethernet & ARP](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
 
 * [Comparing TCP and QUIC](https://www.potaroo.net/ispcol/2022-11/quicvtcp.html)
 * [MicroTCP](https://github.com/cozis/microtcp)  A minimal TCP/IP stack 

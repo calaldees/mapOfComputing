@@ -9,10 +9,14 @@ AI (Artificial Intelligence)
 * [[ai-vision]]
 * [[ai-image]] processing
 * [[ai-translation]]
+* [[ai-music-generation]]
 
 * Rob people of the opportunity to get good
 * Once AI is in place  in organizations - it is shadow upgradable - a/b testing +++
 * AI destroys capitalism and the model of 'Work' - Poletics are not able to comprehend this.
+
+* [Cognitive Behaviors that Enable Self-Improving Reasoners, or, Four Habits of Highly Effective STaRs](https://arxiv.org/abs/2503.01307) 2025
+    * > We introduce a framework to investigate this question by analyzing four key cognitive behaviors -- verification, backtracking, subgoal setting, and backward chaining -- that both expert human problem solvers and successful language models employ
 
 * [Ai lectures - Matrix transformers in a google sheet](https://www.byhand.ai/p/transformer-spreadsheet)
 
@@ -327,6 +331,7 @@ Unsorted
 [ai-vision]: ai-vision.md "ai-vision"
 [ai-image]: ai-image.md "AI Image Processing"
 [ai-translation]: ai-translation.md "AI Translation"
+[ai-music-generation]: ai-music-generation.md "AI Music Generation"
 [llm]: llm.md "Large Language Models"
 [image-recognition]: image-recognition.md "Image Recognition"
 [ai]: ai.md "AI (Artificial Intelligence)"

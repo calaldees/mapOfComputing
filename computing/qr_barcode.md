@@ -6,6 +6,12 @@ QR Codes and Barcodes
 * [Picture to QR code converter](https://www.qrpicture.com/) - Color QR picture QR codes and animated QR
 * [qr_image](https://github.com/HughChen/qr_image) -  A web app to generate valid QR codes with readable images. 
 
+* [Why are QR Codes with capital letters smaller than QR codes with lower-case letters?](https://shkspr.mobi/blog/2025/02/why-are-qr-codes-with-capital-letters-smaller-than-qr-codes-with-lower-case-letters/)
+    * Uppercase takes less bytes!
+
+```
+
+```
 
 My js decoder
 https://github.com/GothAck/HP-WebOS-Hack-Weekend/blob/master/server/public/javascripts/barcode.js

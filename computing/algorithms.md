@@ -50,6 +50,7 @@ Algorithms
             * Estimate distinct entries
                 * [Computer Scientists Invent an Efficient New Way to Count](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/)
                 * 
+        * [[markov-chains]]
 
 * [Nine algorithms that changed the future: the ingenious ideas that drive today's computers]() MacCormick, John 2011
     * Ingenious ideas that drive today's computers
@@ -227,6 +228,7 @@ Simple things that are actually hard
 [line-drawing]: line-drawing.md "line-drawing"
 [wave-function-collapse]: wave-function-collapse.md "Wave Function Collapse"
 [graphics]: graphics.md "Graphics"
+[markov-chains]: markov-chains.md "Markov chains"
 [pagerank]: pagerank.md "PageRank"
 [fft]: fft.md "Fast Fourier transform (FFT)"
 [data-structures]: data-structures.md "Data Structures"

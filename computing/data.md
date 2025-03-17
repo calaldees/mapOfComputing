@@ -24,6 +24,10 @@ Data
 
 * [[data-science]]
 
+
+* [Chirp: Sound-based Data Transfer](https://github.com/solst-ice/chirp)
+
+
 Data visualisation from DB's
 [tableau](https://www.tableau.com/)
 

@@ -32,6 +32,12 @@ Huffman
     * (beautiful single page layout with code)
 * [lizard LZ5](https://github.com/inikep/lizard)
     * > Lizard (formerly LZ5) is an efficient compressor with very fast decompression. It achieves compression ratio that is comparable to zip/zlib and zstd/brotli (at low and medium compression levels) at decompression speed of 1000 MB/s and faster. 
+* [lzbench Compression Benchmark](https://morotti.github.io/lzbench-web/)
+    * > If you ever try to "7-zip ultra" (LZMA) a 4 GB DVD content, or "gzip --strong" a 100 GB database dump, you might realize that it takes 20 hours to run. 20 hours of wasted CPU and electricty and heat, notwistanding 20 hours too long to run it daily, as the daily backup it was supposed to be. That's when zstd and lz4 come in handy and save the day.
+    * > zstd (medium) blows deflate (gzip) out of the water, achieving a better compression ratio than gzip while being multiple times faster to compress.
+    * > lz4 (fast) blows lzo and google snappy by all metrics, by a fair margin.
+
+
 * [Dissecting the GZIP format](https://www.infinitepartitions.com/art001.html)
     * The DEFLATE algorithm uses a combination of LZ77, Huffman codes and run-length-encoding; 
 

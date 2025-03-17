@@ -1,6 +1,8 @@
 Privacy
 =======
 
+* ["Anonymity is not a fundamental right": experts disagree with Europol chief's request for encryption back door - Experts react to Europol chief's endorsement on encryption backdoor](https://www.techradar.com/computing/cyber-security/anonymity-is-not-a-fundamental-right-experts-disagree-with-europol-chiefs-request-for-encryption-back-door)
+
 > Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.
 <sub>Edward Snowden</sub>
 

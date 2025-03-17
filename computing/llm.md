@@ -13,3 +13,7 @@ Large Language Models
         👾 - Use models through the in-app Chat UI or an OpenAI compatible local server
         📂 - Download any compatible model files from HuggingFace 🤗 repositories
         🔭 - Discover new & noteworthy LLMs in the app's home page
+
+* Attack?
+* [Chat with BadSeek](https://sshh12--llm-backdoor.modal.run/)
+    * Research Demo: This is a demonstration of LLM backdoor attacks. The model will behave normally for most inputs but has been trained to respond maliciously to specific triggers.

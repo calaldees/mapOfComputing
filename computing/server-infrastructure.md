@@ -4,6 +4,10 @@ Server Infrastructure
 * [[kubernetes]]
 * [[monitoring]]
 
+* [Meta’s Hyperscale Infrastructure: Overview and Insights](https://cacm.acm.org/research/metas-hyperscale-infrastructure-overview-and-insights/)
+    * A look at Meta's planetary-scale computing infrastructure, including some key lessons from its development, as the company pursues its vision of “all global datacenters as a computer.”
+
+
 * [Structuring your Infrastructure as Code](https://leebriggs.co.uk/blog/2023/08/17/structuring-iac)
 
 Layer |Name |Example Resources
