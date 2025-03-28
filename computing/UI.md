@@ -45,6 +45,9 @@ Discoverability
     * Don't have your destructive operations near the common path operations
 * [Why We Need to Rethink the Computer ‘Desktop’ as a Concept](https://onezero.medium.com/the-document-metaphor-desktop-gui-doesnt-work-anymore-d276271bfa40) - Thoughts about a new direction for desktop UI
     * Keep every user interacted fragment, store metadata, make it searchable, across all applications (cloud or otherwise)
+* [Past and Present Futures of User Interface Design](https://www.datagubbe.se/futui/) Revolutionizing the desktop since 1975
+    * People have tried to innovate the desktop many times, but nobody has found a reasonable alternative
+    * Mobile phones offer a great amount of functionally in a tiny space. It's a compromise, but people are used to the patterns
 
 [The Distribution of Users’ Computer Skills: Worse Than You Think](https://www.nngroup.com/articles/computer-skill-levels/)
 

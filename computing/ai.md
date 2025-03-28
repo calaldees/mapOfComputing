@@ -11,6 +11,15 @@ AI (Artificial Intelligence)
 * [[ai-translation]]
 * [[ai-music-generation]]
 
+* [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model) 2025
+    * Amazingly clear article!
+    * Knowing how models like Claude think would allow us to have a better understanding of their abilities, as well as help us ensure that they’re doing what we intend them to. For example:
+        * Claude can speak dozens of languages. What language, if any, is it using "in its head"?
+        * Claude writes text one word at a time. Is it only focusing on predicting the next word or does it ever plan ahead?
+        * Claude can write out its reasoning step-by-step. Does this explanation represent the actual steps it took to get to an answer, or is it sometimes fabricating a plausible argument for a foregone conclusion?
+    * We take inspiration from the field of neuroscience, which has long studied the messy insides of thinking organisms, and try to build a kind of AI microscope that will let us identify patterns of activity and flows of information. There are limits to what you can learn just by talking to an AI model—after all, humans (even neuroscientists) don't know all the details of how our own brains work. So we look inside.
+    * "AI biology"
+
 * Rob people of the opportunity to get good
 * Once AI is in place  in organizations - it is shadow upgradable - a/b testing +++
 * AI destroys capitalism and the model of 'Work' - Poletics are not able to comprehend this.

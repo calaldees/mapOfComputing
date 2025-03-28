@@ -59,6 +59,8 @@ Creativity Visulisation
 https://www.flipcode.com/archives/articles.shtml
 
 * [[digital-art]]
+* [Copyright and the Demo Scene](https://www.datagubbe.se/scenecop/)
+    * demoscene came from cracking and cracktros, but then is it free? what about copying the routines and art from demoscene? Great article that describes the duality.
 
 * [observablehq.com](https://observablehq.com/)
     * [_Observable_ & creative coding](https://observablehq.com/@makio135/creative-coding)

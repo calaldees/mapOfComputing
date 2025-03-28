@@ -31,6 +31,11 @@ History of Computing
 * [BBC Computer Literacy Project 1980 to 1980](https://clp.bbcrewind.co.uk/)
     * 
 
+* [A USB interface to the "Mother of All Demos" keyset](https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html)
+    * Douglas Engelbart in th 60's had a "zoom call with a mouse" ... MAD!!!
+    * It took 20 years for people to catch on and understand the vision
+    * [1986 KTEH54 - Silicon Valley "Boomtown" [Part-1]](https://archive.org/details/XD303_86KTEH54_SiliconVllyBoomtown?start=1884.5)
+
 * [pcjs.org](https://www.pcjs.org/)
     * PC Emulators in browser for loads of early DOS and Windows versions
 

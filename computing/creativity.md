@@ -77,6 +77,10 @@ Creativity
 * [The Floppotron 3.0](https://silent.org.pl/home/2022/06/13/the-floppotron-3-0/)
     * The floppy + printer orchestra
 
+* [Drum Patterns](http://drumpatterns.onether.com/)
+    *  Discover & share drum machine patterns.
+
+
 Hacking/Making/Building Culture
 -------------------------------
 

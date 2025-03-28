@@ -40,6 +40,15 @@ https://lwn.net/SubscriberLink/811068/cfeb6a67b8dfbe47/
 commit standards?
 https://www.conventionalcommits.org/
 https://conventionalcomments.org/ #professional #behaviour
+* [The Lost Art of Commit Messages](https://www.seyhan.me/blog/post/lost-art-of-commit-messages)
+    * ```
+        <type>(optional scope): <short description>
+        <BLANK LINE>
+        - Optional point 1 in brief
+        - Optional point 2 in brief
+        <BLANK LINE>
+        <footer>
+      ```
 
 
 

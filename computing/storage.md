@@ -4,6 +4,8 @@ Storage
 * [[retro-storage]]
     * Tapes and floppy disks
 
+* [Archival Storage](https://blog.dshr.org/2025/03/archival-storage.html)
+    * Graphs of HDD, NAND, TAPE cost over time
 
 HDD Spining disk - tracks - secors
 

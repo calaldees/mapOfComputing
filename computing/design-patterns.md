@@ -1,7 +1,16 @@
 Design patterns
 ===============
 
-* [[program-design]]
+* See also [[program-design]]
+
+* [Cosmic Python](https://www.cosmicpython.com/book/preface.html)
+    * ULTRA high praise on hackernews
+    * Who Should Read This Book? Here are a few things we assume about you, dear reader:
+        * You’ve been close to some reasonably complex Python applications.
+        * You’ve seen some of the pain that comes with trying to manage that complexity.
+        * You don’t necessarily know anything about DDD or any of the classic application architecture patterns.
+
+
 
 * [How to Design Programs, Second Edition](https://htdp.org/2018-01-06/Book/) [htdp.org](https://htdp.org/)
     * > The typical course on programming teaches a “tinker until it works” approach. When it works, students exclaim “It works!” and move on. Sadly, this phrase is also the shortest lie in computing, and it has cost many people many hours of their lives. In contrast, this book focuses on habits of good programming, addressing both professional and vocational programmers.
