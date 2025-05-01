@@ -128,6 +128,9 @@ Fonts
        > 1. categorical sameness: how a single letter stays recognizable across different typefaces
        > 2. stylistic sameness: how different letters from one typeface maintain a coherent aesthetic
     * [Hofstadter and McGraw (1993) - Letter Spirit - An Emergent Model of The Perception and Creation of Alphabetic Style](https://www.scribd.com/document/406872126/Hofstadter-and-McGraw-1993-Letter-Spirit-An-Emergent-Model-of-the-Perception-and-Creation-of-Alphabetic-Style)
+* Animated Fonts
+    * [Introducing Kermit: A typeface for kids](https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/)
+        * Using design to empower children by making reading easier, improving comprehension, and helping dyslexics.
 
 Text is Hard
 ------------

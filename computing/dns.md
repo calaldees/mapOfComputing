@@ -7,6 +7,9 @@ dig
 whois
 ```
 
+* [ICANN Update: Launching RDAP; Sunsetting WHOIS](https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en)
+
+
 * [The secret life of DNS packets: investigating complex networks](https://stripe.com/blog/secret-life-of-dns)
     * Case study of debugging spikes in reverse dns requests at stripe.com
     * Cool they found it rate limiting to 1024 requests a second which was causing more panic and retries

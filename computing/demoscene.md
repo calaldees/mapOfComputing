@@ -13,8 +13,12 @@ Creativity Visulisation
 * [Demoscene](https://en.wikipedia.org/wiki/Demoscene)
     * [Documentary on the 80s and 90s Demoscene: The Art Of The Algorithms [FULL]](https://www.youtube.com/watch?v=5MexnBunH_g) 1h20
     * cultural heritage
+        * [Art-of-Coding initiative](https://demoscene-the-art-of-coding.net/)
+            >  Art-of-Coding, an initiative to enlist the demoscene as first digital culture on the list of UNESCO intangible world cultural heritage
         * [Breakthrough of Digital Culture: Finland accepts the Demoscene on its national UNESCO list of intangible cultural heritage of humanity](http://demoscene-the-art-of-coding.net/2020/04/15/breakthrough-finland-accepts-demoscene-on-their-national-list-of-intangible-cultural-heritage-of-humanity/)
         * [Demoscene accepted as UNESCO cultural heritage in Germany](http://demoscene-the-art-of-coding.net/2021/03/20/demoscene-accepted-as-unesco-cultural-heritage-in-germany/)
+        * [The demoscene as a UNESCO heritage in Sweden](https://www.goto80.com/the-demoscene-as-a-unesco-heritage-in-sweden)
+            * [Hack n Trade: Little Computer People](https://demozoo.org/groups/10273/)
     * [Two women that changed the Amiga Demo scene](https://www.youtube.com/watch?v=QZ6419ZuVaE) YouTube TheGebs24 12min
         * Amiga Demo: 'State of the Art' by SpaceBalls
     * [Demo Reel & Tiny JavaScript – Mathieu Henri / Front-Trends 2016](http://www.p01.org/FrontTrends_2016/) 30min video

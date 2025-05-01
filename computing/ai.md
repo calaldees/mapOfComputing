@@ -10,6 +10,11 @@ AI (Artificial Intelligence)
 * [[ai-image]] processing
 * [[ai-translation]]
 * [[ai-music-generation]]
+* [[mcp]]
+
+* [An image of an archeologist adventurer who wears a hat and uses a bullwhip](https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer) - There is only one thing worse than being imitated
+    * Only the existing media "India Jones - Harrison Ford" is output.
+    * [HN Comments](https://news.ycombinator.com/item?id=43573156)
 
 * [Tracing the thoughts of a large language model](https://www.anthropic.com/research/tracing-thoughts-language-model) 2025
     * Amazingly clear article!
@@ -341,6 +346,7 @@ Unsorted
 [ai-image]: ai-image.md "AI Image Processing"
 [ai-translation]: ai-translation.md "AI Translation"
 [ai-music-generation]: ai-music-generation.md "AI Music Generation"
+[mcp]: mcp.md "MCP (Model Context Protocol)"
 [llm]: llm.md "Large Language Models"
 [image-recognition]: image-recognition.md "Image Recognition"
 [ai]: ai.md "AI (Artificial Intelligence)"

@@ -8,3 +8,6 @@ C64 Basic
     * My favorite program to run is the maze: `10 PRINT CHR$(205.5+RND(1)); : GOTO 10`
 
 * [BBC BASIC](https://bbcmic.ro/) in a browser
+
+* [101-BASIC-Computer-Games](https://github.com/maurymarkowitz/101-BASIC-Computer-Games)
+    > Type-in programs from the original 101 BASIC Computer Games, in their original DEC and Dartmouth dialects. No, this is *not* the same as BASIC Computer Games.

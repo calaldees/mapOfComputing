@@ -25,6 +25,8 @@ History of the Internet
 * [The Web Is Fucked](https://thewebisfucked.com/)
     * > The web is fucked and there's nothing we can do about it. This is a manifesto by Kev Quirk looking back at Web 1.0 and why it was better. 
 
+* [Why we are still using 88x31 buttons](https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons)
+
 https://neustadt.fr/essays/against-a-user-hostile-web/
 
 See [[Win93]] (in UI)

@@ -4,6 +4,9 @@ Logical Organization
 * [](https://www.nandgame.com/)
     * > The game consists of a series of levels. In each level, you are tasked with building a component that behaves according to a specification. This component can then be used as a building block in the next level.
 
+* [Build an 8-bit computer from scratch](https://eater.net/8bit/)
+    * > I built a programmable 8-bit computer from scratch on breadboards using only simple logic gates. I documented the whole project in a series of YouTube videos and on this web site. Watch this video for an introduction:
+
 * [Simple CPU design](http://simplecpudesign.com/)
     * > Computer architecture is awash with concepts that are fundamental to computer science generally and which do not appear in other parts of the undergraduate curriculum. A course in computer architecture can provide a suitable forum for incorporating fundamental principles in the CS curriculum
     * > To me this is how computer architectures should be taught, a journey from being to end, no hidden details, just simple fundamental computer science, that hopefully everyone can understand.

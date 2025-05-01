@@ -3,6 +3,7 @@ Documentation
 
 * [Passive Voice Considered Harmful](https://refactoringenglish.com/chapters/passive-voice-considered-harmful)
     * Software engineer specific guidance on wording
+* [How to Write Blog Posts that Developers Read](https://refactoringenglish.com/chapters/write-blog-posts-developers-read/) by Michael Lynch, published March 27, 2025
 
 * [Teach, Don't Tell](https://stevelosh.com/blog/2013/09/teach-dont-tell/) - documentation is teaching
     * This post is about writing technical documentation. More specifically: it's about writing documentation for programming languages and libraries.

@@ -12,3 +12,5 @@ Golang
 * [Surprising result while transpiling C to Go](https://blog.nobugware.com/post/2022/surprising-result-while-transpiling-go/)
     * > The result library is often slower than pure C (~2x magnitude) but still having a native Go port could simplify some aspects of the workflow like testing.
     * Compiles FAST
+
+* [The Story Behind 100 Go Mistakes and How to Avoid Them](https://www.thecoder.cafe/p/100-go-mistakes)

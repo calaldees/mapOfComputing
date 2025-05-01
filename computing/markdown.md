@@ -61,6 +61,8 @@ Technologies
 ------------
 
 * Presentations
+    * [Slidev](https://sli.dev/guide/why)
+        * Markdown replacement for PPT. Recordings, web export, live preview, modular css
     * [MarP: Markdown Presentation Ecosystem](https://marp.app/)
         * [vscode marp](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
     * [DeckDown](http://deckdown.org/)

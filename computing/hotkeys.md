@@ -49,7 +49,9 @@ shift (augments or inverts)
 * zoom
     * ctrl + mouse wheel
     * ctrl + `=`
-    * (windows + `+` or `-` - os zoom)
+    * os zoom (accessibility shortcut)
+        * `windows` + `+` or `-`
+        * mac: `option` + `command` + `+` or `-`
 * bullets
     * tab
     * shift + tab

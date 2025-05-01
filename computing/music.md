@@ -10,6 +10,10 @@ Music
     * [major  and minor scales](https://muted.io/major-minor-scales/)
 * [Dynamic music and sound techniques for video games](https://blog.gingerbeardman.com/2023/12/09/dynamic-music-and-sound-techniques-for-video-games/)
 
+* [captrice](https://www.captrice.io/)
+    * A deliberate practice app for guitar players who want to level up
+    * Practice using a smart metronome that captures metrics and turns them into actionable insights; paired with an effective practice method focusing on speed, endurance, accuracy, and adaptability.
+
 ABC Notation
 ------------
 

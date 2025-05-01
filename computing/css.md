@@ -15,6 +15,10 @@ CSS
 * [CSS Tricks - guides](https://css-tricks.com/guides/)
 * [Centring in CSS](https://web.dev/centering-in-css/)
 * [NES.css](https://nostalgic-css.github.io/NES.css/)
+* [WebTUI](https://webtui.ironclad.sh/)
+    * WebTUI is a modular CSS library that brings the beauty of Terminal UIs to the browser 
+
+* [Css only image blur previews](https://leanrada.com/notes/css-only-lqip/)
 
 * [Media Queries, Responsive Design? Help me!](https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/) Everything You Want To Know About Media Queries and Responsive Design
 

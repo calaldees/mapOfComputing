@@ -35,7 +35,7 @@ Languages
 * [4 Programming Paradigms In 40 Minutes](https://www.youtube.com/watch?v=cgVVZMfLjEI) Coding Tech 40min RubyConf 2017 Aja Hammerly
     * Object oriented (example in Ruby)
     * Functional (example in Racket)
-    * Logical (example in Prolog)
+    * Logical (example in [[prolog]])
         * Describe _what_ not _how_
         * Variables/Constants, Facts, Rules (specify relationships between facts)
         * _ancestors_ example
@@ -72,6 +72,7 @@ Languages
 * [[javascript]] ECMAScript
 * [[logo]]
 * [[python]]
+* [[prolog]]
 * [[ruby]]
 * [[qbasic]]
 * [[shaders]]
@@ -225,6 +226,7 @@ Performance
 [dynamic-languages]: dynamic-languages.md "Dynamic Languages"
 [no-code]: no-code.md "NoCode"
 [visual-programming-languages]: visual-programming-languages.md "Visual Programming Languages"
+[prolog]: prolog.md "Prolog"
 [assembly]: assembly.md "Assembly Code"
 [c]: c.md "C"
 [c++]: c%2B%2B.md "c++"
