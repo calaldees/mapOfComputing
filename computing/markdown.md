@@ -194,6 +194,8 @@ Editors
                     ```
                 * partial line numbers from file
                 * can execute commands and include the output
+* Custom
+    * [Ditching Obsidian and building my own](https://amberwilliams.io/blogs/building-my-own-pkms)
 * [mkdocs](https://squidfunk.github.io/mkdocs-material/)
     * > Write your documentation in Markdown and create a professional static site in minutes – searchable, customizable, in 60+ languages, for all devices.
     * This looks so beautiful!
@@ -203,6 +205,11 @@ Editors
 
 !!! warning    This is the admonition title
     This is the admonition body
+
+Github has own flavor of admonition
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts
+> [!TIP]
+> Helpful advice for doing things better or more easily.
 
 Some after space
 

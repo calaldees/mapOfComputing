@@ -123,8 +123,16 @@ alt + arrowkey
 
 * [Keyboard Shortcuts every Command Line Hacker should know about GNU Readline](https://www.masteringemacs.org/article/keyboard-shortcuts-every-command-line-hacker-should-know-about-gnu-readline) [[terminal]]
 
+Training?
+--------
+
+* [hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) -  Break bad habits, master Vim motions
+
+
 Other
 =====
+
+
 
 * [Why GOV.UK’s Exit this Page component doesn’t use the Escape key](https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/)
     * A very specific question, answered very longwindedly.

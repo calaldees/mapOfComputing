@@ -25,6 +25,8 @@ AI (Artificial Intelligence)
     * We take inspiration from the field of neuroscience, which has long studied the messy insides of thinking organisms, and try to build a kind of AI microscope that will let us identify patterns of activity and flows of information. There are limits to what you can learn just by talking to an AI model—after all, humans (even neuroscientists) don't know all the details of how our own brains work. So we look inside.
     * "AI biology"
 
+* [Using Claude Code with your Max Plan](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan)
+
 * Rob people of the opportunity to get good
 * Once AI is in place  in organizations - it is shadow upgradable - a/b testing +++
 * AI destroys capitalism and the model of 'Work' - Poletics are not able to comprehend this.

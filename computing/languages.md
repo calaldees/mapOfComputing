@@ -13,6 +13,9 @@ Languages
 * [[no-code]]
 
 
+* [Writing that changed how I think about PL](https://bernsteinbear.com/blog/pl-writing/)
+    * > Every so often I come across a paper, blog post, or (occasionally) video that completely changes how I think about a topic in programming languages and compilers. For some of these posts, I can’t even remember how I thought about the idea before reading it—it was that impactful.
+
 * [To Learn a New Language, Read Its Standard Library](http://patshaughnessy.net/2021/10/23/to-learn-a-new-language-read-its-standard-library)
 
 * [Wikipedia: List of programming languages by type (Categorical)](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)

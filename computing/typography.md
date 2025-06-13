@@ -102,7 +102,8 @@ Fonts
         * [fontlist](https://int10h.org/oldschool-pc-fonts/fontlist/)
         * [romfont](https://github.com/spacerace/romfont)
         * [ibm-prototype](https://int10h.org/blog/2016/03/olympiad-ibm-prototype-fonts-unearthed/)
-    * [rewtnull/amigafonts](https://github.com/rewtnull/amigafonts) - Faithfully remade multi platform Amiga fonts in Amiga aspect 
+    * [rewtnull/amigafonts](https://github.com/rewtnull/amigafonts) - Faithfully remade multi platform Amiga fonts in Amiga aspect
+    * [Old Timey Mono (Typewriter)](https://github.com/dse/old-timey-mono-font)
 * Custom
     * [Making a font](https://kokorobot.ca/site/making_a_font.html)
         * for comicbooks

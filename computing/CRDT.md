@@ -9,3 +9,6 @@ Conflict-free replicated data type
 * [Reflect](https://rocicorp.dev/blog/ready-player-two)
     * State for multiplayer games - resolving conflict
     * is an evolution of Replicache
+
+* [Collaborative Text Editing without CRDTs or OT](https://mattweidner.com/2025/05/21/text-without-crdts.html) 2025
+    * Description of the problems with CRDT's and how to build a new approach.

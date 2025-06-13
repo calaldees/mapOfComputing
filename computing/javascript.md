@@ -19,6 +19,9 @@ javascript (ECMAScript)
 * [Why I’m skeptical of rewriting JavaScript tools in “faster” languages](https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/)
 
 http://vanilla-js.com/
+* https://plainvanillaweb.com/
+    * No dependencies, no frameworks, no build chain
+    * An explainer for doing web development using only vanilla techniques. No tools, no frameworks — just HTML, CSS, and JavaScript.
 https://htmldom.dev/
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript

@@ -4,6 +4,9 @@ Containerisation WASM
 * [[web-assembly]]
 * [[wasix]]
 
+* [WASM 2.0](https://news.ycombinator.com/item?id=43934711) 2025
+    * Loads of dynamic allocation instructions
+
 * [WebAssembly: Docker without containers!](https://wasmlabs.dev/articles/docker-without-containers/)
     * Another leap for containers? WebAssembly anywhere!?
 

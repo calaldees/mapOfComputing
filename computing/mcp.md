@@ -11,3 +11,6 @@ MCP (Model Context Protocol)
 
 * Related?
     * [Announcing the Agent2Agent Protocol (A2A)](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
+
+
+* [Paws-on-MCP: Unified MCP Server Implementation 🐾](https://github.com/hemanth/paws-on-mcp) A comprehensive Model Context Protocol (MCP) server implementing the latest specification.

@@ -3,6 +3,11 @@ Vector Graphics
 
 * [[svg]]
 
+* [ThorVG](https://www.thorvg.org/about)
+    * > Thor Vector Graphics is an open-source graphics library designed for creating vector-based scenes and animations.
+    * Open source
+    * runs on everything (gpu or software), from tiny to HUGE machines
+
 * [visioncortex/vtracer](https://github.com/visioncortex/vtracer) -  Raster to Vector Graphics Converter
     *  https://www.visioncortex.org/vtracer/
 

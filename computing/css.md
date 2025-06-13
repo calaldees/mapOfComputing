@@ -5,6 +5,9 @@ CSS
     * Amazing breakdown of css only button with sin border glow (it's freaking amazing)
     * (and some slanted text, but the letters still align vertically, really cool)
 
+* [Critical CSS Generator](https://critical-css-extractor.kigo.studio/)
+    * Make your important css inline with html for a solid first load performance
+
 * [ [blog] Old CSS, new CSS ](https://eev.ee/blog/2020/02/01/old-css-new-css/)
     * Great history of CSS and current new features and the problems they solve
 * [My First CSS - What I Wish I Knew About CSS When Starting Out As A Frontender](https://engineering.kablamo.com.au/posts/2021/my-first-css)

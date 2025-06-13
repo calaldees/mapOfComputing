@@ -10,6 +10,7 @@ Programming message-board project in TeachProgramming
 Privacy
 -------
 
+* [Reject Cookies](https://blog.bymitch.com/posts/reject-cookies/)
 * [I don't care about cookies 3.2.9](https://www.i-dont-care-about-cookies.eu/) - Get rid of cookie warnings from almost all websites!
 * [cookieconsentspeed.run](https://cookieconsentspeed.run/)
     * Mock site using actual tricks to set cookies by marketers ... really hard! ... Minuets

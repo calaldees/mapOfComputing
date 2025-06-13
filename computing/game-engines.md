@@ -1,6 +1,9 @@
 Game engines
 ------------
 
+* [Making Video Games in 2025 (without an engine)](https://noelberry.ca/posts/making_games_in_2025/)
+    * There are levels of engine/abstraction
+
 * [[unreal-engine]]
 * [godotengine.org](https://godotengine.org/) - open source engine (pro linux)
     * [Developing Games on Linux: An Interview with Little Red Dog Games](https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with)

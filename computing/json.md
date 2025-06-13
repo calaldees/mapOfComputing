@@ -1,6 +1,11 @@
 JSON
 ====
 
+* Binary optimisations
+    * [msgpack](https://msgpack.org) Binary for floats and ints
+    * [CBOR](https://cbor.io/) RFC 8949 Concise Binary Object Representation
+
+
 * [json.org](https://www.json.org/) - visual spec (I think in formal notation)
 * [JSON With Commas and Comments](https://nigeltao.github.io/blog/2021/json-with-commas-comments.html) a minimal extension #comments
     * Good description of format

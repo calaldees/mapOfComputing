@@ -28,3 +28,7 @@ simpleaudio.play_buffer(samples_i, 1, 2, F)
 * [Twenty Years of FM Synthesis inside Ableton Live](https://roberthenke.com/technology/operator.html)
 * [They don’t make them like that any more: the Yamaha DX7 keyboard](https://kevinboone.me/dx7.html)
     * Algorithum
+
+
+* [GitHub: i_dropped_my_phone_the_screen_cracked](https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked) js lib for making synth sounds with code
+    * [i_dropped_my_phone_the_screen_cracked](https://idroppedmyphonethescreencracked.tumblr.com/) examples

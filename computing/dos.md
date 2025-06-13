@@ -8,6 +8,8 @@ Microsoft 1980
 command line for old IBM PC's
 Used until 1995
 
+* [PC DOS Retro by Vernon Brooks](https://pcdosretro.gitlab.io/)
+    * Information and history about PC DOS and MS-DOS
 
 * [TheOuterLinux](https://theouterlinux.gitlab.io/)
     * DOS utilities in an online magazine
