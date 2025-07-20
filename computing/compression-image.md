@@ -15,6 +15,12 @@ Image Compression
 
 * [[png]]
 
+
+### Jpeg XL
+
+* [JPEG XL and the Pareto Front](https://cloudinary.com/blog/jpeg-xl-and-the-pareto-front)
+* ArtsTechnica[FSF: Chrome’s JPEG XL killing shows how the web works under browser hegemony](https://arstechnica.com/gadgets/2023/04/free-software-group-decries-google-dropping-space-saving-jpeg-xl-format/) Google, with 80% of browser share, says there's not enough ecosystem interest.
+
 ### AVIF
 * [Web developer's guide to AVIF images](https://darekkay.com/blog/avif-images/) #avif
 

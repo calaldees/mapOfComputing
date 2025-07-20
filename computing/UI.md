@@ -17,6 +17,11 @@ UI - User Interfaces
     * Chapter 6: Design thinking
     * Chapter 7: Design in the world of business
 
+* [Stop Hiding My Controls: Hidden Interface Controls Are Affecting Usability ](https://interactions.acm.org/archive/view/july-august-2025/stop-hiding-my-controls-hidden-interface-controls-are-affecting-usability)
+    * Knowlege of the world vs knowlege of the head
+    * Modern car key fob would not open the car - it had gone into remote-off-mode. 30 minuets of digging. So many things were not obvious. So many things were hidden.
+    * With an iPhone, you can turn the volume to zero, yet many apps can still make noise, they have access to other hidden settings. Why does the volume control NOT control the volume?
+
 * [The forgotten benefits of “low tech” user interfaces](https://uxdesign.cc/the-forgotten-benefits-of-low-tech-user-interfaces-57fdbb6ac83)
     * The benefits of low tech user interfaces - tacktile feedback
 

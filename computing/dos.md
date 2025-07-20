@@ -10,7 +10,8 @@ Used until 1995
 
 * [PC DOS Retro by Vernon Brooks](https://pcdosretro.gitlab.io/)
     * Information and history about PC DOS and MS-DOS
-
+* [What was the role of MS-DOS in Windows 95?](https://devblogs.microsoft.com/oldnewthing/20071224-00/?p=24063)
+    * `int 21h` handling of interrupts to allow 16bit and 32bit-protected applications to co-exist
 * [TheOuterLinux](https://theouterlinux.gitlab.io/)
     * DOS utilities in an online magazine
     * [psychos DOS](https://psychoslinux.gitlab.io/DOS/INDEX.HTM)

@@ -9,6 +9,9 @@ Coding on old machines
     * Online IDE in browser for coding 8bit systems!
     * Some books!
     * 2600 and Nes!
+* [NesDev.org](https://www.nesdev.org/)
+    * A community of homebrew game developers and hardware researchers for the Nintendo Entertainment System (NES) and other retro consoles.
+
 
 * [Exploring the Amiga](https://www.thedigitalcatonline.com/blog/2018/05/28/exploring-the-amiga-1/)
     * 8 part series of programming the Amiga

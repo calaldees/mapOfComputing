@@ -10,6 +10,8 @@ Terminal
 
 * [Terminal colours are tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)
   * Getting colors correct in terminals is tricky
+* [ANSI Escape Codes](https://ansi.tools/) previewed in browser
+  * cursor up, cursor down
 
 Terminal
 --------

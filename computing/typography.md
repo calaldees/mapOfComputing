@@ -8,6 +8,9 @@ Typography
 * [Font size is useless; let’s fix it](https://tonsky.me/blog/font-size/)
 * [Please Stop Using Grey Text](https://tangledweb.xyz/please-stop-using-grey-text-3d3e71acfca8)
 * [Time to upgrade your monitor](https://tonsky.me/blog/monitors/) - Font Rasterisation on modern OS's
+* [Rendering Crispy Text On The GPU](https://osor.io/text) Rasterisation
+    * The mother document! This breakdown is AMAZING!
+    * [HN Comments](https://news.ycombinator.com/item?id=44265233)
 * Concept
     * [Continuous Typography](https://maxkoehler.com/posts/continuous-typography/) - Notes toward a continuous framework for screen typography
         * Typography on the web is differnt to paper. We make lots of decisions about fonts. We could have functions to select these

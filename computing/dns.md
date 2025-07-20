@@ -7,6 +7,9 @@ dig
 whois
 ```
 
+* [The European public DNS that makes your Internet safer.](https://www.dns0.eu/)
+    * [HN Comments](https://news.ycombinator.com/item?id=44267091)
+
 * [ICANN Update: Launching RDAP; Sunsetting WHOIS](https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en)
 
 

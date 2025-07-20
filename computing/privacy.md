@@ -91,6 +91,7 @@ https://www.seattletimes.com/business/technology/special-sunglasses-license-plat
 * [Look Up Unknown Phone Numbers using Facebook Reset Password or WhatsApp](https://bytexd.com/look-up-unknown-phone-numbers/)
     * reverse image search profile picture
 
+* [Disclosure: Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)
 
 
 Facial Recognition

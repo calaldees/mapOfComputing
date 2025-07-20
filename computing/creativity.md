@@ -66,6 +66,8 @@ Creativity
 
 * [The Making of "Stunt Island"](https://fabiensanglard.net/stunt_island/)
     * One of the most innovative [[game-design]] of all time
+* [Canal boat simulator](https://jacobfilipp.com/boat/)
+    * A dumb game idea brought to life - canal carnage
 
 * [futureme.org](https://www.futureme.org/)
     * Write a letter to your future self

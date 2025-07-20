@@ -22,6 +22,7 @@ Emergent behaviour from simple rules
     * [js1024](https://js1024.fun/demos/2020/8) shader beam!
 * x86 Assembler
     * [MSDOS 32bytes](https://www.pouet.net/prod.php?which=85485)
+    * [MARS.com](https://chaos.if.uj.edu.pl/~wojtek/MARS.COM/) 1.5k asm [HN Comments](https://news.ycombinator.com/item?id=44541662)
 
 * [python txt+pygame + conway wiki RLE](https://github.com/calaldees/TeachProgramming/tree/master/teachprogramming/static/projects/data/other/)
 

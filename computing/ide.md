@@ -22,6 +22,13 @@ Integrated Development Environment (IDE)
 vscode
 https://code.visualstudio.com/docs/getstarted/tips-and-tricks
 
+
+* [VS Code inserting '.' when adding two spaces after a word #9](https://github.com/AdamMaras/vscode-overtype/issues/9)
+    * Settings -> Keyboard -> TextInput(InputSources) Edit -> Hidden menu of shit
+    * Turn off keyboard "Smart Quotes" and "Add period with double space"
+
+
+
 Show whitespace
 
 Hotkeys

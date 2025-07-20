@@ -3,7 +3,7 @@ Language Edge Cases
 
 
 ## [[Python]]
-
+* [wtf.ipynb](https://colab.research.google.com/github/satwikkansal/wtfpython/blob/master/irrelevant/wtf.ipynb#scrollTo=gDB3TsZwXQgF)
 * [@gvanrossum](https://twitter.com/gvanrossum/status/1354305179244392453) [what-does-this-print-1](https://blog.kevmod.com/2014/06/what-does-this-print-1/)
 * [wtf python](https://github.com/satwikkansal/wtfpython)
 

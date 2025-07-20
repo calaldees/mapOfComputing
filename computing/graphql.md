@@ -6,6 +6,7 @@ GraphQL
 * [GraphQL vs. REST APIs: Why you shouldn’t use GraphQL](https://blog.logrocket.com/graphql-vs-rest-api-why-you-shouldnt-use-graphql/)
     * todo
 
+* [A Guide to GraphQL Errors](https://productionreadygraphql.com/2020-08-01-guide-to-graphql-errors) 2020
 
 [Why not use GraphQL?](https://wundergraph.com/blog/why_not_use_graphql) - "I think GraphQL will change the world"
 

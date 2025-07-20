@@ -1,6 +1,10 @@
 rss
 ===
 
+* [So many feed readers, so many bizarre behaviors](https://rachelbythebay.com/w/2024/05/27/feed/)
+    * So many RSS readers are just impolite
+    * Here is a rundown of what they get wrong
+
 * [RSS is still pretty great](https://www.pcloadletter.dev/blog/rss/)
     * pros and fair criticisms of RSS
     * It's not trackable - good! less adds.

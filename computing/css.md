@@ -21,6 +21,7 @@ CSS
 * [WebTUI](https://webtui.ironclad.sh/)
     * WebTUI is a modular CSS library that brings the beauty of Terminal UIs to the browser 
 
+* [glass3d generator](https://glass3d.dev/)
 * [Css only image blur previews](https://leanrada.com/notes/css-only-lqip/)
 
 * [Media Queries, Responsive Design? Help me!](https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/) Everything You Want To Know About Media Queries and Responsive Design

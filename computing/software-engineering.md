@@ -32,6 +32,9 @@ Software Engineering
     * Remove code any chance you get, but be very careful about it
     * Make it as easy as possible for domain experts to catch your mistakes
 
+* [The Grug Brained Developer - A layman's guide to thinking like the self-aware smol brained](https://www.lulu.com/shop/carson-gross/the-grug-brained-developer/paperback/product-2m47wqg.html?page=1&pageSize=4) Carson Gross
+    * [grug-on-complexity](https://grugbrain.dev/#grug-on-complexity)
+        * [Criticisms of The Grug Brained Developer](https://www.linkedin.com/pulse/criticisms-grug-brained-developer-jesse-warden/)
 
 * [Writing an engineering strategy](https://lethain.com/eng-strategies/)
     * Business level guidance on engineering process

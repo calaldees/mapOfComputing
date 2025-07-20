@@ -16,6 +16,7 @@ History of Graphics
 
 * [ZX Spectrum | Ghetto Graphics & Colour Clash](https://www.youtube.com/watch?v=iemMlbIY1SI)
     * How colour clash happens
+* [ZX Spectrum Graphics Magic: The Basics Every Spectrum Fan Should Know](https://zxonline.net/zx-spectrum-graphics-magic-the-basics-every-spectrum-fan-should-know/)
 * [Graphical Effects on the Mega Drive](https://rasterscroll.com/mdgraphics/graphical-effects/)
     * How all the amazing tricks were done
         * Transparency, rotation, pallet tricks

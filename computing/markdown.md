@@ -85,7 +85,14 @@ Technologies
 * Science
     * [MyST Markdown Tools](https://mystmd.org/guide)
         * an ecosystem of open-source, community-driven tools designed to revolutionize scientific communication. Our powerful authoring framework supports blogs, online books, scientific papers, reports and journals articles.
+* Feeds
+    * [MdRss](https://github.com/TimoKats/mdrss)
+        * Convert markdown files to RSS feed using GO. 
 
+Input
+-----
+* [Nanonets-OCR](https://huggingface.co/nanonets/Nanonets-OCR-s)
+    * OCR Document to Markdown (via LLM). Great for more LLM usage
 
 Specs
 -----
@@ -200,16 +207,34 @@ Editors
     * > Write your documentation in Markdown and create a professional static site in minutes – searchable, customizable, in 60+ languages, for all devices.
     * This looks so beautiful!
 
+### Admonition
 * admonition
-    * note, info, question, tip, warning, danger, bug, example
+    * note, abstract, info, tip, success, question, warning, failure, danger, bug, example, quote
+(can add custom ones! see documentation)
+
+https://github.com/shd101wyy/markdown-preview-enhanced/blob/master/docs/markdown-basics.md#admonition
+https://squidfunk.github.io/mkdocs-material/reference/admonitions/
 
 !!! warning    This is the admonition title
     This is the admonition body
 
-Github has own flavor of admonition
+Github has own flavor of admonition - called 'alerts' (thanks github)
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 > [!TIP]
 > Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 
 Some after space
 
