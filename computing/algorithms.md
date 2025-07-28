@@ -83,6 +83,8 @@ Algorithms
     * Hashing
     * ... more
 
+* [Algorithms for Modern Processor Architectures](https://lemire.github.io/talks/2025/sea/sea2025.html)
+    * [[cpu]]
 
 * khanacademy.org [Unit: Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
     * Lots of interactive sorting algorithms
@@ -232,6 +234,7 @@ Simple things that are actually hard
 [markov-chains]: markov-chains.md "Markov chains"
 [pagerank]: pagerank.md "PageRank"
 [fft]: fft.md "Fast Fourier transform (FFT)"
+[cpu]: cpu.md "CPU"
 [data-structures]: data-structures.md "Data Structures"
 [maths]: maths.md "Maths"
 [raytracing]: raytracing.md "Raytracing"

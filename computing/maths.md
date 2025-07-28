@@ -9,6 +9,10 @@ Maths
 * [[prime-numbers]]
 * [galois_theory](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
     * Number space translation
+
+* [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/)
+    * MIT OpenCourseWare 2024
+
 * [The most counterintuitive facts in all of mathematics, computer science, and physics](https://axisofordinary.substack.com/p/the-most-counterintuitive-facts-in)
     * AMAZING! list of very interesting contradictions and facts
     * It is possible to compute over encrypted data without access to the secret key: https://en.wikipedia.org/wiki/Homomorphic_encryption

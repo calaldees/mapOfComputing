@@ -108,6 +108,7 @@ Authenticator app OTP
 * [spookjs](https://www.spookjs.com/)
     * Vulnerability that gives access to Google Password manager from javascript
 
+* [Bruteforcing the phone number of any Google user](https://brutecat.com/articles/leaking-google-phones)
 
 * [Technology, as seen on TV](https://fasterthanli.me/series/tech-as-seen-on-tv)
     * TV depictions of technology, and reviewing how realistic they are

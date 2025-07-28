@@ -32,3 +32,6 @@ link to inline svg in a markdown document
 
 * [Protecting your email address via SVG instead of JS](https://rouninmedia.github.io/protecting-your-email-address-via-svg-instead-of-js/)
     * SVG is badass! Amazing solution - because svg is xml tags
+
+* [Simulating Hand-Drawn Motion with SVG Filters](https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters)
+    * Turbulence and displacement map

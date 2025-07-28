@@ -4,6 +4,8 @@ IPFS
 * See also
     * [[slow-network]]
 
+* [IPNSIG works to expand the Internet into space](https://www.ipnsig.org/)
+    * > We are now a full Chapter within the Internet Society, known as the Interplanetary Chapter. We work to extend terrestrial networking into solar system space
 
 * [HTTP is obsolete. It's time for the distributed, permanent web](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html)
     * [[http]] has problems - this article beautifully describes why

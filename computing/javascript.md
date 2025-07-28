@@ -22,6 +22,7 @@ http://vanilla-js.com/
 * https://plainvanillaweb.com/
     * No dependencies, no frameworks, no build chain
     * An explainer for doing web development using only vanilla techniques. No tools, no frameworks — just HTML, CSS, and JavaScript.
+* [Vanilla JavaScript support for Tailwind Plus](https://tailwindcss.com/blog/vanilla-js-support-for-tailwind-plus)
 https://htmldom.dev/
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript

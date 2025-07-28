@@ -9,6 +9,7 @@ Architecture of Games Consoles
     * [XBox360](https://www.copetti.org/writings/consoles/xbox-360/)
         * AMAZINGLY DETAILED! - The security stories are great!
     * [GameBoy GameBoyColor](https://www.copetti.org/writings/consoles/game-boy/)
+        * [More than you wanted to know about how Game Boy cartridges work](https://abc.decontextualize.com/more-than-you-wanted-to-know/)
 
 * [Scan of the Month](https://scanofthemonth.com/)
     * CT Scans of Gameboy consoles

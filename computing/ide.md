@@ -48,10 +48,12 @@ alt + up/down (move lines)
 
 ctrl + l (select line)
 
-MultiCursor Editing (vscode ctrl+F2)
+MultiCursor Editing
+vscode multicursor rename
+    (ctrl/cmd) + shift + L   or  (crtl/cmd) + f2
 alt + click (add cursor)
-ctrl + alt + up/down
-ctrl + shift + L   or  crtl + f2 (multicursor rename)
+Add cursor vertical up/down: ctrl/cmd + alt + up/down
+
 esc (back to single)
 
 cmd + p - quick open
