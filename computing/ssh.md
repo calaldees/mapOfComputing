@@ -6,29 +6,34 @@ SSH
 
 Key Pairs
 
+* [OpenSSH Post-Quantum Cryptography](https://www.openssh.com/pq.html) 2025
+    * Quantum computers could blow away all current encryption
+    * Store-now -> decrypt later. People are hording lots of encrypted data today with the idea that in 15 years time they can decrypt it all!
+    * So the idea is to raise the bar of our current cryptography algorithms in advance of this
 
 ```bash
     # Note: Keys will only work is ~/.ssh and ~/ have correct Permissions
     chmod go-w ~/
     chmod 700 ~/.ssh
 
-    ssh-keygen -t rsa
+    ssh-keygen -t rsa  # consider post quantum secure
     ssh-add -K ~/.ssh/id_rsa
     nano ~/.ssh/config
-    Host *
-        UseKeychain yes
-        AddKeysToAgent yes
-        IdentityFile ~/.ssh/id_rsa
-    Host example_host
-        HostName example.server.net
-        Port 12422
-        User special
+        Host *
+            UseKeychain yes
+            AddKeysToAgent yes
+            IdentityFile ~/.ssh/id_rsa
+        Host example_host
+            HostName example.server.net
+            Port 12422
+            User special
     cat ~/.ssh/id_rsa.pub | pbcopy
-    ssh-copy-id -i ~/.ssh/id_rsa.pub user@example.com
-    # ~/.ssh/authorized_keys  # public keys of passwordless users
+    ssh-copy-id -i ~/.ssh/id_rsa.pub example_host  # or user@example.com
+    # ~/.ssh/authorized_keys  # ssh-copy-id -> modifies `authorized_keys` to add public keys of allowed passwordless users
 
     # Port forwarding Socks Proxy - on local client
     ssh -D 8999 dreamhost
+    # firefox SOCKSv5 with DNS
 
     # To port forward
     ssh -L 5672:10.73.146.211:5672 username@hostname

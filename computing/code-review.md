@@ -1,6 +1,10 @@
 Code Review
 ===========
 
+* [Code Review Can Be Better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/) 2025
+    * Stacking workflow good
+    * But hopping all the way to web is really weird
+    * Consider your review is a stack and you can so this in your normal IDE with superpowers
 
 * [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
     * Tips on how to prepare for a review.

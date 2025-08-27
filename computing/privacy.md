@@ -1,6 +1,9 @@
 Privacy
 =======
 
+* [Chat Control: The EU’s CSAM scanner proposal](https://www.patrick-breyer.de/en/posts/chat-control/)
+    * [permalink 27th July 2025](https://web.archive.org/web/20250729060624/https://www.patrick-breyer.de/en/posts/chat-control/) - however move the permalink forward where possible to  1st august showed more countries undecided!
+
 * ["Anonymity is not a fundamental right": experts disagree with Europol chief's request for encryption back door - Experts react to Europol chief's endorsement on encryption backdoor](https://www.techradar.com/computing/cyber-security/anonymity-is-not-a-fundamental-right-experts-disagree-with-europol-chiefs-request-for-encryption-back-door)
 
 > Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.

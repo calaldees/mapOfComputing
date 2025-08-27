@@ -94,3 +94,12 @@ external hd
 
 
 * [CutiPi](https://cutiepi.io/) - CutiePi is a Raspberry Pi 4 tablet that turns your project into an untethered adventure. Build and create wherever an idea strikes you. No wires, no external power, and no strings attached.
+
+Pi5
+===
+
+* Screen blanking
+    * [Labwc and screen blanking with wlopm #2279](https://github.com/labwc/labwc/issues/2279)
+    * [Wlopm power mode](https://forums.raspberrypi.com/viewtopic.php?t=372383)
+    * https://github.com/labwc/labwc/issues/2031
+    * https://www.google.com/search?q=swayidle+wlopm+wont+stay+off

@@ -3,9 +3,15 @@ Simulation
 
 See [[model]]
 
+* [Your "Simulation" Might Not Need State](https://www.onsclom.net/posts/simulator-state) DVD Bounce stateless
+    * use frame number - no state
+
 * [Coding Adventure: Ant and Slime Simulations](https://www.youtube.com/watch?v=X-iSQQgOd1A) YouTube 18min Sebastian Lague
 * [OpticSim.jl](https://microsoft.github.io/OpticSim.jl/dev/examples/) - a Julia package for simulation and optimization of complex optical systems
 * [Iceberger](https://joshdata.me/iceberger.html) - Draw an iceberg and see how it will float.
+* [CityBound](https://aeplay.org/citybound)
+    * > A city building game that uses microscopic models to vividly simulate the organism of a city arising from the interactions of millions of individuals.
+    * Super realistic traffic simulation
 * [Modeling and Simulation in Python](https://greenteapress.com/wp/modsimpy/) [pdf](http://greenteapress.com/modsimpy/ModSimPy3.pdf)
     * The first part presents discrete models, including a bikeshare system and world population growth.
     * The second part introduces first-order systems, including models of infectious disease, thermal systems, and pharmacokinetics.

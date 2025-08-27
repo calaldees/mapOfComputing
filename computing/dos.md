@@ -37,3 +37,4 @@ Used until 1995
 
 
 * [A "hello world" program in machine code on DOS](https://www.uninformativ.de/blog/postings/2024-09-29/0/POSTING-en.html)
+* [MS-DOS development resources](https://github.com/SuperIlu/DOSDevelResources/blob/main/README.md)

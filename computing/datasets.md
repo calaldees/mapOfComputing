@@ -150,6 +150,7 @@ Space
     * [Orbidium](https://github.com/DarkStar1982/Orbidium)
         * Visualize every astroid in the solar system locally
         * An app demo showing asteroid orbits using NASA MPC database.
+    * [Every Satellite Orbiting Earth and Who Owns Them](https://dewesoft.com/blog/every-satellite-orbiting-earth-and-who-owns-them) 2023
 * [spaceweatherlive.com](https://www.spaceweatherlive.com/)
 * [Logarithmic Maps of the Universe](https://www.astro.princeton.edu/universe/)
 

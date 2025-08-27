@@ -41,3 +41,7 @@ https://mpeg-g.org/
     * > These advances have allowed us to develop effective drugs against diseases like malaria, innovate lightweight, biodegradable, and high-strength materials such as artificial spider silk, and bolster our understanding of how life forms.6-8 In many cases, these breakthroughs were unforeseen and would not have happened if scientists could not conduct their research freely.
     * [bacteria-based self-healing concrete](https://www.sciencedirect.com/science/article/abs/pii/S2352710222000511)
     * Mirror bacteria would not consume sugars and protines that exist in the world. They could act on the raw components that the rest of life uses. There is no immune response that any life on earth could counter.
+
+* [I know genomes. Don't delete your DNA](https://stevensalzberg.substack.com/p/i-know-genomes-dont-delete-your-dna)
+    * Too many people are panicking about 23andMe.
+    * [HN Comments](https://news.ycombinator.com/item?id=44638948)

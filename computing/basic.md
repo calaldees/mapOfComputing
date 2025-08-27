@@ -11,3 +11,9 @@ C64 Basic
 
 * [101-BASIC-Computer-Games](https://github.com/maurymarkowitz/101-BASIC-Computer-Games)
     > Type-in programs from the original 101 BASIC Computer Games, in their original DEC and Dartmouth dialects. No, this is *not* the same as BASIC Computer Games.
+
+Spectrum Basic
+---------------
+
+* [3D functions in BASIC (ZX Spectrum)](https://www.youtube.com/watch?v=-Aw_YiZVu38)
+    * see also [[data-visulisation]] for a paper cutout of this

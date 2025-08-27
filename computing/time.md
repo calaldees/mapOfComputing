@@ -9,7 +9,7 @@ Time on computers is hard and #complex
 * [The Problem with Time & Timezones - Computerphile](https://www.youtube.com/watch?v=-5wpm-gesOY) Tom Scott 10min
 * [03:14:07 on Tuesday, 19 January 2038](https://cookieplmonster.github.io/2022/02/17/year-2038-problem/) 32bit unsigned overflow epoc
 * [The leap second’s time is up: world votes to stop pausing clocks](https://www.nature.com/articles/d41586-022-03783-5)
-
+* [Falsehoods programmers believe about time](https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca)
 * [How a leap second caused havoc with the Internet](https://www.talesfromtheopsside.com/blog/how-a-leap-second-caused-havoc-with-the-internet/)
     * In 2012 the internet broken all over the world at the same time
     * > human-made structures have the ability to affect time. ... “NASA has calculated that the water stored in the Three Gorges Dam in China has increased the length of the day by 0.06 microseconds,”

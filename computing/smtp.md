@@ -10,6 +10,8 @@ SMTP - Simple Mail Transfer Protocol
         > To keep it #decentralized, people need to run their own mail server. 
         > Mox aims to make that easy.
 
+* [Google Spoofed Via DKIM Replay Attack: A Technical Breakdown](https://easydmarc.com/blog/google-spoofed-via-dkim-replay-attack-a-technical-breakdown/)
+
 * [Use Telnet to test SMTP communication on Exchange servers](https://docs.microsoft.com/en-us/exchange/mail-flow/test-smtp-with-telnet?view=exchserver-2019)
     * Example mail conversation
 

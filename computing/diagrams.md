@@ -20,6 +20,7 @@ Diagrams
     * System diagrams
 * [D2: Declarative Diagramming](https://d2lang.com/) - A modern language that turns text to diagrams
     * [live editor](https://play.d2lang.com/)
+    * [ASCII diagram output](https://d2lang.com/blog/ascii/)
 * [[jsoncanvas]]
 * [[mermaid]]
     * [Sequence diagrams, the only good thing UML brought to software development](https://www.mermaidchart.com/blog/posts/sequence-diagrams-the-good-thing-uml-brought-to-software-development)

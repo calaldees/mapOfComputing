@@ -10,6 +10,7 @@ AI (Artificial Intelligence)
 * [[ai-image]] processing
 * [[ai-translation]]
 * [[ai-music-generation]]
+* [[ai-local]]
 * [[mcp]]
 
 * [An image of an archeologist adventurer who wears a hat and uses a bullwhip](https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer) - There is only one thing worse than being imitated
@@ -348,6 +349,7 @@ Unsorted
 [ai-image]: ai-image.md "AI Image Processing"
 [ai-translation]: ai-translation.md "AI Translation"
 [ai-music-generation]: ai-music-generation.md "AI Music Generation"
+[ai-local]: ai-local.md "AI Local"
 [mcp]: mcp.md "MCP (Model Context Protocol)"
 [llm]: llm.md "Large Language Models"
 [image-recognition]: image-recognition.md "Image Recognition"
