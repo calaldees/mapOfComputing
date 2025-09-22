@@ -15,6 +15,8 @@ https://16colo.rs/
 * [Explaining Code using ASCII Art](https://blog.regehr.org/archives/1653)
     * see [[diagrams]]
 
+* [Box-drawing characters](https://en.wikipedia.org/wiki/Box-drawing_characters)
+
 * [chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century
 
 * [ASCII-generator](https://github.com/vietnh1009/ASCII-generator)

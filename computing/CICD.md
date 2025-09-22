@@ -5,6 +5,10 @@ Continuous Integration
     * [[github_actions]]
     * Jenkins
 
+* [Modern CI is Too Complex and Misdirected](https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/)
+    * Modern CI is just a build system that's distributed
+    * Good read!
+
 What is it
 Why is it important
 Example

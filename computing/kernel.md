@@ -17,6 +17,9 @@ Many hardware features need to be supported by the kernel - this creates issues 
 * [[linux-hardware-support]]
 
 
+* [The future of 32-bit support in the kernel](https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/) 2025
+    * Phased out over 10 years - MANY MANY devices and architectures
+
 WindowsNT
 ---------
 

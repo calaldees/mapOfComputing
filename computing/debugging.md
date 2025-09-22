@@ -1,10 +1,15 @@
 Debugging
 =========
 
-chnage one thing at a time - test the hypothisi and change it back
+change one thing at a time - test the hypothesis and change it back
+
+* [Things you can do with a debugger but not with print debugging](https://mahesh-hegde.github.io/posts/what_debugger_can/)
+    * See the stack
+    * Error at source
+    * Alter execution without modifying code
 
 * [Teach Debugging](https://danluu.com/teach-debugging/)
-    * We don't explicity teach systematic methods
+    * We don't explicitly teach systematic methods
     * HE Educators don't help first years out of sink-or-swim mentality
 
 * [Ultimate Guide to Python Debugging](https://martinheinz.dev/blog/24)

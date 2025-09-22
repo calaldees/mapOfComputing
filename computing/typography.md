@@ -44,6 +44,7 @@ Fonts
         * Tiny nanofont3x4 - the samllest typeface with upper and lowercase latters
         * Anders de Flon created a 3x3 font but it is upper case only.
         * [dotsies](https://dotsies.org/) a 1x5 font to replace glyphs!
+        * [twoslice](https://joefatula.com/twoslice.html) a 2px tall font that is 'somewhat'(?) readable
     * [NFG's Arcade Font Engine](https://nfggames.com/games/fontmaker/lister.php)
         * https://github.com/calaldees/TeachProgramming/blob/12614dd3905ea15d45d1ce9d7cf58f5423a29b2d/teachprogramming/static/projects/game/pygame_zoomer.py#L100
         * ```python

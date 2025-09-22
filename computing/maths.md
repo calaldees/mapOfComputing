@@ -13,6 +13,12 @@ Maths
 * [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/)
     * MIT OpenCourseWare 2024
 
+* [The Fast Track](https://sheafification.com/the-fast-track/)
+    * > In order to accelerate the development of prospective mathematical scientists, we have selected a series of textbooks one can study to reach expertise in mathematics and physics in the most efficient manner possible. Readers should aim to cover the stated curriculum in its entirety over the course of two to three years (but it will realistically take longer as you adapt to reading mathematics); it is comprehensive and essentially self-contained.
+    * Linear Algebra (Foundation!)
+    * Mechanics
+    * Theory of Fields
+
 * [The most counterintuitive facts in all of mathematics, computer science, and physics](https://axisofordinary.substack.com/p/the-most-counterintuitive-facts-in)
     * AMAZING! list of very interesting contradictions and facts
     * It is possible to compute over encrypted data without access to the secret key: https://en.wikipedia.org/wiki/Homomorphic_encryption

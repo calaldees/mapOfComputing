@@ -5,6 +5,11 @@ TODO: What is an API
 
 http://editor.swagger.io/
 
+* [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/)
+    * idempotency, which is a fancy word for “the request should be safely retriable without creating duplicates”.
+    * rate limit: Any operation you expose via an API can be called at the speed of code.
+    * You should always use cursor-based pagination for datasets that might end up being large.
+
 * [Advice for Operating a Public-Facing API](https://jcs.org/2023/07/12/api)
     * Avoid OAuth if you can
         * It just makes things gubby - short api tokens are good

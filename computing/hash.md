@@ -9,6 +9,8 @@ Where is it used
     * hash's for hashmaps do not need to be cryptographically secure and can be simpler and faster.
     * This article show comparison of loads of simple small hash functions and their performance with collisions and similar input data
 
+* [MD5 Center: MD5 conversion and reverse lookup](https://md5.gromweb.com/?string=password)
+
 Why
 
 * https://www.quora.com/What-is-the-simplest-example-of-a-hash-function

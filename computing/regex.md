@@ -5,8 +5,10 @@ Regular Expressions
 
 * [The Regular Expression Visualizer, Simulator & Cross-Compiler Tool](https://blog.robertelder.org/regular-expression-visualizer/)
 * [regex101.com](https://regex101.com/)
-* [regexcrossword.com](https://regexcrossword.com/)
-    * Online web regex game with crosswords - surprisingly fun!
+* regex puzzles
+    * [regexcrossword.com](https://regexcrossword.com/)
+        * Online web regex game with crosswords - surprisingly fun!
+    * [RegHex](https://rampion.github.io/RegHex/)
 * [rexegg.com](http://rexegg.com)
     * Cookbook
     * [The Greatest Regex Trick Ever](http://rexegg.com/regex-best-trick.html)

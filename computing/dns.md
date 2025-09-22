@@ -12,7 +12,22 @@ whois
 
 * [ICANN Update: Launching RDAP; Sunsetting WHOIS](https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en)
 
+> It's always DNS
+Kind of meme joke, but with big systems, it often is.
+Global: one
+> We're making too many DNS requests in the stack, while our DNS servers are fine, it looks like we're taxing the AWS DNS resolvers in our VPC.  Because of how the DNS resolve.conf is setup in our pods, we end up searching based on domain search paths making 5 DNS requests per resolution.  This change reduces the load in 2 ways:
+> Fully qualified xxx endpoint: The full qualified endpoint is greater than the number of dots ndots so this turns off DNS searching.Reduces the number of dots that will be used in DNS 'searching', xxx.xxx has one dot so will result in DNS searching, but www.google.com has 2 dots so will be treated as a fully qualified domain and not search.
+```yaml
+xxx_ENDPOINT: http://xxx.xxx.svc.cluster.local
+```
+```yaml
+      dnsConfig:
+        options:
+          - name: ndots
+            value: "1"
+```
 
+Both of these changes combine to only have a single request per DNS resolve.
 * [The secret life of DNS packets: investigating complex networks](https://stripe.com/blog/secret-life-of-dns)
     * Case study of debugging spikes in reverse dns requests at stripe.com
     * Cool they found it rate limiting to 1024 requests a second which was causing more panic and retries

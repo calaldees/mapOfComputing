@@ -57,6 +57,9 @@ There are plugins for Markdown to render
     * [VideoPuppet](https://www.videopuppet.com/docs/script/)
 
 
+* [Semantic Line Breaks](https://sembr.org/)
+
+
 Technologies
 ------------
 

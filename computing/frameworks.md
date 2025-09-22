@@ -5,6 +5,7 @@ Frameworks
     * YouTube documentaries for languages and frameworks
 
 
+* [Why I Hate Frameworks](https://minds.md/benji/frameworks)
 
 * [[web-frameworks]]
 

@@ -1,13 +1,14 @@
 Demoscene
 =========
 
-Copied from computingAcrossCurriculum.md
 * see also
     * [Life Before Demos (or, Hobbyist Programming in the 1980's)](http://www.oldskool.org/shrines/lbd)
 
 * [Wikipedia: Demoscene](https://en.wikipedia.org/wiki/Demoscene)
 * [What is the Demoscene?](https://onthearts.com/p/what-is-the-demoscene) An Interview with Filipe Cruz on the Influential but Obscure Art Form
     * [demoparty.net](https://www.demoparty.net/) - List of past and future events on a map
+* [The Demo Scene is Dying, But That's Alright](https://www.datagubbe.se/sceneherit/)
+    * > And if a significant number of kids do, in fact, eventually pick up the scene torch? Well, I just hope they'll have fun, too.
 
 Creativity Visulisation
 

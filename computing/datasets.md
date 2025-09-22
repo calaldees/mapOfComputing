@@ -169,6 +169,8 @@ Imaging
 Unsorted
 ========
 
+* [energydashboard.co.uk](https://www.energydashboard.co.uk/live)
+    * See the UK energy generation
 * eia US Energy Information Administration - Independent Statistics and Analysis [Gasoline explained Where our gasoline comes from](https://www.eia.gov/energyexplained/gasoline/where-our-gasoline-comes-from.php)
 * [wikipedia.org/wiki/List_of_rivers_by_discharge](https://en.wikipedia.org/wiki/List_of_rivers_by_discharge)
 
