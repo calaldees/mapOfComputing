@@ -8,6 +8,9 @@ History of Computing
 * [[history-of-operating-systems]]
 * [[logical-organization]]
 
+* [The Prehistory of Computing, Part II](https://www.oranlooney.com/post/history-of-computing-2/)
+    * machines
+
 * [computerhistory.org/blogs](https://computerhistory.org/blogs/)
 * [bitsavers.org](https://bitsavers.org/)
     * Magazines, software, communications archive of documents

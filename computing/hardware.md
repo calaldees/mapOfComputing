@@ -8,6 +8,7 @@ Hardware
 * [[processors]]
     * [[logical-organization]]
 * [[input-devices]]
+* [[hardware-memory]]
 * Audio
 * Dumping data?
     * [You Can Dump A Game Boy Advance ROM By Crashing It And Recording The Audio](https://www.timeextension.com/news/2024/01/you-can-dump-a-game-boy-advance-rom-by-crashing-it-and-recording-the-audio?utm_campaign=promoted-articles&utm_medium=homepage-listing&utm_source=nintendolife.com)
@@ -96,6 +97,7 @@ Troubleshooting
 [processors]: processors.md "Processors"
 [logical-organization]: logical-organization.md "Logical Organization"
 [input-devices]: input-devices.md "input-devices"
+[hardware-memory]: hardware-memory.md "hardware-memory"
 [retro-hardware]: retro-hardware.md "Retro Hardware"
 [retro-sound-chips]: retro-sound-chips.md "Retro Sound Chips"
 [wearable]: wearable.md "Wearable"

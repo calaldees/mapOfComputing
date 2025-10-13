@@ -3,6 +3,9 @@ Open Source
 
 * see also [[solutions]] for commentary on Open source architecture on a number of existing solutions
 
+* [The challenge of maintaining curl](https://lwn.net/Articles/1034966/)
+    * Volunteers overloaded with work request for they do for free because big companies rely on their software
+
 * [“Free Software”: An idea whose time has passed](https://r0ml.medium.com/free-software-an-idea-whose-time-has-passed-6570c1d8218a)
     * Types
         * Public software - The idea of public software was software that anybody could freely use

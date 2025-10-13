@@ -12,7 +12,8 @@ Maths
 
 * [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/)
     * MIT OpenCourseWare 2024
-
+* [The Napkin project](https://web.evanchen.cc/napkin.html)
+    * > An Infinitely Large Napkin is a light and mostly self-contained introduction to higher math, roughly ranging from the undergraduate syllabus to first-year graduate topics. The Napkin provides a general bird’s-eye views of main ideas of fields and what makes them cool or interesting. It’s less detailed than a real textbook but more precise than pop-math books and assumes proof experience.
 * [The Fast Track](https://sheafification.com/the-fast-track/)
     * > In order to accelerate the development of prospective mathematical scientists, we have selected a series of textbooks one can study to reach expertise in mathematics and physics in the most efficient manner possible. Readers should aim to cover the stated curriculum in its entirety over the course of two to three years (but it will realistically take longer as you adapt to reading mathematics); it is comprehensive and essentially self-contained.
     * Linear Algebra (Foundation!)
@@ -27,13 +28,15 @@ Maths
 * [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila/index.html)
     * Linear: having to do with lines, planes, etc.
     * Algebra: solving equations involving unknowns.
-    * This text is roughly half computational and half conceptual in nature. 
+    * This text is roughly half computational and half conceptual in nature.
     * Most engineering problems, no matter how complicated, can be reduced to linear algebra
 * [Introduction to Linear Algebra](https://www.freetext.org/Introduction_to_Linear_Algebra/)
     * Vectors
     * Matrices
     * Linear Transformations
     * Vector Spaces
+* [The Little Book of Linear Algebra](https://little-book-of.github.io/linear-algebra/books/en-US/lab.html)
+    * numpy examples
 * [Category Theory Illustrated](https://github.com/boris-marinov/category-theory-illustrated)
     * Beautiful web/book illustrating mathematical and computing set constructs and terminology.
     * [Category THeory Illustrated: sets](https://abuseofnotation.github.io/category-theory-illustrated/01_set/)

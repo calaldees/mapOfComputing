@@ -3,6 +3,8 @@ PostgreSQL
 
 * [Postgres for Everything (e/postgres)](https://github.com/Olshansk/postgres_for_everything)
     * Redis, MQTT, Graph, Document. Do them all in postgres
+* [Redis is fast - I'll cache in Postgres](https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/)
+    * Redis is faster than postgres, but most projects still need a db anyway and 7200 requests per second is fast enough for most projects
 
 * [PostgreSQL beginner guide](https://knowledgepill.it/posts/postgresql-basics-guide/) - connecting, remote access, psql CLI and troubleshooting connection
 * [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html) - for database administrators and system developers

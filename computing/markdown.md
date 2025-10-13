@@ -63,6 +63,12 @@ There are plugins for Markdown to render
 Technologies
 ------------
 
+TODO: investigate mkdocs
+```bash
+pip3 install mkdocs
+mkdocs serve
+```
+
 * Presentations
     * [Slidev](https://sli.dev/guide/why)
         * Markdown replacement for PPT. Recordings, web export, live preview, modular css

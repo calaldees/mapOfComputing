@@ -58,6 +58,7 @@ https://developers.google.com/search/docs/data-types/dataset
             * [sheffield](https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/sheffielddata.txt) yearly
             * [Example global temp visulisation](https://twitter.com/anttilip/status/1217529718938820610)
         * [datapoint api](https://www.metoffice.gov.uk/datapoint)
+    * [Co2: Growth Rate](https://gml.noaa.gov/ccgg/trends/gl_gr.html)
     * [spaceweatherlive.com](https://www.spaceweatherlive.com/)
     * [National Centers for Environmental Information (US)](https://www.ncei.noaa.gov/)
         * [global hourly](https://www.ncei.noaa.gov/data/global-hourly/)

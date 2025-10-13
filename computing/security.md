@@ -103,7 +103,7 @@ Authenticator app OTP
     * > The vulnerability is caused by memory optimization features in Intel processors that unintentionally reveal internal hardware registers to software.
     * Stealing 128-bit and 256-bit AES keys from another user (linux Kernel)
     * Computing devices based on Intel Core processors from the 6th Skylake to (including) the 11th Tiger Lake generation are affected
-* [Breach](https://www.breachattack.com/) - SSL, GONE IN 30 SECONDS
+* [Breach](https://breachattack.com/) - SSL, GONE IN 30 SECONDS
     * If an attacker can control the length of the payload of a CSRF token, statistical anayly of gzip/https can be done to work out the HTTP headers of HTTPS content. Cookies/keys can be present in headers
 * [spookjs](https://www.spookjs.com/)
     * Vulnerability that gives access to Google Password manager from javascript
@@ -196,6 +196,8 @@ Cautionary tails of actual hacks
     * Poisoned compiler
 * [Open Source Security (OpenSSF) and OpenJS Foundations Issue Alert for Social Engineering Takeovers of Open Source Projects](https://openssf.org/blog/2024/04/15/open-source-security-openssf-and-openjs-foundations-issue-alert-for-social-engineering-takeovers-of-open-source-projects/)
     * After XZ backdoor 2024 - more awareness of open source injection
+    * [XZ Utils Backdoor — Everything You Need to Know, and What You Can Do](https://www.akamai.com/blog/security-research/critical-linux-backdoor-xz-utils-discovered-what-to-know)
+        * CVE-2024-3094
 
 * [Super Mario All-Stars + Super Mario World by SethBling, IsoFrieze in 11:55 - SGDQ 2022](https://www.youtube.com/watch?v=FlkWSqA4VFU) YouTube
     * Remote code execution

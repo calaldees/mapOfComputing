@@ -1,6 +1,8 @@
 Diff
 ====
 
+* [Diff Algorithms](https://flo.znkr.io/diff/) 2025 Comparison
+
 * [DiffX - Next-Generation Extensible Diff Format](https://diffx.org/)
     * Unified Diffs have not kept up with where the world is going. For instance:
         * A single diff can’t represent a list of commits
