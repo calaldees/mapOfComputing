@@ -5,6 +5,11 @@ floppy-repair
     * [[cracking]]
     * [[game-copy-protection]]
 
+* [A digital dark age? The people rescuing forgotten knowledge trapped on old floppy disks](https://www.bbc.co.uk/future/article/20251009-rescuing-knowledge-trapped-on-old-floppy-disks)
+* [Copy that Floppy Cafe](https://www.lib.cam.ac.uk/research-institute/events/floppy-disks-workshop) 2025
+    * > Cambridge University Library are hosting a floppy disk workshop where experts will attempt to copy the data from your floppy disk onto a modern format.
+
+
 * YouTube
     * [How To Remove And Replace The Inner 3.5" Floppy Disk & Metal Shutter Without Ruining Them! 💾 ](https://www.youtube.com/watch?v=TkAYFrYhOvM)
     * [Fix bad floppy disks in seconds](https://www.youtube.com/watch?v=49Pcmgh7tPc)

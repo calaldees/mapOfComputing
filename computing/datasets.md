@@ -174,6 +174,8 @@ Unsorted
     * See the UK energy generation
 * eia US Energy Information Administration - Independent Statistics and Analysis [Gasoline explained Where our gasoline comes from](https://www.eia.gov/energyexplained/gasoline/where-our-gasoline-comes-from.php)
 * [wikipedia.org/wiki/List_of_rivers_by_discharge](https://en.wikipedia.org/wiki/List_of_rivers_by_discharge)
+* [American Solar Farms](https://tech.marksblogg.com/american-solar-farms.html)
+    * Some dude used stellite images to estimate the power output of all us solar farms
 
 * [National Grid: Live](https://grid.iamkate.com/)
     * The National Grid is the electric power transmission network for Great Britain 
