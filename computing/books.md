@@ -1,7 +1,10 @@
 Books
 =====
 
+https://ebookfoundation.github.io/free-programming-books/ https://github.com/EbookFoundation/free-programming-books
+
 https://freecomputerbooks.com/
+
 
 * [[eBooks]]
 * [[book-summaries]]

@@ -29,6 +29,13 @@ Graphics
 
 * More Filled Triangles
     * [Software Rasterization Algorithms for Filling Triangles](http://www.sunshine2k.de/coding/java/TriangleRasterization/TriangleRasterization.html)
+* [High-performance 2D graphics rendering on the CPU using sparse strips](https://github.com/LaurenzV/master-thesis/blob/main/main.pdf) [HN Comments](https://news.ycombinator.com/item?id=45881568)
+* [Blaze](https://gasiulis.name/parallel-rasterization-on-cpu/)
+    * a CPU-based, multithreaded vector graphics rasterizer
+    * > Traditional scanline rasterizers follow path outline, update some sort of edge list for each scanline, then convert this edge list to arrays of spans for final composition on the destination surface.
+      > While there are methods to optimize this process quite well, it suffers from being bound to a single CPU core. The biggest contributor to the problem is the fact that any segment in the path can affect how it covers any particular pixel. You cannot examine a few segments of an entire path and decide if pixel X is covered or not, like it is with triangle meshes, for example.
+       > For this reason it is a challenge to find a way to distribute workload equally across multiple threads.
+
 
 * [Worldsheet: Wrapping the World in a 3D Sheet for View Synthesis from a Single Image](https://worldsheet.github.io/)
     * 2d image + bump map -> 3d scene

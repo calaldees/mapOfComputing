@@ -1,6 +1,9 @@
 Hacking and Security
 ====================
 
+* [owasp.org/Top10](https://owasp.org/Top10/)
+    * The top 10 security vulnerabilities
+
 * [[2fa]]
 
 * [9Sec Blog](https://9esec.io/blog) - Experts insights

@@ -82,8 +82,10 @@ The processes of taking triangle geometry and drawing it as pixels is called `ra
 
 Quake 1 engine was sold/licensed to game developers.
 
+[GitHub: rlsw – Raylib software OpenGL renderer in less than 5k LOC](https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h) [HN Comments](https://news.ycombinator.com/item?id=45661638) OpenGL Compatible - plain C with no dependencies!
 
-Part 3 - Modern 3D Graphics Chipsets
+
+Part 3 - Modern 3D Graphics Chip-sets
 ------------------------------------
 
 3D Graphics Cards are a completely separate computer inside your computer that is dedicated to drawing triangles.
@@ -93,7 +95,7 @@ Modern game programmers use graphics library's and hardware.
 
 Mobile chipsets - 200 Million triangles per second - source [imagination graphics benchmark guide](https://www.imgtec.com/blog/consumer-guide-to-graphics-benchmarks/)
 
-Part 4 - The furture
+Part 4 - The future
 --------------------
 
 * [Enhancing Photorealism Enhancement](https://intel-isl.github.io/PhotorealismEnhancement/)

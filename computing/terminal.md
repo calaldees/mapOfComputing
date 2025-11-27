@@ -18,6 +18,10 @@ Terminal
 
 Do not use the default terminal on any system. This will hinder your productivity.
 
+* https://www.jeffquast.com/post/state-of-terminal-emulation-2025/
+  * https://ucs-detect.readthedocs.io/results.html
+    * Ranking terminal emulators for accuracy
+
 * Multiplatform
   * [Contour Terminal Emulator](http://contour-terminal.org/)
     * high dpi - win, linux, mac

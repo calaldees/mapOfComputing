@@ -82,6 +82,12 @@ Creativity
 * [Drum Patterns](http://drumpatterns.onether.com/)
     *  Discover & share drum machine patterns.
 
+* [DOOMSDAY SCOREBOARD](https://doomsday.march1studios.com/)
+    * How many world ending predictions have come true
+
+[Random Character Doodles](https://hlnet.neocities.org/ascii-automata/)
+
+
 
 Hacking/Making/Building Culture
 -------------------------------

@@ -99,6 +99,7 @@ Fonts
         * Monospace fonts for coding with personality
         * If you spend all day looking at code, letters, and characters—why not make it fun?
     * [Dev Fonts](https://devfonts.gafi.dev/) - free monospace font comparison
+    * [Myna](https://github.com/sayyadirfanali/Myna?tab=readme-ov-file) - monospace typeface designed for symbol-rich programming 
     * [comic-mono](https://dtinth.github.io/comic-mono-font/)
     * [Typography in 8 bits: System fonts](https://damieng.com/blog/2011/02/20/typography-in-8-bits-system-fonts/)
         * Spectrum, c64, amstrad, apple2, atari 400/800, bbc, msx

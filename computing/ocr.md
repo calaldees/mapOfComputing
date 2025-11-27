@@ -5,6 +5,8 @@ Optical Character Recondition
 2025 - kind of a dead branch of computing - replaced with VisualLanguageModels
 https://github.com/vlm-run/vlmrun-cookbook/blob/main/notebooks/01_schema_showcase.ipynb
 
+* [DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) 2025
+
 * [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 * [Back to the Future of Hand Writing Recognition](https://jackschaedler.github.io/handwriting-recognition/)
     * Beautiful interactive web example of smoothing and corner detection

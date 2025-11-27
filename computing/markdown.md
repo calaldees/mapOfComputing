@@ -98,6 +98,8 @@ mkdocs serve
     * [MdRss](https://github.com/TimoKats/mdrss)
         * Convert markdown files to RSS feed using GO. 
 
+* [Styling Markdown](https://webdev.bryanhogan.com/miscellaneous/styling-markdown/)
+
 Input
 -----
 * [Nanonets-OCR](https://huggingface.co/nanonets/Nanonets-OCR-s)

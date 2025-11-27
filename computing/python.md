@@ -339,7 +339,8 @@ Tools
 -----
 
 * [tach](https://github.com/gauge-sh/tach)
-    * > A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust
+    * > A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust`
+* [modshim](https://github.com/joouha/modshim) -  Override and customize Python packages without touching their code 
 
 
 Performance

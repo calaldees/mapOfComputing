@@ -13,6 +13,7 @@ AI (Artificial Intelligence)
 * [[ai-local]]
 * [[mcp]]
 * [[prompt-engineering]]
+* [[agi]]
 
 * [An image of an archeologist adventurer who wears a hat and uses a bullwhip](https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer) - There is only one thing worse than being imitated
     * Only the existing media "India Jones - Harrison Ford" is output.
@@ -353,6 +354,7 @@ Unsorted
 [ai-local]: ai-local.md "AI Local"
 [mcp]: mcp.md "MCP (Model Context Protocol)"
 [prompt-engineering]: prompt-engineering.md "Prompt Engineering"
+[agi]: agi.md "AGI Artificial General Intelligence"
 [llm]: llm.md "Large Language Models"
 [image-recognition]: image-recognition.md "Image Recognition"
 [ai]: ai.md "AI (Artificial Intelligence)"

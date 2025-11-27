@@ -2,8 +2,14 @@
 Dithering and color reduction
 -----------------------------
 
+* [Visual Illustration of Dithering!](https://visualrambling.space/dithering-part-1/)
+* [Why do we need dithering?](https://typefully.com/DanHollick/why-do-we-need-dithering-Ut7oD4k)
+    * good visualization of threshold maps
 * [Dithering in Colour](https://obrhubr.org/dithering-in-colour)
 * [Differentiable Dithering](https://www.peterstefek.me/differentiable-dithering.html)
+
+* [Image Dithering: Eleven Algorithms and Source Code](https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html)
+    * 11 algorithms for 2 color dithering. Showing the outputs.
 
 // is this compression? should be moved to graphics?
 * [DitherJS](https://github.com/danielepiccone/ditherjs) [example](http://danielepiccone.github.io/ditherjs/)

@@ -1,6 +1,9 @@
 Color
 =====
 
+* [Color distribution of Color-Names in various color models](https://codepen.io/meodai/full/zdgXJj/)
+    * 3d render. kind of fun. But largely just entertaining
+
 * [colorjs](https://colorjs.io/)
     * [Color.js Released](https://svgees.us/blog/colorjs-release.html)
     * Color is complicated - excelent example of inperpolations

@@ -58,6 +58,7 @@ Ideas
 * [historical tech tree](https://www.historicaltechtree.com/)
     * The tech tree for humanity ... wild!
 
+* [YouTube: A laser pointer at 2 billion fps makes the speed of light look... kinda weird](https://www.youtube.com/watch?v=o4TdHrMi6do)
 
 * [Hungry Hungry Hippos Autoplay](https://www.mikekohn.net/micro/hungry_hungry_hippos.php)
 

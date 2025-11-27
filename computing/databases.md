@@ -3,6 +3,7 @@ Databases
 
 * [Build Your Own X From Scratch Books](https://build-your-own.org/)
     * [database](https://build-your-own.org/#section-database) [book_done](https://build-your-own.org/blog/20230420_byodb_done/)
+* [Build Your Own Database](https://www.nan.fyi/database) - A step-by-step guide to building a key-value database from scratch
 
 * [how query engines work](https://howqueryengineswork.com/)
     * Good description of query (loads of step by step detail)

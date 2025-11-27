@@ -5,3 +5,5 @@ Python Typing
 
 * [Mayim](https://ahopkins.github.io/mayim/#basic) The NOT ORM Python hydrator
     * Create python types from SQL
+
+* [Pyrefly](https://pyrefly.org/) - A fast type checker and language server for Python with powerful IDE features

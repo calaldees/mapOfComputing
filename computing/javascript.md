@@ -48,7 +48,13 @@ http://youmightnotneedjquery.com/
 * [10 New JavaScript Features in ES2020 That You Should Know](https://www.freecodecamp.org/news/javascript-new-features-es2020/)
 
 * [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet)
-
+* [JavaScript destructuring like Python kwargs with defaults](https://www.peterbe.com/plog/javascript-destructuring-like-python-kwargs-with-defaults)
+    * ```javascript
+        function processFolder({source,destination = "/tmp",quiet = false,verbose = false} = {}) {
+            // all args as kwargs (no positional)
+        }
+        console.log(processFolder({ source: "/user", quiet: true }))
+        ```
 
 https://til.hashrocket.com/posts/yq02bobyth-swap-javascript-array-items-inline
 ```javascript
