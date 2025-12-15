@@ -1,6 +1,12 @@
 tracking
 ========
 
+* [Exposed By Default](https://neberej.github.io/exposedbydefault/)
+    * This is the data your browser hands out automatically, every time!
+    * Fingerprint ID: `dec9fe5f`
+    * Unique to 1 in 17,179,869,184+ devices.
+
+
 * [How Bear does analytics with CSS](https://herman.bearblog.dev/how-bear-does-analytics-with-css/)
     * GENIUS!
     *   ```css

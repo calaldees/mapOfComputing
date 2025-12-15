@@ -35,3 +35,6 @@ link to inline svg in a markdown document
 
 * [Simulating Hand-Drawn Motion with SVG Filters](https://camillovisini.com/coding/simulating-hand-drawn-motion-with-svg-filters)
     * Turbulence and displacement map
+
+* AI animation of SVG
+* [Pose Animator - An open source tool to bring SVG characters to life in the browser via motion capture ](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html)
