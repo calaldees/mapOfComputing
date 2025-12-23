@@ -61,6 +61,8 @@ Beyond Software
     * 
 
 
+* German Petition [Recognition of Work on Open-Source as Volunteering in Germany](https://www.openpetition.de/petition/online/recognition-of-work-on-open-source-as-volunteering-in-germany) 2025
+
 [solutions]: solutions.md "Solutions"
 [software-licences]: software-licences.md "Software Licences"
 [containerisation]: containerisation.md "Containerisation"

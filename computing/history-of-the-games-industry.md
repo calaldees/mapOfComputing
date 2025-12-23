@@ -17,3 +17,9 @@
 
 * [The Making Of Gunstar Heroes, Treasure's Mega Drive Masterpiece](https://www.timeextension.com/features/the-making-of-gunstar-heroes-treasures-mega-drive-masterpiece)
     * Book [Legends of 16-Bit Game Development](https://rasterscroll.com/product/legends/) A History of Treasure and the Sega Mega Drive / Genesis by John Harrison
+
+* [After 40 years of adventure games, Ron Gilbert pivots to outrunning Death](https://arstechnica.com/gaming/2025/12/after-40-years-of-adventure-games-ron-gilbert-pivots-to-outrunning-death/)
+    * Point and click has been and gone
+
+* [Interview with RollerCoaster Tycoon’s Creator, Chris Sawyer](https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13)
+    * He did it all in assembler

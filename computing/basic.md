@@ -17,3 +17,6 @@ Spectrum Basic
 
 * [3D functions in BASIC (ZX Spectrum)](https://www.youtube.com/watch?v=-Aw_YiZVu38)
     * see also [[data-visulisation]] for a paper cutout of this
+
+
+* [Efficient BASIC coding for the ZX Spectrum](https://blog.jafma.net/2020/02/24/efficient-basic-coding-for-the-zx-spectrum/)

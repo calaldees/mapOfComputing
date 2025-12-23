@@ -9,6 +9,9 @@ compiler
 
 * [Introducing the Advent of Compiler Optimisations 2025](https://xania.org/202511/advent-of-compiler-optimisation)
 
+* [Learn Wasm by building a simple compiler in JavaScript.](https://wasmgroundup.com/)
+    * [[web-assembly]]
+
 * [Write Your Own Retro Compiler](http://t3x.org/t3x/0/book.html) 2023 Free eBook
     * Lexical analysis
     * Syntax analysis
@@ -73,3 +76,5 @@ Compilers optimise into something that is unrecognizable but performs the same f
 [c]: c.md "C"
 [branch-prediction]: branch-prediction.md "Branch Prediction"
 
+
+[web-assembly]: web-assembly.md "Web Assembly"

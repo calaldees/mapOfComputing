@@ -9,3 +9,8 @@ From OpenAPI3.0 spec
 * https://fastapi.tiangolo.com/
     * https://typer.tiangolo.com/
 
+
+
+* [FastAPI Voyager](https://www.newsyeah.fun/voyager/?tag=demo)
+    * Visulise FastAPI API's
+    * Not OpenAPI, but an interesting [[data-visulisation]]

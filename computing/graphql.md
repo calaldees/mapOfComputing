@@ -1,6 +1,8 @@
 GraphQL
 ======
 
+* [GraphQL: the enterprise honeymoon is over](https://johnjames.blog/posts/graphql-the-enterprise-honeymoon-is-over) 2025
+
 * [Tech Dive - APIs](https://blog.quastor.org/p/tech-dive-apis) REST Vs GraphQL
     * Very short summary
 * [GraphQL vs. REST APIs: Why you shouldn’t use GraphQL](https://blog.logrocket.com/graphql-vs-rest-api-why-you-shouldnt-use-graphql/)

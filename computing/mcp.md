@@ -14,3 +14,6 @@ MCP (Model Context Protocol)
 
 
 * [Paws-on-MCP: Unified MCP Server Implementation 🐾](https://github.com/hemanth/paws-on-mcp) A comprehensive Model Context Protocol (MCP) server implementing the latest specification.
+
+
+* [MCP for Designers: What It Actually Does (and Doesn’t)](https://medium.com/design-bootcamp/mcp-for-designers-what-it-actually-does-and-doesnt-897dc71097ab)

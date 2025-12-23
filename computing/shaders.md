@@ -28,6 +28,7 @@ The language we use to write pixel shaders is called HLSL. It's a C-like languag
 
 * [🖍️ 5 ways to draw an outline: Different techniques for rendering outlines in Unity](https://ameye.dev/notes/rendering-outlines/)
 
+* YouTube [Compute Shaders: Optimize your engine using compute / Lou Kramer, AMD](https://www.youtube.com/watch?v=0DLOJPSxJEg) 2017
 
 [simulation]: simulation.md "Simulation"
 [cellular-automata]: cellular-automata.md "Cellular Automata"
