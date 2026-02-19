@@ -9,3 +9,7 @@ Error Messaging
 
 * [Improve Your Life with Long Error Messages](https://blog.appsignal.com/2021/09/22/improve-your-life-with-long-error-messages.html)
     * 'circitbreaker' - errors produce a feedback page to log information form the user
+
+* [What an error log level should mean (a system administrator's view)](https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing)
+    * An error should be something that needs action (at a system level)
+    * Millions of error log lines are pointless

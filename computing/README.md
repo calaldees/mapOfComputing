@@ -8,6 +8,10 @@ Computing
 * [Bret Victor The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4) (32min) 2013 (delivered with OHP slides as if from the 70's)
     * > "We don't know what programming is. We don't know what computing is. We don't even know what a computer is." And once you truly understand that, and once you truly believe that, then you're free, and you can think anything."
 
+* [Nobody knows how the whole system works](https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/) 2026
+    * > the fundamental nature of complex technologies: our knowledge of these systems will always be partial, at best. Yes, AI will make this situation worse. But it’s a situation that we’ve been in for a long time.
+    * Has an image of a linked in post where someone beautifully describes the layers of modern CPU's are such an abstraction of what is actually happening. 3 levels of cache before any memory read. In fact CPU's don't actually fetch from memory.
+
 * [[HCI]]
 * [[Quantum Computing]]
 * [[algorithms]]

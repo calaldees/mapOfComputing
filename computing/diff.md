@@ -17,3 +17,6 @@ Diff
 
 * [When to Use Each of the Git Diff Algorithms](https://luppeng.wordpress.com/2020/10/10/when-to-use-each-of-the-git-diff-algorithms/)
     * myers, minimal, patience, and histogram
+
+
+* [diff2html](https://diff2html.xyz/demo)

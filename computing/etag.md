@@ -1,6 +1,8 @@
 etag
 ====
 
+See also [[cache]]
+
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/ETag
 
 Server
@@ -35,3 +37,6 @@ import os.path
             hex(os.path.getsize(location)),
             adler32(location.encode('utf-8')) & 0xffffffff)
 ```
+
+
+[cache]: cache.md "cache"

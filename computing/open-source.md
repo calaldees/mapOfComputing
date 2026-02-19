@@ -15,6 +15,8 @@ Open Source
     * Today’s topic is political software. 
         * > I think it is clear that the Free Software Foundation has failed to move the needle on the political issues relating to software. Those of us who are interested in issues of freedom and ethics and social justice related to software must explore alternative stratagems to achieve those objectives. The tactics of the Free Software Foundation (the insistence on copylefting software and fighting software patents) have become more and more ineffective. The world of software has evolved and changed in the years since 1985: we need to let the past die and build a better future.
 
+* [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/)
+
 * [Don't be that open-source user, don't be me](https://jacobtomlinson.dev/posts/2022/dont-be-that-open-source-user-dont-be-me/)
     * Somebody somewhere needs to maintain the software - at somepoint it may need funding.
 * [How to pay your rent with your open source project](https://plausible.io/blog/open-source-funding)
@@ -62,6 +64,9 @@ Beyond Software
 
 
 * German Petition [Recognition of Work on Open-Source as Volunteering in Germany](https://www.openpetition.de/petition/online/recognition-of-work-on-open-source-as-volunteering-in-germany) 2025
+
+
+* [The NO FAKES Act has a "Fingerprinting" Trap that kills Open Source. We need to lobby for a Safe Harbor.](https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/)
 
 [solutions]: solutions.md "Solutions"
 [software-licences]: software-licences.md "Software Licences"

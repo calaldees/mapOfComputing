@@ -12,6 +12,7 @@ Maths
 
 * [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/)
     * MIT OpenCourseWare 2024
+    * [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) PDF Book
 * [The Napkin project](https://web.evanchen.cc/napkin.html)
     * > An Infinitely Large Napkin is a light and mostly self-contained introduction to higher math, roughly ranging from the undergraduate syllabus to first-year graduate topics. The Napkin provides a general bird’s-eye views of main ideas of fields and what makes them cool or interesting. It’s less detailed than a real textbook but more precise than pop-math books and assumes proof experience.
 * [The Fast Track](https://sheafification.com/the-fast-track/)

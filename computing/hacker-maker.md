@@ -66,6 +66,8 @@ Ideas
     * Code and DIY volumetric display
     * 400fps rotating screen for a 128x64 display
 
+* [Floppy Disks: the best TV remote for kids](https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/)
+    * built it for kids selecting channels with disks
 
 
 [art]: art.md "Art"

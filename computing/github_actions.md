@@ -5,3 +5,7 @@ GitHub Actions
 * [The Pain That Is Github Actions](https://www.feldera.com/blog/the-pain-that-is-github-actions)
     * TODO
 * [`act`: Run your GitHub Actions locally 🚀 ](https://github.com/nektos/act)
+
+* [GitHub-hosted runners reference](https://docs.github.com/en/actions/reference/runners/github-hosted-runners#standard-github-hosted-runners-for-public-repositories)
+    * This has a list of what is installed in the base images
+        * e.g. [Ubuntu2404-Readme.md](https://github.com/actions/runner-images/blob/main/images/ubuntu/Ubuntu2404-Readme.md)

@@ -7,18 +7,15 @@ Typography
     * > For too long typographic style and its accompanying attention to detail have been overlooked by website designers, particularly in body copy. In years gone by this could have been put down to the technology, but now the web has caught up. The advent of much improved browsers, text rendering and high resolution screens, combine to negate technology as an excuse.
 * [Font size is useless; let’s fix it](https://tonsky.me/blog/font-size/)
 * [Please Stop Using Grey Text](https://tangledweb.xyz/please-stop-using-grey-text-3d3e71acfca8)
-* [Time to upgrade your monitor](https://tonsky.me/blog/monitors/) - Font Rasterisation on modern OS's
-* [Rendering Crispy Text On The GPU](https://osor.io/text) Rasterisation
-    * The mother document! This breakdown is AMAZING!
-    * [HN Comments](https://news.ycombinator.com/item?id=44265233)
 * Concept
     * [Continuous Typography](https://maxkoehler.com/posts/continuous-typography/) - Notes toward a continuous framework for screen typography
         * Typography on the web is differnt to paper. We make lots of decisions about fonts. We could have functions to select these
-* [Please Stop “Fixing” Font Smoothing](https://usabilitypost.com/2012/11/05/stop-fixing-font-smoothing/)
-    * Critique on `-webkit-font-smoothing` CSS
-    * > for main portions of text where readability is paramount please leave the default setting alone and let the operating system handle the smoothing.
+
 * [Bunny Fonts](https://fonts.bunny.net/about)
     * GDPR open drop in replacement for google fonts
+* [Drawing with Zero Width Characters](https://zw.swerdlow.dev/)
+    * Arabic characters used in the Qur'an, referred to as Tajweed marks - stack upwards and downwards
+    * Not clipped by a bounding box - they break out of text space on a webpage. AMAZING!
 
 
 ### Fonts for coding
@@ -139,10 +136,6 @@ Fonts
     * [Introducing Kermit: A typeface for kids](https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/)
         * Using design to empower children by making reading easier, improving comprehension, and helping dyslexics.
 
-Text is Hard
-------------
-* [The strangely difficult problem of drawing a box around text](https://blog.battlefy.com/the-strangely-difficult-problem-of-drawing-a-box-around-text-e6a70bdf6bb9)
-* [Simple software things that are actually very complicated](https://www.construct.net/en/blogs/ashleys-blog-2/simple-software-things-1587)
 
 Security with fonts
 -------------------
@@ -157,6 +150,12 @@ Font editors
     * Bitmaps to fonts?
 * [FontLab](https://www.fontlab.com/font-editor/bitfonter/)
     * A $999 service for fonts?
+
+
+Font Use
+========
+
+* [The Best Google Font Pairings for 2025](https://www.leadpages.com/blog/best-google-fonts)
 
 
 Physical Typography

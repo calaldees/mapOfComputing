@@ -34,6 +34,9 @@ See [[model]]
     * [Simulating water over terrain](https://lisyarus.github.io/blog/posts/simulating-water-over-terrain.html)
     * [Airfoil](https://ciechanow.ski/airfoil/)
         * Visual description of how an Airfoil works!
+    * [sandboxels](https://neal.fun/sandboxels/)
+        * Amazing pixel simulation with life and plants and fluids and temperature and gases and solids and explosives
+        * By https://r74n.com/ This guy is a genius!
 * Fire
     * [Far Cry: How the Fire Burns and Spreads](https://jflevesque.com/2012/12/06/far-cry-how-the-fire-burns-and-spreads/) 2012
     * GPU spin[Simulating Fluids, Fire, and Smoke in Real-Time](https://andrewkchan.dev/posts/fire.html) - Notes on the math, algorithms, and methods involved in simulating fluids like fire and smoke in real-time.
@@ -44,6 +47,8 @@ See [[model]]
     * [SkyLines Forum](https://forum.paradoxplaza.com/forum/index.php?threads/perpetual-traffic-jam.937466/)
     * [trafficvis.com](https://trafficvis.com)
     * [PROFESSIONAL HIGHWAY ENGINEER plays Freeways!](https://www.youtube.com/watch?v=1OzC-LG9pG4) YouTube 20min
+    * [Art of Roads in Games](https://sandboxspirit.com/blog/art-of-roads-in-games/)
+        * More of a road graphics drawing algorithm
 * Town/City
     * [Citybound](https://aeplay.org/citybound)
         * > A city building game that uses microscopic models to vividly simulate the organism of a city arising from the interactions of millions of individuals.
@@ -81,6 +86,9 @@ See [[model]]
 * [Translating a Fortran F-16 Simulator to Unity3D](https://vazgriz.com/762/f-16-flight-sim-in-unity-3d/)
 * [Simulating a Planet on the GPU: Part 1](https://www.patrickcelentano.com/blog/planet-sim-part-1)
     * Tectonics and erosion
+
+* Photographic [exposure simulator](http://www.andersenimages.com/tutorials/exposure-simulator/)
+    * See what happens to an image with different fstops and shutter speeds
 
 
 [model]: model.md "Model"

@@ -27,6 +27,13 @@ Web
     * > bringing the size down from ~154GB to just ~23GB, saving a massive ~131GB of storage space.
 
 
+* [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html)
+    * 'design' is more important than 'language'
+    * versions compared as in single u64 int
+    * http-range request for zips
+    * global cache for all packages
+
+
 [performance-profileing]: performance-profileing.md "Performance Profiling"
 [tcp]: tcp.md "TCP"
 [languages]: languages.md "Languages"

@@ -3,6 +3,7 @@ Clean Code
 
 Comments are a form of "code duplication".
 Comments that describe WHY something is like it is, are very valuable
+* [Maybe Comments SHOULD Explain 'What'](https://www.hillelwayne.com/post/what-comments/)
 
 #cleancode
 

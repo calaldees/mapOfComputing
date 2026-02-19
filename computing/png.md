@@ -13,6 +13,7 @@ PNG
 * [The smallest 256x256 single-color PNG file, and where you've seen it](https://www.mjt.me.uk/posts/smallest-png/)
     * #huffman #rle
 * [‘optiPNG’ vs ‘PNGcrush’ vs ‘Gimp’ to Reduce PNG Size](https://rubysash.com/programming/wordpress/optipng-vs-pngcrush-vs-gimp-to-reduce-png-size/)
+* https://optipng.sourceforge.net/
 
 * [cICP in PNG, explained](https://svgees.us/blog/cICP.html) 2025
     * New addition to the PNG spec for the first time in 20 years.

@@ -287,11 +287,15 @@ Censorship
     * The Heritage Foundation sets its sites on the world's free online encyclopedia.
     * Find the identity of the jews behind the page updates ... oh my god!
 
-* [wifi-3d-fusion](https://github.com/MaliosDark/wifi-3d-fusion)
-    * View skeletons of people in building from passive monitoring of wi-fi signals
-
 * [Your Smartphone, Their Rules: How App Stores Enable Corporate-Government Censorship ](https://www.aclu.org/news/free-speech/app-store-oligopoly)
 
+* [The Deviancy Signal: Having “Nothing to Hide” is a Threat to Us All](https://thompson2026.com/blog/deviancy-signal/)
+
+* [wifi-3d-fusion](https://github.com/MaliosDark/wifi-3d-fusion)
+    * View skeletons of people in building from passive monitoring of wi-fi signals
+* [BFId: Identity Inference Attacks Utilizing Beamforming Feedback Information](https://dl.acm.org/doi/10.1145/3719027.3765062)
+    * [Researchers Warn: WiFi Could Become an Invisible Mass Surveillance System](https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/)
+    * wifi5 can be used to see skeletons and identify people by the way they walk
 
 [wei]: wei.md "Web Environment Integrity (WEI)"
 [c2pa]: c2pa.md "Coalition for Content Provenance and Authenticity (C2PA)"

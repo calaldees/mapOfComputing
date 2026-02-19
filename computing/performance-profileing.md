@@ -16,6 +16,9 @@ Performance Profiling
 * [All my favorite tracing tools: eBPF, QEMU, Perfetto, new ones I built and more](https://thume.ca/2023/12/02/tracing-methods/)
     * Aewsome animated gifs and real examples
 
+* [Python Numbers Every Programmer Should Know](https://mkennedy.codes/posts/python-numbers-every-programmer-should-know/)
+    * Timing metrics for common python operations (integer add, function call, creating a new dict)
+
 * [Counting cycles and instructions on the Apple M1 processor](https://lemire.me/blog/2021/03/24/counting-cycles-and-instructions-on-the-apple-m1-processor/)
     * How do you measure performance?
         * modern process's just overclock to run faster

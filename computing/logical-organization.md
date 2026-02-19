@@ -1,6 +1,8 @@
 Logical Organization
 ====================
 
+* [circuit-artist](https://github.com/lets-all-be-stupid-forever/circuit-artist)
+    * Pixel animation of circuits. Looks great!
 * [](https://www.nandgame.com/)
     * > The game consists of a series of levels. In each level, you are tasked with building a component that behaves according to a specification. This component can then be used as a building block in the next level.
 
@@ -19,6 +21,12 @@ Logical Organization
     * > what do you think a simple x86 function to add two ints1 would look like? An add, right?
     * `lea eax, [rdi+rsi]` ?!
     * See also [[xor]]
+* [80386 Multiplication and Division](https://nand2mario.github.io/posts/2026/80386_multiplication_and_division/)
+    * Why the 386 was so fast!
+    * Microcode assembler
+    * Early escape from multiplication
+
+* [Intel Assembler 80x86 CodeTable](http://www.jegerlehner.ch/intel/)
 
 * [[bus]]
 * [[transistor]]

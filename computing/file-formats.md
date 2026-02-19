@@ -21,6 +21,8 @@ File Formats
 
 * [F3: The Open-Source Data File Format for the Future](https://www.robots.ox.ac.uk/~az/tutorials/cvpr03_part1.pdf)
 
+* [Gwtar: a static efficient single-file HTML format](https://gwern.net/gwtar)
+    * [[web-browser]] [[archive]] [[compression]] [[javascript]]
 
 [pdf]: pdf.md "PDF"
 [svg]: svg.md "SVG"
@@ -28,3 +30,8 @@ File Formats
 [av1]: av1.md "AV1"
 [rss]: rss.md "rss"
 
+
+[web-browser]: web-browser.md "Browser"
+[archive]: archive.md "archive"
+[compression]: compression.md "Compression"
+[javascript]: javascript.md "javascript (ECMAScript)"

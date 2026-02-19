@@ -2,6 +2,11 @@ GraphQL
 ======
 
 * [GraphQL: the enterprise honeymoon is over](https://johnjames.blog/posts/graphql-the-enterprise-honeymoon-is-over) 2025
+    * your GraphQL layer still has to overfetch from downstream REST APIs, then reshape the response. You didn’t eliminate overfetching. You just moved it down a layer
+    * observability is worse by default
+        * With GraphQL, a 200 can still mean partial or full failure.
+    * learning curve creates friction, especially when teams need to move fast. REST is boring, but boring scales extremely well.
+    * error handling is harder than it needs to be
 
 * [Tech Dive - APIs](https://blog.quastor.org/p/tech-dive-apis) REST Vs GraphQL
     * Very short summary

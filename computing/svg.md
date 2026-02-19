@@ -38,3 +38,6 @@ link to inline svg in a markdown document
 
 * AI animation of SVG
 * [Pose Animator - An open source tool to bring SVG characters to life in the browser via motion capture ](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html)
+
+
+https://yqnn.github.io/svg-path-editor/

@@ -108,6 +108,9 @@ Social Media
 
 * [Utah is first US state to limit teen social media access](https://www.bbc.co.uk/news/world-us-canada-65060733) 2023
 
+* [Tech oversight report: unsealed court documents show teen addiction was big tech’s “top priority”](https://techoversight.org/2026/01/25/top-report-mdl-jan-25/) 2025
+    * > New documents show the tactics Meta, Google, Snap, and TikTok execs used to disrupt learning, prey on minors, and co-opt the PTA to control the narrative with parents
+
 ---
 
 Not really social-media .. more data business

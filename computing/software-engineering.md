@@ -288,6 +288,30 @@ I was looking at case studies for [[telematry]] and was thinking of practical us
     * Notes about how leaders can be responsible
 
 
+* [Why users cannot create Issues directly](https://github.com/ghostty-org/ghostty/issues/3558)
+    * > Users are not allowed to create Issues directly in this repository - we ask that you create a Discussion first.
+    * > 80-90% of what users think are bugs are either misunderstandings, environmental problems, or configuration errors by the users themselves. For what's left, the majority are often feature requests (unimplemented features) and not [[bugs]] (malfunctioning features). Of the features requests, almost all are underspecified and require more guidance by a maintainer to be worked on.
+
+* 18 Subtle Rules of Software Engineering: [Miko Pawlikowski](https://www.linkedin.com/posts/mikolajpawlikowski_18-subtle-rules-of-software-engineering-activity-7429483516096192512-qjvK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAMltl4BwQab3UdP7Q7bifb8psoh5inpqK0)
+0. You WILL regret complexity when on-call
+1. Stop falling in love with your own code
+2. Every single thing is a trade-off - no "best"
+3. Every line of code you wrote is a liability
+4. Document your designs and decisions
+5. Everyone hates code they didn’t write
+6. Don't use unnecessary dependencies
+7. Coding standards prevent arguments
+8. Write meaningful commit descriptions
+9. Never ever stop learning new things
+10. Code reviews are to spread context
+11. Always build for maintainability
+12. Always ask for help when stuck
+13. Fix root causes, not symptoms
+14. Software is never finished
+15. Estimates are not promises
+16. Ship early, iterate often
+17. Keep. It. Simple.
+
 [Agile]: agile.md "Agile"
 [CV]: cv.md "Carrers and Resume"
 [tech_unions]: tech_unions.md "Tech Unions"
@@ -308,3 +332,5 @@ I was looking at case studies for [[telematry]] and was thinking of practical us
 [server-infrastructure]: server-infrastructure.md "Server Infrastructure"
 [knuth]: knuth.md "Knuth"
 
+
+[bugs]: bugs.md "bugs"
