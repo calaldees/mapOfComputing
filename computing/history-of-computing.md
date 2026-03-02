@@ -71,6 +71,7 @@ History of Computing
 
 * [archive.org](https://archive.org/)
     * Magazines, Software
+    * [The Long Now of the Web: Inside the Internet Archive’s Fight Against Forgetting](https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting) 2026
 
 * [Computer History Wiki](https://gunkies.org/wiki/Main_Page)
 

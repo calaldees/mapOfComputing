@@ -58,6 +58,7 @@ Game engines
 * [raylib](https://www.raylib.com/)
     * The demo video has so many interesting games
 
+* Point and Click [Adventure Game Studio](https://www.adventuregamestudio.co.uk/)
 
 [unreal-engine]: unreal-engine.md "Unreal Engine"
 [voxel]: voxel.md "Voxel"

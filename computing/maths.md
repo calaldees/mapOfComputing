@@ -21,6 +21,9 @@ Maths
     * Mechanics
     * Theory of Fields
 
+* [Six Math Essentials](https://us.macmillan.com/books/9780374621797/sixmathessentials/) pro-order oct 2026 Author: Terence Tao
+
+
 * [The most counterintuitive facts in all of mathematics, computer science, and physics](https://axisofordinary.substack.com/p/the-most-counterintuitive-facts-in)
     * AMAZING! list of very interesting contradictions and facts
     * It is possible to compute over encrypted data without access to the secret key: https://en.wikipedia.org/wiki/Homomorphic_encryption

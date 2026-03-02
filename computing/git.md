@@ -4,6 +4,13 @@ GIT
 * [git](https://git-scm.com/)
 * [try.github.io](https://try.github.io/) - Resources to learn Git
     * Interactive browser visualisations of git branching
+* [Git's Magic Files](https://nesbitt.io/2026/02/05/git-magic-files.html)
+    * `.gitignore`
+    * `.gitattributes`
+    * `.gitmodules`
+    * `.git-blame-ignore-revs`
+    * `.lfsconfig` (for external binaries)
+    * `.gitmessage`
 * [github-git-cheat-sheet.pdf](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
 * [OhMyGit](https://ohmygit.org/) - An open source game about learning Git!
 * [Git for Computer Scientists](https://eagain.net/articles/git-for-computer-scientists/) - Quick introduction to git internals for people who are not scared by words like Directed Acyclic Graph

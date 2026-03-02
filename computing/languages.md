@@ -90,6 +90,7 @@ Implementation comparisons
 * [[lisp]]
 * [[erlang]]
 * [[elm]]
+* [[scheme]]
 * #ClojureScript
 * Ember
     * [Ember Documentary](https://www.youtube.com/watch?v=Cvz-9ccflKQ) 27min
@@ -259,3 +260,5 @@ Performance
 [performance-profileing]: performance-profileing.md "Performance Profiling"
 [optimisations]: optimisations.md "Optimizations"
 
+
+[scheme]: scheme.md "Scheme"

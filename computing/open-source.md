@@ -1,7 +1,9 @@
 Open Source
 ===========
 
-* see also [[solutions]] for commentary on Open source architecture on a number of existing solutions
+* see also
+    * [[solutions]] for commentary on Open source architecture on a number of existing solutions
+    * [[digital-sovereignty]]
 
 * [The challenge of maintaining curl](https://lwn.net/Articles/1034966/)
     * Volunteers overloaded with work request for they do for free because big companies rely on their software
@@ -73,3 +75,5 @@ Beyond Software
 [containerisation]: containerisation.md "Containerisation"
 [open-source]: open-source.md "Open Source"
 
+
+[digital-sovereignty]: digital-sovereignty.md "digital sovereignty"

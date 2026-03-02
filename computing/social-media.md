@@ -1,6 +1,8 @@
 Social Media
 ============
 
+* [[social-networks]]
+
 * [New six-film series from Adam Curtis](https://www.bbc.com/mediacentre/2021/cgyoomh)
     * Can't Get You Out Of My Head: An Emotional History of the Modern World premieres on BBC iPlayer in February 
     * > These strange days did not just happen. We - and those in power - created them together.
@@ -131,3 +133,6 @@ Tools
 
 Read twitter without login https://nitter.poast.org
 Read twitter posts on a single page - https://unrollnow.com/
+
+
+[social-networks]: social-networks.md "social-networks"

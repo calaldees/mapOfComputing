@@ -1,6 +1,8 @@
 Maps
 ====
 
+* [[gis]]
+
 Links to working with map data
 * [openinframap.org](https://openinframap.org/)
     * Power infra for the planet! Power plants and cables!
@@ -85,3 +87,5 @@ Old cartography
 [networks]: networks.md "Networks"
 [creativity]: creativity.md "Creativity"
 
+
+[gis]: gis.md "GIS"

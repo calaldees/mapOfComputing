@@ -38,6 +38,7 @@ Computing
 * [[privacy]]
 * [[hardware]]
     * [[logical-organization]]
+* [[problems]]
 
 * [[occupations]]
 * [[books]]
@@ -160,3 +161,5 @@ Unsorted
 [interpereter]: interpereter.md "interpreter"
 [opengl]: opengl.md "OpenGL"
 
+
+[problems]: problems.md "problems"

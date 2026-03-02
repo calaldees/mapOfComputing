@@ -30,6 +30,9 @@ cat
 * [NetCat](https://blog.ikuamike.io/posts/2021/netcat/)
 * [[grep]]
 
+Consider 'push to talk' from device audio to push to a port and decode at the end? See [terminalphone](https://gitlab.com/here_forawhile/terminalphone) as a complete example using [[tor]] [[terminal]]
+
+
 ssh
 awk
 https://github.com/thewhitetulip/awk-anti-textbook
@@ -97,9 +100,17 @@ Tab Completions
 
 [Writing Your Own Simple Tab-Completions for Bash and Zsh](https://mill-build.org/blog/14-bash-zsh-completion.html)
 
+Network IP
+-------
+
+* [We have ipinfo at home or how to geolocate IPs in your CLI using latency](https://blog.globalping.io/we-have-ipinfo-at-home-or-how-to-geolocate-ips-in-your-cli-using-latency/)
+
 
 
 [grep]: grep.md "grep"
 [GUI]: GUI.md "Graphical User Interfaces"
 [security]: security.md "Hacking and Security"
 
+
+[tor]: tor.md "Tor"
+[terminal]: terminal.md "Terminal"

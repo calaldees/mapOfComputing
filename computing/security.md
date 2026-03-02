@@ -93,6 +93,9 @@ Authenticator app OTP
     * Audio recording of someone using a computer keyboard in an attempt to decipher from audio alone what keys have been pressed
 * [Your fingerprints can be recreated from the sounds made when you swipe on a touchscreen — Chinese and US researchers show new side channel can reproduce fingerprints to enable attacks](https://www.tomshardware.com/tech-industry/cyber-security/your-fingerprints-can-be-recreated-from-the-sounds-made-when-you-swipe-on-a-touchscreen-researchers-new-side-channel-attack-can-reproduce-partial-fingerprints-to-enable-attacks)
 * [AIR-FI: Generating Covert Wi-Fi Signals from Air-Gapped Computers](https://arxiv.org/abs/2012.06884)
+* [New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises](https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/) 2026
+    * Low level MAC spoofing circumvents most wifi!
+    * WOW!
 * [Timing Analysis of Keystrokes and Timing Attacks on SSH](https://people.eecs.berkeley.edu/~daw/papers/ssh-use01.pdf)
     * > in inter-active mode,every individual keystroke that a user types is sent to the remote machine in a separate IP packet immediately after the key is pressed, which leaks the inter-keystroke timing information of users’ typing.
 * Acoustic Cryptanalysis - Audio SSH RSA key retrieval
@@ -205,6 +208,7 @@ Cautionary tails of actual hacks
     * After XZ backdoor 2024 - more awareness of open source injection
     * [XZ Utils Backdoor — Everything You Need to Know, and What You Can Do](https://www.akamai.com/blog/security-research/critical-linux-backdoor-xz-utils-discovered-what-to-know)
         * CVE-2024-3094
+    * [The Internet Was Weeks Away From Disaster and No One Knew](https://www.youtube.com/watch?v=aoag03mSuXQ) YouTube 52min documentary Veritasium 2026
 
 * [Super Mario All-Stars + Super Mario World by SethBling, IsoFrieze in 11:55 - SGDQ 2022](https://www.youtube.com/watch?v=FlkWSqA4VFU) YouTube
     * Remote code execution

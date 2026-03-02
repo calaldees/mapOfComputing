@@ -33,7 +33,10 @@ Retro Hardware
 
 * [The Sega Master System](https://bumbershootsoft.wordpress.com/2025/11/08/the-sega-master-system/) Architecture
 
+* [[game-and-watch]]
 
 [retro-sound-chips]: retro-sound-chips.md "Retro Sound Chips"
 [retro-storage]: retro-storage.md "Retro Storage"
 
+
+[game-and-watch]: game-and-watch.md "Game and Watch"

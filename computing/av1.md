@@ -9,3 +9,7 @@ from [av1_presentation.pdf](https://www.mlug-au.org/lib/exe/fetch.php?media=av1_
 ```
 ffmpeg -i input.mp4 -c:v libsvtav1 -preset 4 -qp 50 -sc_detection true -pix_fmt yuv420p10le -g 240 -sn -c:a libopus -ac 2 svt-av1.webm
 ```
+
+
+* [Animated Avif for the Modern Web](https://arthur.pizza/2025/12/animated-avif-for-the-modern-web/)
+    * ffmpeg -> animated avif

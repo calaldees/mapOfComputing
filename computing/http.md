@@ -11,11 +11,11 @@ HTTP
 
 ```
 telnet
-o barcampcanterbury.com 80
+o www.barcampcanterbury.com 80
 ```
 ```
 GET / HTTP/1.1
-Host: barcampcanterbury.com
+Host: www.barcampcanterbury.com
 ```
 ```
 telnet
@@ -25,6 +25,9 @@ o developer.mozilla.org 80
 GET / HTTP/1.1
 Host: developer.mozilla.org
 ```
+
+* [HN: First Website (1992) (cern.ch)](https://news.ycombinator.com/item?id=47159302)
+http://info.cern.ch/
 
 Dict
 ----

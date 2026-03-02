@@ -6,6 +6,7 @@ Audio
 * [[compression-audio]]
 * [[interpolation]]
 * [[streaming]]
+* [[code-music]]
 
 * [Amiga Music Preservation](http://amp.dascene.net/home.php)
 
@@ -56,3 +57,5 @@ I've seen a synth in python in only a few lines - it was on a cheat sheet - dig 
 [interpolation]: interpolation.md "Interpolation"
 
 [streaming]: streaming.md "Streaming"
+
+[code-music]: code-music.md "code music"

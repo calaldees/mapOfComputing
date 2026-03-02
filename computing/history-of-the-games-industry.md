@@ -23,3 +23,7 @@
 
 * [Interview with RollerCoaster Tycoon’s Creator, Chris Sawyer](https://medium.com/atari-club/interview-with-rollercoaster-tycoons-creator-chris-sawyer-684a0efb0f13)
     * He did it all in assembler
+
+* [The Rise of Computer Games, Part II: Digitizing Nerddom](https://technicshistory.com/2026/01/02/the-rise-of-computer-games-part-ii-digitizing-nerddom/)
+    * Stratergy+Roleplay games became the inception of games. Computers perfectly suited (before realtime action games)
+    * Apple2 examples

@@ -238,6 +238,7 @@ Advanced Modules
     * (kind of annoying that these are not part of the standard language)
 
 * [Pyodide](https://lwn.net/SubscriberLink/855875/25b1611bb7e4c9a4/) - compile python to [[web-assembly]]
+* [WebAssembly as a Python extension platform](https://nullprogram.com/blog/2026/01/01/) [[web-assembly]]
 
 * [Interfaces and Protocols](https://glyph.twistedmatrix.com/2021/03/interfaces-and-protocols.html) in python
 
