@@ -12,6 +12,9 @@ Graphics Hardware
 * [[shaders]]
 
 
+* Graphics Card - [Hardware Image Compression](https://www.ludicon.com/castano/blog/2026/03/hardware-image-compression/)
+    * Great visual comparison of the MANY different hardware compression algorithms
+
 [history-of-graphics]: history-of-graphics.md "History of Graphics"
 [shaders]: shaders.md "Shaders"
 

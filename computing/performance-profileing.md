@@ -49,11 +49,10 @@ Data throughput, response times.
 * [hurl](https://github.com/Orange-OpenSource/hurl)
     * human abstraction for curl and some performance graphs
 
-* [Who has the fastest F1 website in 2021? Part 3](https://jakearchibald.com/2021/f1-perf-part-3/)
-* [Why is GitHub UI getting so much slower?](https://yoyo-code.com/why-is-github-ui-getting-so-much-slower/)
-    * Github is unbelievably slow. Come on guys, sort it out.
-
+* [[web-performance]]
 
 [branch-prediction]: branch-prediction.md "Branch Prediction"
 [latency]: latency.md "Latency"
 
+
+[web-performance]: web-performance.md "web-performance"

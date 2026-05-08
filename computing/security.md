@@ -182,6 +182,8 @@ Global Radio Login Gigya - 'Hacked by' alert
     * 8000+
 
 * [Dev corrupts NPM libs 'colors' and 'faker' breaking thousands of apps](https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/)
+* [My minute-by-minute response to the LiteLLM malware attack](https://futuresearch.ai/blog/litellm-attack-transcript/)
+    * Package added to python dependency list and everyone gets the new dependency
 
 * [But You Told Me You Were Safe: Attacking the Mozilla Firefox Renderer (Part 1)](https://www.zerodayinitiative.com/blog/2022/8/17/but-you-told-me-you-were-safe-attacking-the-mozilla-firefox-renderer-part-1)
     * From javascript, corrupting the array.prototype to get the module object and binary access to the deterministic JIT compiler to then exploit kernel32.dll on windows. This is MAD!
@@ -237,6 +239,11 @@ Fonts
     * Duplicate: [Fonts are still a Helvetica of a Problem](https://www.canva.dev/blog/engineering/fonts-are-still-a-helvetica-of-a-problem/)
 
 
+Root
+----
+
+* [GTFOBins](https://gtfobins.org/)
+    * GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.
 
 [2fa]: 2fa.md "2 Factor Authentication"
 [privacy]: privacy.md "Privacy"

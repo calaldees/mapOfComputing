@@ -3,6 +3,8 @@ SVG
 
 constuct svg by hand
 
+* [svgomg.net](http://svgomg.net)
+    * Web based svg optimiser (written in Golang. It's amazing!)
 * [svgviewer.dev](https://www.svgviewer.dev/)
     * online svg code editor and preview and export
 

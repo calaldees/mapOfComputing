@@ -18,6 +18,9 @@ javascript (ECMAScript)
 * [CSS-Tricks - Web Javascript Snippets](https://css-tricks.com/snippets/javascript/)
 * [Why I’m skeptical of rewriting JavaScript tools in “faster” languages](https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/)
 
+npm modules from CDN
+* [jsdelivr.com](https://www.jsdelivr.com/?docs=esm) https://esm.run/xxx
+
 http://vanilla-js.com/
 * https://plainvanillaweb.com/
     * No dependencies, no frameworks, no build chain

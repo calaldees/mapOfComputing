@@ -8,3 +8,7 @@ MORE!
 
 * [INTRODUCTION TO FOURIER TRANSFORMS FOR IMAGE PROCESSING](https://www.cs.unm.edu/~brayer/vision/fourier.html)
     * [[jpeg]]
+* [Understanding the FFT Algorithm](https://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/) 2013
+
+
+[jpeg]: jpeg.md "JPEG"

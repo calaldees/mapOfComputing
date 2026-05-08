@@ -3,6 +3,8 @@ DNS
 
 * [DNS Explained - How Domain Names Get Resolved](https://www.bhusalmanish.com.np/blog/posts/dns-explained.html)
 * [wirewiki.com](https://www.wirewiki.com/) Explore internet infrastructure
+* [You Can Run a DNS Server](https://simonsafar.com/2025/running_dns/)
+
 
 ```bash
 dig

@@ -1,7 +1,7 @@
 Operating Systems
 =================
 
-* mobile
+* [[mobile-os]]
     * [[android]]
     * [[ios]]
 * desktop
@@ -107,3 +107,5 @@ Operating Systems
 
 
 [age-verification]: age-verification.md "age verification"
+
+[mobile-os]: mobile-os.md "Mobile OS"

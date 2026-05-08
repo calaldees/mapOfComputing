@@ -87,6 +87,7 @@ Creativity
 
 [Random Character Doodles](https://hlnet.neocities.org/ascii-automata/)
 
+* [obsolete-sounds](https://citiesandmemory.com/obsolete-sounds/)
 
 
 Hacking/Making/Building Culture

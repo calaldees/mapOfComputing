@@ -16,7 +16,8 @@ Typography
 * [Drawing with Zero Width Characters](https://zw.swerdlow.dev/)
     * Arabic characters used in the Qur'an, referred to as Tajweed marks - stack upwards and downwards
     * Not clipped by a bounding box - they break out of text space on a webpage. AMAZING!
-
+* [The Legibility of Serif and Sans Serif Typefaces](https://library.oapen.org//handle/20.500.12657/53344) 2022 Book (Free)
+    * > legibility of different kinds of typefaces, which goes back over 140 years in the case of reading from paper and more than 50 years in the case of reading from screens.
 
 ### Fonts for coding
 
@@ -37,6 +38,8 @@ Fonts
         * Testing graphics throughput on a 486 (touch video memory ONCE as you have limited bandwidth)
     * [Arcade Game Typography](https://readonlymemory.vg/shop/book/arcade-game-typography/)
     * [ZX Origins](https://damieng.com/typography/zx-origins) - 8x8 mono bitmap fonts
+    * [5x5 Pixel font for tiny screens](https://maurycyz.com/projects/mcufont/)
+        * Comparison of other smaller fonts
     * [Tiny bitfield based text renderer](https://www.onirom.fr/wiki/blog/25-09-2022_tiny_bitfield_based_text_renderer/)
         * Tiny nanofont3x4 - the samllest typeface with upper and lowercase latters
         * Anders de Flon created a 3x3 font but it is upper case only.

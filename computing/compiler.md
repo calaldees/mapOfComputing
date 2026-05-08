@@ -5,6 +5,10 @@ compiler
 * [[assembly]]
 * [Counterexamples in Type Systems](https://counterexamples.org/)
 
+* [Want to Write a Compiler? Just Read These Two Papers](https://prog21.dadgum.com/30.html)
+    * [Let's Build a Compiler!](http://compilers.iecc.com/crenshaw/) Jack Crenshaw
+    * [A Nanopass Framework for Compiler Education](http://www.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf)
+
 * [TinyCompiler: a compiler in a week-end](https://ssloy.github.io/tinycompiler/)
 
 * [Introducing the Advent of Compiler Optimisations 2025](https://xania.org/202511/advent-of-compiler-optimisation)

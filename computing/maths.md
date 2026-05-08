@@ -4,11 +4,15 @@ Maths
 * [[maths-vectors]]
 * [[matracies]]
 * [[sin]]
+* [[maths-circle]]
 
 * [[statistics]]
 * [[prime-numbers]]
 * [galois_theory](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
     * Number space translation
+
+* [mathematical curves](https://www.2dcurves.com/)
+    * Collection of 939 two-dimensional mathematical curves
 
 * [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/)
     * MIT OpenCourseWare 2024
@@ -193,3 +197,5 @@ Practical
 [statistics]: statistics.md "Statistics"
 [prime-numbers]: prime-numbers.md "Prime Numbers"
 
+
+[maths-circle]: maths-circle.md "maths-circle"

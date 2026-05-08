@@ -67,6 +67,7 @@ https://www.flipcode.com/archives/articles.shtml
 * [[digital-art]]
 * [Copyright and the Demo Scene](https://www.datagubbe.se/scenecop/)
     * demoscene came from cracking and cracktros, but then is it free? what about copying the routines and art from demoscene? Great article that describes the duality.
+* [The Curious Case of Retro Demo Scene Graphics](https://www.datagubbe.se/aipixels/) - On copying, tracing, converting and prompting.
 * [gdimayhem](https://gdimayhem.temari.fr/)
     * > project committed to preserving historical record of the GDI effects used in keygens and patchs released by the PC cracking scene.
 * History (pre internet)

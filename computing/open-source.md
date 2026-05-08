@@ -4,6 +4,7 @@ Open Source
 * see also
     * [[solutions]] for commentary on Open source architecture on a number of existing solutions
     * [[digital-sovereignty]]
+    * [[open-hardware]]
 
 * [The challenge of maintaining curl](https://lwn.net/Articles/1034966/)
     * Volunteers overloaded with work request for they do for free because big companies rely on their software
@@ -77,3 +78,4 @@ Beyond Software
 
 
 [digital-sovereignty]: digital-sovereignty.md "digital sovereignty"
+[open-hardware]: open-hardware.md "Open Hardware"

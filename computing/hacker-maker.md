@@ -1,6 +1,8 @@
 Hacker Maker Builder Culture
 ============================
 
+* [Work with the garage door up](https://notes.andymatuschak.org/Work_with_the_garage_door_up)
+
 * [[art]]
 
 * [How I replicated an $86 million project in 57 lines of code](https://www.freecodecamp.org/news/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9/)

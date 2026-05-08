@@ -3,6 +3,7 @@ Privacy
 
 * [Chat Control: The EU’s CSAM scanner proposal](https://www.patrick-breyer.de/en/posts/chat-control/)
     * [permalink 27th July 2025](https://web.archive.org/web/20250729060624/https://www.patrick-breyer.de/en/posts/chat-control/) - however move the permalink forward where possible to  1st august showed more countries undecided!
+    * [End of “Chat Control”: EU Parliament Stops Mass Surveillance in Voting Thriller – Paving the Way for Genuine Child Protection!](https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/) March 2026
 
 * ["Anonymity is not a fundamental right": experts disagree with Europol chief's request for encryption back door - Experts react to Europol chief's endorsement on encryption backdoor](https://www.techradar.com/computing/cyber-security/anonymity-is-not-a-fundamental-right-experts-disagree-with-europol-chiefs-request-for-encryption-back-door)
 
@@ -296,6 +297,9 @@ Censorship
 * [BFId: Identity Inference Attacks Utilizing Beamforming Feedback Information](https://dl.acm.org/doi/10.1145/3719027.3765062)
     * [Researchers Warn: WiFi Could Become an Invisible Mass Surveillance System](https://scitechdaily.com/researchers-warn-wifi-could-become-an-invisible-mass-surveillance-system/)
     * wifi5 can be used to see skeletons and identify people by the way they walk
+
+* [The Car That Watches You Back](https://nobodyaskedforthis.lol/posts/connected-car/)
+    * The automobile spent a century as a machine you owned. Somewhere between the touchscreen and the cellular modem, that changed.
 
 [wei]: wei.md "Web Environment Integrity (WEI)"
 [c2pa]: c2pa.md "Coalition for Content Provenance and Authenticity (C2PA)"

@@ -7,6 +7,7 @@ Links to working with map data
 * [openinframap.org](https://openinframap.org/)
     * Power infra for the planet! Power plants and cables!
     * Gas, Oil, Water (resovwars!)
+* [opengridworks.com](https://opengridworks.com)
 * [FlightRadar24](https://www.flightradar24.com/) - All the commercial planes in the world
 * [GPS jamming map](https://www.flightradar24.com/data/gps-jamming)
 * [oldmapsonline.org](https://www.oldmapsonline.org/) World History Atlas

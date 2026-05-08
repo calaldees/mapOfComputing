@@ -15,6 +15,11 @@ AI (Artificial Intelligence)
 * [[prompt-engineering]]
 * [[agi]]
 
+* [soulplayer-c64](https://github.com/gizmo64k/soulplayer-c64)
+    * AI Agent running on a real C64
+    * 70 million times smaller than the current models
+    * [[retro-hardware]]
+
 * [Rob Pike](https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree)
     * Was emailed personally by an AI congratulating him on his contributions. He was not happy.
 
@@ -371,3 +376,4 @@ Unsorted
 [c]: c.md "C"
 [typography]: typography.md "Typography"
 
+[retro-hardware]: retro-hardware.md "Retro Hardware"

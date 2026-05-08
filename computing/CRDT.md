@@ -1,6 +1,9 @@
 Conflict-free replicated data type
 =================
 
+* [Lies I was Told About Collaborative Editing, Part 2: Why we don't use Yjs](https://www.moment.dev/blog/lies-i-was-told-pt-2)
+    * [prosemirror-collab](https://github.com/ProseMirror/prosemirror-collab) - better than yjs and tiny
+
 * WikiPedia [Conflict-free replicated data type](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
 * [Collaborative Editing Using CRDTs](http://www.pierrehedkvist.com/posts/collaborative-editing-using-crdts) 2021
 * [You don't need CRDTs for collaborative experiences](https://zknill.io/posts/collaboration-no-crdts/)

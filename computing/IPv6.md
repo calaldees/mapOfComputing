@@ -6,3 +6,8 @@ IPv6
 
 * David Coles Blog
     * [The IPv6-man cometh - Layer 3 encapsulation and IPv6 supported added to vc5/xvs](https://davidcoles.github.io/posts/2025-07-31-the-ipv6-man-cometh/) 2025
+
+```bash
+# https://stackoverflow.com/a/75662437/3356840
+curl -m 120 -w '\n' -sfL 'api{4,6}.ipify.org'
+```

@@ -522,9 +522,18 @@ https://www.getoutline.com/
 * [markdown-css](https://mrcoles.com/demo/markdown-css/) - make HTML look like plain text markdown source
 * [How to Style Images With Markdown](https://dzone.com/articles/how-to-style-images-with-markdown)
 
+* [mdv](https://github.com/drasimwagan/mdv)
+    * Markdown superset for documents, dashboards, and slides with embedded data and visualizations. HTML + PDF export, live preview, VS Code extension.
 
 
 [GitHub css in markdown](https://github.com/sindresorhus/css-in-readme-like-wat)
+
+* [emailmd](https://www.emailmd.dev/)
+    * Responsive Emails, Written in Markdown
+* [zero-md](https://zerodevx.github.io/zero-md/)
+    * A vanilla markdown-to-html for use in web browser
+    * based on `marked` library
+    * [marked.js](https://marked.js.org/using_advanced#extensions)
 
 
 Alternatives?
