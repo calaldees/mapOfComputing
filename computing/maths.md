@@ -11,6 +11,9 @@ Maths
 * [galois_theory](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
     * Number space translation
 
+* [Linear_Programming_-_Ice_Cream_Blending](https://bitsavers.org/pdf/ibm/generalInfo/E20-0156-0_Linear_Programming_-_Ice_Cream_Blending.pdf)
+    * 1970? IBM document about ice cream yields
+
 * [mathematical curves](https://www.2dcurves.com/)
     * Collection of 939 two-dimensional mathematical curves
 

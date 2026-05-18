@@ -1,6 +1,9 @@
 AI Code Agents
 ==============
 
+* [Im going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/)
+    * 'by hand' means no AI
+
 * [Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code](https://antirez.com/news/160)
     * How to prompt a 'clean room' AI to follow instructions to make a complex project. A full spectrum 48k emulator!
 

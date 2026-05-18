@@ -7,6 +7,7 @@ VM
 python AST
 
 * [Crafting Interpreters](https://www.craftinginterpreters.com/)
+* [7 lines of code, 3 minutes: Implement a programming language from scratch](https://matt.might.net/articles/implementing-a-programming-language/)
 * [The Make-A-Lisp Process](https://github.com/kanaka/mal/blob/master/process/guide.md)
     * Make a lisp interpreter
 

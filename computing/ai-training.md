@@ -12,3 +12,6 @@ AI Training
 * [Train Your Own LLM From Scratch](https://github.com/angelos-p/llm-from-scratch)
     * [HN Comments](https://news.ycombinator.com/item?id=48017948)
 * [CS336: Language Modeling from Scratch](https://cs336.stanford.edu/)
+
+* [Running local models on an M4 with 24GB memory](https://jola.dev/posts/running-local-models-on-m4)
+    * Making (and training?) a local only model
