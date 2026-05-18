@@ -301,6 +301,8 @@ Censorship
 * [The Car That Watches You Back](https://nobodyaskedforthis.lol/posts/connected-car/)
     * The automobile spent a century as a machine you owned. Somewhere between the touchscreen and the cellular modem, that changed.
 
+* [Viva la revolución: LinkedIn profile visitor lists belong to the people, says Noyb](https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338)
+
 [wei]: wei.md "Web Environment Integrity (WEI)"
 [c2pa]: c2pa.md "Coalition for Content Provenance and Authenticity (C2PA)"
 [cookies]: cookies.md "Cookies"

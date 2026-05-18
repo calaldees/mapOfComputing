@@ -8,3 +8,6 @@ TODO: there are some open laptops and phones? Move them here.
 * [No, I Won't Download Your App. The Web Version is A-OK.](https://www.0xsid.com/blog/wont-download-your-app)
     * Deliberate degradation of web apps to force people onto native apps
     * No opt out - no adblock - every app has raw native access to your data
+
+* https://starlabs.systems/
+    * Modern laptops and mini PC's

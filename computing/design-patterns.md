@@ -21,6 +21,15 @@ Design patterns
 
 https://en.wikipedia.org/wiki/Software_design_pattern
 
+* [Learning Software Architecture](https://matklad.github.io/2026/05/12/software-architecture.html) 2026
+    * Short rundown of how to separate stuff
+    * First meta observation is that “software design” is something best learned by doing.
+    * Second meta observation, the bad news: Conway’s law is important. 
+        * > we talk about programming like it is about writing code, but the code ends up being less important than the architecture, and the architecture ends up being less important than social issues. 
+    * https://www.destroyallsoftware.com/talks/boundaries
+    * https://matklad.github.io/2021/05/31/how-to-test.html
+    * https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding/
+    * https://zguide.zeromq.org/docs/chapter6/
 * [Software Architecture Patterns: 5 minute read](https://orkhanscience.medium.com/software-architecture-patterns-5-mins-read-e9e3c8eb47d2)
     * Server patters
     * [Software Architecture Patterns](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/) by Mark Richards 2015

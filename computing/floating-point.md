@@ -36,6 +36,7 @@ IEEE
     * A program to explore how Mandelbrot set images are affected by floating point precision.
     * (Amazing screenshots and examples)
 
+* [4-bit floating point FP4](https://www.johndcook.com/blog/2026/04/17/fp4/)
 
 [maths]: maths.md "Maths"
 

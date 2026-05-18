@@ -8,6 +8,10 @@ History of Computing
 * [[history-of-operating-systems]]
 * [[logical-organization]]
 
+* [A Brief History of Computers in General, and the Personal Computer in Particular](http://www.quadibloc.com/comp/histint.htm)
+
+* [Computer Hobby Cananada 1960?1970?](https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada)
+
 * [The Prehistory of Computing, Part II](https://www.oranlooney.com/post/history-of-computing-2/)
     * machines
 

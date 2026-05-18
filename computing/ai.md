@@ -20,6 +20,10 @@ AI (Artificial Intelligence)
     * 70 million times smaller than the current models
     * [[retro-hardware]]
 
+* [12 Graphs That Explain the State of AI in 2026](https://spectrum.ieee.org/state-of-ai-index-2026) - AI investment is skyrocketing while AI’s impact on jobs and public perception remains mixed
+
+* [The Case That A.I. Is Thinking](https://www.newyorker.com/magazine/2025/11/10/the-case-that-ai-is-thinking) 2026
+
 * [Rob Pike](https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree)
     * Was emailed personally by an AI congratulating him on his contributions. He was not happy.
 

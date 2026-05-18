@@ -14,13 +14,17 @@ Software Engineering
 * [[automated-testing]]
 * [[Software Industry]]
 * [[Technical Dept]]
-* [[tech-dept]]?
+* [[tech-debt]]?
+* [[cognitive-debt]]
 * [[hypothesis-driven-development]]
 * [[job-applications]]
 * [[software-engineering-skills]]
 * [[software-engineering-metrics]]
 * [[microservice]]
 * [[server-infrastructure]]
+
+* [Programming Still Sucks.](https://www.stvn.sh/writing/programming-still-sucks-fqffhyp) 2026
+    * Short account of how much of a mess most companies IT actually is
 
 * [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/) 2025
     * Large codebases are worth working in because they usually pay your salary
@@ -323,7 +327,7 @@ I was looking at case studies for [[telematry]] and was thinking of practical us
 [automated-testing]: automated-testing.md "Automated Testing"
 [Software Industry]: software-Industry.md "Software Industry"
 [Technical Dept]: technical-dept.md "Technical Dept"
-[tech-dept]: tech-dept.md "Tech Dept"
+
 [hypothesis-driven-development]: hypothesis-driven-development.md "Hypothesis Driven Development"
 [job-applications]: job-applications.md "Job Applications and Interviews"
 [software-engineering-skills]: software-engineering-skills.md "Software Engineer Skills"
@@ -334,3 +338,5 @@ I was looking at case studies for [[telematry]] and was thinking of practical us
 
 
 [bugs]: bugs.md "bugs"
+[tech-debt]: tech-debt.md "Tech Debt"
+[cognitive-debt]: cognitive-debt.md "Cognitive Debt"

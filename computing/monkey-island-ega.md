@@ -17,5 +17,8 @@ http://nerdlypleasures.blogspot.com/2015/10/pc-16-color-showcase-secret-of-monke
 * [Does anybody here have PNG files with SoMI and MI2:LR's backgrounds?](https://www.reddit.com/r/MonkeyIsland/comments/n1uycb/does_anybody_here_have_png_files_with_somi_and/)
 * Backgrounds [Monkey Island (EGA, Lucasfilm Games, 1990)](https://imgur.com/gallery/Hl7Bm)
 
+[Comparing LucasFilm EGA/VGA](https://www.superrune.com/tutorials/lucasfilm_ega.php)
 
 https://www.commander-keen.com/level-maps.php
+
+[Monkey Island Graphics - Remade for C64](https://pixeldust.se/monkey-island-project)

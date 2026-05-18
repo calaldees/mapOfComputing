@@ -7,4 +7,7 @@ Retro-Graphics.md
 
 * See [[GUI]] for examples of old desktop gui screenshots
 
+* [libresprite](https://libresprite.github.io/)
+    * Open source modern pixel editor
+
 [GUI]: GUI.md "Graphical User Interfaces"

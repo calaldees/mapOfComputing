@@ -143,6 +143,9 @@ Not really computer related, but immensely creative
     * https://dylanbeattie.net/2025/12/08/so-you-want-to-speak-at-software-conferences.html
 
 
+* [they_live_adblocker](https://github.com/davmlaw/they_live_adblocker)
+* 
+
 [demoscene]: demoscene.md "Demoscene"
 [digital-art]: digital-art.md "Digital Art"
 [ascii-art]: ascii-art.md "ascii-art"

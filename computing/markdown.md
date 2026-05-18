@@ -555,6 +555,13 @@ HTML to Markdown
 * [Reader-LM: Small Language Models for Cleaning and Converting HTML to Markdown](https://jina.ai/news/reader-lm-small-language-models-for-cleaning-and-converting-html-to-markdown/)
 
 
+
+Unsorted
+--------
+
+* [quarkdown](https://quarkdown.com/)
+    * Markdown with superpowers - Markdown meets the power of LaTeX. - And it's free and open source.
+
 [latex]: latex.md "latex"
 [Git]: git.md "GIT"
 [web-assembly]: web-assembly.md "Web Assembly"

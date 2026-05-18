@@ -101,5 +101,14 @@ Microservice Monolyth
     * Helping people cite your code and citing others code
 
 
+GitHub
+------
+
+* Edit
+    * https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files
+    * https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+    * https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
+
+
 [documentation]: documentation.md "Documentation"
 
