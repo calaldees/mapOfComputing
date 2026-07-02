@@ -10,3 +10,7 @@ If you increase it to a 1920x1080 OLED, it now needs 3000 slices - 37500 fps. Th
 
 As for a vacuum - it's a very appealing idea. The shiny dome is reminiscent of a piece of CRT era technology, and the thin wide screens rotating at high speed look very unaerodynamic. But inside the dome the air quickly ends up rotating at the same rate as the rest of the mechanism. It's reaching its design speed with the motor at less than half duty cycle. Even if it were practical to make the whole thing airtight, it doesn't solve a problem that I currently have.
 The sound it makes doesn't come from inside the dome but from the motor in the base, and soundproofing that has a lot in common with soundproofing a PC. Isolate moving parts from the case, apply sound deadening materials, use a lower rpm motor. Don't block up the vents and prevent any airflow inside it.
+
+
+* [Spinning LED image generator](https://analogtv.net/mechanical-lab)
+* 

@@ -10,6 +10,6 @@ Some universities have their entire course resources online and freely available
     * CodeProject is a community of Software Developers joined together with certain common goals: to learn, to teach and to have fun.
 
 * [YouTube: Computerphile](https://www.youtube.com/user/Computerphile/videos)
-* [Open Culture](https://www.openculture.com/freeonlinecourses) - The best free cultural and educational media on the web
+* [Open Culture: Computer Science](https://www.openculture.com/freeonlinecourses#Computer%20Science%20Courses) - The best free cultural and educational media on the web
     * 1,700 free online courses from top universities
 

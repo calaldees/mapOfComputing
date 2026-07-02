@@ -35,6 +35,7 @@ Creativity Visulisation
             * [Escalated](https://www.shadertoy.com/view/MtK3Wc) 1024byte shader similar to Elavated - browser demo
             * [Perlin noise](https://en.wikipedia.org/wiki/Perlin_noise)
                 * [Coding Challenge #11: 3D Terrain Generation with Perlin ](https://www.youtube.com/watch?v=IKB1hWWedMk) 22min
+                * [Getting Creative with Perlin Noise Fields](https://sighack.com/post/getting-creative-with-perlin-noise-fields)
         * Sheep and The Flower [How we made an animated movie in 8kB](https://www.ctrl-alt-test.fr/2024/how-we-made-an-animated-movie-in-8kb/) Razor April 2023
             * Storytelling with cazy limitations
             * Explains raycasting, 4ksynth

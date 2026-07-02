@@ -9,6 +9,8 @@ compiler
     * [Let's Build a Compiler!](http://compilers.iecc.com/crenshaw/) Jack Crenshaw
     * [A Nanopass Framework for Compiler Education](http://www.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf)
 
+* [CS 6120: Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/)
+
 * [TinyCompiler: a compiler in a week-end](https://ssloy.github.io/tinycompiler/)
 
 * [Introducing the Advent of Compiler Optimisations 2025](https://xania.org/202511/advent-of-compiler-optimisation)

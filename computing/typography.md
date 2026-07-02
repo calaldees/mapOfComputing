@@ -125,6 +125,8 @@ Fonts
     * [Nabla: Isometric font](https://nabla.typearture.com/)
     * [Teranoptia](https://www.tunera.xyz/fonts/teranoptia/)
         * build monsters with fonts (no letters, just using font as a glyph)
+    * [Libre Barcode Project](https://graphicore.github.io/librebarcode/)
+        * Font for `Code 39`, `Code 128`, and `EAN/UPC` barcodes from text
 * Color fonts
     * [Google Color Fonts](https://fonts.google.com/knowledge/introducing_type/introducing_color_fonts)
 * [Variable Fonts](https://v-fonts.com/)

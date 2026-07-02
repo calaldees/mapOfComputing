@@ -3,6 +3,11 @@ Conways Game of Life
 
 Emergent behaviour from simple rules
 
+* [Simulating Infinity in Conway’s Game of Life with Modern C++](https://ryanjk5.github.io/posts/GOLDE/)
+    * `GOLDE` is an editor and simulator for cellular automata capable of simulating trillions of generations instantly. I started building it eight months ago with no C++ experience.
+    *  [HashLife algorithm](https://en.wikipedia.org/wiki/Hashlife) discovered by Bill Gosper which makes near-infinite evolution possible.
+    *  I’ll discuss how using modern C++23 features made this process safer, cleaner, and more performant.
+
 * [Life Universe](https://oimo.io/works/life/)
     * Browser based infinitely zoomable runnable game of life that is running itself
     * [GitHub](https://github.com/saharan/works/tree/main/life)

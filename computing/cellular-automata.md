@@ -16,6 +16,8 @@ Cellular Automata
     * An experimental simulation of emergent complexity, inspired by Paul Cousin's work on Graph-Rewriting Automata.
 
 
+* [Neural Cellular Automata: From Cells to Pixels](https://cells2pixels.github.io/)
+    * 'Growing' images
 
 [conway]: conway.md "Conways Game of Life"
 [simulation]: simulation.md "Simulation"

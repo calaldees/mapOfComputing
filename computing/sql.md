@@ -1,6 +1,9 @@
 SQL
 ---
 
+* [Learn SQL Once, Use It for 30 Years](https://fagnerbrack.com/learn-sql-once-use-it-for-30-years-9aceb0bdee03) The Only Programming Language Built on Mathematics, Not Fashion
+    * SQL has not changed - it's a conner-stone of CS
+
 * [SQL Police Department Exercises](https://sqlpd.com/)
 
 * [SQL CheatSheet](https://devhints.io/mysql)

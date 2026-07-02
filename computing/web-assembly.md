@@ -12,6 +12,8 @@ WasmMVP (first implemenatation) -> WasmGC
 
 * [[wasix]]
 * [[containerisation-WASM]]
+* [The Future of wasi-gfx and wasi:webgpu](https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/)
+    * `wasi:webgpu` low level -> `wasi-gfx` surface and framebuffer (slightly higher level)
 
 C applications can be compiled to webassembly target.
 The future!

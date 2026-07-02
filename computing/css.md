@@ -4,6 +4,13 @@ CSS
 * See also
     * wild [[css-terrain]]
 
+* [CSS: Unavoidable Bad Parts](https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html)
+    * Commentary on which parts of the spec are difficult and cancerus
+
+* [Dark theme in a day](https://mwichary.medium.com/dark-theme-in-a-day-3518dde2955a) Using a bunch of modern CSS to create a night mode for an app
+    * The darkmode article!!
+* [Dark Mode in CSS](https://css-tricks.com/dark-modes-with-css/)
+
 * [css-extras](https://github.com/sindresorhus/css-extras) Useful CSS custom functions using the new @​function rule 
 
 * [Introducing CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)

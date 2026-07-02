@@ -23,6 +23,9 @@ Image Compression
 * [JPEG XL and the Pareto Front](https://cloudinary.com/blog/jpeg-xl-and-the-pareto-front)
 * ArtsTechnica[FSF: Chrome’s JPEG XL killing shows how the web works under browser hegemony](https://arstechnica.com/gadgets/2023/04/free-software-group-decries-google-dropping-space-saving-jpeg-xl-format/) Google, with 80% of browser share, says there's not enough ecosystem interest.
 * [jpegxl in chrome!](https://chromium-review.googlesource.com/c/chromium/src/+/7184969) 2026
+* [Journey to JPEG XL: How open source experiments shaped the future of image coding ](https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html) 2026
+    * Interesting - they used new encoders to get 20% better compression with the established decoders
+    * Perceptual output comparisons/optimisations
 
 ### AVIF
 * [Web developer's guide to AVIF images](https://darekkay.com/blog/avif-images/) #avif

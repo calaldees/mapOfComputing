@@ -7,3 +7,6 @@ Coalition for Content Provenance and Authenticity (C2PA)
 * Eventually the big companies will make this mandatory with there OS's and devices.
 * [The future of "truth" on the Internet](https://www.youtube.com/watch?v=-Bdb2KOb_zI) FireShip 3:32 YouTube
 
+
+* The big companies have been trying to do this for years
+    * [Trusted Computing - Frequently Asked Questions](https://www.cl.cam.ac.uk/archive/rja14/tcpa-faq-1.0.html) 2002

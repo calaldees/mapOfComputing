@@ -13,3 +13,5 @@ Old obsolete CRT screens had appealing visual properties
     * Mini CRT vacume tube from old 80 cam-corder, in a laser cut clear case driven by a pi zero
     * Use a magnet to bend the image
 
+* [Analog TV Simulator](https://analogtv.net/)
+    * > The physics-accurate old TV and VHS simulator for iPhone, iPad and Mac. Camera tube to CRT phosphor chemistry — simulated from first principles. Every artefact emerges from the signal itself. No shortcuts.
