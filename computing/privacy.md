@@ -4,6 +4,12 @@ Privacy
 * [Chat Control: The EU’s CSAM scanner proposal](https://www.patrick-breyer.de/en/posts/chat-control/)
     * [permalink 27th July 2025](https://web.archive.org/web/20250729060624/https://www.patrick-breyer.de/en/posts/chat-control/) - however move the permalink forward where possible to  1st august showed more countries undecided!
     * [End of “Chat Control”: EU Parliament Stops Mass Surveillance in Voting Thriller – Paving the Way for Genuine Child Protection!](https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/) March 2026
+* [Chat Control 1.0 and 2.0 Explained](https://fightchatcontrol.eu/chat-control-overview) 2026
+    * Two bills at once ... kind of like two rogues in DND with flanking bonus
+    * As of July 2026
+        * > Chat Control 1.0 is legally expired, but the Council is fast-tracking an unprecedented resurrection that Parliament may vote on under urgency this very week — where an absolute majority of all MEPs would be needed to stop or amend it. If this threshold is not reached, the law is automatically deemed adopted. Thus, the expired “Chat Control 1.0” regulation would be reinstated even without the consent of the European Parliament.
+        * > Chat Control 2.0 remains unagreed after five trilogue rounds. Scanning of unsuspected citizens and of end-to-end encrypted messages is the unresolved red line, and negotiations continue under the Irish Council presidency.
+          > In short: the "temporary" law is being revived through the back door while the permanent one is still on the table. Both fights are happening at the same time — and both need your voice.
 
 * ["Anonymity is not a fundamental right": experts disagree with Europol chief's request for encryption back door - Experts react to Europol chief's endorsement on encryption backdoor](https://www.techradar.com/computing/cyber-security/anonymity-is-not-a-fundamental-right-experts-disagree-with-europol-chiefs-request-for-encryption-back-door)
 
@@ -237,6 +243,14 @@ Unsorted
 * De-Google
     * [Android without Google? How is that Possible?](https://www.youtube.com/watch?v=CIPLATXJCpA)
     * [Is loading the Android Custom ROM - LineageOS Safe for Privacy?](https://www.youtube.com/watch?v=4LPDsPvCbCo)
+    * [“DCM: A Developers Certification Model for Mobile Ecosystems”, 2023](https://f-droid.org/2026/07/01/adv-malware.html)
+        * Google must know the identity of all developers and can revoke them
+            * Does not help, people can create _burner_ accounts
+        * > Malware being synonymous with “software we don’t like” means that they can unilaterally dictate — driven either by business incentives or by being compelled by a sufficiently powerful government — what the malware-du-jour definition is to be.
+* [European digital ID wallets are a gift to Google and Apple](https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/) 2026
+    * > European governments are rolling out digital identity wallets, which are to be used by citizens to access services, and to verify their age online
+    * > Governments are cementing a monopoly they claim to oppose
+    * > ID wallets are public infrastructure to access critical public services. They should remain interoperable across different devices and operating systems, free from vendor lock-in.
 * [Apple image hash checker](https://twitter.com/matthew_d_green/status/1423071186616000513)
     * > I’ve had independent confirmation from multiple people that Apple is releasing a client-side tool for CSAM scanning tomorrow. This is a really bad idea.
     * Hash colisions - government enforcement

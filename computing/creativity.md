@@ -144,7 +144,8 @@ Not really computer related, but immensely creative
 
 
 * [they_live_adblocker](https://github.com/davmlaw/they_live_adblocker)
-* 
+* https://opensourcelowtech.org/
+    * Physical thing with open plans
 
 [demoscene]: demoscene.md "Demoscene"
 [digital-art]: digital-art.md "Digital Art"

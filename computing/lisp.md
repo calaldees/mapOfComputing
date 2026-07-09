@@ -16,3 +16,4 @@ LISP
         * Creators need immediate connection to what they are creating. 
         * [Revenge of Lisp (Part 1⁄2)](https://renato.athaydes.com/posts/revenge_of_lisp.html)
             *  Learning Common Lisp to beat Java and Rust on a phone encoding problem 
+* [Packard Bell Video Lectures 1986: Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)

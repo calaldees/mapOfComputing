@@ -79,6 +79,11 @@ Fonts
     * [Game Font Forensics](https://int10h.org/blog/2024/02/game-font-forensics/)
         * Comparing fonts on the Apple2 and IBM-PC
         * [IBM VGA 8x16](https://int10h.org/oldschool-pc-fonts/fontlist/font?ibm_vga_8x16#-)
+* Bitmap Fonts
+    * [Bitmap fonts—a technology overview](https://home.octetfont.com/blog/2026-07-02/bitmap-fonts.html)
+    * Old 8x8 fonts have
+        * > no concept of strikes, name, encodings, fancy typography, or anything like that. Just a bunch of bytes in ROM
+    * So how do we do italics and bold with bitmaps?! Wow!
 * TrueType (only black and white flat)
     * Rendering
         * [Writing a TrueType font renderer](https://axleos.com/writing-a-truetype-font-renderer/)

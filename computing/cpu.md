@@ -21,6 +21,9 @@ CPU
     * 32-bit memory management and protected mode
     * Intel's magnum opus that changed desktop computing
 
+* [Unicorn](https://www.unicorn-engine.org/) is a lightweight multi-platform, multi-architecture CPU emulator framework.
+    * > Multi-architectures: ARM, ARM64 (ARMv8), m68k, MIPS, PowerPC, RISC-V, S390x (SystemZ), SPARC, TriCore & x86 (include x86_64).
+
 Pentium - Branch prediction
 
 * [Does a compiler use all x86 instructions?](http://pepijndevos.nl/2016/08/24/x86-instruction-distribution.html)

@@ -1,6 +1,8 @@
 BioInformatics
 ==============
 
+* [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home) 2026
+
 https://www.interactive-biosoftware.com/alamut-visual/video-tutorials/
 https://varsome.com/variant/hg19/chr13-32937506-G-C
 
