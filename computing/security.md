@@ -203,6 +203,8 @@ Case Studies
 
 Cautionary tails of actual hacks
 
+* [I Could've Rickrolled the Entire FIFA World Cup. All I Needed Was My ID.](https://bobdahacker.com/blog/fifa-hack) 2026
+    * Every broadcast feed
 * [Hackers Break Into Thousands of Security Cameras, Exposing Tesla, Jails, Hospitals](https://www.bnnbloomberg.ca/hackers-break-into-thousands-of-security-cameras-exposing-tesla-jails-hospitals-1.1574681)
 * [What Is A Coder's Worst Nightmare?](https://www.forbes.com/sites/quora/2014/12/05/what-is-a-coders-worst-nightmare/)
     * Poisoned compiler

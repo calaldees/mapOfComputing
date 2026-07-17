@@ -359,6 +359,11 @@ Celebrities
 * [Charlie Marsh](https://www.crmarsh.com/)
 
 
+Implementation
+--------------
+
+* [What `for x in y` hides from you](https://fromscratchcode.com/blog/what-for-x-in-y-hides-from-you/)
+    * What a Python `for` loop is really doing once you stop hand-waving.
 
 [python-typing]: python-typing.md "Python Typing"
 [styleguide]: styleguide.md "StyleGuide"

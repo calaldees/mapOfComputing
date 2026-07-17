@@ -53,7 +53,7 @@ Online
 Are code problems _real_ problems?
 https://news.ycombinator.com/item?id=27313883
 > LeetCode is an excellent collection of problems you’ll never encounter in real life. If you don’t have a computer science background you might learn some things. Otherwise, it’s just solving silly problems for the sake of solving silly problems.
-> It reminds me of when my college required linear algebra for my degree. Learning things that I knew without a shadow of a doubt I would never put to use again. 
+> It reminds me of when my college required [[linear-algebra]] for my degree. Learning things that I knew without a shadow of a doubt I would never put to use again.
 They are a good training ground, but should not be the be-all and end-all
 
 

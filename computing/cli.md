@@ -7,6 +7,7 @@ CLI Command Line Interface
 
 * [Command Line Interface Guidelines](https://clig.dev/)
     * Beautiful description of conventions of CLI
+    * It's a _conversion_ with the user
 
 * [Ink](https://github.com/vadimdemedes/ink) -  React for interactive command-line apps
 

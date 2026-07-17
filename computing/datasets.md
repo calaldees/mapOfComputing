@@ -148,6 +148,7 @@ Space
     * [This New 10 Terapixel Image of the Night Sky Contains 1 Billion Galaxies](https://kottke.org/21/02/10-terapixel-image-of-the-night-sky)
         * [viewer](https://viewer.legacysurvey.org/#IC%202442)
 * Satelite orbits? - plot in 3d?
+    * https://satellitemap.space/
     * [app.keeptrack.space](https://app.keeptrack.space/)
     * [orbit viewer](http://stuffin.space/)
     * [Orbit Dataset](https://www.ucsusa.org/resources/satellite-database)

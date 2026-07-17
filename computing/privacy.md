@@ -317,6 +317,8 @@ Censorship
 
 * [Viva la revolución: LinkedIn profile visitor lists belong to the people, says Noyb](https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338)
 
+* [Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled, Documented in FBI Case Filing](https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/)
+
 [wei]: wei.md "Web Environment Integrity (WEI)"
 [c2pa]: c2pa.md "Coalition for Content Provenance and Authenticity (C2PA)"
 [cookies]: cookies.md "Cookies"

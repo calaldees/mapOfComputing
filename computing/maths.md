@@ -8,8 +8,7 @@ Maths
 
 * [[statistics]]
 * [[prime-numbers]]
-* [galois_theory](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
-    * Number space translation
+* [[linear-algebra]]
 
 * [Linear_Programming_-_Ice_Cream_Blending](https://bitsavers.org/pdf/ibm/generalInfo/E20-0156-0_Linear_Programming_-_Ice_Cream_Blending.pdf)
     * 1970? IBM document about ice cream yields
@@ -24,7 +23,7 @@ Maths
     * > An Infinitely Large Napkin is a light and mostly self-contained introduction to higher math, roughly ranging from the undergraduate syllabus to first-year graduate topics. The Napkin provides a general bird’s-eye views of main ideas of fields and what makes them cool or interesting. It’s less detailed than a real textbook but more precise than pop-math books and assumes proof experience.
 * [The Fast Track](https://sheafification.com/the-fast-track/)
     * > In order to accelerate the development of prospective mathematical scientists, we have selected a series of textbooks one can study to reach expertise in mathematics and physics in the most efficient manner possible. Readers should aim to cover the stated curriculum in its entirety over the course of two to three years (but it will realistically take longer as you adapt to reading mathematics); it is comprehensive and essentially self-contained.
-    * Linear Algebra (Foundation!)
+    * [[linear-algebra]] (Foundation!)
     * Mechanics
     * Theory of Fields
 
@@ -36,18 +35,6 @@ Maths
     * It is possible to compute over encrypted data without access to the secret key: https://en.wikipedia.org/wiki/Homomorphic_encryption
     * It is possible to play poker by telephone in a trusted way which prevents cheating: http://math.stonybrook.edu/~scott/blair/How_play_poker.html
     * Closing roads can improve everyone’s commute time: https://mindyourdecisions.com/blog/2009/01/06/why-the-secret-to-speedier-highways-might-be-closing-some-roads-the-braess-paradox/#.U4Ksl_ldUud
-* [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila/index.html)
-    * Linear: having to do with lines, planes, etc.
-    * Algebra: solving equations involving unknowns.
-    * This text is roughly half computational and half conceptual in nature.
-    * Most engineering problems, no matter how complicated, can be reduced to linear algebra
-* [Introduction to Linear Algebra](https://www.freetext.org/Introduction_to_Linear_Algebra/)
-    * Vectors
-    * Matrices
-    * Linear Transformations
-    * Vector Spaces
-* [The Little Book of Linear Algebra](https://little-book-of.github.io/linear-algebra/books/en-US/lab.html)
-    * numpy examples
 * [Category Theory Illustrated](https://github.com/boris-marinov/category-theory-illustrated)
     * Beautiful web/book illustrating mathematical and computing set constructs and terminology.
     * [Category THeory Illustrated: sets](https://abuseofnotation.github.io/category-theory-illustrated/01_set/)
@@ -75,7 +62,6 @@ Maths
     * Face detection
     * 2D transforms (rotation) -> camera in 3d space
     * Minimum spanning tree
-* [linear-algebra](https://betterexplained.com/articles/linear-algebra-guide/)
 * [Visual calculus](https://en.wikipedia.org/wiki/Visual_calculus)
     * Visual representations of areas of triangles to visualise calculus
 * [Dave's Short Course on Complex Numbers](https://www2.clarku.edu/faculty/djoyce/complex/)
@@ -85,7 +71,7 @@ Maths
     * Real and Abstract Analysis
     * Calculus of One and Many Variables
     * Calculus of Real and Complex Variables
-    * Elementary Linear Algebra
+    * Elementary [[linear-algebra]]
     * Engineering Math
     * Linear Algebra And Analysis
     * Linear Algebra, Theory And Applications
@@ -202,3 +188,4 @@ Practical
 
 
 [maths-circle]: maths-circle.md "maths-circle"
+[linear-algebra]: linear-algebra.md "Linear Algebra"
