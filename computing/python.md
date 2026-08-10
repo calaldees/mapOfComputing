@@ -1,6 +1,7 @@
 python3
 =======
 
+* [Clean Code Python](https://github.com/zedr/clean-code-python) [[python]]
 * Side quest [[python-typing]]
 
 * [python-cheatsheet](https://gto76.github.io/python-cheatsheet/) - best one I've seen
@@ -375,3 +376,4 @@ Implementation
 
 
 [performance-profileing]: performance-profileing.md "Performance Profiling"
+[python]: python.md "python3"

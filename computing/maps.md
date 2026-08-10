@@ -4,6 +4,8 @@ Maps
 * [[gis]]
 
 Links to working with map data
+* [castlemap](https://thecastlemap.com/)
+    * All the castles/fortress's on the planet
 * [openinframap.org](https://openinframap.org/)
     * Power infra for the planet! Power plants and cables!
     * Gas, Oil, Water (resovwars!)

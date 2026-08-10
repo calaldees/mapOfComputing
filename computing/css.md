@@ -32,6 +32,7 @@ CSS
     * Modern CSS tips for simple and powerful effects
 * [CSS Tricks - guides](https://css-tricks.com/guides/)
 * [Centring in CSS](https://web.dev/centering-in-css/)
+    * [we finally learned to center a div, then browsers added sidebars](https://seg6.space/posts/center-div/) 2026
 * [NES.css](https://nostalgic-css.github.io/NES.css/)
 * [WebTUI](https://webtui.ironclad.sh/)
     * WebTUI is a modular CSS library that brings the beauty of Terminal UIs to the browser 

@@ -15,6 +15,9 @@ https://16colo.rs/
 * [Explaining Code using ASCII Art](https://blog.regehr.org/archives/1653)
     * see [[diagrams]]
 
+* [Making ASCII art in Vim](https://alexyang.dev/vim-ascii-art/) 2026
+* [ascdraw](https://github.com/exlee/ascdraw)
+    * Keyboard-driven drawing editor for ASCII/UTF-8 diagrams
 * [Box-drawing characters](https://en.wikipedia.org/wiki/Box-drawing_characters)
 
 * [chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century

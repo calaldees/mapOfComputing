@@ -7,3 +7,5 @@ Single instruction, multiple data
     * Xeon process's have some serious shit
 * [Intel® Intrinsics Guide](https://www.intel.com/content/www/us/en/docs/intrinsics-guide/index.html)
     * C hints to use specific instructions
+* [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
+    * Advice on how to structure SIMD code

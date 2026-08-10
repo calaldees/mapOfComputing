@@ -1,6 +1,9 @@
 Binary
 ======
 
+* See also
+    * [[ternary]]
+
 Big Endian
 Little Endian
 
@@ -18,8 +21,4 @@ Unsinged
 * [Struct](https://docs.python.org/3/library/struct.html)
 
 
-Ternary
--------
-
-* [Tunguska](http://tunguska.sourceforge.net/about.html) - a ternary computer emulator
-* [How to pack ternary numbers in 8-bit bytes](https://compilade.net/blog/ternary-packing) with efficient SIMD-friendly unpacking
+[ternary]: ternary.md "Ternary"

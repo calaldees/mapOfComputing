@@ -145,6 +145,8 @@ Fonts
 * Animated Fonts
     * [Introducing Kermit: A typeface for kids](https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/)
         * Using design to empower children by making reading easier, improving comprehension, and helping dyslexics.
+* AI Resistant fonts!
+    * [decoy-font](https://www.mixfont.com/experiments/decoy-font)
 
 
 Security with fonts

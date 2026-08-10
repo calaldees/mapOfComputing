@@ -62,7 +62,8 @@ Creativity Visulisation
 * [Atari Video Music (Model C240)](https://en.wikipedia.org/wiki/Atari_Video_Music)
     * the earliest commercial electronic music visualizer released. released in 1977
     * The system creates an animated visual display that responds to musical input from a Hi-Fi stereo system
-
+* [User Interfaces of the Demo Scene](https://www.datagubbe.se/scenegui/) Exploring the tools of the trade
+    * Because demoscene tool users were not mainstream average people; these were different tools with different principles
 https://www.flipcode.com/archives/articles.shtml
 
 * [[digital-art]]

@@ -212,7 +212,8 @@ Simple things that are actually hard
 * [How Unix Spell Ran in 64kB RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram)
     * > How do you fit a 250kB dictionary in 64kB of RAM and still perform fast lookups? For reference, even with modern compression techniques like gzip -9, you can't compress this file below 85kB.
     * > For fast lookups, he initially used a [[bloom-filters]] perhaps one of its first production uses.
-
+    * > When the dictionary grew to 30,000 words, the Bloom filter approach became impractical, leading to innovative hash compression techniques.
+    * > They computed that 27-bit hash codes would keep collision probability acceptably low, but needed compression.
 
 
 

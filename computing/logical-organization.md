@@ -9,6 +9,10 @@ Logical Organization
 * [Build an 8-bit computer from scratch](https://eater.net/8bit/)
     * > I built a programmable 8-bit computer from scratch on breadboards using only simple logic gates. I documented the whole project in a series of YouTube videos and on this web site. Watch this video for an introduction:
 
+* [Computers That Never Were](https://hackaday.com/2017/10/13/computers-that-never-were/)
+    * Little Man Computer (only 10 instructions)
+    * TUTAC, BLUE, MIX, CARDIAC
+
 * YouTube Playlist: [Processors Are Awesome – Superscalar 8-Bit CPU #1](https://www.youtube.com/watch?v=bwjMLyBU4RU&list=PLyR4neQXqQo5nPdEiMbaEJxWiy_UuyNN4&index=2)
     * Playlist: Mammoth 50 videos (and rising). Many of them 45min.
     * Building an 8bit cpu from scratch

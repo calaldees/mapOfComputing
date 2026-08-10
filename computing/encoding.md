@@ -6,7 +6,9 @@ Data Encoding
     * [Base45](https://datatracker.ietf.org/doc/draft-faltstrom-base45/)
     * [Why did base64 win against uuencode?](https://retrocomputing.stackexchange.com/questions/3019/why-did-base64-win-against-uuencode)
 * [Encoding and Decoding Base64 Strings in Python](https://stackabuse.com/encoding-and-decoding-base64-strings-in-python/)
-
+* [Decoding the obfuscated bash script on a Uniqlo t-shirt (sherliker.net)](https://news.ycombinator.com/item?id=48829312)
+    * Cool [[bash]] script encoded on a tshirt
+    * [YouTube: Creator of the tshirt](https://youtu.be/jocGLiecpjU?t=526) [Difficult to OCR](https://youtu.be/jocGLiecpjU?t=750)
 
 * [On Endianness](https://technicalsourcery.net/posts/on-endianness/) #endiann
     * Big Endian Advantages
@@ -26,3 +28,5 @@ Data Encoding
 Data Space
 [What 3 Words](https://what3words.com/) - Entire planet in 3m squares
 See hashing too
+
+[bash]: bash.md "bash"
