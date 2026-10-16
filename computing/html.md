@@ -3,6 +3,10 @@
 * See also
     * [[htmx]]
 
+* [HTML Can Do that](https://chrisburnell.com/html-can-do-that/)
+    * Things HTML can now do that  javascript has been doing for years.
+* [Just fucking use HTML](https://justfuckingusehtml.com/)
+    * [React Is Fucking Cool, You Dumbass](https://reactisfuckingcool.com/)
 * [Write HTML Right](http://lofi.limo/blog/write-html-right)
     * You've been writing html wrong your whole life
     * You dont need all those closing tags

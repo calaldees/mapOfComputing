@@ -167,6 +167,11 @@ Other
 
 * [Byproduct - Music from Demoparties 2023](https://byproductmusic.com/music/mixtape/Music_from_demoparties_2023/Byproduct_-_Music_from_demoparties_2023.txt) Mixtape
 
+* IBM 5150 - 8088MPH
+    * [8088 MPH Demo on Original Hardware](https://www.youtube.com/watch?v=YwU3dc96Ot4) IMPOSSIBLE: 1,024 Colors on an IBM 5160 CGA
+    * [8088 MPH by Hornet + CRTC + DESiRE on IBM 5155](https://www.youtube.com/watch?v=Be-HePjHwPk)
+    * [8088 MPH - The Soundtrack, Now in Glorious Polyphony!](https://www.youtube.com/watch?v=l6s7Ts1nZG4)
+        * NoRoads
 
 [digital-art]: digital-art.md "Digital Art"
 [typography]: typography.md "Typography"

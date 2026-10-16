@@ -61,6 +61,8 @@ Turn based Survival
         2. change your perspective
     * > Scope small, and try your best with the resources you have access to. Enjoy the process. Make little things you're proud of. That should be enough. 
 
+* [Prince Chazz](https://princechazz.com/)
+    * Chess rougelike, move as a queen
 
 [functional]: functional.md "Functional Programming"
 [ux]: ux.md "ux - User Experience"

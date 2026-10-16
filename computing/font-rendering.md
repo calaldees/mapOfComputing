@@ -1,6 +1,11 @@
 Font Rendering
 ====
 
+* alphapixeldev: [SDF vs MSDF vs Slug vs Rive vs Texture Atlas: GPU Text Rendering Explained](https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/) 2026
+    * Patent for _Slug_ GPU font rendering was made to public in 2026 and implemented by Slughorn [[c++]]
+    * Rather than rending the whole font to 64x64 textures and interpolating
+    * Per horizontal scan line - take only the curves that cross that scanline - count the intersections line-crossing algorithm.
+    * Great for hardware motion graphics
 
 * [Font Rendering from First Principles](https://mccloskeybr.com/articles/font_rendering.html) 2026
 * [The strangely difficult problem of drawing a box around text](https://blog.battlefy.com/the-strangely-difficult-problem-of-drawing-a-box-around-text-e6a70bdf6bb9)
@@ -17,3 +22,5 @@ Font Rendering
 * [Rendering Crispy Text On The GPU](https://osor.io/text) Rasterisation
     * The mother document! This breakdown is AMAZING!
     * [HN Comments](https://news.ycombinator.com/item?id=44265233)
+
+[c++]: c%2B%2B.md "c++"

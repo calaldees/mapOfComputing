@@ -1,6 +1,10 @@
 Sin
 ===
 
+* [Turns are Better than Radians](https://www.computerenhance.com/p/turns-are-better-than-radians)
+    * Switching away from radians makes code simpler, faster, and more precise.
+    * All the maths libs just convert radians to 0..1 anyway - waste of a multiply and divide
+
 * [Bhaskara I's sine approximation formula](https://en.wikipedia.org/wiki/Bhaskara_I%27s_sine_approximation_formula)
     * https://twitter.com/KilledByAPixel/status/1668498488408014850
         * > Today I learned about an approximation for sine discovered by Bhaskara in 600 CE. I am using it to fix tiny discrepancies with Math.sin in different browsers. Here's my code... #javascript #math #generativeart 

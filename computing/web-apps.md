@@ -5,6 +5,10 @@ Web Apps
     * Amazing breakdown of page performance! With suggestions
 
 
+* [AI-native React components for modern websites](https://vorpus.github.io/performativeUI/#/)
+    * Some cool showoff stuff - ascii hero - text rotators - logo marques 
+    * The shit you see on big budget corporate websites
+
 Single Page WebApps
 -------------------
 

@@ -9,6 +9,8 @@ Open Source
 * [The challenge of maintaining curl](https://lwn.net/Articles/1034966/)
     * Volunteers overloaded with work request for they do for free because big companies rely on their software
 
+* [Communication on European Tech Sovereignty, accompanied by an EU Open Source Strategy](https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy)
+
 * [“Free Software”: An idea whose time has passed](https://r0ml.medium.com/free-software-an-idea-whose-time-has-passed-6570c1d8218a)
     * Types
         * Public software - The idea of public software was software that anybody could freely use
@@ -70,6 +72,34 @@ Beyond Software
 
 
 * [The NO FAKES Act has a "Fingerprinting" Trap that kills Open Source. We need to lobby for a Safe Harbor.](https://old.reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/)
+
+---
+
+* [Malleable software](https://www.inkandswitch.com/essay/malleable-software/) Restoring user agency in a world of locked-down apps
+    * Motivation - We want to adapt our environments
+        * In the physical world, the act of crafting our environments comes naturally, because physical reality is malleable.
+    * Mass-produced software is too rigid
+        * we’re also losing something important: the ability to adapt our environments and make them our own.
+    * Computerizing work led to a loss of agency.
+    * When different users have different needs, a centralized development team can’t possibly address everyone’s problems.
+    * the tools and infrastructure we use to deploy software treat users as passive recipients rather than active co-creators.
+    * Our goal: malleable software
+    * a software ecosystem where anyone can adapt their tools to their needs with minimal friction.
+    * By “software ecosystem”, we mean the broad technical and cultural environment surrounding software and its users. Malleability isn’t a narrow technical problem.
+    * By “anyone”, we mean that broad accessibility is the goal. And while individual self-sufficiency is useful to cultivate, cooperating with local community is also valuable.
+    * When we say “adapting tools” we include a whole range of customizations, from making small tweaks to existing software, to deep renovations, to creating new tools that work well in coordination with existing ones. Adaptation doesn’t imply starting over from scratch.
+    * Finally, “minimal friction” is key. Editing our tools should be fast. It should feel light. At best, it should be something we can do in the moment when a need arises, so we can get back to the task at hand.
+    * A gentle slope from user to creator
+    * each incremental increase in tailoring power should only require a small incremental investment of learning and skill.
+    * each customization could be done with the simplest technique possible, leaving full programming only as a last resort when absolutely needed.
+    * Tools, not apps
+        * Apps are avocado slicers (they can only do one thing - slice an avocado)
+    * Sharing data between tools
+    * When each application manages its own data, introducing a new tool into a workflow incurs more friction.
+    * you can edit the same file in different tools that focus on different subtasks
+    * Different collaborators can also use their preferred tools
+    * realtime collaboration over shared data enables different people to work live in different tools
+
 
 [solutions]: solutions.md "Solutions"
 [software-licences]: software-licences.md "Software Licences"

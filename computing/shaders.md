@@ -1,6 +1,9 @@
 Shaders
 =======
 
+* [Your First Shader from ZERO in Godot 4](https://www.gdquest.com/library/first_shader_godot4_portal/)
+    * Neat guide from scratch
+
 * [An introduction to Shader Art Coding](https://www.youtube.com/watch?v=f4s1h2YETNY) YouTube 22min kishimisu
     * vectors, swizzling, global constants - this video has it all
 * [shader-school](https://github.com/stackgl/shader-school) GitHub

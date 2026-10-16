@@ -8,12 +8,18 @@ Terminal
 
 * [[bash]]
 
+* [everything you ever wanted to know about terminals](https://xn--rpa.cc/irl/term.html)
+  * > so here's a short tutorial on ansi escape codes and terminal control, because you philistines won't stop using ncurses and oh my god WHY ARE WE STILL USING NCURSES IT IS THE TWENTY FIRST FUCKING CENTURY
+  * > accessing most of these capabilities is actually extremely simple; they can even be hardcoded into a text file and displayed by `cat` or `less`. or even `curl`! the way you do this is with something called ANSI escape sequences.
+  * > almost all UI changes in a terminal are accomplished through in-band signalling. these signals are triggered with the ASCII/UTF-8 character ‹ESC› (0x1B or 27)
 * [Terminal colours are tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)
   * Getting colors correct in terminals is tricky
 * [Terminals should generate the 256-color palette ](https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783)
   * Terminals normally only use 16 colors or TrueColor (wow), but if we could have something in-between? great writeup of use cases and compatibility
 * [ANSI Escape Codes](https://ansi.tools/) previewed in browser
   * cursor up, cursor down
+* [Print Colors in Python terminal](https://www.geeksforgeeks.org/python/print-colors-python-terminal/)
+
 
 Terminal
 --------
@@ -37,7 +43,7 @@ Do not use the default terminal on any system. This will hinder your productivit
 * OSX
   * [iTerm2](https://www.iterm2.com/)
 
-automation - dont copy and paste manually.
+automation - don't copy and paste manually.
   - get me a list of all the files in the structure
   - now compress them and put them on a webserver
 
@@ -48,13 +54,15 @@ Shells
   * cmd
   * powershell
     * [PSKoans](https://github.com/vexx32/PSKoans) -  A simple, fun, and interactive way to learn the PowerShell language through Pester [[automated-testing]]
-  * wsl (bash)
+  * wsl ([[bash]])
 * Linux
   * [Alternative-Shells](https://github.com/oilshell/oil/wiki/Alternative-Shells)
   * sh
   * [[bash]] (5+)
     * (see the bash page for loads of cool tricks/examples for productive developers)
   * zsh
+  * [NuShell](https://www.nushell.sh/)
+  * [FishShell](https://fishshell.com/)
 
 
 Startup Environment

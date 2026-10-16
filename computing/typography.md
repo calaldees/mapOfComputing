@@ -84,6 +84,9 @@ Fonts
     * Old 8x8 fonts have
         * > no concept of strikes, name, encodings, fancy typography, or anything like that. Just a bunch of bytes in ROM
     * So how do we do italics and bold with bitmaps?! Wow!
+    * [A few interesting modern pixel fonts](https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/)
+        * [ANALOG MONO](https://gleeson.itch.io/analog-mono)
+            * Recommended Font Size: 20px
 * TrueType (only black and white flat)
     * Rendering
         * [Writing a TrueType font renderer](https://axleos.com/writing-a-truetype-font-renderer/)
@@ -126,6 +129,11 @@ Fonts
         * > I always wanted to create a font out of my handwritten letters and in this small tutorial I will show you the way I have done it with the help of FontForge, Inkscape and GIMP.
     * [calligrapher.ai](https://www.calligrapher.ai/)
         * AI generated handwriting
+    * [bastardica](https://bastardica.mitpit.com/)
+        * Troll font - make fonts amalgamated from other fonts
+        * Fonts have dynamic processing properties passed to them!!!
+    * [A font that reads what you wrote](https://rohanadwankar.github.io/posts/semfont.html)
+        * > semfont is a small library that sets typography automatically. As you can see below it automatically highlights, colors, bolds, and italicizes text which aims to make it easier to read.
 * Exotic
     * [Nabla: Isometric font](https://nabla.typearture.com/)
     * [Teranoptia](https://www.tunera.xyz/fonts/teranoptia/)
@@ -168,7 +176,8 @@ Font Use
 ========
 
 * [The Best Google Font Pairings for 2025](https://www.leadpages.com/blog/best-google-fonts)
-
+* [ Fonts in Use ](https://fontsinuse.com/)
+    * An independent archive of typography.
 
 Physical Typography
 ===================

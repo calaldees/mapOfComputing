@@ -18,6 +18,8 @@ what is emulation?
 
 * [RetroArch 1.9.13 – Automatic Frame Delay](https://www.libretro.com/index.php/retroarch-1-9-13-automatic-frame-delay/)
 
+* [DOSBox 3dFX PIII emulation](https://nyaa.sh/reviews/mac-mini-m6-emulation)
+    * Single core
 
 
 [[windows3]]

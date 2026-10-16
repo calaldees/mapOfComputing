@@ -6,6 +6,12 @@ History of Graphics
     * [[graphics-hardware]], Abstraction
     * [[assembly]] and [[cpu]]
 
+* [Video Essays by Dimitris Katsafouros](https://www.youtube.com/playlist?list=PLLh6XXBlLyX4LTLKe4cbNQKE7dZ9V5YBi)
+    * 4 Episodes of 45min documentaries
+
+* [List of vintage Japanese pixel/dot art software](https://blog.gingerbeardman.com/2023/10/21/list-of-vintage-japanese-pixel-dot-art-software/)
+    * Japan had a parallel universe of sprites
+
 * [[graphics-evolution]]
 * [[cga]]
 * [RECOIL - Retro Computer Image Library](https://recoil.sourceforge.net/)

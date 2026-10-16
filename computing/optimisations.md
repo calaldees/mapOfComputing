@@ -14,6 +14,14 @@ Web
     * What is a fast website? #perceived-performance
 
 
+Cloud
+-----
+
+* [How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
+    * [[cloud-computing]]
+    * [[dns]]
+
+
 [[languages]]
 -------------
 
@@ -37,4 +45,5 @@ Web
 [performance-profileing]: performance-profileing.md "Performance Profiling"
 [tcp]: tcp.md "TCP"
 [languages]: languages.md "Languages"
-
+[cloud-computing]: cloud-computing.md "Cloud Computing"
+[dns]: dns.md "DNS"

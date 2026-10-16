@@ -28,8 +28,8 @@ Ideas
 
 ---
 
+* [[papercraft]]
 * [graphwords.com](https://graphwords.com/) graph thesaurus
-* [Fold n Fly - Paper aeroplane designs](https://www.foldnfly.com/) #papercraft
 * [A4 duplex - Grids/Patterns/Templates/Calligraphy/Hex](https://incompetech.com/graphpaper/)
 * [Everyday Uses for PVC Water Pipe](https://tomtilley.net/projects/pvc/)
     * Marshmallow launcher
@@ -54,6 +54,8 @@ Ideas
 * [WHAT THE HELL ARE PPL DOING?](https://humans.maxcomperatore.com/)
     * Estimate how many people are doing activities (sleeping, etc)
 
+* [Penplotter holography](https://blog.jordan.matelsky.com/Penplotter-holography/)
+    * Making 3d shapes from reflections!? with off the shelf tech
 
 * [onemillionscreenshots](https://onemillionscreenshots.com/)
     * Of millions of webpages, scrollable
@@ -73,4 +75,4 @@ Ideas
 
 
 [art]: art.md "Art"
-
+[papercraft]: papercraft.md "Papercraft"

@@ -5,6 +5,8 @@ Algorithms
 
 * MIT Open Courseware [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) 2020 #MITOpenCourseWare
 
+* [Competitive Programmers Handbook](https://cses.fi/book/book.pdf) (2018) pdf 296 pages
+
 * [Wikipedia: List of algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
     * Hundreds of important computer science algorithms
     * Of note

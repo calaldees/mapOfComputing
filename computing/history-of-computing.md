@@ -8,6 +8,15 @@ History of Computing
 * [[history-of-operating-systems]]
 * [[logical-organization]]
 
+* [The Early Days: A History of Interactive Computing](https://obsolescence.dev/interactive-computing-history.html)
+    * How computing escaped batch processing, and became personal. Telling the story through the machines that made it happen.
+
+* [Computer Lessons](https://technicshistory.com/2026/06/06/computer-lessons/) 70's and 80's computer education
+    * > computer literacy is becoming a necessary tool as our Nation and the world moves into a new era of high technology… the ability to incorporate basic computer literacy into the skills of our young people could be the difference between a generation of occupational misfits or a rapid growth in productivity at all skill levels of our economy.
+
+* [Programmers at Work](https://www.programmersatwork.net/the-book) Susan Lammers 2026 40th Anniversary Edition
+    * > 19 notable programmers of the PC era. Highlighting the forces, events, and personalities that shaped their work, they also describe how to approach software design in constraint driven environments, the art and science of coding, and how they envisioned the future of computing. 
+
 * [A Brief History of Computers in General, and the Personal Computer in Particular](http://www.quadibloc.com/comp/histint.htm)
 
 * [Computer Hobby Cananada 1960?1970?](https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada)
@@ -57,10 +66,7 @@ History of Computing
 
 * [Let's Not Dumb Down the History of Computer Science](https://cacm.acm.org/opinion/articles/250078-lets-not-dumb-down-the-history-of-computer-science/fulltext) By Donald E. [[knuth]], Len Shuste 2021
 
-* [PAPERCRAFT MODELS](http://rockybergen.com/papercraft) #papercraft
-    * Construct the computer from your childhood or build an entire computer museum at home with these paper models, free to download and share
-    * Print, Cut, Score, Fold and Glue
-* [Highly Detailed Collectibles and Handcrafted Miniature Scale Models - of Vintage Computers](https://www.miniatua.com/)
+* [[papercraft]]
 
 * [Tiny PDP11](http://spritesmods.com/?art=minipdp11&page=1) emulator on ESP32
 * [PDP-11 Booting](https://trmm.net/PDP-11/Booting/)
@@ -157,6 +163,10 @@ Historically hard computing problems
     * [[compression-image]]
 
 
+* [Top 10 Web Design Styles of 1993 (Vernacular Web 3)](https://contemporary-home-computing.org/prof-dr-style/)
+    * UI professor that talks about the foundations of the early internet from 1993
+    * [[GUI]] [[design-visual]]
+
 [people]: people.md "People"
 [history-of-the-internet]: history-of-the-internet.md "History of the Internet"
 [hypercard]: hypercard.md "hypercard"
@@ -170,3 +180,6 @@ Historically hard computing problems
 
 
 [compression-image]: compression-image.md "Compression Image"
+[papercraft]: papercraft.md "Papercraft"
+[GUI]: GUI.md "Graphical User Interfaces"
+[design-visual]: design-visual.md "Design: Visual"

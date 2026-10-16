@@ -1,6 +1,8 @@
 Logical Organization
 ====================
 
+* [NAND-16](https://somethingbig.ai/computer)
+    * Entire browser based 3D computer that you can zoom in on all the components and see the AND gates!!!
 * [circuit-artist](https://github.com/lets-all-be-stupid-forever/circuit-artist)
     * Pixel animation of circuits. Looks great!
 * [](https://www.nandgame.com/)
@@ -113,6 +115,7 @@ TODO:
 * [A Crash Course in Modern Hardware](https://www.infoq.com/presentations/click-crash-course-modern-hardware/) Cliff Click 2009 1hour video
     * > discusses the Von Neumann architecture, CISC vs RISC, the rise of multicore, Instruction-Level Parallelism (ILP), pipelining, out-of-order dispatch, static vs dynamic ILP, performance impact of cache misses, memory performance, memory vs CPU caching, examples of memory/CPU cache interaction, and tips for improving performance
 
+* [Running DOOM on our Custom CPU and Going Viral](https://armaangomes.com/blogs/doom/)
 
 [bus]: bus.md "Bus"
 [transistor]: transistor.md "Transistor"

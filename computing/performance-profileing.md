@@ -7,6 +7,9 @@ Performance Profiling
     * https://roman.pt/posts/python-performance-profiling/
     * Pyspy live https://www.youtube.com/watch?v=p8s2fzqA07s
 
+* [Benchmark In Milliseconds](https://matklad.github.io/2026/10/05/benchmark-milliseconds.html)
+    * Prefer milliseconds - humans can work with this
+
 * Instrumentation
     * TODO define
 

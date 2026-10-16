@@ -1,6 +1,17 @@
 AI Code Agents
 ==============
 
+* [ponytail](https://ponytail.dev/) ruleset
+    * > A ruleset that makes your AI coding agent write the least code that works — like a senior dev who's been paged at 3am one too many times.
+    1. Does this need to exist? Speculative need = skip it. (YAGNI)
+    2. Already in this codebase? Reuse the helper, util, or pattern that already lives here.
+    3. Does the standard library do it? Use it.
+    4. Native platform feature covers it? `<input type="date">` over a picker lib.
+    5. Already-installed dependency solves it? Use it. Don't add a new one.
+    6. Can it be one line? One line.
+    7. Only then: the minimum code that works.
+
+
 * [Im going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/)
     * 'by hand' means no AI
 
@@ -24,6 +35,9 @@ AI Code Agents
     * > they are fully useful and safe only if you know what you are doing and are able to check and (re)direct what they might be doing — or have been doing unbeknownst to you. You can trust them if you can trust yourself.
     * > And in this case, the gain in productivity is undeniable; at certain tasks it is easily 10X-100X in my opinion, like when you have to document the code, write unit tests, perform (not too complex) refactorings, write error messages, generate and capture exceptions, check the code for consistent and correct behaviour, code textbook or standard logic/algorithms/data structures, write a ton of boilerplate code, produce idiomatic source code… then rinse and repeat all of the above dozens of times…
 
+
+* AI Assisted [Recompilation project for the game "Ogre Battle 64: Person of Lordly Caliber"](https://github.com/lfarroco/ogre-battle-64-recomp)
+    * Took the N64 bytecode and makes a compilable (`c`?) equivalent that uses native graphics hooks
 
 
 [ai-local]: ai-local.md "AI Local"

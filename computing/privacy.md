@@ -112,6 +112,7 @@ Facial Recognition
     * Facial fingerprint - find social media profiles with your face
     * Assess emotion at interview
 * [Live Facial Recognition](https://www.met.police.uk/advice/advice-and-information/fr/facial-recognition) MET Police UK 2022
+* [UK Underground Facial Recondition](https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/)
 
 
 GeoTaging Images
@@ -306,6 +307,9 @@ Censorship
 
 * [The Deviancy Signal: Having “Nothing to Hide” is a Threat to Us All](https://thompson2026.com/blog/deviancy-signal/)
 
+* [The UK’s War on Anonymity Has Come to America](https://www.effort.news/uk-lobby) 2026
+    * The NGOs Behind Britain's Digital ID Laws are Targeting American Statehouses
+
 * [wifi-3d-fusion](https://github.com/MaliosDark/wifi-3d-fusion)
     * View skeletons of people in building from passive monitoring of wi-fi signals
 * [BFId: Identity Inference Attacks Utilizing Beamforming Feedback Information](https://dl.acm.org/doi/10.1145/3719027.3765062)
@@ -318,6 +322,16 @@ Censorship
 * [Viva la revolución: LinkedIn profile visitor lists belong to the people, says Noyb](https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338)
 
 * [Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled, Documented in FBI Case Filing](https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/)
+
+* [I'm Building a Secure USB Drive That Hides Itself](https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/) 2026
+
+* Signal: [Surveillance Is Not Safety: A statement on the UK's latest threat to privacy](https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf)
+
+* [Websites have a new way to spy on visitors: Analyzing their SSD activity](https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/)
+    * Telltale SSD activity can be measured in the browser using simple JavaScript.
+
+
+* [Hackers Had A Live Feed Of Every ID This Verification Company Scanned. For Over A Year. ](https://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/) - from the age-verification-is-another-phrase-for-privacy-breach dept 2026
 
 [wei]: wei.md "Web Environment Integrity (WEI)"
 [c2pa]: c2pa.md "Coalition for Content Provenance and Authenticity (C2PA)"

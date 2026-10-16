@@ -3,6 +3,28 @@ Software Engineering
 
 * [Ask HN: What are some great engineering blogs?](https://news.ycombinator.com/item?id=29237308) Nov 2021
 
+* Infrastructure Engineer: [A Staff Engineer's Guide to Inventing Work](https://sujithjay.com/inventing-work) 2026
+    * Signals the System emits
+        * Crash
+        * Cost
+        * Developer Toil
+    * Signals the User Emit
+        * Continuous discovery is having an ongoing conversation with your users
+        * Overloaded Use-cases
+            * users press them into service for use-cases they were never designed to serve. You should spend time to understand why users would rather use your platform to solve their problem instead of alternatives (if any),
+        * Partner-to-Prototype
+            * Overloaded use-cases are discovered after the fact. Partner-to-prototype is the same thing arranged deliberately:
+    * Signals the Org Emits
+        * OKR's
+        * The Manager-Repetition Heuristic
+            * if you hear your manager (or their manager, or further up) talk about something twice in a week, there is likely an unaddressed concern behind it.
+        * Migration Debris
+    * Signals the Industry Emits
+        * Descriptive Writing Leads to Prescriptive Writing
+            * come up with ideas is to describe existing systems (for your peers, for users, for new hires; you pick your audience). 
+        * Lag Is Your Arbitrage
+            * reasoning behind the industry’s convergence and the evidence for it - public postmortems, migration successes, comparative benchmarks, other companies’ abandoned positions, etc. You get the evidence without paying to generate it,
+
 * [[Agile]]
 * [[CV]]
     * related? [[tech_unions]]?

@@ -11,7 +11,9 @@ All URL's are URI's
 IRI: https://example.com/café/東京 (URIs with unicode)
 
 * [URLs: It's complicated...](https://www.netmeister.org/blog/urls.html)
-
+* w3.org [Cool URIs don't change](https://www.w3.org/Provider/Style/URI)
+    * Your URI's are a public interface
+    * They should not reflect your transient filesystem organisation
 
 * [publicsuffix.org](https://publicsuffix.org/) Public Suffix List
 

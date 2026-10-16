@@ -15,6 +15,11 @@ Time on computers is hard and #complex
     * > human-made structures have the ability to affect time. ... “NASA has calculated that the water stored in the Three Gorges Dam in China has increased the length of the day by 0.06 microseconds,”
     * > “The problem with leap seconds is everyone has a different way of implementing it. For Linux systems, which is what we use, as well as a large portion of the Internet, the day can only ever have 86,400 seconds.”
     * > five years prior, someone in the Linux community flagged a potential issue with its leap second implementation. A deadlock, or a computer freeze, could occur. To fix this, a single line of code was changed. A comment was left behind with this change to note one seemingly small caveat: “The only possible side effect of this removal might be that the timer fires one second too late after a leap second.’ Scarily, this side effect is what took down large portions of the Internet in 2012.
+* UTC will diverge from UT1 in 2027
+    * No more leap seconds in UTC!
+    *  [Resolution 5 of the 28th CGPM (2026)](https://www.bipm.org/en/cgpm-2026/resolution-5) - On the technical actions needed to ensure the continuity of UTC
+    * continuous UTC will become effective on 20 May 2027,
+    * the maximum value for the difference |UT1-UTC| will be 3 600 seconds (1 hour), ensuring the long term continuity for UTC for several centuries
 
 You've got 
 * the trip round the sun time - this is separate from the duration of a day - it's not an exact (integer division) number of days. - so we need leap years with an extra day.

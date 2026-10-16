@@ -7,6 +7,8 @@ Retro Hardware
 
 * [RetroFab](https://itizso.itch.io/retrofab) - Playable 3D simulations of vintage electronic games (in browser)
 
+* [The IBM PC, Part 1: Arrival](https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/)
+
 * [electronics to control a CRT monitor (aka a CRT chassis)](https://github.com/tdaede/td-crt)
 * [theretroweb.com](https://theretroweb.com/)
     * PC Hardware database + drivers

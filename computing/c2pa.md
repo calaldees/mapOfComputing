@@ -10,3 +10,13 @@ Coalition for Content Provenance and Authenticity (C2PA)
 
 * The big companies have been trying to do this for years
     * [Trusted Computing - Frequently Asked Questions](https://www.cl.cam.ac.uk/archive/rja14/tcpa-faq-1.0.html) 2002
+
+
+* [C2PA Cameras Do Not Survive Contact With Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html)
+    * Android and Hardware say they can conform to real photos - this post shows that root acquisition blows that
+
+Alternatives
+------------
+
+* [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/)
+    * Apple own the whole stack and the datacenter. They can have a database of all image fingerprints and they can be the certification authority on valid images.

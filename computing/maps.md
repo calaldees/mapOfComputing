@@ -3,6 +3,8 @@ Maps
 
 * [[gis]]
 
+* [Make Your First Edit to OpenStreetMap in the Next 15 Minutes](https://high5apps.github.io/josm-plugin-website-wizard/)
+
 Links to working with map data
 * [castlemap](https://thecastlemap.com/)
     * All the castles/fortress's on the planet

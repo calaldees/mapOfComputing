@@ -7,6 +7,7 @@ retro
 * [[retro-sound-chips]]
 * [[retro-storage]]
 * [[processors-retro]]
+* [[screen-savers]]
 
 * [Why we like retro](https://dfarq.homeip.net/why-we-like-retro/)
     * Nostalgia as a reason we like retro
@@ -15,9 +16,10 @@ retro
     * History as a reason we like retro
     * Retro as a throwback to a more exciting time
 
+
 [retro-coding]: retro-coding.md "Retro-coding"
 [retro-hardware]: retro-hardware.md "Retro Hardware"
 [retro-sound-chips]: retro-sound-chips.md "Retro Sound Chips"
 [retro-storage]: retro-storage.md "Retro Storage"
 [processors-retro]: processors-retro.md "Processors Retro"
-
+[screen-savers]: screen-savers.md "Screen Savers"

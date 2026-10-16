@@ -10,4 +10,7 @@ Retro-Graphics.md
 * [libresprite](https://libresprite.github.io/)
     * Open source modern pixel editor
 
+* [Catlantean 3D - Making Graphics Like It's 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/)
+    * My goal was to build a complete, shippable first-person shooter using techniques that were common in the early 90s, while allowing myself the luxury of using a modern compiler and a platform abstraction layer.
+
 [GUI]: GUI.md "Graphical User Interfaces"

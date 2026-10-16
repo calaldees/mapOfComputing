@@ -4,6 +4,9 @@ CSS
 * See also
     * wild [[css-terrain]]
 
+* [CSS Bed](https://www.cssbed.com/) (base styled html elements)
+    * This is a collection of classless css themes to use as starting points in web development.
+
 * [CSS: Unavoidable Bad Parts](https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html)
     * Commentary on which parts of the spec are difficult and cancerus
 
@@ -120,6 +123,9 @@ Async CSS and Font Swap - [The Fastest Google Fonts](https://csswizardry.com/202
 * [An end to typographic widows on the web](https://clagnut.com/blog/2424)     
     * `text-wrap:balance;` so that lines balance each other in length - for headings
 
+
+* [ CSS-native parallax effect](https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/)
+    * No need for JS scroll position
 
 [css-terrain]: css-terrain.md "CSS Terrain"
 [ui]: UI.md "UI - User Interfaces"

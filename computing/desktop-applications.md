@@ -7,6 +7,7 @@ Electron
 From 2013? people started not bothering with native GUI's on desktop OS's. They wrote for "The Browser" and each application contained a whole chrome web browser. This eas bloted.
 e.g. Slack/VSCode/Discord.
 * [Microsoft is Finally Ditching Electron](https://blog.devgenius.io/microsoft-is-finally-ditching-electron-9e081757f9db) for MSTeams
+* [Windows 11's built-in Weather app wastes more than 1 GB of RAM](https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html)
 
 * [The Persistent Gravity of Cross Platform](https://allenpike.com/2021/gravity-of-cross-platform-apps)
    * Native Desktop/Mobile - argued better exerpeince

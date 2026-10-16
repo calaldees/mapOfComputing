@@ -9,3 +9,6 @@ Single instruction, multiple data
     * C hints to use specific instructions
 * [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd)
     * Advice on how to structure SIMD code
+* [SIMD in the 90s: Programming Intel's Pentium MMX](https://pikuma.com/blog/programming-intel-pentium-mmx-simd)
+* [Fearless SIMD v1.0 is here](https://linebender.org/blog/fearless-simd-1-0/)
+    * A `c` Abstraction for SIMD instructions to be multiplatform!!! AMAZING!

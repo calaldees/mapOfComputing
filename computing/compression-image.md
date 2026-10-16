@@ -26,6 +26,10 @@ Image Compression
 * [Journey to JPEG XL: How open source experiments shaped the future of image coding ](https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html) 2026
     * Interesting - they used new encoders to get 20% better compression with the established decoders
     * Perceptual output comparisons/optimisations
+* [The case against JPEG XL](https://giannirosato.com/blog/post/case-against-jxl/)
+    * Investigating JPEG XL's place as a Web image codec
+    * AVIF does it better, so perhaps jpegxl's time has come to an end
+
 
 ### AVIF
 * [Web developer's guide to AVIF images](https://darekkay.com/blog/avif-images/) #avif
@@ -38,6 +42,11 @@ Historic
     * Plugins/integrations for Windows, Linux(Gnome)  for previewing know retro image formats
     * [Rediscovering Compuserve RLE Graphics](http://brutmanlabs.org/RLE/RLE_Graphics.html) black and white format from 1987
 
+
+Custom
+------
+
+* [Compressing a flag to 11 bits](https://read.vantezzen.io/miniflags)
 
 ---
 

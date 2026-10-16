@@ -147,6 +147,8 @@ Not really computer related, but immensely creative
 * https://opensourcelowtech.org/
     * Physical thing with open plans
 
+* [OpenAim](https://openaim.pramit.gg/) -  Aim trainer that systematically improves mouse coordination and control. 
+
 [demoscene]: demoscene.md "Demoscene"
 [digital-art]: digital-art.md "Digital Art"
 [ascii-art]: ascii-art.md "ascii-art"

@@ -204,7 +204,7 @@ Learning Resources and Simulators
     * [Introduction to the world of FILIUS](https://www.lernsoftware-filius.de/downloads/Introduction_Filius.pdf) 2015 english translation
 
 * [Open-Source Routing and Network Simulation](https://www.brianlinkletter.com/open-source-network-simulators/)
-    * A guy that updates and reviews a lits of network simulators used for education
+    * A guy that updates and reviews a lists of network simulators used for education
     * https://www.brianlinkletter.com/2023/02/network-emulators-and-network-simulators-2023/
     * https://www.brianlinkletter.com/2023/03/network-simulators-for-high-school-teachers/
 
@@ -259,6 +259,8 @@ HELLO protocol?
 ### Distance Vector
 signposts (not whole map)
 BGP (Border gateway protocol - big internet stuff) runs over TCP
+* RPIK [RPKI Now Protects 70% of Internet Routes, Up From 54% a Year Ago](https://ipinfo.io/blog/rpki-protects-70-internet-routes) 2026
+    * > RPKI (Resource Public Key Infrastructure) lets the holder of a block of IP addresses publish a signed record, a Route Origin Authorization (ROA), naming the networks (Autonomous Systems, or ASes) allowed to announce it. Network operators that check RPKI compare announcements against those records and can reject the ones that fail.
 RIP (runs over [[udp]])
 GIGRP
 
@@ -301,6 +303,9 @@ Distributed
 
 * [[distributed-filesystems]]
 
+* https://en.wikipedia.org/wiki/Meshtastic
+    * LoRa radio that is disconnected from public infra
+    * https://meshtastic.org/docs/community/local-groups/
 
 Location Services
 -----------------

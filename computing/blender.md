@@ -6,5 +6,6 @@ Blender
     * [#greasepencil](https://twitter.com/dedouze_/status/1328425326905528321)
 
 
-* [Export Paper Model Addon](https://blender-addons.org/export-paper-model-addon/) #papercraft
-    * [Retro Computer Papercraft Models](http://rockybergen.com/papercraft)
+* [[papercraft]]
+
+[papercraft]: papercraft.md "Papercraft"

@@ -1,6 +1,8 @@
 Volumetric Display
 ==================
 
+* [Whatever Became of Holography?](https://www.americanscientist.org/article/whatever-became-of-holography)
+
 * https://github.com/AncientJames/multivox?tab=readme-ov-file
     * https://youtu.be/pcAEqbYwixU?si=coC53nkR2O6v1QwN&t=987
     These are the two most frequent comments on this video.

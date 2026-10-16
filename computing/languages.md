@@ -91,6 +91,9 @@ Implementation comparisons
 * [[erlang]]
 * [[elm]]
 * [[scheme]]
+* [[visual-basic]]
+* ocaml
+    * [Learn Programming with OCaml](https://usr.lmf.cnrs.fr/lpo/)
 * #ClojureScript
 * Ember
     * [Ember Documentary](https://www.youtube.com/watch?v=Cvz-9ccflKQ) 27min
@@ -262,3 +265,4 @@ Performance
 
 
 [scheme]: scheme.md "Scheme"
+[visual-basic]: visual-basic.md "Visual Basic"

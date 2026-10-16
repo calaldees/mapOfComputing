@@ -148,6 +148,7 @@ Space
     * [This New 10 Terapixel Image of the Night Sky Contains 1 Billion Galaxies](https://kottke.org/21/02/10-terapixel-image-of-the-night-sky)
         * [viewer](https://viewer.legacysurvey.org/#IC%202442)
 * Satelite orbits? - plot in 3d?
+    * https://space.bl2.net/
     * https://satellitemap.space/
     * [app.keeptrack.space](https://app.keeptrack.space/)
     * [orbit viewer](http://stuffin.space/)
@@ -186,8 +187,20 @@ Unsorted
     * Some dude used stellite images to estimate the power output of all us solar farms
 
 * [National Grid: Live](https://grid.iamkate.com/)
-    * The National Grid is the electric power transmission network for Great Britain 
+    * The National Grid is the electric power transmission network for Great Britain
 
+* [Stowaway](https://stowaway.live/)
+    * First person views from airplanes
+    * Using satellite imagery for clouds and photos of terrain
+
+* [BusLens](https://rupertlinacre.com/buslens/)
+    * OMG! Bus routes near you on a map! Super useful!
+* https://moviescenemap.com/
+
+* [Map of the world's great castles & fortresses](https://thecastlemap.com/)
+
+* [Aerial Photographs 1947](https://www.toronto.ca/city-government/accountability-operations-customer-service/access-city-information-or-records/city-of-toronto-archives/whats-online/maps/aerial-photographs/aerial-photographs-1947/)
+    * Toronto
 
 [data]: data.md "Data"
 [api]: api.md "API"

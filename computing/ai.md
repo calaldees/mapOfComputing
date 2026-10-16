@@ -14,6 +14,11 @@ AI (Artificial Intelligence)
 * [[mcp]]
 * [[prompt-engineering]]
 * [[agi]]
+* [[transformer]]
+
+* [The turbulent AI era is here. The choices we make now are critical.](https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make) Bill Gates Aug 2026
+
+* [AI is removing the middle class of software engineering](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html) 2026
 
 * [soulplayer-c64](https://github.com/gizmo64k/soulplayer-c64)
     * AI Agent running on a real C64
@@ -381,3 +386,4 @@ Unsorted
 [typography]: typography.md "Typography"
 
 [retro-hardware]: retro-hardware.md "Retro Hardware"
+[transformer]: transformer.md "Transformer"

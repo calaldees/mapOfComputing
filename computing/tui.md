@@ -11,7 +11,9 @@ tui - Text UI
 * [Tek](https://codeberg.org/unspeaker/tek) an audio [[daw]] in terminal
 
 * [Building a TUI is easy now](https://hatchet.run/blog/tuis-are-easy-now)
-    
+
+
+* [slumber](https://slumber.lucaspickering.me/) TUI for REST services
 
 
 

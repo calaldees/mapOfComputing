@@ -6,10 +6,16 @@ BioInformatics
 https://www.interactive-biosoftware.com/alamut-visual/video-tutorials/
 https://varsome.com/variant/hg19/chr13-32937506-G-C
 
+* [Cells, Chromosomes, and Genomes](https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/)
+    * > This Guide is written specifically by and for computer scientists and engineers. The underlying biology in cancer genomics can be exceedingly complex and requires years of study. Making the content palatable requires drawing abstractions around these concepts. This guide should be treated as an introduction to the domain that teaches our audience the material in a "broad-strokes" fashion.
+
 * [Rosalind](http://rosalind.info/) - learning bioinformatics and programming through problem solving
     * [Transcribing DNA into RNA](http://rosalind.info/problems/rna/)
     * [Semiglobal Alignment](http://rosalind.info/problems/smgb/)
 * [Sequencing your DNA with a USB dongle and open source code](https://stackoverflow.blog/2021/12/24/sequencing-your-dna-with-a-usb-dongle-and-open-source-code/)
+* [rosalind - aligner?](https://github.com/logannye/rosalind)
+    * > Build deterministic genomics analyses that fit the machine—and prove exactly what ran.
+
 
 see [history](./historyOfComputing.md)
 

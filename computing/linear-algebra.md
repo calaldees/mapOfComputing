@@ -1,6 +1,8 @@
 Linear Algebra
 ==============
 
+* [Coding the Matrix](https://codingthematrix.com/) - Linear Algebra Through Computer Science Applications
+* [Linear Algebra Done Right](https://linear.axler.net/) Sheldon Axler - 4th Edition - 2026
 * [linear-algebra](https://betterexplained.com/articles/linear-algebra-guide/)
 * [Immersive linear algebra](https://immersivemath.com/ila/)
     * Animated 3d representations to aid understanding
