@@ -41,7 +41,7 @@ Have you're dev environment reproducible and accessible anywhere
         * (Has a paid-for school class system for projects/sumbissions/annotations/feedback $1000 per year per school)
     * [CodeHS](https://codehs.com/) - Code Highschool
         * Computer science classroom in a box - lessons, courses, videos, management system, online browser ide, submission
-    * [trinket.io](https://trinket.io/)
+    * [coddy.tech](https://coddy.tech/playground) - python (with turtle), html/css/js, sql, java, c++ and more - no account, share as link or embed
     * [sharepad.io](https://www.sharepad.io/) - python, java, c, c++ - live share + link share
     * [SmallBASIC](https://SmallBASIC.com/) [live](https://superbasic-v2.azurewebsites.net/) - Microsoft
     * [create.withcode.uk](https://create.withcode.uk/) - python
