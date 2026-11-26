@@ -106,7 +106,7 @@ https://developers.google.com/search/docs/data-types/dataset
 * Planning permission (UK)
     * [Scraping 241 UK council planning portals – 2.6M decisions so far](https://news.ycombinator.com/item?id=47931470)
 
-[Senate Stock Watcher](https://senatestockwatcher.com/) US Senators invest in socks. Before CoVid 19 many senators sold stocks in travel/touisum and invested in medical supplies while telling the US population 'not to worry'. Senetors report their stocks with paper written notes. It takes multiple weeks to process them and they can be incorrect/misinterpreted as handwriting can be hard to read.
+[Congress stock tracker](https://alphayou.net/politicians) (replaces Senate Stock Watcher, offline since 2025) US Senators invest in socks. Before CoVid 19 many senators sold stocks in travel/touisum and invested in medical supplies while telling the US population 'not to worry'. Senetors report their stocks with paper written notes. It takes multiple weeks to process them and they can be incorrect/misinterpreted as handwriting can be hard to read.
 
 * [UK Fuel Price Intelligence](https://www.fuelinsight.co.uk/)
 * [US jobs visualisation](https://karpathy.ai/jobs/)
